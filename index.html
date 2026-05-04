@@ -383,7 +383,7 @@
 </div>
 
 <script>
-const SK='vkp_mom_v1';
+// All data is stored in GitHub only (no localStorage)
 let M=[],cid=null,ast=null,sf='all',CH={};
 
 // GitHub Configuration
@@ -394,30 +394,33 @@ const GITHUB_REPO = {
   file: 'meetings.json'
 };
 
-// Load data - Try GitHub first, fallback to localStorage
+// Load data - Only from GitHub
 async function ld() {
   try {
     const url = `https://raw.githubusercontent.com/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/${GITHUB_REPO.branch}/${GITHUB_REPO.file}?t=${Date.now()}`;
     const res = await fetch(url);
     if (res.ok) {
       M = await res.json();
-      localStorage.setItem(SK, JSON.stringify(M));
       console.log('✓ Loaded from GitHub:', M.length, 'meetings');
       return;
+    } else {
+      throw new Error(`GitHub returned status ${res.status}`);
     }
   } catch (e) {
-    console.warn('GitHub load failed:', e.message);
+    console.error('GitHub load failed:', e.message);
+    alert('⚠️ Failed to load data from GitHub. Please check your internet connection and try again.');
+    M = [];
   }
-  // Fallback to localStorage
-  try { M = JSON.parse(localStorage.getItem(SK) || '[]'); } catch(e) { M = []; }
 }
 
-// Save to localStorage AND GitHub
+// Save to GitHub only
 function sv2() {
-  localStorage.setItem(SK, JSON.stringify(M));
-  // Auto-push to GitHub if token is set
-  if (localStorage.getItem('gh_token')) {
+  // Push to GitHub if token is set
+  const token = localStorage.getItem('gh_token');
+  if (token) {
     pushToGitHub();
+  } else {
+    alert('⚠️ GitHub token not set. Please configure in Profile → GitHub Settings');
   }
 }
 
@@ -491,10 +494,10 @@ function gid(){return 'm'+Date.now()+'_'+Math.random().toString(36).slice(2,5)}
 
 /* ── SECTION: STORAGE ───────────────────────────────────────────── */
 const Storage = {
-  getAll() { try { return JSON.parse(localStorage.getItem(SK)||'[]'); } catch { return []; } },
-  saveAll(data) { localStorage.setItem(SK, JSON.stringify(data)); M = data; },
-  getMeta() { try { return JSON.parse(localStorage.getItem(SK+'_meta')||'{}'); } catch { return {}; } },
-  saveMeta(meta) { localStorage.setItem(SK+'_meta', JSON.stringify(meta)); }
+  getAll() { return M; },
+  saveAll(data) { M = data; pushToGitHub(); },
+  getMeta() { return {}; },
+  saveMeta(meta) { /* No longer storing metadata */ }
 };
 
 /* ── SECTION: HASHING ───────────────────────────────────────────── */
