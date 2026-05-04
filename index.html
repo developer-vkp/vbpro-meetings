@@ -429,6 +429,7 @@ async function loadConfig() {
     const res = await fetch(configUrl, { cache: 'no-cache' });
 
     if (!res.ok) {
+      tt('Config not found on GitHub. Please set token in GitHub Settings.');
       return false;
     }
 
@@ -439,19 +440,26 @@ async function loadConfig() {
         // Token is encrypted (base64)
         DECRYPTED_TOKEN = simpleDecrypt(config.github.token);
         if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
+          tt('✓ Token loaded from GitHub');
           return true;
+        } else {
+          tt('⚠️ Token decryption failed. Please set token in GitHub Settings.');
+          return false;
         }
       } else if (config.github.token.encrypted) {
         // Old format - decrypt from data
         DECRYPTED_TOKEN = simpleDecrypt(config.github.token.data);
         if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
+          tt('✓ Token loaded from GitHub');
           return true;
         }
       }
     }
 
+    tt('⚠️ No token in config. Please set token in GitHub Settings.');
     return false;
   } catch (e) {
+    tt('⚠️ Failed to load config: ' + e.message);
     return false;
   }
 }
