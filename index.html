@@ -3477,6 +3477,9 @@ async function deleteUser(userId) {
 
     // If deleted user is currently logged in, auto-logout
     if (deleted && deleted.email === currentEmail) {
+      localStorage.removeItem('isLoggedIn');
+      localStorage.removeItem('userName');
+      localStorage.removeItem('userEmail');
       document.getElementById('userModal').classList.remove('show');
       document.querySelectorAll('.vw').forEach(v => v.classList.remove('active'));
       document.getElementById('vlogin').classList.add('active');
@@ -3517,7 +3520,10 @@ function handleLogout(event) {
   event.preventDefault();
   document.getElementById('profileDropdown').classList.remove('show');
 
-  // Clear login state (session-based, no localStorage to remove)
+  // Clear login state from localStorage
+  localStorage.removeItem('isLoggedIn');
+  localStorage.removeItem('userName');
+  localStorage.removeItem('userEmail');
 
   // Hide all views
   document.querySelectorAll('.vw').forEach(v => v.classList.remove('active'));
@@ -3572,7 +3578,12 @@ function doLogin(name, email) {
   const errorDiv = document.getElementById('loginError');
   errorDiv.classList.remove('show');
 
-  // Update user info (session-based only, no localStorage)
+  // Save login state to localStorage
+  localStorage.setItem('isLoggedIn', 'true');
+  localStorage.setItem('userName', name);
+  localStorage.setItem('userEmail', email);
+
+  // Update user info
   document.getElementById('userName').textContent = name;
   document.getElementById('userEmail').textContent = email;
 
@@ -3586,11 +3597,26 @@ function doLogin(name, email) {
   tt('Welcome back, ' + name + '!');
 }
 
-// No auto-login - user must login each session (no localStorage)
+// Check if user is logged in on page load
 window.addEventListener('DOMContentLoaded', function() {
-  // Always show login page on page load
-  document.getElementById('vlogin').classList.add('active');
-  document.querySelector('.ah').style.display = 'none';
+  const isLoggedIn = localStorage.getItem('isLoggedIn');
+
+  if (isLoggedIn === 'true') {
+    // User is logged in - restore user info and show main app
+    const userName = localStorage.getItem('userName');
+    const userEmail = localStorage.getItem('userEmail');
+
+    if (userName) document.getElementById('userName').textContent = userName;
+    if (userEmail) document.getElementById('userEmail').textContent = userEmail;
+
+    // Show main app
+    document.getElementById('vlogin').classList.remove('active');
+    document.querySelector('.ah').style.display = 'flex';
+  } else {
+    // User is not logged in - show login page
+    document.getElementById('vlogin').classList.add('active');
+    document.querySelector('.ah').style.display = 'none';
+  }
 });
 
 </script>
