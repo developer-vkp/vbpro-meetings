@@ -431,7 +431,19 @@ async function ld() {
     } else if (res.status === 403) {
       const errorData = await res.json();
       if (errorData.message && errorData.message.includes('rate limit')) {
-        alert('⚠️ GitHub API rate limit exceeded. Please set your GitHub token in Profile → GitHub Settings to continue.');
+        // Try fallback to raw.githubusercontent.com (different rate limit)
+        try {
+          const rawUrl = `https://raw.githubusercontent.com/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/${GITHUB_REPO.branch}/${GITHUB_REPO.file}?t=${Date.now()}`;
+          const rawRes = await fetch(rawUrl, { cache: 'no-cache' });
+          if (rawRes.ok) {
+            M = await rawRes.json();
+            tt('⚠️ Using fallback mode due to API rate limit. Set GitHub token for full access.');
+            return;
+          }
+        } catch (fallbackError) {
+          // Fallback also failed
+        }
+        alert('⚠️ GitHub API rate limit exceeded.\n\nPlease set your GitHub token in Profile → GitHub Settings.\n\nRate limit resets in ~60 minutes.');
       } else {
         alert('⚠️ Access denied. Please check your GitHub token in Profile → GitHub Settings.');
       }
