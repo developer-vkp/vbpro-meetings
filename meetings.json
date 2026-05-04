@@ -1,24 +1,1880 @@
 [
   {
-    "id": "m1777887788777_p62",
-    "date": "2026-05-04",
+    "id": "imp_1777615062465_0",
+    "date": "2026-04-20",
     "day": "Monday",
-    "title": "",
+    "title": "Director Sir Follow-Up — Finance / Fee",
+    "campus": "Namakkal",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap1777615062466",
+        "type": "Immediate",
+        "text": "10 to 11 — Namakkal Campus, Rajesh Sir to check.\r\n39 strength, 24 continuing , 15 tc",
+        "priority": "Critical",
+        "status": "Done",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": true,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_1",
+    "date": "2026-04-21",
+    "day": "Tuesday",
+    "title": "Director Sir Follow-Up — Marketing / Admission",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap1777615062467",
+        "type": "Immediate",
+        "text": "Zoom meeting with Cashiers — check Marketing Team admission drop-out.",
+        "priority": "Critical",
+        "status": "Done",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": true,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_2",
+    "date": "2026-04-23",
+    "day": "Thursday",
+    "title": "Director Sir Follow-Up — Finance / Fee",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap1777615062468",
+        "type": "Immediate",
+        "text": "Letter to Process Owners & Zonal Head regarding Fee Follow-Up.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_3",
+    "date": "2026-04-24",
+    "day": "Friday",
+    "title": "Director Sir Follow-Up — Academics",
+    "campus": "All School",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1777615062469",
+        "type": "Immediate",
+        "text": "Grade 12 Practical Schedule — check with students\r\n3 schools pending, tvis, kumbakonam, dindgul.",
+        "priority": "Medium",
+        "status": "Done",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": true,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062470",
+        "type": "Immediate",
+        "text": "April Bridge Course attendance & drop-out count in new admissions; old students discontinue reason.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062471",
+        "type": "Immediate",
+        "text": "27 Grade 10 TC — confirm with Cashier.\r\n\r\n30 tc, confirmed with cashier, 2  topper tc",
+        "priority": "High",
+        "status": "Done",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": true,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062472",
+        "type": "Immediate",
+        "text": "Day-by-day attendance — Class Teacher to sign; Cashier to check avg absentees for Grade 11.\r\nSakthivel sir met director sir & explained",
+        "priority": "High",
+        "status": "Done",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": true,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062473",
+        "type": "Immediate",
+        "text": "Principal to submit reason why IIT & NEET students did not attend Bridge Course.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062474",
+        "type": "Immediate",
+        "text": "All admitted students 10th marks (old & new) with reason why not in IIT & NEET; identify & track Top 75 students in 10th; previous year CAT & VISTO performance.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062475",
+        "type": "Immediate",
+        "text": "IIT / NEET topper students — check whether special materials have been given.",
+        "priority": "High",
+        "status": "Done",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": true,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062476",
+        "type": "Long-term",
+        "text": "Brain Storming Program — contact for 183 students regarding IIT & NEET; Hari Narayana Sir to talk to Foundation topper students Grade 9 & 10.",
+        "priority": "Medium",
+        "status": "Done",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": true,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062477",
+        "type": "Long-term",
+        "text": "Grade 8 to 9 — Top 20 students parent discussion to be done regarding Foundation.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_4",
+    "date": "2026-04-24",
+    "day": "Friday",
+    "title": "Director Sir Follow-Up — Admin",
+    "campus": "Tondiarpet",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap1777615062478",
+        "type": "Immediate",
+        "text": "9 merit students (not admitted) scholarship follow-up; Foundation Maths staff replacement; Grade 9–12 divide between Mentors; Grade 10 interact with Doctor-parent.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062479",
+        "type": "Long-term",
+        "text": "After Foundation staff replacement — follow-up call from Central Office whether they are happy with Maths.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_5",
+    "date": "2026-04-24",
+    "day": "Friday",
+    "title": "Director Sir Follow-Up — Competition",
+    "campus": "All Campus",
+    "category": "Competition",
+    "actionPoints": [
+      {
+        "id": "ap1777615062480",
+        "type": "Immediate",
+        "text": "Randomly interact with Parents & Students in the next review.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_6",
+    "date": "2026-04-24",
+    "day": "Friday",
+    "title": "Director Sir Follow-Up — IIT / NEET",
+    "campus": "Kallakurichi",
+    "category": "IIT / NEET",
+    "actionPoints": [
+      {
+        "id": "ap1777615062481",
+        "type": "Immediate",
+        "text": "Selvanaygi Mam to conduct IIT Senior Staff Meeting along with VBC Ponneri Staff.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_7",
+    "date": "2026-04-25",
+    "day": "Saturday",
+    "title": "Director Sir Follow-Up — Academics",
     "campus": "All Campus",
     "category": "Academics",
     "actionPoints": [
       {
-        "id": "ap1",
+        "id": "ap1777615062482",
         "type": "Immediate",
-        "text": "",
+        "text": "1st Unit — Top 3 from CBSE, Commerce & Class X: scores, support needed, parent feedback from Central Office.",
+        "priority": "Critical",
+        "status": "In Progress",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062483",
+        "type": "Immediate",
+        "text": "Set B — Sr. Staff / R&D Staff: immediately needed school list; schedule till portion completion (before evening); confirm till September — start from Monday.",
+        "priority": "High",
+        "status": "Deferred",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062484",
+        "type": "Immediate",
+        "text": "Class X & XII targeted students — 1st Unit performance (X: 56, XII: 50 — 3 slots, 2×15 students); support needed to achieve 490+; Principal: Class X & XII analysis meeting — MOM required.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062485",
+        "type": "Immediate",
+        "text": "Concept Clarity Feedback — Class X & XII: 3 students in CBSE & Commerce; 3 teacher interaction for Top / Avg / SL.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062486",
+        "type": "Immediate",
+        "text": "Class X pass mark revision (27 marks now) — how to plan; Lavanya Mam to share points.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062487",
+        "type": "Immediate",
+        "text": "Principal to fill Practical completion details; IIT NEET top students whether attended Practicals — same for Avg & Above Avg.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062488",
+        "type": "Immediate",
+        "text": "Schedule from Alagar Sir (weekly) — Bodhi Ponneri Staff to support.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062489",
+        "type": "Long-term",
+        "text": "Principal — 100 Days Program status check; any subject-specific sessions happening.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062490",
+        "type": "Long-term",
+        "text": "CBSE Exam Plan for IIT/NEET students from Sr. Principal Sir's Office; Question Paper Print — Saravanan Sir.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_8",
+    "date": "2026-04-27",
+    "day": "Saturday",
+    "title": "Director Sir Follow-Up — Competition",
+    "campus": "All Campus",
+    "category": "Competition",
+    "actionPoints": [
+      {
+        "id": "ap1777615062491",
+        "type": "Immediate",
+        "text": "Competition Ownership: Zonal Heads to note the responsible person for each of the 11 competitions.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062492",
+        "type": "Immediate",
+        "text": "Student List: Submit competition-wise student list using available students; do not wait for new admissions.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062493",
+        "type": "Immediate",
+        "text": "Resource Persons: Identify internal or external experts for each competition.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062494",
+        "type": "Immediate",
+        "text": "Teacher Responsibility: Assign a specific teacher for each competition; avoid unclear or shared roles.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062495",
+        "type": "Immediate",
+        "text": "Zonal Student Interaction: Conduct 20-minute online meetings to motivate students, explain competition requirements, and identify support needs.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062496",
+        "type": "Immediate",
+        "text": "Local Competition Data: Provide last year’s participation count and current year’s planned competitions.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062497",
+        "type": "Immediate",
+        "text": "Sports Strategy: Appoint a strong sports resource person and develop a cluster-level winning strategy.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062498",
+        "type": "Immediate",
+        "text": "Internal Review (8-Point Plan): Zonal teams to prepare an 8-point internal report (ownership, student list, training, resources, etc.) for zonal use only; ready for Director’s review with accurate data.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062499",
+        "type": "Immediate",
+        "text": "Local Competition Data: Submit last year’s participation count and this year’s planned",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062500",
+        "type": "Long-term",
+        "text": "Training Plan (April–May): Plan online sessions and ensure student engagement during holidays.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_9",
+    "date": "2026-04-27",
+    "day": "Saturday",
+    "title": "Director Sir Follow-Up — ECA",
+    "campus": "All Campus",
+    "category": "ECA",
+    "actionPoints": [
+      {
+        "id": "ap1777615062501",
+        "type": "Immediate",
+        "text": "Ensure ECA from Day One: Assign teachers/resource persons from day one and ensure continuous ECA activity. Staff Planning & Attendance: Pre-plan ECA staffing and ensure 100% attendance and accountability of all ECA staff.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062502",
+        "type": "Immediate",
+        "text": "Quality Execution: address past feedback issues& for each ECA activity with full staff responsibility for outcomes.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062503",
+        "type": "Long-term",
+        "text": "Monitoring & Review: Zonal Heads to regularly monitor ECA execution and ensure consistent quality across schools.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062504",
+        "type": "Long-term",
+        "text": "Parent Satisfaction & Retention: Use ECA to build parent confidence from the start through visible student outcomes.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062505",
+        "type": "Long-term",
+        "text": "Outcome-Oriented Approach: Long-term (ongoing)—focused on sustained results, performances, and achievements over time",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_10",
+    "date": "2026-04-27",
+    "day": "Saturday",
+    "title": "Director Sir Follow-Up — Marketing / Admission",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap1777615062506",
+        "type": "Immediate",
+        "text": "Grade 11 rejected list : Marketing team to submit principal-rejected admissions list to the central office.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062507",
+        "type": "Immediate",
+        "text": "Low-score student admissions: requires approval at the time of admission",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062508",
+        "type": "Immediate",
+        "text": "Dropouts and pending payments",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062509",
+        "type": "Long-term",
+        "text": "Focus on hostel occupancy vs capacity planning",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062510",
+        "type": "Immediate",
+        "text": "Namakkal transport concerns immediately",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_11",
+    "date": "2026-04-27",
+    "day": "Saturday",
+    "title": "Director Sir Follow-Up — Admin",
+    "campus": "Namakkal",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap1777615062511",
+        "type": "Immediate",
+        "text": "Re- asses fee structure to improve enrollment\r\n60+ Average fee concession",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062512",
+        "type": "Immediate",
+        "text": "Admission Target\r\n Grade 9 – 70/Grade 11 – 125 /LT -  150",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062513",
+        "type": "Immediate",
+        "text": "Transport Optimization – Rajesh sir and Ao\r\nInfrastructure Fix (Restrooms) -  Admin",
+        "priority": "High",
+        "status": "In Progress",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062514",
+        "type": "Immediate",
+        "text": "Competitor Schools Fee Analysis(Neighbouring schools) - Principal",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062515",
+        "type": "Immediate",
+        "text": "NEET 11th Target, IIT 11th Target \r\nLT Target - 150",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062516",
+        "type": "Immediate",
+        "text": "Math faculty  feedback - check - Sr. faculty\r\n\r\nIIT/NEET faculty meeting with Sr. Principal\r\n  \r\nIIT/NEET - Staff teaching quality-students/parents feed back",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062517",
+        "type": "Immediate",
+        "text": "Cashier behavior – Revathy mam to review \r\n& Hostel Infra – Rajesh sir & Revathy mam to review",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062518",
+        "type": "Immediate",
+        "text": "Foundation  Strength increase - to check   \r\n\r\ncurrent & upcoming strength comparison\r\n\r\nLower class strength  \r\n\r\nTC comparison of previous & current\r\n\r\nHostel, Class wise strength",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062519",
+        "type": "Immediate",
+        "text": "Bus route – Total and how many operated",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_12",
+    "date": "2026-04-28",
+    "day": "Tuesday",
+    "title": "Director Sir Follow-Up — Admin",
+    "campus": "Central Office",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap1777615062520",
+        "type": "Immediate",
+        "text": "Saravanan sir to align academics; validate with Director",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062521",
+        "type": "Immediate",
+        "text": "Finalize May: visits, meetings, training, workshops &   Senior Principal visits: July / Nov / April (Delta)",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062522",
+        "type": "Immediate",
+        "text": "Faculty transfer & elevation; Zonal review with Senior Principal",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062523",
+        "type": "Immediate",
+        "text": "June IIT/NEET meetings (2 staff/school + new staff) &   Review non-performing IIT/NEET staff; collect assurance",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062524",
+        "type": "Immediate",
+        "text": "July: merit scholarship presentation (VKP & Non-VKP)",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062525",
+        "type": "Immediate",
+        "text": "Exam plan & performance-based Zoom reviews",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062526",
+        "type": "Immediate",
+        "text": "Direct meetings: Erode, Pondicherry, Attur, Chidambaram",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062527",
+        "type": "Immediate",
+        "text": "Maximize foundation enrollment with focus on quality admissions",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062528",
+        "type": "Immediate",
+        "text": "R&D team to visit campus 5 times",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062529",
+        "type": "Immediate",
+        "text": "Appoint French ECA part-time faculty\r\n    Chitravati to discuss with bhivesh for improvement",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062530",
+        "type": "Long-term",
+        "text": "Sports ground facility – sand filling requested",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062531",
+        "type": "Immediate",
+        "text": "No of acos decreased, zonal head mam",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062532",
+        "type": "Immediate",
+        "text": "Merit students: coordinate govt. outreach with Prabhu",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062533",
+        "type": "Immediate",
+        "text": "Provide hostel concession to boost enrollment",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062534",
+        "type": "Immediate",
+        "text": "Increase senior program enrollment (Target: 30 | 24 old + 6 new)",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_13",
+    "date": "2026-04-30",
+    "day": "Thursday",
+    "title": "Director Sir Follow-Up — Admin",
+    "campus": "Marketing Team",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap1777615062535",
+        "type": "Immediate",
+        "text": "SCHOOLS- GRADE 11 REJECTION LIST FROM SCHOOLS\r\nFEE PAYMENT – PRINCIPAL;ZOOM MEETING WITH MARKETING TEAM",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062536",
+        "type": "Immediate",
+        "text": "ZONAL HEAD TO CALL ANY TWO PARENTS OF THE 7 NOT SATISFIED STUDENTS, MARK DISCONTINUED STUDENTS, AND COLLECT 10TH-GRADE MARKS OF ALL 7 STUDENTS.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062537",
+        "type": "Immediate",
+        "text": "IN SINGLE SHEET- ABSENTEES & DROPOUT\r\nRED INK SHOULD BE MARKED – HIGHER IN ABSENTEES & DROPOUT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062538",
+        "type": "Immediate",
+        "text": "30 TC STUDENT LIST- BOARD EXAM MARK IS REQUIRED",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062539",
+        "type": "Immediate",
+        "text": "TOP 50 STUDENTS GRADE 9TO 12 WITH STAFF",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062540",
+        "type": "Immediate",
+        "text": "ALAGAR SIR & SUDHA MAM – GRADE 11 ADMISSION",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062541",
+        "type": "Immediate",
+        "text": "GRADE 12- 100 DAYS PROGRAM, STUDENT SPECIFIC FEEDBACK TO COLLECT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062542",
+        "type": "Immediate",
+        "text": "ADDITIONAL ACO’S SHOULD BE REMOVED & SPORTS GROUND LEVELLING IS NEEDED",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062543",
+        "type": "Immediate",
+        "text": "NON TEACHING STAFF SHOULD BE REMOVED",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062544",
+        "type": "Immediate",
+        "text": "GRADE 9TH AND 10TH MATHEMATICS OLYMPIAD – GET STUDENT LIST, MEETING WITH DIRECTOR SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062545",
+        "type": "Immediate",
+        "text": "ZONAL HEAD MEETING REGARDING SENIOR STAFF SCHEDULE,NEET/IIT STUDENTS BOARD EXAM PLAN",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062546",
+        "type": "Immediate",
+        "text": "421 POINTS- REVIEW WITH DIRECTOR SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062547",
+        "type": "Long-term",
+        "text": "Foundation strength increase, 135 target, 59 only achieved - 25% alone enrolled",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062548",
+        "type": "Long-term",
+        "text": "June 1st week open day separately for toppers, slow learners and average",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062549",
+        "type": "Long-term",
+        "text": "2 600+ target, 4 govt selection, 1 IIT",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062550",
+        "type": "Long-term",
+        "text": "Grade 10, 480+ 1, 470+ 2",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062551",
+        "type": "Long-term",
+        "text": "New grade 11, board exam marks, 2 - 470+, 9 - 450+, 20- 400+",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062552",
+        "type": "Long-term",
+        "text": "For grade 9 and 11th & Lt merit students to work",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062553",
+        "type": "Immediate",
+        "text": "Grade 11, 74 admission, fee payment status",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062554",
+        "type": "Immediate",
+        "text": "Requirements: staff room, partition in corridor",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062555",
+        "type": "Immediate",
+        "text": "42 students board exam marks to collect",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062556",
+        "type": "Long-term",
+        "text": "Discipline meeting - 3 times with pet department,",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062557",
+        "type": "Long-term",
+        "text": "3 times direct meeting  staff , pet staff - divide students",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062558",
+        "type": "Long-term",
+        "text": "Director sir review with 35 staff in zoom periodically",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062559",
+        "type": "Long-term",
+        "text": "Hostel students feedback of last 2 days, in zoom meeting will be reviewied",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062560",
+        "type": "Long-term",
+        "text": ". Mentor system: 2 mentor to meet in zoom, feedback received.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062561",
+        "type": "Long-term",
+        "text": "Eca skill to conduct          Grade 10 class average to increase \r\n Every year class wise strength to increase( Grade 7- 60, grade 8- 80) like wise",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_14",
+    "date": "2026-04-30",
+    "day": "Thursday",
+    "title": "Director Sir Follow-Up — Competition",
+    "campus": "Ponneri",
+    "category": "Competition",
+    "actionPoints": [
+      {
+        "id": "ap1777615062562",
+        "type": "Immediate",
+        "text": "11 olympiad, target students list to collect",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777615062465_15",
+    "date": "2026-04-30",
+    "day": "Thursday",
+    "title": "Director Sir Follow-Up — Academics",
+    "campus": "Ponneri",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1777615062563",
+        "type": "Immediate",
+        "text": "Grade 10, last 50 board exam marks to central office",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062564",
+        "type": "Immediate",
+        "text": "Open day feedback: student communication, namelist to submit, action plan,3 times parents meeting",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062565",
+        "type": "Immediate",
+        "text": "Ology girls program - students list",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062566",
+        "type": "Long-term",
+        "text": "Foundation material fortnight review with the senior faculty.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777615062567",
+        "type": "Long-term",
+        "text": "6 to 10, cat / visto review, olympiad seperate review for bodhi ponneri\r\n12. Discipline meeting - 3 times with pet department, with last year experience allocate per responsible staff\r\n13. Eca skill to conduct \r\n14. Grade 10 class average to increase \r\n15. Every year class wise strength to increase( Grade 7- 60, grade 8- 80) like wise",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777615062465,
+    "modifiedAt": 1777615062465
+  },
+  {
+    "id": "imp_1777616339128_0",
+    "date": "2026-05-01",
+    "day": "Friday",
+    "title": "Daily - Accounts Review",
+    "campus": "All Campus",
+    "category": "Daily - Accounts Review",
+    "actionPoints": [
+      {
+        "id": "ap1777616339129",
+        "type": "Immediate",
+        "text": "[Daily Bank Statement & Reports] Daily EOD - All Bank Statements",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Jeya Priya Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339130",
+        "type": "Immediate",
+        "text": "[Fee Collection] Monthly projection / Weekly & Daily student-wise collection statement",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "Kamatchi Mam, Yesodha Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-04",
+            "text": "Rajesh sir zone - April May - Actual & pending ststus",
+            "addedAt": 1777875698259
+          },
+          {
+            "date": "2026-05-04",
+            "text": "Non VKP - 8 c collection pending",
+            "addedAt": 1777875915038
+          }
+        ]
+      },
+      {
+        "id": "ap1777616339131",
+        "type": "Immediate",
+        "text": "[Finance / Fee] Weekly Cashier Meeting with Process Owner",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Kamatchi Mam, Yesodha Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339132",
+        "type": "Immediate",
+        "text": "[Bank Payment] Yearly schedule as per sanction letter — daily follow-up — Email to bank / Monthly visit to bank — Periodic review of terms & conditions",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Jeya Priya Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339133",
+        "type": "Immediate",
+        "text": "[Statutory] Non-salary TDS & Salary TDS updated status",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Valarmathi Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339134",
+        "type": "Immediate",
+        "text": "[GST] Monthly meeting with consultant",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Rajalakshmi Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339135",
+        "type": "Immediate",
+        "text": "[Block-B Schools] Yearly / Monthly budget planning — Revenue increase points",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Valarmathi Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-01",
+            "text": "Monthly expenditure - is well study by the process owners - From May Block B expenditure of payouts to be presented - short fall budget to be given tomorrow - FC sir to update Block B short fall -",
+            "addedAt": 1777616462948
+          },
+          {
+            "date": "2026-05-01",
+            "text": "Accountants - shortfall budget / fee collection target to be given to accountants and process owners",
+            "addedAt": 1777616617095
+          },
+          {
+            "date": "2026-05-01",
+            "text": "Selvam sir - Projected collections to be justified by process owners",
+            "addedAt": 1777616629427
+          }
+        ]
+      },
+      {
+        "id": "ap1777616339136",
+        "type": "Immediate",
+        "text": "[Fee Audit] Yearly twice — 1 audit staff to be in Accounts Office; 1 page to be given from process owners every month on fee audit",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Rajalakshmi Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339137",
+        "type": "Immediate",
+        "text": "[Owner's Rent & Revenue] Annual calculation to be made — Monthly invoice to be received / GST point to be reviewed",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Yesodha Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-01",
+            "text": "OWNER HAS TO PAY GST, NO DUE LETTERS OWNERS TO SUBMIT",
+            "addedAt": 1777618533021
+          }
+        ]
+      },
+      {
+        "id": "ap1777616339138",
+        "type": "Immediate",
+        "text": "[Owner's Call & Email] Monthly email / call to owners",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Jeya Priya Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339139",
+        "type": "Immediate",
+        "text": "[Owner's Meeting & Renewal] Process owners — Yearly once meeting",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Jeya Priya Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339140",
+        "type": "Immediate",
+        "text": "[Civil] VKP / Non-VKP budget to be made (Annual) — All WO to be approved by Madurai team — Maintain the WO list format",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Yuvraj Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339141",
+        "type": "Immediate",
+        "text": "[Vendor] Vendor statement to be verified for all parties / Janarthanam Sir to come every month / External audit for vendor statement / 3 quotations to be maintained / 3-stage negotiation statement to be approved by process owners",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Valarmathi Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339142",
+        "type": "Immediate",
+        "text": "[Transport] Annual budget planning / P&L statement / Loan / Insurance / Benefit points to be discussed at three stages / Direct communication with vehicle dealers",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Eswar Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339143",
+        "type": "Immediate",
+        "text": "[Food] Monthly statement",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Yuvraj Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339144",
+        "type": "Immediate",
+        "text": "[New Schools] Advance planning / Construction stage email / Lease registration / Handing over",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Rajalakshmi Mam & Ram Mohan Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339145",
+        "type": "Immediate",
+        "text": "[Capex] SOP to be followed / 3-stage negotiation — Reject / Reduce on capex items / Capex payment schedule to be made on delivery timeline / Principal AO to approve requirement list",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Valarmathi Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339146",
+        "type": "Immediate",
+        "text": "[IOMs] Weekly school review by process owner / Reduce & reject IOMs / Transport IOMs to be immediately processed / Weekly Saturday only — IOMs to be received from school",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Accountants",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339147",
+        "type": "Immediate",
+        "text": "[MOU & Affiliation] Annual budget to be made for MOU and affiliation work — Process owner should review and update every week",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Sathish Kolapakkam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339148",
+        "type": "Immediate",
+        "text": "[Legal Fortnight Meeting] Legal fortnight meeting — Mr. Thomas & Senthurapandian Sir — All pending items to be listed and timeline maintained / Legal persons to attend weekly meeting for all finalization of legal work",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Madhavan Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339149",
+        "type": "Immediate",
+        "text": "[Audit Points] Mr. Kalyan Sir audit — 2 times/year; Meiyappan — 2; Janarthanam — 2 / Stock audit to be made / Transport stock audit",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "FC Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339150",
+        "type": "Immediate",
+        "text": "[Kalyan Sir Fortnight Meeting] Kalyan Sir fortnight meeting — all trust companies to be discussed",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "FC Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339151",
+        "type": "Immediate",
+        "text": "[Budget Plan] 25th of every month — Annual finance plan by Feb 1",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Rajalakshmi Mam & Valarmathi Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339152",
+        "type": "Immediate",
+        "text": "[Individual Source] To evaluate individual source / Statutory payments and assets",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Rajalakshmi Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339153",
+        "type": "Immediate",
+        "text": "[Pvt Company] To make P&L statement / Study / Increase revenue, profitability and assets",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Rajalakshmi Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339154",
+        "type": "Immediate",
+        "text": "[Asset Purchase] Loan processing work",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Rajesh Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339155",
+        "type": "Immediate",
+        "text": "[Plan & Land] Fortnight review and follow-up",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Muruganandham Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339156",
+        "type": "Immediate",
+        "text": "[School Zone Team Budget\n(Police & Education)] Police / Education Dept — 5 zones to be divided; Monthly interaction and special occasion interaction with local people",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Thilakaraj Sir, ASWO Sathish Kolapakkam, Sathish Trichy, Siva VRS, Senapathi, Chidambaram AO",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339157",
+        "type": "Immediate",
+        "text": "[Liaison Officer] To work closely with Govt officials / Educational Dept",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Thilakaraj Sir",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      },
+      {
+        "id": "ap1777616339158",
+        "type": "Immediate",
+        "text": "[Process Owners] visit points / ppt / owners visit / turnaround",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Jeya Priya Mam",
+        "timeline": "",
+        "completed": false,
+        "followUps": []
+      }
+    ],
+    "createdAt": 1777616339128,
+    "modifiedAt": 1777881591276
+  },
+  {
+    "id": "m1777878664742_qud",
+    "date": "2026-05-04",
+    "day": "Monday",
+    "title": "Zonal Heads - Meeting",
+    "campus": "All Campus",
+    "category": "Zonal Heads",
+    "actionPoints": [
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "Did you confirm weekly iit neet sr staff class from Srpl sir",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-04",
+            "text": "Concept clarity - to get from students and connect with srpl sir and make schedule",
+            "addedAt": 1777879455302
+          },
+          {
+            "date": "2026-05-04",
+            "text": "When the schedule is starting? for CBSE / IIT NEET",
+            "addedAt": 1777879534718
+          },
+          {
+            "date": "2026-05-04",
+            "text": "For CBSE - Social Started in May",
+            "addedAt": 1777879564664
+          }
+        ]
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "Sr head mam chk tondairpet Tiruvallur vellore Kanchipuram",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
         "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "Algar sir erode tirchy Tanjore Previous follow up points",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "Lavanya mam Coimbatore namkkal previous follow up points",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "selvi mam  mam chk your schools previous follow up points",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "selvanayki mam chk your schools previous follow up points",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-04",
+            "text": "Actual CBSE requirement - from students",
+            "addedAt": 1777879731528
+          }
+        ]
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "zonal heads can update their zone schools top -10 follow up points daily to me - even if any approval or suggestions they need from me",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Class X to XI - Admissions / TC's",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-04",
+            "text": "Cashier to give exact dropout (Rejection)",
+            "addedAt": 1777879819833
+          },
+          {
+            "date": "2026-05-04",
+            "text": "Principal and Zonal head to confirm the number with VP mam",
+            "addedAt": 1777879842134
+          },
+          {
+            "date": "2026-05-04",
+            "text": "Class 10 to 11 - Continuation? follow up action for not continuing? Fee collection to check",
+            "addedAt": 1777879973598,
+            "editedAt": 1777880125957
+          }
+        ]
+      },
+      {
+        "id": "ap1777880306482",
+        "type": "Immediate",
+        "text": "Check Staffing",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-04",
+            "text": "CBSE / IIT / NEET - Sr Prg",
+            "addedAt": 1777880355287
+          },
+          {
+            "date": "2026-05-04",
+            "text": "Old Staff List / New staff recruited",
+            "addedAt": 1777880414219
+          }
+        ]
+      },
+      {
+        "id": "ap1777880306483",
+        "type": "Immediate",
+        "text": "Check NEET Performance",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-04",
+            "text": "Actual targeted students names with performance",
+            "addedAt": 1777880482286
+          },
+          {
+            "date": "2026-05-04",
+            "text": "No of Govt Selections expected vs Target",
+            "addedAt": 1777880504865
+          }
+        ]
       }
     ],
-    "createdAt": 1777887788777,
-    "modifiedAt": 1777887788777
+    "createdAt": 1777878664742,
+    "modifiedAt": 1777881345529
+  },
+  {
+    "id": "imp_1777881146689_0",
+    "date": "2026-05-04",
+    "day": "Monday",
+    "title": "Fee Collection - Review",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [],
+    "createdAt": 1777881146689,
+    "modifiedAt": 1777881476160
   }
 ]
