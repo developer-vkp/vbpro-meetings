@@ -1868,8 +1868,8 @@
   },
   {
     "id": "imp_1777881146689_0",
-    "date": "2026-05-01",
-    "day": "Friday",
+    "date": "2026-05-04",
+    "day": "Monday",
     "title": "Fee Collection - Review",
     "campus": "Coimbatore",
     "category": "Staff / HR",
@@ -1886,6 +1886,6 @@
       }
     ],
     "createdAt": 1777881146689,
-    "modifiedAt": 1777890092873
+    "modifiedAt": 1777890096868
   }
 ]
