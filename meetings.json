@@ -1873,8 +1873,19 @@
     "title": "Fee Collection - Review",
     "campus": "Coimbatore",
     "category": "Staff / HR",
-    "actionPoints": [],
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
     "createdAt": 1777881146689,
-    "modifiedAt": 1777889517837
+    "modifiedAt": 1777889519710
   }
 ]
