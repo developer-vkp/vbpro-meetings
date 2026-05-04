@@ -1,17 +1,12 @@
 {
   "github": {
-    "token": {
-      "encrypted": true,
-      "iv": "0003422ed1f504cc05805175261ade9f",
-      "data": "146fe3ed9d4c45c5fa90cdc8374315937b39c73775b0b3761a2e1e6f91b18c6ffe65aebb6ce13a71131cb66fe8b3e22f"
-    },
+    "token": "MSMgcigOFB11RGIOFCUwMRE9HVs6DjEScj1GPx10H3dJcQRLawslJA==",
     "owner": "developer-vkp",
     "repo": "vbpro-meetings",
     "branch": "main"
   },
   "app": {
     "version": "2.2-encrypted",
-    "name": "VKP MOM System",
-    "requiresPassphrase": true
+    "name": "VKP MOM System"
   }
 }
