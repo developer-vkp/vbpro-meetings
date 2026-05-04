@@ -3097,6 +3097,7 @@ document.addEventListener('click', function(event) {
 
 // User Management - GitHub Storage
 let USERS = [];
+let isSavingUsers = false;
 
 const GITHUB_USERS_FILE = {
   owner: 'developer-vkp',
@@ -3135,11 +3136,19 @@ async function loadUsers() {
 
 // Save users to GitHub
 async function saveUsersToGitHub() {
+  // Prevent concurrent saves
+  if (isSavingUsers) {
+    console.log('Save already in progress, skipping...');
+    return false;
+  }
+
   const token = localStorage.getItem('gh_token');
   if (!token) {
     tt('⚠️ GitHub token required to save users');
     return false;
   }
+
+  isSavingUsers = true;
 
   try {
     const getUrl = `https://api.github.com/repos/${GITHUB_USERS_FILE.owner}/${GITHUB_USERS_FILE.repo}/contents/${GITHUB_USERS_FILE.file}`;
@@ -3171,13 +3180,26 @@ async function saveUsersToGitHub() {
 
     if (putRes.ok) {
       console.log('✓ Users saved to GitHub');
+      isSavingUsers = false;
       return true;
     } else {
-      console.error('Failed to save users to GitHub');
+      const errorData = await putRes.json().catch(() => ({}));
+      console.error('Failed to save users to GitHub:', putRes.status, errorData.message || '');
+
+      // If 409 conflict, try refreshing and retrying once
+      if (putRes.status === 409) {
+        console.log('Retrying due to conflict...');
+        isSavingUsers = false;
+        await new Promise(resolve => setTimeout(resolve, 500));
+        return await saveUsersToGitHub();
+      }
+
+      isSavingUsers = false;
       return false;
     }
   } catch (e) {
     console.error('Error saving users:', e);
+    isSavingUsers = false;
     return false;
   }
 }
