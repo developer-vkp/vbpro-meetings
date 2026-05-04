@@ -6,7 +6,7 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>VKP Director MOM System v2.1-utf8fix</title>
+<title>VKP Director MOM System</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
@@ -1007,18 +1007,9 @@ function showImpPreview(mtgs) {
 
 
 // ═══════════════════════════════════════════
-// SEED DATA — imported from mom_follow_up docx
-// Loads once; never overwrites existing data
-// ═══════════════════════════════════════════
-(function seedDocxData() {
-  const SEED_KEY = 'vkp_mom_seeded_v1';
-  if (localStorage.getItem(SEED_KEY)) return; // already seeded
-  const existing = JSON.parse(localStorage.getItem('vkp_mom_v1') || '[]');
-  if (existing.length > 0) { localStorage.setItem(SEED_KEY,'1'); return; } // user already has data
-  const seed = [{"id": "m1776828204163x0", "date": "2026-04-20", "day": "Monday", "title": "Director Sir Follow-Up — Finance / Fee", "campus": "Namakkal", "category": "Finance / Fee", "actionPoints": [{"id": "ap1", "type": "Immediate", "text": "10 to 11 — Namakkal Campus, Rajesh Sir to check.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1776828204163, "modifiedAt": 1776828204163}, {"id": "m1776914604163x1", "date": "2026-04-21", "day": "Tuesday", "title": "Director Sir Follow-Up — Marketing / Admission", "campus": "All Campus", "category": "Marketing / Admission", "actionPoints": [{"id": "ap2", "type": "Immediate", "text": "Zoom meeting with Cashiers — check Marketing Team admission drop-out.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1776914604163, "modifiedAt": 1776914604163}, {"id": "m1777001004163x2", "date": "2026-04-23", "day": "Thursday", "title": "Director Sir Follow-Up — Finance / Fee", "campus": "All Campus", "category": "Finance / Fee", "actionPoints": [{"id": "ap3", "type": "Immediate", "text": "Letter to Process Owners & Zonal Head regarding Fee Follow-Up.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777001004163, "modifiedAt": 1777001004163}, {"id": "m1777087404163x3", "date": "2026-04-24", "day": "Friday", "title": "Director Sir Follow-Up — Academics", "campus": "All School", "category": "Academics", "actionPoints": [{"id": "ap4", "type": "Immediate", "text": "Grade 12 Practical Schedule — check with students.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap5", "type": "Immediate", "text": "April Bridge Course attendance & drop-out count in new admissions; old students discontinue reason.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap6", "type": "Immediate", "text": "Day-by-day attendance — Class Teacher to sign; Cashier to check avg absentees for Grade 11.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap7", "type": "Immediate", "text": "Principal to submit reason why IIT & NEET students did not attend Bridge Course.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap8", "type": "Immediate", "text": "All admitted students 10th marks (old & new) with reason why not in IIT & NEET; identify & track Top 75 students in 10th; previous year CAT & VISTO performance.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap9", "type": "Immediate", "text": "IIT / NEET topper students — check whether special materials have been given.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap10", "type": "Long-term", "text": "Brain Storming Program — contact for 183 students regarding IIT & NEET; Hari Narayana Sir to talk to Foundation topper students Grade 9 & 10.", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap11", "type": "Long-term", "text": "Grade 8 to 9 — Top 20 students parent discussion to be done regarding Foundation.", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777087404163, "modifiedAt": 1777087404163}, {"id": "m1777087404163x4", "date": "2026-04-24", "day": "Friday", "title": "Director Sir Follow-Up — Admin", "campus": "Vellore", "category": "Admin", "actionPoints": [{"id": "ap12", "type": "Immediate", "text": "27 Grade 10 TC — confirm with Cashier.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap13", "type": "Immediate", "text": "9 merit students (not admitted) scholarship follow-up; Foundation Maths staff replacement; Grade 9–12 divide between Mentors; Grade 10 interact with Doctor-parent.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap14", "type": "Long-term", "text": "After Foundation staff replacement — follow-up call from Central Office whether they are happy with Maths.", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777087404163, "modifiedAt": 1777087404163}, {"id": "m1777087404163x5", "date": "2026-04-24", "day": "Friday", "title": "Director Sir Follow-Up — Competition", "campus": "All Campus", "category": "Competition", "actionPoints": [{"id": "ap15", "type": "Immediate", "text": "Randomly interact with Parents & Students in the next review.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777087404163, "modifiedAt": 1777087404163}, {"id": "m1777087404163x6", "date": "2026-04-24", "day": "Friday", "title": "Director Sir Follow-Up — IIT / NEET", "campus": "Kallakurichi", "category": "IIT / NEET", "actionPoints": [{"id": "ap16", "type": "Immediate", "text": "Selvanaygi Mam to conduct IIT Senior Staff Meeting along with VBC Ponneri Staff.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777087404163, "modifiedAt": 1777087404163}, {"id": "m1777173804163x7", "date": "2026-04-25", "day": "Saturday", "title": "Director Sir Follow-Up — Academics", "campus": "All Campus", "category": "Academics", "actionPoints": [{"id": "ap17", "type": "Immediate", "text": "1st Unit — Top 3 from CBSE, Commerce & Class X: scores, support needed, parent feedback from Central Office.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap18", "type": "Immediate", "text": "Set B — Sr. Staff / R&D Staff: immediately needed school list; schedule till portion completion (before evening); confirm till September — start from Monday.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap19", "type": "Immediate", "text": "Class X & XII targeted students — 1st Unit performance (X: 56, XII: 50 — 3 slots, 2×15 students); support needed to achieve 490+; Principal: Class X & XII analysis meeting — MOM required.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap20", "type": "Immediate", "text": "Concept Clarity Feedback — Class X & XII: 3 students in CBSE & Commerce; 3 teacher interaction for Top / Avg / SL.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap21", "type": "Immediate", "text": "Class X pass mark revision (27 marks now) — how to plan; Lavanya Mam to share points.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap22", "type": "Immediate", "text": "Principal to fill Practical completion details; IIT NEET top students whether attended Practicals — same for Avg & Above Avg.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap23", "type": "Immediate", "text": "Schedule from Alagar Sir (weekly) — Bodhi Ponneri Staff to support.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap24", "type": "Long-term", "text": "Principal — 100 Days Program status check; any subject-specific sessions happening.", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap25", "type": "Long-term", "text": "CBSE Exam Plan for IIT/NEET students from Sr. Principal Sir's Office; Question Paper Print — Saravanan Sir.", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777173804163, "modifiedAt": 1777173804163}, {"id": "m1777173804163x8", "date": "2026-04-25", "day": "Saturday", "title": "Director Sir Follow-Up — Competition", "campus": "All Campus", "category": "Competition", "actionPoints": [{"id": "ap26", "type": "Immediate", "text": "Competition Ownership: Zonal Heads to note the responsible person for each of the 11 competitions.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap27", "type": "Immediate", "text": "Student List: Submit competition-wise student list using available students; do not wait for new admissions.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap28", "type": "Immediate", "text": "Resource Persons: Identify internal or external experts for each competition.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap29", "type": "Immediate", "text": "Teacher Responsibility: Assign a specific teacher for each competition; avoid unclear or shared roles.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap30", "type": "Immediate", "text": "Zonal Student Interaction: Conduct 20-minute online meetings to motivate students, explain competition requirements, and identify support needs.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap31", "type": "Immediate", "text": "Local Competition Data: Provide last year’s participation count and current year’s planned competitions.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap32", "type": "Immediate", "text": "Sports Strategy: Appoint a strong sports resource person and develop a cluster-level winning strategy.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap33", "type": "Immediate", "text": "Internal Review (8-Point Plan): Zonal teams to prepare an 8-point internal report (ownership, student list, training, resources, etc.) for zonal use only; ready for Director’s review with accurate data.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap34", "type": "Immediate", "text": "Local Competition Data: Submit last year’s participation count and this year’s planned", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap35", "type": "Long-term", "text": "Training Plan (April–May): Plan online sessions and ensure student engagement during holidays.", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777173804163, "modifiedAt": 1777173804163}, {"id": "m1777173804163x9", "date": "2026-04-25", "day": "Saturday", "title": "Director Sir Follow-Up — ECA", "campus": "All Campus", "category": "ECA", "actionPoints": [{"id": "ap36", "type": "Immediate", "text": "Ensure ECA from Day One: Assign teachers/resource persons from day one and ensure continuous ECA activity. Staff Planning & Attendance: Pre-plan ECA staffing and ensure 100% attendance and accountability of all ECA staff.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap37", "type": "Immediate", "text": "Quality Execution: address past feedback issues& for each ECA activity with full staff responsibility for outcomes.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap38", "type": "Long-term", "text": "Monitoring & Review: Zonal Heads to regularly monitor ECA execution and ensure consistent quality across schools.", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap39", "type": "Long-term", "text": "Parent Satisfaction & Retention: Use ECA to build parent confidence from the start through visible student outcomes.", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap40", "type": "Long-term", "text": "Outcome-Oriented Approach: Long-term (ongoing)—focused on sustained results, performances, and achievements over time", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777173804163, "modifiedAt": 1777173804163}, {"id": "m1777173804163x10", "date": "2026-04-25", "day": "Saturday", "title": "Director Sir Follow-Up — Marketing / Admission", "campus": "All Campus", "category": "Marketing / Admission", "actionPoints": [{"id": "ap41", "type": "Immediate", "text": "Grade 11 rejected list : Marketing team to submit principal-rejected admissions list to the central office.", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap42", "type": "Immediate", "text": "Low-score student admissions: requires approval at the time of admission", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap43", "type": "Immediate", "text": "Dropouts and pending payments", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap44", "type": "Long-term", "text": "Focus on hostel occupancy vs capacity planning", "priority": "Medium", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap45", "type": "Immediate", "text": "Namakkal transport concerns immediately", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777173804163, "modifiedAt": 1777173804163}, {"id": "m1777173804163x11", "date": "2026-04-25", "day": "Saturday", "title": "Director Sir Follow-Up — Admin", "campus": "Namakkal", "category": "Admin", "actionPoints": [{"id": "ap46", "type": "Immediate", "text": "Re- asses fee structure to improve enrollment\n60+ Average fee concession", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap47", "type": "Immediate", "text": "Admission Target\n Grade 9 – 70/Grade 11 – 125 /LT -  150", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap48", "type": "Immediate", "text": "Transport Optimization – Rajesh sir and Ao\nInfrastructure Fix (Restrooms) -  Admin", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap49", "type": "Immediate", "text": "Competitor Schools Fee Analysis(Neighbouring schools) - Principal", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap50", "type": "Immediate", "text": "NEET 11th Target, IIT 11th Target \nLT Target - 150", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap51", "type": "Immediate", "text": "Math faculty  feedback - check - Sr. faculty\n\nIIT/NEET faculty meeting with Sr. Principal\n  \nIIT/NEET - Staff teaching quality-students/parents feed back", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap52", "type": "Immediate", "text": "Cashier behavior – Revathy mam to review \n& Hostel Infra – Rajesh sir & Revathy mam to review", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap53", "type": "Immediate", "text": "Foundation  Strength increase - to check   \n\ncurrent & upcoming strength comparison\n\nLower class strength  \n\nTC comparison of previous & current\n\nHostel, Class wise strength", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap54", "type": "Immediate", "text": "Bus route – Total and how many operated", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap55", "type": "Immediate", "text": "  Saravanan sir to align academics; validate with Director", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap56", "type": "Immediate", "text": "  Finalize May: visits, meetings, training, workshops &   Senior Principal visits: July / Nov / April (Delta)", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap57", "type": "Immediate", "text": "  Faculty transfer & elevation; Zonal review with Senior Principal", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap58", "type": "Immediate", "text": "June IIT/NEET meetings (2 staff/school + new staff) &   Review non-performing IIT/NEET staff; collect assurance", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap59", "type": "Immediate", "text": "July: merit scholarship presentation (VKP & Non-VKP)", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap60", "type": "Immediate", "text": "Exam plan & performance-based Zoom reviews", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap61", "type": "Immediate", "text": "Phase 2: 90 → 99 percentile strategy", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap62", "type": "Immediate", "text": "Direct meetings: Erode, Pondicherry, Attur, Chidambaram", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap63", "type": "Immediate", "text": "Maximize foundation enrollment with focus on quality admissions", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap64", "type": "Immediate", "text": "R&D team to visit campus 5 times", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap65", "type": "Immediate", "text": "Appoint French ECA part-time faculty", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap66", "type": "Immediate", "text": "Merit students: coordinate govt. outreach with Prabhu", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap67", "type": "Immediate", "text": "Provide hostel concession to boost enrollment", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}, {"id": "ap68", "type": "Immediate", "text": "Increase senior program enrollment (Target: 30 | 24 old + 6 new)", "priority": "High", "status": "Open", "assignedTo": "", "timeline": "", "completed": false}], "createdAt": 1777173804163, "modifiedAt": 1777173804163}];
-  localStorage.setItem('vkp_mom_v1', JSON.stringify(seed));
-  localStorage.setItem(SEED_KEY, '1');
-})();
+// SEED DATA REMOVED - All data now loaded from GitHub only
+// No localStorage usage as requested
+
 
 window.addEventListener('DOMContentLoaded', async ()=>{
   // Try to load and decrypt config from GitHub
@@ -2758,10 +2749,7 @@ function resetData() {
   // Second confirmation for safety
   if (!confirm('FINAL WARNING: All meeting data will be erased. Confirm reset?')) return;
 
-  localStorage.removeItem('vkp_mom_v1');
-  localStorage.removeItem('vkp_mom_seeded_v1');
-
-  // Clear all app state
+  // Clear all app state (no localStorage to remove)
   M = []; cid = null;
 
   // Reload the page fresh — seed will re-load on next open
@@ -3478,7 +3466,7 @@ async function deleteUser(userId) {
 
   const users = getUsers();
   const deleted = users.find(u => u.id === userId);
-  const currentEmail = localStorage.getItem('userEmail');
+  const currentEmail = document.getElementById('userEmail').textContent;
 
   const filtered = users.filter(u => u.id !== userId);
 
@@ -3490,9 +3478,6 @@ async function deleteUser(userId) {
 
     // If deleted user is currently logged in, auto-logout
     if (deleted && deleted.email === currentEmail) {
-      localStorage.removeItem('isLoggedIn');
-      localStorage.removeItem('userName');
-      localStorage.removeItem('userEmail');
       document.getElementById('userModal').classList.remove('show');
       document.querySelectorAll('.vw').forEach(v => v.classList.remove('active'));
       document.getElementById('vlogin').classList.add('active');
@@ -3533,10 +3518,7 @@ function handleLogout(event) {
   event.preventDefault();
   document.getElementById('profileDropdown').classList.remove('show');
 
-  // Clear login state
-  localStorage.removeItem('isLoggedIn');
-  localStorage.removeItem('userName');
-  localStorage.removeItem('userEmail');
+  // Clear login state (session-based, no localStorage to remove)
 
   // Hide all views
   document.querySelectorAll('.vw').forEach(v => v.classList.remove('active'));
@@ -3591,12 +3573,7 @@ function doLogin(name, email) {
   const errorDiv = document.getElementById('loginError');
   errorDiv.classList.remove('show');
 
-  // Save login state
-  localStorage.setItem('isLoggedIn', 'true');
-  localStorage.setItem('userName', name);
-  localStorage.setItem('userEmail', email);
-
-  // Update user info
+  // Update user info (session-based only, no localStorage)
   document.getElementById('userName').textContent = name;
   document.getElementById('userEmail').textContent = email;
 
@@ -3610,26 +3587,11 @@ function doLogin(name, email) {
   tt('Welcome back, ' + name + '!');
 }
 
-// Check if user is logged in on page load
+// No auto-login - user must login each session (no localStorage)
 window.addEventListener('DOMContentLoaded', function() {
-  const isLoggedIn = localStorage.getItem('isLoggedIn');
-
-  if (isLoggedIn === 'true') {
-    // User is logged in - restore user info and show main app
-    const userName = localStorage.getItem('userName');
-    const userEmail = localStorage.getItem('userEmail');
-
-    if (userName) document.getElementById('userName').textContent = userName;
-    if (userEmail) document.getElementById('userEmail').textContent = userEmail;
-
-    // Show main app
-    document.getElementById('vlogin').classList.remove('active');
-    document.querySelector('.ah').style.display = 'flex';
-  } else {
-    // User is not logged in - show login page
-    document.getElementById('vlogin').classList.add('active');
-    document.querySelector('.ah').style.display = 'none';
-  }
+  // Always show login page on page load
+  document.getElementById('vlogin').classList.add('active');
+  document.querySelector('.ah').style.display = 'none';
 });
 
 </script>
