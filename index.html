@@ -430,13 +430,14 @@ async function ld() {
 }
 
 // Save to GitHub only
-function sv2() {
+async function sv2() {
   // Push to GitHub if token is set
   const token = localStorage.getItem('gh_token');
   if (token) {
-    pushToGitHub();
+    return await pushToGitHub();
   } else {
     alert('⚠️ GitHub token not set. Please configure in Profile → GitHub Settings');
+    return false;
   }
 }
 
@@ -953,10 +954,21 @@ function tc(id){
   as();sp();
 }
 
-function nm(){
+async function nm(){
+  tt('⏳ Creating meeting and saving to GitHub...');
   const id=gid(),n=new Date();
   M.push({id,date:n.toISOString().slice(0,10),day:['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][n.getDay()],title:'',campus:'All Campus',category:'Academics',actionPoints:[eap()],createdAt:Date.now(),modifiedAt:Date.now()});
-  sv2();lm(id);tt('New meeting created');
+
+  const success = await sv2();
+
+  if (success) {
+    lm(id);
+    tt('✓ New meeting created and saved to GitHub!');
+  } else {
+    // Remove meeting if save failed
+    M = M.filter(m => m.id !== id);
+    tt('✗ Failed to save to GitHub. Meeting not created.');
+  }
 }
 
 function lm(id){
@@ -975,11 +987,19 @@ function lm(id){
   renderFinanceTabs(m);
 }
 
-function sm(){
+async function sm(){
   if(!cid)return;const m=M.find(x=>x.id===cid);if(!m)return;
   m.date=document.getElementById('fd').value;m.day=document.getElementById('fday').value;
   m.title=document.getElementById('ftit').value.trim();m.campus=gc();m.category=gcat();m.modifiedAt=Date.now();
-  sv2();sp();sas('saved');tt('✓ Meeting saved');
+
+  sas('saving');tt('⏳ Saving to GitHub...');
+  const success = await sv2();
+
+  if (success) {
+    sp();sas('saved');tt('✓ Meeting saved to GitHub!');
+  } else {
+    sas('error');tt('✗ Failed to save to GitHub');
+  }
 }
 
 function as(){
@@ -987,7 +1007,14 @@ function as(){
   m.date=document.getElementById('fd').value;m.day=document.getElementById('fday').value;
   m.title=document.getElementById('ftit').value.trim();m.campus=gc();m.category=gcat();m.modifiedAt=Date.now();
   sas('saving');clearTimeout(ast);
-  ast=setTimeout(()=>{sv2();sas('saved');sp()},500);
+  ast=setTimeout(async ()=>{
+    const success = await sv2();
+    if (success) {
+      sas('saved');sp();
+    } else {
+      sas('error');tt('✗ Auto-save failed');
+    }
+  },500);
 }
 
 function sas(s){
