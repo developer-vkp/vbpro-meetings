@@ -394,13 +394,19 @@ const GITHUB_REPO = {
   file: 'meetings.json'
 };
 
-// Load data - Only from GitHub
+// Load data - Only from GitHub (using API for better cache control)
 async function ld() {
   try {
-    const url = `https://raw.githubusercontent.com/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/${GITHUB_REPO.branch}/${GITHUB_REPO.file}?t=${Date.now()}`;
-    const res = await fetch(url);
+    const apiUrl = `https://api.github.com/repos/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/contents/${GITHUB_REPO.file}?ref=${GITHUB_REPO.branch}`;
+    const res = await fetch(apiUrl, {
+      headers: { 'Accept': 'application/vnd.github.v3+json' },
+      cache: 'no-cache'
+    });
+
     if (res.ok) {
-      M = await res.json();
+      const data = await res.json();
+      const content = atob(data.content);
+      M = JSON.parse(content);
       console.log('✓ Loaded from GitHub:', M.length, 'meetings');
       return;
     } else {
