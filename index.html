@@ -388,6 +388,7 @@
 <script>
 // All data is stored in GitHub only (no localStorage)
 let M=[],cid=null,ast=null,sf='all',CH={};
+let DECRYPTED_TOKEN = null;
 
 // GitHub Configuration
 const GITHUB_REPO = {
@@ -395,6 +396,90 @@ const GITHUB_REPO = {
   repo: 'vbpro-meetings',
   branch: 'main',
   file: 'meetings.json'
+};
+
+// Decrypt GitHub token from config
+async function decryptToken(encryptedData, passphrase) {
+  try {
+    const enc = new TextEncoder();
+    const keyMaterial = await crypto.subtle.importKey(
+      'raw',
+      enc.encode(passphrase),
+      'PBKDF2',
+      false,
+      ['deriveBits', 'deriveKey']
+    );
+
+    const key = await crypto.subtle.deriveKey(
+      {
+        name: 'PBKDF2',
+        salt: enc.encode('salt'),
+        iterations: 100000,
+        hash: 'SHA-256'
+      },
+      keyMaterial,
+      { name: 'AES-CBC', length: 256 },
+      false,
+      ['decrypt']
+    );
+
+    const iv = new Uint8Array(encryptedData.iv.match(/.{2}/g).map(byte => parseInt(byte, 16)));
+    const data = new Uint8Array(encryptedData.data.match(/.{2}/g).map(byte => parseInt(byte, 16)));
+
+    const decrypted = await crypto.subtle.decrypt(
+      { name: 'AES-CBC', iv: iv },
+      key,
+      data
+    );
+
+    return new TextDecoder().decode(decrypted);
+  } catch (e) {
+    throw new Error('Invalid passphrase');
+  }
+}
+
+// Load and decrypt config from GitHub
+async function loadConfig() {
+  try {
+    const configUrl = `https://raw.githubusercontent.com/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/${GITHUB_REPO.branch}/config.json?t=${Date.now()}`;
+    const res = await fetch(configUrl, { cache: 'no-cache' });
+
+    if (!res.ok) {
+      throw new Error('Failed to load config');
+    }
+
+    const config = await res.json();
+
+    if (config.github.token.encrypted) {
+      // Prompt for passphrase
+      const passphrase = prompt('🔐 Enter Passphrase to Access VKP MOM System:');
+
+      if (!passphrase) {
+        alert('Passphrase required to access the system.');
+        return false;
+      }
+
+      try {
+        DECRYPTED_TOKEN = await decryptToken(config.github.token, passphrase);
+        return true;
+      } catch (e) {
+        alert('❌ Invalid passphrase! Please refresh and try again.');
+        return false;
+      }
+    }
+  } catch (e) {
+    alert('⚠️ Failed to load configuration from GitHub.');
+    return false;
+  }
+}
+
+// Override localStorage.getItem for gh_token to use decrypted token
+const originalGetItem = localStorage.getItem.bind(localStorage);
+localStorage.getItem = function(key) {
+  if (key === 'gh_token') {
+    return DECRYPTED_TOKEN;
+  }
+  return originalGetItem(key);
 };
 
 // Load data - Only from GitHub (using API for better cache control)
@@ -879,6 +964,14 @@ function showImpPreview(mtgs) {
 })();
 
 window.addEventListener('DOMContentLoaded', async ()=>{
+  // Load and decrypt config first
+  const configLoaded = await loadConfig();
+
+  if (!configLoaded) {
+    alert('⚠️ Cannot start application without valid passphrase.');
+    return;
+  }
+
   await ld(); // Load meetings from GitHub
   await loadUsers(); // Load users from GitHub
   const t=new Date();
