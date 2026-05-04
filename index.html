@@ -386,7 +386,6 @@
 </div>
 
 <script>
-console.log('%c 🔧 VKP MOM System v2.1 - UTF-8 Fix Applied', 'background: #4CAF50; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold');
 // All data is stored in GitHub only (no localStorage)
 let M=[],cid=null,ast=null,sf='all',CH={};
 
@@ -417,13 +416,11 @@ async function ld() {
       }
       const content = new TextDecoder('utf-8').decode(bytes);
       M = JSON.parse(content);
-      console.log('✓ Loaded from GitHub:', M.length, 'meetings');
       return;
     } else {
       throw new Error(`GitHub returned status ${res.status}`);
     }
   } catch (e) {
-    console.error('GitHub load failed:', e.message);
     alert('⚠️ Failed to load data from GitHub. Please check your internet connection and try again.');
     M = [];
   }
@@ -442,12 +439,20 @@ async function sv2() {
 }
 
 // Push to GitHub
+let isSavingMeetings = false;
+
 async function pushToGitHub() {
+  if (isSavingMeetings) {
+    return false;
+  }
+
   const token = localStorage.getItem('gh_token');
   if (!token) {
     tt('⚠️ Set GitHub token in Profile → GitHub Settings');
     return false;
   }
+
+  isSavingMeetings = true;
 
   try {
     // Get current file SHA
@@ -455,7 +460,8 @@ async function pushToGitHub() {
     let sha = null;
 
     const getRes = await fetch(getUrl, {
-      headers: { 'Authorization': `token ${token}` }
+      headers: { 'Authorization': `token ${token}` },
+      cache: 'no-cache'
     });
 
     if (getRes.ok) {
@@ -480,15 +486,23 @@ async function pushToGitHub() {
     });
 
     if (putRes.ok) {
-      console.log('✓ Pushed to GitHub');
+      isSavingMeetings = false;
       return true;
     } else {
-      const err = await putRes.json();
-      console.error('GitHub push failed:', err.message);
+      const err = await putRes.json().catch(() => ({}));
+
+      // If 409 conflict, retry once
+      if (putRes.status === 409) {
+        isSavingMeetings = false;
+        await new Promise(resolve => setTimeout(resolve, 500));
+        return await pushToGitHub();
+      }
+
+      isSavingMeetings = false;
       return false;
     }
   } catch (e) {
-    console.error('GitHub error:', e);
+    isSavingMeetings = false;
     return false;
   }
 }
@@ -1508,7 +1522,6 @@ async function processImpFile(file) {
     showImpPreview(_impPending);
   } catch(e) {
     setImpStatus('✗ Error: ' + e.message, 'error');
-    console.error(e);
   }
 }
 
@@ -3124,12 +3137,10 @@ async function loadUsers() {
       }
       const content = new TextDecoder('utf-8').decode(bytes);
       USERS = JSON.parse(content);
-      console.log('✓ Loaded users from GitHub:', USERS.length);
     } else {
       USERS = [];
     }
   } catch (e) {
-    console.warn('Failed to load users from GitHub:', e.message);
     USERS = [];
   }
 }
@@ -3138,7 +3149,6 @@ async function loadUsers() {
 async function saveUsersToGitHub() {
   // Prevent concurrent saves
   if (isSavingUsers) {
-    console.log('Save already in progress, skipping...');
     return false;
   }
 
@@ -3179,16 +3189,13 @@ async function saveUsersToGitHub() {
     });
 
     if (putRes.ok) {
-      console.log('✓ Users saved to GitHub');
       isSavingUsers = false;
       return true;
     } else {
       const errorData = await putRes.json().catch(() => ({}));
-      console.error('Failed to save users to GitHub:', putRes.status, errorData.message || '');
 
       // If 409 conflict, try refreshing and retrying once
       if (putRes.status === 409) {
-        console.log('Retrying due to conflict...');
         isSavingUsers = false;
         await new Promise(resolve => setTimeout(resolve, 500));
         return await saveUsersToGitHub();
@@ -3198,7 +3205,6 @@ async function saveUsersToGitHub() {
       return false;
     }
   } catch (e) {
-    console.error('Error saving users:', e);
     isSavingUsers = false;
     return false;
   }
