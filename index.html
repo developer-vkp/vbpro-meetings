@@ -540,6 +540,10 @@ async function ld() {
     const apiUrl = `https://api.github.com/repos/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/contents/${GITHUB_REPO.file}?ref=${GITHUB_REPO.branch}`;
     const token = localStorage.getItem('gh_token');
 
+    if (!token) {
+      tt('⚠️ No token available for data load');
+    }
+
     const headers = {
       'Accept': 'application/vnd.github.v3+json'
     };
@@ -564,6 +568,7 @@ async function ld() {
       }
       const content = new TextDecoder('utf-8').decode(bytes);
       M = JSON.parse(content);
+      tt(`✓ Loaded ${M.length} meetings from GitHub`);
       return;
     } else if (res.status === 403) {
       const errorData = await res.json();
