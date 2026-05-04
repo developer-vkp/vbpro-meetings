@@ -833,7 +833,8 @@ function showImpPreview(mtgs) {
 })();
 
 window.addEventListener('DOMContentLoaded', async ()=>{
-  await ld(); // Load from GitHub
+  await ld(); // Load meetings from GitHub
+  await loadUsers(); // Load users from GitHub
   const t=new Date();
   document.getElementById('fd').value=t.toISOString().slice(0,10);
   ud();ral([]);
@@ -3094,8 +3095,92 @@ document.addEventListener('click', function(event) {
   }
 });
 
-// User Management
-const USERS_KEY = 'vkp_mom_users';
+// User Management - GitHub Storage
+let USERS = [];
+
+const GITHUB_USERS_FILE = {
+  owner: 'developer-vkp',
+  repo: 'vbpro-meetings',
+  branch: 'main',
+  file: 'users.json'
+};
+
+// Load users from GitHub
+async function loadUsers() {
+  try {
+    const apiUrl = `https://api.github.com/repos/${GITHUB_USERS_FILE.owner}/${GITHUB_USERS_FILE.repo}/contents/${GITHUB_USERS_FILE.file}?ref=${GITHUB_USERS_FILE.branch}`;
+    const res = await fetch(apiUrl, {
+      headers: { 'Accept': 'application/vnd.github.v3+json' },
+      cache: 'no-cache'
+    });
+
+    if (res.ok) {
+      const data = await res.json();
+      const binaryString = atob(data.content.replace(/\s/g, ''));
+      const bytes = new Uint8Array(binaryString.length);
+      for (let i = 0; i < binaryString.length; i++) {
+        bytes[i] = binaryString.charCodeAt(i);
+      }
+      const content = new TextDecoder('utf-8').decode(bytes);
+      USERS = JSON.parse(content);
+      console.log('✓ Loaded users from GitHub:', USERS.length);
+    } else {
+      USERS = [];
+    }
+  } catch (e) {
+    console.warn('Failed to load users from GitHub:', e.message);
+    USERS = [];
+  }
+}
+
+// Save users to GitHub
+async function saveUsersToGitHub() {
+  const token = localStorage.getItem('gh_token');
+  if (!token) {
+    tt('⚠️ GitHub token required to save users');
+    return false;
+  }
+
+  try {
+    const getUrl = `https://api.github.com/repos/${GITHUB_USERS_FILE.owner}/${GITHUB_USERS_FILE.repo}/contents/${GITHUB_USERS_FILE.file}`;
+    let sha = null;
+
+    const getRes = await fetch(getUrl, {
+      headers: { 'Authorization': `token ${token}` }
+    });
+
+    if (getRes.ok) {
+      const data = await getRes.json();
+      sha = data.sha;
+    }
+
+    const content = btoa(unescape(encodeURIComponent(JSON.stringify(USERS, null, 2))));
+    const putRes = await fetch(getUrl, {
+      method: 'PUT',
+      headers: {
+        'Authorization': `token ${token}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        message: `Update users - ${new Date().toLocaleString()}`,
+        content: content,
+        branch: GITHUB_USERS_FILE.branch,
+        ...(sha && { sha })
+      })
+    });
+
+    if (putRes.ok) {
+      console.log('✓ Users saved to GitHub');
+      return true;
+    } else {
+      console.error('Failed to save users to GitHub');
+      return false;
+    }
+  } catch (e) {
+    console.error('Error saving users:', e);
+    return false;
+  }
+}
 
 function openUserManagement(event) {
   event.preventDefault();
@@ -3111,50 +3196,59 @@ function closeUserModal(event) {
 }
 
 function getUsers() {
-  try { return JSON.parse(localStorage.getItem(USERS_KEY) || '[]'); } catch { return []; }
+  return USERS;
 }
 
-function saveUsers(users) {
-  localStorage.setItem(USERS_KEY, JSON.stringify(users));
+async function saveUsers(users) {
+  USERS = users;
+  return await saveUsersToGitHub();
 }
 
-function addNewUser() {
+async function addNewUser() {
   const name = document.getElementById('newUserName').value.trim();
   const email = document.getElementById('newUserEmail').value.trim();
   const password = document.getElementById('newUserPassword').value.trim();
   const role = document.getElementById('newUserRole').value;
 
   if (!name || !email || !password) {
-    tt('Please fill in all fields');
+    tt('⚠️ Please fill in all fields');
     return;
   }
 
   const users = getUsers();
   if (users.find(u => u.email === email)) {
-    tt('User with this email already exists');
+    tt('⚠️ User with this email already exists');
     return;
   }
 
-  users.push({
+  const newUser = {
     id: 'u' + Date.now(),
     name,
     email,
     password,
     role,
     createdAt: new Date().toISOString()
-  });
+  };
 
-  saveUsers(users);
-  renderUserList();
+  users.push(newUser);
 
-  document.getElementById('newUserName').value = '';
-  document.getElementById('newUserEmail').value = '';
-  document.getElementById('newUserPassword').value = '';
+  tt('⏳ Saving user to GitHub...');
+  const success = await saveUsers(users);
 
-  tt('User added successfully');
+  if (success) {
+    renderUserList();
+    document.getElementById('newUserName').value = '';
+    document.getElementById('newUserEmail').value = '';
+    document.getElementById('newUserPassword').value = '';
+    tt('✓ User added and saved to GitHub!');
+  } else {
+    // Remove user if save failed
+    USERS = USERS.filter(u => u.id !== newUser.id);
+    tt('✗ Failed to save user to GitHub');
+  }
 }
 
-function deleteUser(userId) {
+async function deleteUser(userId) {
   if (!confirm('Are you sure you want to delete this user?')) return;
 
   const users = getUsers();
@@ -3162,23 +3256,30 @@ function deleteUser(userId) {
   const currentEmail = localStorage.getItem('userEmail');
 
   const filtered = users.filter(u => u.id !== userId);
-  saveUsers(filtered);
-  renderUserList();
 
-  // If deleted user is currently logged in, auto-logout
-  if (deleted && deleted.email === currentEmail) {
-    localStorage.removeItem('isLoggedIn');
-    localStorage.removeItem('userName');
-    localStorage.removeItem('userEmail');
-    document.getElementById('userModal').classList.remove('show');
-    document.querySelectorAll('.vw').forEach(v => v.classList.remove('active'));
-    document.getElementById('vlogin').classList.add('active');
-    document.querySelector('.ah').style.display = 'none';
-    tt('Your account has been deleted. You have been logged out.');
-    return;
+  tt('⏳ Deleting user from GitHub...');
+  const success = await saveUsers(filtered);
+
+  if (success) {
+    renderUserList();
+
+    // If deleted user is currently logged in, auto-logout
+    if (deleted && deleted.email === currentEmail) {
+      localStorage.removeItem('isLoggedIn');
+      localStorage.removeItem('userName');
+      localStorage.removeItem('userEmail');
+      document.getElementById('userModal').classList.remove('show');
+      document.querySelectorAll('.vw').forEach(v => v.classList.remove('active'));
+      document.getElementById('vlogin').classList.add('active');
+      document.querySelector('.ah').style.display = 'none';
+      tt('Your account has been deleted. You have been logged out.');
+      return;
+    }
+
+    tt('✓ User deleted from GitHub');
+  } else {
+    tt('✗ Failed to delete user from GitHub');
   }
-
-  tt('User deleted');
 }
 
 function renderUserList() {
