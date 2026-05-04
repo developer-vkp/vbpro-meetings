@@ -401,8 +401,19 @@ const GITHUB_REPO = {
 async function ld() {
   try {
     const apiUrl = `https://api.github.com/repos/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/contents/${GITHUB_REPO.file}?ref=${GITHUB_REPO.branch}`;
+    const token = localStorage.getItem('gh_token');
+
+    const headers = {
+      'Accept': 'application/vnd.github.v3+json'
+    };
+
+    // Use token if available to increase rate limit
+    if (token) {
+      headers['Authorization'] = `token ${token}`;
+    }
+
     const res = await fetch(apiUrl, {
-      headers: { 'Accept': 'application/vnd.github.v3+json' },
+      headers: headers,
       cache: 'no-cache'
     });
 
@@ -416,6 +427,15 @@ async function ld() {
       }
       const content = new TextDecoder('utf-8').decode(bytes);
       M = JSON.parse(content);
+      return;
+    } else if (res.status === 403) {
+      const errorData = await res.json();
+      if (errorData.message && errorData.message.includes('rate limit')) {
+        alert('⚠️ GitHub API rate limit exceeded. Please set your GitHub token in Profile → GitHub Settings to continue.');
+      } else {
+        alert('⚠️ Access denied. Please check your GitHub token in Profile → GitHub Settings.');
+      }
+      M = [];
       return;
     } else {
       throw new Error(`GitHub returned status ${res.status}`);
@@ -3123,8 +3143,18 @@ const GITHUB_USERS_FILE = {
 async function loadUsers() {
   try {
     const apiUrl = `https://api.github.com/repos/${GITHUB_USERS_FILE.owner}/${GITHUB_USERS_FILE.repo}/contents/${GITHUB_USERS_FILE.file}?ref=${GITHUB_USERS_FILE.branch}`;
+    const token = localStorage.getItem('gh_token');
+
+    const headers = {
+      'Accept': 'application/vnd.github.v3+json'
+    };
+
+    if (token) {
+      headers['Authorization'] = `token ${token}`;
+    }
+
     const res = await fetch(apiUrl, {
-      headers: { 'Accept': 'application/vnd.github.v3+json' },
+      headers: headers,
       cache: 'no-cache'
     });
 
