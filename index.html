@@ -405,7 +405,13 @@ async function ld() {
 
     if (res.ok) {
       const data = await res.json();
-      const content = atob(data.content);
+      // Properly decode base64 + UTF-8
+      const binaryString = atob(data.content.replace(/\s/g, ''));
+      const bytes = new Uint8Array(binaryString.length);
+      for (let i = 0; i < binaryString.length; i++) {
+        bytes[i] = binaryString.charCodeAt(i);
+      }
+      const content = new TextDecoder('utf-8').decode(bytes);
       M = JSON.parse(content);
       console.log('✓ Loaded from GitHub:', M.length, 'meetings');
       return;
