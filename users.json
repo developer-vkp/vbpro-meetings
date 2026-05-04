@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "u1777890312022",
+    "name": "Devi",
+    "email": "devi@gmail.com",
+    "password": "Devi@123",
+    "role": "admin",
+    "createdAt": "2026-05-04T10:25:12.022Z"
+  }
+]
