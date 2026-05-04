@@ -510,11 +510,20 @@ async function saveTokenToGitHub(token) {
 
 // Override localStorage.getItem for gh_token to use decrypted token
 const originalGetItem = localStorage.getItem.bind(localStorage);
+const originalSetItem = localStorage.setItem.bind(localStorage);
+
 localStorage.getItem = function(key) {
   if (key === 'gh_token') {
-    return DECRYPTED_TOKEN;
+    return DECRYPTED_TOKEN || originalGetItem(key);
   }
   return originalGetItem(key);
+};
+
+localStorage.setItem = function(key, value) {
+  if (key === 'gh_token') {
+    DECRYPTED_TOKEN = value;
+  }
+  return originalSetItem(key, value);
 };
 
 // Load data - Only from GitHub (using API for better cache control)
