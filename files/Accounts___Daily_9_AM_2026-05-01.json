@@ -1,0 +1,364 @@
+{
+  "id": "imp_1777616339128_0",
+  "date": "2026-05-01",
+  "day": "Friday",
+  "title": "Accounts - Daily 9 AM",
+  "campus": "All Campus",
+  "category": "Accounts / Finance",
+  "actionPoints": [
+    {
+      "id": "ap1777616339129",
+      "type": "Immediate",
+      "text": "[Daily Bank Statement & Reports] Daily EOD - All Bank Statements",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Jeya Priya Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339130",
+      "type": "Immediate",
+      "text": "[Fee Collection] Monthly projection / Weekly & Daily student-wise collection statement",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Kamatchi Mam, Yesodha Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339131",
+      "type": "Immediate",
+      "text": "[Finance / Fee] Weekly Cashier Meeting with Process Owner",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Kamatchi Mam, Yesodha Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339132",
+      "type": "Immediate",
+      "text": "[Bank Payment] Yearly schedule as per sanction letter — daily follow-up — Email to bank / Monthly visit to bank — Periodic review of terms & conditions",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Jeya Priya Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339133",
+      "type": "Immediate",
+      "text": "[Statutory] Non-salary TDS & Salary TDS updated status",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Valarmathi Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339134",
+      "type": "Immediate",
+      "text": "[GST] Monthly meeting with consultant",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Rajalakshmi Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339135",
+      "type": "Immediate",
+      "text": "[Block-B Schools] Yearly / Monthly budget planning — Revenue increase points",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Valarmathi Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": [
+        {
+          "date": "2026-05-01",
+          "text": "Monthly expenditure - is well study by the process owners - From May Block B expenditure of payouts to be presented - short fall budget to be given tomorrow - FC sir to update Block B short fall -",
+          "addedAt": 1777616462948
+        },
+        {
+          "date": "2026-05-01",
+          "text": "Accountants - shortfall budget / fee collection target to be given to accountants and process owners",
+          "addedAt": 1777616617095
+        },
+        {
+          "date": "2026-05-01",
+          "text": "Selvam sir - Projected collections to be justified by process owners",
+          "addedAt": 1777616629427
+        }
+      ]
+    },
+    {
+      "id": "ap1777616339136",
+      "type": "Immediate",
+      "text": "[Fee Audit] Yearly twice — 1 audit staff to be in Accounts Office; 1 page to be given from process owners every month on fee audit",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Rajalakshmi Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339137",
+      "type": "Immediate",
+      "text": "[Owner's Rent & Revenue] Annual calculation to be made — Monthly invoice to be received / GST point to be reviewed",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Yesodha Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": [
+        {
+          "date": "2026-05-01",
+          "text": "OWNER HAS TO PAY GST, NO DUE LETTERS OWNERS TO SUBMIT",
+          "addedAt": 1777618533021
+        }
+      ]
+    },
+    {
+      "id": "ap1777616339138",
+      "type": "Immediate",
+      "text": "[Owner's Call & Email] Monthly email / call to owners",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Jeya Priya Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339139",
+      "type": "Immediate",
+      "text": "[Owner's Meeting & Renewal] Process owners — Yearly once meeting",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Jeya Priya Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339140",
+      "type": "Immediate",
+      "text": "[Civil] VKP / Non-VKP budget to be made (Annual) — All WO to be approved by Madurai team — Maintain the WO list format",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Yuvraj Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339141",
+      "type": "Immediate",
+      "text": "[Vendor] Vendor statement to be verified for all parties / Janarthanam Sir to come every month / External audit for vendor statement / 3 quotations to be maintained / 3-stage negotiation statement to be approved by process owners",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Valarmathi Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339142",
+      "type": "Immediate",
+      "text": "[Transport] Annual budget planning / P&L statement / Loan / Insurance / Benefit points to be discussed at three stages / Direct communication with vehicle dealers",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Eswar Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339143",
+      "type": "Immediate",
+      "text": "[Food] Monthly statement",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Yuvraj Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339144",
+      "type": "Immediate",
+      "text": "[New Schools] Advance planning / Construction stage email / Lease registration / Handing over",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Rajalakshmi Mam & Ram Mohan Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339145",
+      "type": "Immediate",
+      "text": "[Capex] SOP to be followed / 3-stage negotiation — Reject / Reduce on capex items / Capex payment schedule to be made on delivery timeline / Principal AO to approve requirement list",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Valarmathi Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339146",
+      "type": "Immediate",
+      "text": "[IOMs] Weekly school review by process owner / Reduce & reject IOMs / Transport IOMs to be immediately processed / Weekly Saturday only — IOMs to be received from school",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Accountants",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339147",
+      "type": "Immediate",
+      "text": "[MOU & Affiliation] Annual budget to be made for MOU and affiliation work — Process owner should review and update every week",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Sathish Kolapakkam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339148",
+      "type": "Immediate",
+      "text": "[Legal Fortnight Meeting] Legal fortnight meeting — Mr. Thomas & Senthurapandian Sir — All pending items to be listed and timeline maintained / Legal persons to attend weekly meeting for all finalization of legal work",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Madhavan Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339149",
+      "type": "Immediate",
+      "text": "[Audit Points] Mr. Kalyan Sir audit — 2 times/year; Meiyappan — 2; Janarthanam — 2 / Stock audit to be made / Transport stock audit",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "FC Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339150",
+      "type": "Immediate",
+      "text": "[Kalyan Sir Fortnight Meeting] Kalyan Sir fortnight meeting — all trust companies to be discussed",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "FC Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339151",
+      "type": "Immediate",
+      "text": "[Budget Plan] 25th of every month — Annual finance plan by Feb 1",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Rajalakshmi Mam & Valarmathi Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339152",
+      "type": "Immediate",
+      "text": "[Individual Source] To evaluate individual source / Statutory payments and assets",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Rajalakshmi Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339153",
+      "type": "Immediate",
+      "text": "[Pvt Company] To make P&L statement / Study / Increase revenue, profitability and assets",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Rajalakshmi Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339154",
+      "type": "Immediate",
+      "text": "[Asset Purchase] Loan processing work",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Rajesh Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339155",
+      "type": "Immediate",
+      "text": "[Plan & Land] Fortnight review and follow-up",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Muruganandham Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339156",
+      "type": "Immediate",
+      "text": "[School Zone Team Budget\r\n(Police & Education)] Police / Education Dept — 5 zones to be divided; Monthly interaction and special occasion interaction with local people",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Thilakaraj Sir, ASWO Sathish Kolapakkam, Sathish Trichy, Siva VRS, Senapathi, Chidambaram AO",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339157",
+      "type": "Immediate",
+      "text": "[Liaison Officer] To work closely with Govt officials / Educational Dept",
+      "priority": "Medium",
+      "status": "Open",
+      "assignedTo": "Thilakaraj Sir",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    },
+    {
+      "id": "ap1777616339158",
+      "type": "Immediate",
+      "text": "[Process Owners] visit points / ppt / owners visit / turnaround",
+      "priority": "High",
+      "status": "Open",
+      "assignedTo": "Jeya Priya Mam",
+      "timeline": "",
+      "completed": false,
+      "followUps": []
+    }
+  ],
+  "createdAt": 1777616339128,
+  "modifiedAt": 1777618533021
+}
