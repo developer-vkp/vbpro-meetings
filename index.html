@@ -625,9 +625,12 @@ async function sv2() {
   if (token) {
     return await pushToGitHub();
   } else {
-    // Only show alert if app is fully initialized (not during page load)
-    // This prevents Safari from showing alert during initialization
-    if (APP_INITIALIZED) {
+    // Only show alert if:
+    // 1. App is fully initialized (not during page load)
+    // 2. User is logged in (not on login screen)
+    // This prevents Safari from showing alert during initialization or on login page
+    const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
+    if (APP_INITIALIZED && isLoggedIn) {
       alert('⚠️ GitHub token not set. Please configure in Profile → GitHub Settings');
     }
     return false;
