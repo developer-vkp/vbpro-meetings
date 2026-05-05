@@ -380,6 +380,7 @@
 // All data is stored in GitHub only (no localStorage)
 let M=[],cid=null,ast=null,sf='all',CH={};
 let DECRYPTED_TOKEN = null;
+let APP_INITIALIZED = false;
 
 // GitHub Configuration
 const GITHUB_REPO = {
@@ -624,7 +625,11 @@ async function sv2() {
   if (token) {
     return await pushToGitHub();
   } else {
-    alert('⚠️ GitHub token not set. Please configure in Profile → GitHub Settings');
+    // Only show alert if app is fully initialized (not during page load)
+    // This prevents Safari from showing alert during initialization
+    if (APP_INITIALIZED) {
+      alert('⚠️ GitHub token not set. Please configure in Profile → GitHub Settings');
+    }
     return false;
   }
 }
@@ -1040,6 +1045,9 @@ window.addEventListener('DOMContentLoaded', async ()=>{
   ud();ral([]);
   if(M.length>0)lm(M[M.length-1].id);else nm();
   sp();
+
+  // Mark initialization as complete
+  APP_INITIALIZED = true;
 });
 
 function ud(){
