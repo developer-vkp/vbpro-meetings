@@ -418,14 +418,40 @@ function simpleDecrypt(encrypted) {
 // Load and decrypt config from GitHub
 async function loadConfig() {
   try {
-    const configUrl = `https://raw.githubusercontent.com/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/${GITHUB_REPO.branch}/config.json?t=${Date.now()}`;
-    const res = await fetch(configUrl, { cache: 'no-cache' });
+    console.log('[Safari Debug] Starting loadConfig...');
 
+    // Try raw.githubusercontent.com first
+    const configUrl = `https://raw.githubusercontent.com/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/${GITHUB_REPO.branch}/config.json?t=${Date.now()}`;
+    console.log('[Safari Debug] Fetching from:', configUrl);
+
+    let res = await fetch(configUrl, {
+      cache: 'no-cache',
+      mode: 'cors'
+    });
+
+    // If raw.githubusercontent.com fails, try GitHub API
     if (!res.ok) {
-      // Try fallback to localStorage backup
+      console.log('[Safari Debug] Raw fetch failed, trying GitHub API...');
+      const apiUrl = `https://api.github.com/repos/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/contents/config.json`;
+      const apiRes = await fetch(apiUrl, {
+        headers: { 'Accept': 'application/vnd.github.v3+json' },
+        cache: 'no-cache'
+      });
+
+      if (apiRes.ok) {
+        const data = await apiRes.json();
+        const content = atob(data.content.replace(/\s/g, ''));
+        const config = JSON.parse(content);
+        console.log('[Safari Debug] Config loaded via API');
+        return processConfig(config);
+      }
+
+      // Both methods failed - try localStorage backup
+      console.log('[Safari Debug] All fetch methods failed, trying backup...');
       const backupToken = originalGetItem('gh_token_backup');
       if (backupToken && backupToken.startsWith('ghp_')) {
         DECRYPTED_TOKEN = backupToken;
+        console.log('[Safari Debug] Token loaded from backup');
         tt('✓ Token loaded from backup (GitHub config not found)');
         return true;
       }
@@ -434,53 +460,61 @@ async function loadConfig() {
     }
 
     const config = await res.json();
-
-    if (config.github && config.github.token) {
-      if (typeof config.github.token === 'string') {
-        // Token is encrypted (base64)
-        DECRYPTED_TOKEN = simpleDecrypt(config.github.token);
-        if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
-          // Update backup to match GitHub config
-          originalSetItem('gh_token_backup', DECRYPTED_TOKEN);
-          tt('✓ Token loaded from GitHub');
-          return true;
-        } else {
-          tt('⚠️ Token decryption failed. Please set token in GitHub Settings.');
-          return false;
-        }
-      } else if (config.github.token.encrypted) {
-        // Old format - decrypt from data
-        DECRYPTED_TOKEN = simpleDecrypt(config.github.token.data);
-        if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
-          // Update backup to match GitHub config
-          originalSetItem('gh_token_backup', DECRYPTED_TOKEN);
-          tt('✓ Token loaded from GitHub');
-          return true;
-        }
-      }
-    }
-
-    // Try fallback to localStorage backup
-    const backupToken = originalGetItem('gh_token_backup');
-    if (backupToken && backupToken.startsWith('ghp_')) {
-      DECRYPTED_TOKEN = backupToken;
-      tt('✓ Token loaded from backup (no token in GitHub config)');
-      return true;
-    }
-
-    tt('⚠️ No token in config. Please set token in GitHub Settings.');
-    return false;
+    console.log('[Safari Debug] Config loaded from raw.githubusercontent.com');
+    return processConfig(config);
   } catch (e) {
+    console.error('[Safari Debug] Error in loadConfig:', e);
     // Try fallback to localStorage backup on error
     const backupToken = originalGetItem('gh_token_backup');
     if (backupToken && backupToken.startsWith('ghp_')) {
       DECRYPTED_TOKEN = backupToken;
+      console.log('[Safari Debug] Token loaded from backup after error');
       tt('✓ Token loaded from backup (GitHub error: ' + e.message + ')');
       return true;
     }
     tt('⚠️ Failed to load config: ' + e.message);
     return false;
   }
+}
+
+// Helper function to process config and decrypt token
+function processConfig(config) {
+  if (config.github && config.github.token) {
+    if (typeof config.github.token === 'string') {
+      // Token is encrypted (base64)
+      DECRYPTED_TOKEN = simpleDecrypt(config.github.token);
+      console.log('[Safari Debug] Token decrypted, starts with ghp_?', DECRYPTED_TOKEN?.startsWith('ghp_'));
+      if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
+        // Update backup to match GitHub config
+        originalSetItem('gh_token_backup', DECRYPTED_TOKEN);
+        tt('✓ Token loaded from GitHub');
+        return true;
+      } else {
+        tt('⚠️ Token decryption failed. Please set token in GitHub Settings.');
+        return false;
+      }
+    } else if (config.github.token.encrypted) {
+      // Old format - decrypt from data
+      DECRYPTED_TOKEN = simpleDecrypt(config.github.token.data);
+      if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
+        // Update backup to match GitHub config
+        originalSetItem('gh_token_backup', DECRYPTED_TOKEN);
+        tt('✓ Token loaded from GitHub');
+        return true;
+      }
+    }
+  }
+
+  // Try fallback to localStorage backup
+  const backupToken = originalGetItem('gh_token_backup');
+  if (backupToken && backupToken.startsWith('ghp_')) {
+    DECRYPTED_TOKEN = backupToken;
+    tt('✓ Token loaded from backup (no token in GitHub config)');
+    return true;
+  }
+
+  tt('⚠️ No token in config. Please set token in GitHub Settings.');
+  return false;
 }
 
 // Save encrypted token to GitHub config
