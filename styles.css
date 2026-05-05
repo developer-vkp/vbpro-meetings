@@ -1,11 +1,11 @@
 :root{
-  /* Primary Blue & White Color Scheme */
-  --color-blue-600:#2563eb;
-  --color-blue-700:#1d4ed8;
-  --color-blue-500:#3b82f6;
-  --color-blue-400:#60a5fa;
-  --color-blue-50:#eff6ff;
-  --color-blue-100:#dbeafe;
+  /* Primary Teal & White Color Scheme */
+  --color-blue-600:#0a9396;
+  --color-blue-700:#005f73;
+  --color-blue-500:#0e9c9f;
+  --color-blue-400:#12a5a8;
+  --color-blue-50:#e6f7f7;
+  --color-blue-100:#d1f0f0;
 
   /* Grays for text and borders */
   --gray-900:#111827;
@@ -26,9 +26,9 @@
   --pb0:var(--gray-900);--pb1:var(--gray-800);--pb2:var(--gray-700);--pb3:var(--gray-600);--pb4:var(--gray-500);--pb5:var(--gray-400);
   --primary:var(--color-blue-600);--primary-dark:var(--color-blue-700);--primary-light:var(--color-blue-500);
 
-  /* Gradients with blue */
-  --gh:linear-gradient(135deg,var(--color-blue-700) 0%,var(--color-blue-600) 50%,var(--color-blue-500) 100%);
-  --ghead:linear-gradient(90deg,var(--color-blue-700) 0%,var(--color-blue-600) 100%);
+  /* Gradients with teal */
+  --gh:linear-gradient(135deg, #001a26 0%, #005f73 50%, #0a9396 100%);
+  --ghead:linear-gradient(90deg, #001a26 0%, #005f73 60%, #0a9396 100%);
   --ggold:linear-gradient(135deg,#f59e0b,#fbbf24);
   --ggreen:linear-gradient(135deg,#059669,#10b981);
   --gred:linear-gradient(135deg,#dc2626,#ea580c);
@@ -127,7 +127,7 @@ body{font-family:var(--uf);font-size:var(--us);background:white;color:var(--gray
 .pva{padding:20px 20px 40px;width:100%}
 
 /* A4 DOC */
-.a4{width:794px;max-width:100%;margin:0 auto;background:#fff;box-shadow:0 8px 40px rgba(0,30,50,.2);border-radius:3px;overflow:hidden;position:relative}
+.a4{width:794px;max-width:100%;margin:0 auto;background:#fff;box-shadow:0 2px 20px rgba(0,30,50,.35);border-radius:3px;overflow:hidden;position:relative}
 .a4::before{content:'';position:absolute;top:0;left:0;right:0;height:5px;background:var(--gh)}
 .db{padding:32px 38px 36px}
 .dh{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px;padding-bottom:10px;border-bottom:2px solid var(--gray-200)}

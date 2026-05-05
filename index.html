@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+  
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
@@ -418,11 +419,8 @@ function simpleDecrypt(encrypted) {
 // Load and decrypt config from GitHub
 async function loadConfig() {
   try {
-    console.log('[Safari Debug] Starting loadConfig...');
-
     // Try raw.githubusercontent.com first
     const configUrl = `https://raw.githubusercontent.com/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/${GITHUB_REPO.branch}/config.json?t=${Date.now()}`;
-    console.log('[Safari Debug] Fetching from:', configUrl);
 
     let res = await fetch(configUrl, {
       cache: 'no-cache',
@@ -431,7 +429,6 @@ async function loadConfig() {
 
     // If raw.githubusercontent.com fails, try GitHub API
     if (!res.ok) {
-      console.log('[Safari Debug] Raw fetch failed, trying GitHub API...');
       const apiUrl = `https://api.github.com/repos/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/contents/config.json`;
       const apiRes = await fetch(apiUrl, {
         headers: { 'Accept': 'application/vnd.github.v3+json' },
@@ -442,17 +439,14 @@ async function loadConfig() {
         const data = await apiRes.json();
         const content = atob(data.content.replace(/\s/g, ''));
         const config = JSON.parse(content);
-        console.log('[Safari Debug] Config loaded via API');
         return processConfig(config);
       }
 
       // Both methods failed - try localStorage backup
-      console.log('[Safari Debug] All fetch methods failed, trying backup...');
       const backupToken = originalGetItem('gh_token_backup');
       if (backupToken && backupToken.startsWith('ghp_')) {
         DECRYPTED_TOKEN = backupToken;
-        console.log('[Safari Debug] Token loaded from backup');
-        tt('✓ Token loaded from backup (GitHub config not found)');
+        // tt('✓ Token loaded from backup (GitHub config not found)');
         return true;
       }
       tt('Config not found on GitHub. Please set token in GitHub Settings.');
@@ -460,16 +454,13 @@ async function loadConfig() {
     }
 
     const config = await res.json();
-    console.log('[Safari Debug] Config loaded from raw.githubusercontent.com');
     return processConfig(config);
   } catch (e) {
-    console.error('[Safari Debug] Error in loadConfig:', e);
     // Try fallback to localStorage backup on error
     const backupToken = originalGetItem('gh_token_backup');
     if (backupToken && backupToken.startsWith('ghp_')) {
       DECRYPTED_TOKEN = backupToken;
-      console.log('[Safari Debug] Token loaded from backup after error');
-      tt('✓ Token loaded from backup (GitHub error: ' + e.message + ')');
+      // tt('✓ Token loaded from backup (GitHub error: ' + e.message + ')');
       return true;
     }
     tt('⚠️ Failed to load config: ' + e.message);
@@ -483,11 +474,10 @@ function processConfig(config) {
     if (typeof config.github.token === 'string') {
       // Token is encrypted (base64)
       DECRYPTED_TOKEN = simpleDecrypt(config.github.token);
-      console.log('[Safari Debug] Token decrypted, starts with ghp_?', DECRYPTED_TOKEN?.startsWith('ghp_'));
       if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
         // Update backup to match GitHub config
         originalSetItem('gh_token_backup', DECRYPTED_TOKEN);
-        tt('✓ Token loaded from GitHub');
+        // tt('✓ Token loaded from GitHub');
         return true;
       } else {
         tt('⚠️ Token decryption failed. Please set token in GitHub Settings.');
@@ -499,7 +489,7 @@ function processConfig(config) {
       if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
         // Update backup to match GitHub config
         originalSetItem('gh_token_backup', DECRYPTED_TOKEN);
-        tt('✓ Token loaded from GitHub');
+        // tt('✓ Token loaded from GitHub');
         return true;
       }
     }
@@ -509,7 +499,7 @@ function processConfig(config) {
   const backupToken = originalGetItem('gh_token_backup');
   if (backupToken && backupToken.startsWith('ghp_')) {
     DECRYPTED_TOKEN = backupToken;
-    tt('✓ Token loaded from backup (no token in GitHub config)');
+    // tt('✓ Token loaded from backup (no token in GitHub config)');
     return true;
   }
 
@@ -626,7 +616,7 @@ async function ld() {
       }
       const content = new TextDecoder('utf-8').decode(bytes);
       M = JSON.parse(content);
-      tt(`✓ Loaded ${M.length} meetings from GitHub`);
+      // tt(`✓ Loaded ${M.length} meetings from GitHub`);
       return;
     } else if (res.status === 403) {
       const errorData = await res.json();
@@ -1174,19 +1164,28 @@ function bac(ap,idx){
       '<svg width="10" height="10" fill="none" stroke="var(--pb3)" stroke-width="2" viewBox="0 0 24 24" id="fu-arrow-'+ap.id+'" style="margin-left:auto;transition:transform .2s"><polyline points="6 9 12 15 18 9"/></svg>'+
     '</div>'+
     '<div id="fu-body-'+ap.id+'" style="display:none">'+
-      '<div id="fu-list-'+ap.id+'" style="display:flex;flex-direction:column;gap:5px;margin-bottom:7px">'+
+      '<div id="fu-list-'+ap.id+'" style="display:flex;flex-direction:column;gap:8px;margin-bottom:10px">'+
         (ap.followUps||[]).map((fu,fi)=>
-          '<div style="background:linear-gradient(90deg,#f0fbfa,#f8fdfd);border:1px solid #c8e8ed;border-left:3px solid var(--pb4);border-radius:6px;padding:6px 10px;font-size:11px">'+
-          '<div style="display:flex;justify-content:space-between;margin-bottom:2px">'+
-          '<span style="font-size:9.5px;font-weight:600;color:var(--pb3);font-family:var(--fm)">'+(fu.date||'')+'</span>'+
-          '<button onclick="removeFU(\''+ap.id+'\','+fi+')" style="background:none;border:none;font-size:11px;color:var(--slate);cursor:pointer;padding:0 2px">×</button>'+
-          '</div>'+eh(fu.text)+'</div>'
+          '<div style="background:white;border:2px solid #d1f0f0;border-left:4px solid var(--primary);border-radius:8px;padding:12px 14px">'+
+          '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">'+
+          '<span style="font-size:13px;font-weight:600;color:var(--primary);font-family:var(--fb)">'+(fu.date||'')+'</span>'+
+          '<div style="display:flex;gap:6px">'+
+          '<button onclick="editFU(\''+ap.id+'\','+fi+')" style="padding:4px 10px;background:white;border:1.5px solid var(--primary);border-radius:6px;color:var(--primary);font-size:11px;font-weight:600;cursor:pointer;font-family:var(--fb);display:flex;align-items:center;gap:4px" title="Edit">'+
+          '<svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>'+
+          'Edit</button>'+
+          '<button onclick="removeFU(\''+ap.id+'\','+fi+')" style="padding:4px 10px;background:white;border:1.5px solid #ef4444;border-radius:6px;color:#ef4444;font-size:11px;font-weight:600;cursor:pointer;font-family:var(--fb);display:flex;align-items:center;gap:4px" title="Delete">'+
+          '<svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>'+
+          'Del</button>'+
+          '</div>'+
+          '</div>'+
+          '<div style="color:var(--gray-700);font-size:12.5px;line-height:1.5">'+eh(fu.text)+'</div>'+
+          '</div>'
         ).join('')+
       '</div>'+
       '<div style="display:flex;gap:6px;align-items:center">'+
         '<input type="date" id="fu-date-'+ap.id+'" value="'+new Date().toISOString().slice(0,10)+'" style="padding:5px 8px;border:1.5px solid #d0e4ea;border-radius:6px;font-size:11px;outline:none;font-family:var(--fm)">'+
         '<input type="text" id="fu-text-'+ap.id+'" placeholder="Update note…" style="flex:1;padding:5px 9px;border:1.5px solid #d0e4ea;border-radius:6px;font-family:var(--uf);font-size:11.5px;outline:none" onkeydown="if(event.key===\'Enter\')addFU(\''+ap.id+'\')">'+
-        '<button onclick="addFU(\''+ap.id+'\')" style="padding:5px 10px;background:var(--pb3);border:none;border-radius:6px;color:#fff;font-size:11px;font-weight:600;cursor:pointer">+ Add</button>'+
+        '<button onclick="addFU(\''+ap.id+'\')" style="padding:5px 10px;background:var(--primary);border:none;border-radius:6px;color:#fff;font-size:11px;font-weight:600;cursor:pointer">+ Add</button>'+
       '</div>'+
     '</div>'+
   '</div>';
@@ -2124,24 +2123,17 @@ function openGitHubSettings(event) {
   document.getElementById('githubModal').classList.add('show');
 
   // Load saved token - Safari fix: use getToken() which checks DECRYPTED_TOKEN first
-  console.log('[Safari Debug] openGitHubSettings - DECRYPTED_TOKEN:', DECRYPTED_TOKEN ? '(exists)' : '(null)');
-  console.log('[Safari Debug] openGitHubSettings - backup token:', originalGetItem('gh_token_backup') ? '(exists)' : '(null)');
-
   const token = getToken();
-  console.log('[Safari Debug] openGitHubSettings - final token:', token ? `${token.substring(0, 10)}...` : '(empty)');
-
   document.getElementById('githubToken').value = token;
 
   // Show token status indicator
   const statusEl = document.getElementById('tokenStatus');
   if (token && token.startsWith('ghp_')) {
-    console.log('[Safari Debug] Showing: Token loaded ✓');
     statusEl.textContent = '✓ Token loaded from GitHub config';
     statusEl.style.background = '#dcfce7';
     statusEl.style.color = '#166534';
     statusEl.style.display = 'block';
   } else {
-    console.log('[Safari Debug] Showing: No token configured ⚠️');
     statusEl.textContent = '⚠️ No token configured';
     statusEl.style.background = '#fef3c7';
     statusEl.style.color = '#92400e';
@@ -2340,13 +2332,66 @@ function removeFU(apId,idx){
   if(cnt){cnt.textContent=ap.followUps.length;cnt.style.display=ap.followUps.length>0?'inline':'none';}
   const list=document.getElementById('fu-list-'+apId);
   if(list) list.innerHTML=ap.followUps.map((fu,fi)=>
-    '<div style="background:linear-gradient(90deg,#f0fbfa,#f8fdfd);border:1px solid #c8e8ed;border-left:3px solid var(--pb4);border-radius:6px;padding:6px 10px;font-size:11.5px">'+
-    '<div style="display:flex;justify-content:space-between;margin-bottom:2px">'+
-    '<span style="font-size:9.5px;font-weight:600;color:var(--pb3);font-family:var(--fm)">'+(fu.date||'')+'</span>'+
-    '<button onclick="removeFU(\''+apId+'\','+fi+')" style="background:none;border:none;font-size:11px;color:var(--slate);cursor:pointer;padding:0 2px">×</button>'+
-    '</div><span style="color:#2a3d46">'+eh(fu.text)+'</span></div>'
+    '<div style="background:white;border:2px solid #d1f0f0;border-left:4px solid var(--primary);border-radius:8px;padding:12px 14px">'+
+    '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">'+
+    '<span style="font-size:13px;font-weight:600;color:var(--primary);font-family:var(--fb)">'+(fu.date||'')+'</span>'+
+    '<div style="display:flex;gap:6px">'+
+    '<button onclick="editFU(\''+apId+'\','+fi+')" style="padding:4px 10px;background:white;border:1.5px solid var(--primary);border-radius:6px;color:var(--primary);font-size:11px;font-weight:600;cursor:pointer;font-family:var(--fb);display:flex;align-items:center;gap:4px" title="Edit">'+
+    '<svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>'+
+    'Edit</button>'+
+    '<button onclick="removeFU(\''+apId+'\','+fi+')" style="padding:4px 10px;background:white;border:1.5px solid #ef4444;border-radius:6px;color:#ef4444;font-size:11px;font-weight:600;cursor:pointer;font-family:var(--fb);display:flex;align-items:center;gap:4px" title="Delete">'+
+    '<svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>'+
+    'Del</button>'+
+    '</div>'+
+    '</div>'+
+    '<div style="color:var(--gray-700);font-size:12.5px;line-height:1.5">'+eh(fu.text)+'</div>'+
+    '</div>'
   ).join('');
   as();
+}
+
+function editFU(apId,idx){
+  const m=M.find(x=>x.id===cid);if(!m)return;
+  const ap=m.actionPoints.find(a=>a.id===apId);if(!ap||!ap.followUps||!ap.followUps[idx])return;
+  const fu=ap.followUps[idx];
+  const dateEl=document.getElementById('fu-date-'+apId);
+  const textEl=document.getElementById('fu-text-'+apId);
+  const addBtn=document.querySelector('#fu-body-'+apId+' button[onclick*="addFU"]');
+  if(dateEl)dateEl.value=fu.date||'';
+  if(textEl){textEl.value=fu.text||'';textEl.focus();}
+  if(addBtn){
+    addBtn.textContent='Update';
+    addBtn.style.background='var(--primary-dark)';
+    addBtn.onclick=function(){
+      const newDate=dateEl?dateEl.value:'';
+      const newText=(textEl&&textEl.value.trim())||'';
+      if(!newText)return;
+      ap.followUps[idx]={date:newDate,text:newText,addedAt:fu.addedAt,updatedAt:Date.now()};
+      if(textEl)textEl.value='';
+      if(dateEl)dateEl.value=new Date().toISOString().slice(0,10);
+      addBtn.textContent='+ Add';
+      addBtn.style.background='var(--primary)';
+      addBtn.onclick=function(){addFU(apId);};
+      const list=document.getElementById('fu-list-'+apId);
+      if(list) list.innerHTML=ap.followUps.map((fu,fi)=>
+        '<div style="background:white;border:2px solid #d1f0f0;border-left:4px solid var(--primary);border-radius:8px;padding:12px 14px">'+
+        '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">'+
+        '<span style="font-size:13px;font-weight:600;color:var(--primary);font-family:var(--fb)">'+(fu.date||'')+'</span>'+
+        '<div style="display:flex;gap:6px">'+
+        '<button onclick="editFU(\''+apId+'\','+fi+')" style="padding:4px 10px;background:white;border:1.5px solid var(--primary);border-radius:6px;color:var(--primary);font-size:11px;font-weight:600;cursor:pointer;font-family:var(--fb);display:flex;align-items:center;gap:4px" title="Edit">'+
+        '<svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>'+
+        'Edit</button>'+
+        '<button onclick="removeFU(\''+apId+'\','+fi+')" style="padding:4px 10px;background:white;border:1.5px solid #ef4444;border-radius:6px;color:#ef4444;font-size:11px;font-weight:600;cursor:pointer;font-family:var(--fb);display:flex;align-items:center;gap:4px" title="Delete">'+
+        '<svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>'+
+        'Del</button>'+
+        '</div>'+
+        '</div>'+
+        '<div style="color:var(--gray-700);font-size:12.5px;line-height:1.5">'+eh(fu.text)+'</div>'+
+        '</div>'
+      ).join('');
+      as();sp();
+    };
+  }
 }
 
 /* ═══════════════════════════════════════════════════════
@@ -2959,7 +3004,7 @@ function renderFinanceTabs(m) {
       <div class="fw"><label class="fl">Update Note</label>
         <textarea class="fta" id="ftab-text" rows="3" placeholder="What happened today? e.g. Rajesh Sir confirmed — amount collected ₹2.4L…"></textarea>
       </div>
-      <button onclick="addFinanceFU()" style="padding:10px;background:var(--gh);border:none;border-radius:8px;color:#fff;font-family:var(--fb);font-size:13px;font-weight:600;cursor:pointer">+ Add Update</button>
+      <button onclick="addFinanceFU()" style="padding:10px;background:var(--primary);border:none;border-radius:8px;color:#fff;font-family:var(--fb);font-size:13px;font-weight:600;cursor:pointer">+ Add Update</button>
     </div>
   </div>`;
 
