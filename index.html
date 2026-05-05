@@ -671,13 +671,18 @@ async function sv2() {
 let isSavingMeetings = false;
 
 async function pushToGitHub() {
+  // If already saving, wait and retry instead of failing immediately
   if (isSavingMeetings) {
-    return false;
+    await new Promise(resolve => setTimeout(resolve, 300));
+    if (isSavingMeetings) return false; // Still busy after wait
   }
 
   const token = getToken();
   if (!token) {
-    tt('⚠️ Set GitHub token in Profile → GitHub Settings');
+    // Only show error if app is initialized (not during startup)
+    if (APP_INITIALIZED) {
+      tt('⚠️ Set GitHub token in Profile → GitHub Settings');
+    }
     return false;
   }
 
@@ -727,11 +732,20 @@ async function pushToGitHub() {
         return await pushToGitHub();
       }
 
+      // GitHub API rate limit
+      if (putRes.status === 403 && err.message && err.message.includes('rate limit')) {
+        isSavingMeetings = false;
+        if (APP_INITIALIZED) tt('⚠️ GitHub rate limit - wait a moment');
+        return false;
+      }
+
       isSavingMeetings = false;
+      if (APP_INITIALIZED) tt('⚠️ Save failed - GitHub error: ' + (err.message || putRes.status));
       return false;
     }
   } catch (e) {
     isSavingMeetings = false;
+    if (APP_INITIALIZED) tt('⚠️ Save failed - Network error');
     return false;
   }
 }
@@ -1263,9 +1277,10 @@ function as(){
     if (success) {
       sas('saved');sp();
     } else {
-      sas('error');tt('✗ Auto-save failed');
+      sas('error');
+      // Specific error already shown by sv2/pushToGitHub
     }
-  },500);
+  },1000); // Increased from 500ms to 1000ms to reduce rapid saves
 }
 
 function sas(s){
