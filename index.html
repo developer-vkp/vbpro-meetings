@@ -2119,17 +2119,24 @@ function openGitHubSettings(event) {
   document.getElementById('githubModal').classList.add('show');
 
   // Load saved token
+  console.log('[Safari Debug] openGitHubSettings - DECRYPTED_TOKEN:', DECRYPTED_TOKEN ? '(exists)' : '(null)');
+  console.log('[Safari Debug] openGitHubSettings - backup token:', originalGetItem('gh_token_backup') ? '(exists)' : '(null)');
+
   const token = localStorage.getItem('gh_token') || '';
+  console.log('[Safari Debug] openGitHubSettings - token from localStorage.getItem:', token ? `${token.substring(0, 10)}...` : '(empty)');
+
   document.getElementById('githubToken').value = token;
 
   // Show token status indicator
   const statusEl = document.getElementById('tokenStatus');
   if (token && token.startsWith('ghp_')) {
+    console.log('[Safari Debug] Showing: Token loaded ✓');
     statusEl.textContent = '✓ Token loaded from GitHub config';
     statusEl.style.background = '#dcfce7';
     statusEl.style.color = '#166534';
     statusEl.style.display = 'block';
   } else {
+    console.log('[Safari Debug] Showing: No token configured ⚠️');
     statusEl.textContent = '⚠️ No token configured';
     statusEl.style.background = '#fef3c7';
     statusEl.style.color = '#92400e';
