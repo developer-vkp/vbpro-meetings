@@ -363,6 +363,7 @@
       <div class="fw" style="margin-bottom:16px">
         <label class="fl">GitHub Personal Access Token</label>
         <input type="password" class="fi" id="githubToken" placeholder="ghp_..." value="">
+        <div id="tokenStatus" style="font-size:11px;margin-top:6px;padding:6px 10px;border-radius:4px;display:none"></div>
         <div style="font-size:10px;color:var(--gray-600);margin-top:4px">
           Get token: <a href="https://github.com/settings/tokens" target="_blank" style="color:var(--color-blue-600)">GitHub Settings → Tokens</a> (needs 'repo' scope)
         </div>
@@ -2086,6 +2087,20 @@ function openGitHubSettings(event) {
   // Load saved token
   const token = localStorage.getItem('gh_token') || '';
   document.getElementById('githubToken').value = token;
+
+  // Show token status indicator
+  const statusEl = document.getElementById('tokenStatus');
+  if (token && token.startsWith('ghp_')) {
+    statusEl.textContent = '✓ Token loaded from GitHub config';
+    statusEl.style.background = '#dcfce7';
+    statusEl.style.color = '#166534';
+    statusEl.style.display = 'block';
+  } else {
+    statusEl.textContent = '⚠️ No token configured';
+    statusEl.style.background = '#fef3c7';
+    statusEl.style.color = '#92400e';
+    statusEl.style.display = 'block';
+  }
 }
 
 function closeGitHubSettings() {
