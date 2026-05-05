@@ -1904,10 +1904,17 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-05",
+            "text": "test",
+            "addedAt": 1777979062265
+          }
+        ]
       }
     ],
     "createdAt": 1777972549051,
-    "modifiedAt": 1777978557868
+    "modifiedAt": 1777979062265
   }
 ]
