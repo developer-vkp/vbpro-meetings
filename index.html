@@ -587,11 +587,16 @@ localStorage.setItem = function(key, value) {
   return originalSetItem(key, value);
 };
 
+// Safari-compatible token getter (Safari doesn't respect localStorage override)
+function getToken() {
+  return DECRYPTED_TOKEN || originalGetItem('gh_token_backup') || originalGetItem('gh_token') || '';
+}
+
 // Load data - Only from GitHub (using API for better cache control)
 async function ld() {
   try {
     const apiUrl = `https://api.github.com/repos/${GITHUB_REPO.owner}/${GITHUB_REPO.repo}/contents/${GITHUB_REPO.file}?ref=${GITHUB_REPO.branch}`;
-    const token = localStorage.getItem('gh_token');
+    const token = getToken();
 
     if (!token) {
       tt('⚠️ No token available for data load');
@@ -656,7 +661,7 @@ async function ld() {
 // Save to GitHub only
 async function sv2() {
   // Push to GitHub if token is set
-  const token = localStorage.getItem('gh_token');
+  const token = getToken();
   if (token) {
     return await pushToGitHub();
   } else {
@@ -680,7 +685,7 @@ async function pushToGitHub() {
     return false;
   }
 
-  const token = localStorage.getItem('gh_token');
+  const token = getToken();
   if (!token) {
     tt('⚠️ Set GitHub token in Profile → GitHub Settings');
     return false;
@@ -2118,12 +2123,12 @@ function openGitHubSettings(event) {
   document.getElementById('profileDropdown').classList.remove('show');
   document.getElementById('githubModal').classList.add('show');
 
-  // Load saved token
+  // Load saved token - Safari fix: use getToken() which checks DECRYPTED_TOKEN first
   console.log('[Safari Debug] openGitHubSettings - DECRYPTED_TOKEN:', DECRYPTED_TOKEN ? '(exists)' : '(null)');
   console.log('[Safari Debug] openGitHubSettings - backup token:', originalGetItem('gh_token_backup') ? '(exists)' : '(null)');
 
-  const token = localStorage.getItem('gh_token') || '';
-  console.log('[Safari Debug] openGitHubSettings - token from localStorage.getItem:', token ? `${token.substring(0, 10)}...` : '(empty)');
+  const token = getToken();
+  console.log('[Safari Debug] openGitHubSettings - final token:', token ? `${token.substring(0, 10)}...` : '(empty)');
 
   document.getElementById('githubToken').value = token;
 
@@ -3385,7 +3390,7 @@ const GITHUB_USERS_FILE = {
 async function loadUsers() {
   try {
     const apiUrl = `https://api.github.com/repos/${GITHUB_USERS_FILE.owner}/${GITHUB_USERS_FILE.repo}/contents/${GITHUB_USERS_FILE.file}?ref=${GITHUB_USERS_FILE.branch}`;
-    const token = localStorage.getItem('gh_token');
+    const token = getToken();
 
     const headers = {
       'Accept': 'application/vnd.github.v3+json'
@@ -3424,7 +3429,7 @@ async function saveUsersToGitHub() {
     return false;
   }
 
-  const token = localStorage.getItem('gh_token');
+  const token = getToken();
   if (!token) {
     tt('⚠️ GitHub token required to save users');
     return false;
