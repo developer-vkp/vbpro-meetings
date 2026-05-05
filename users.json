@@ -6,5 +6,13 @@
     "password": "Devi@123",
     "role": "admin",
     "createdAt": "2026-05-05T10:49:07.532Z"
+  },
+  {
+    "id": "u1777997394950",
+    "name": "Saran M",
+    "email": "yahitzsaran@gmail.com",
+    "password": "12345678",
+    "role": "admin",
+    "createdAt": "2026-05-05T16:09:54.950Z"
   }
 ]
