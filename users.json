@@ -14,5 +14,13 @@
     "password": "12345678",
     "role": "admin",
     "createdAt": "2026-05-05T16:09:54.950Z"
+  },
+  {
+    "id": "u1777997454260",
+    "name": "Ramya",
+    "email": "ramya_a@vkp.co.in",
+    "password": "12345678",
+    "role": "user",
+    "createdAt": "2026-05-05T16:10:54.260Z"
   }
 ]
