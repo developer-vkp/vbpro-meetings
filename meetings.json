@@ -1905,10 +1905,16 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-05-05",
+            "text": "eeee",
+            "addedAt": 1777979349617
+          }
+        ]
       }
     ],
     "createdAt": 1777972549051,
-    "modifiedAt": 1777979338782
+    "modifiedAt": 1777979349617
   }
 ]
