@@ -1887,34 +1887,5 @@
     ],
     "createdAt": 1777881146689,
     "modifiedAt": 1777897786792
-  },
-  {
-    "id": "m1777972549051_ia5",
-    "date": "2026-05-05",
-    "day": "",
-    "title": "Imported Meeting",
-    "campus": "All Campus",
-    "category": "Admin",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-05-05",
-            "text": "eeee",
-            "addedAt": 1777979377349
-          }
-        ]
-      }
-    ],
-    "createdAt": 1777972549051,
-    "modifiedAt": 1777997509670
   }
 ]
