@@ -22,5 +22,13 @@
     "password": "12345678",
     "role": "user",
     "createdAt": "2026-05-05T16:10:54.260Z"
+  },
+  {
+    "id": "u1777997677021",
+    "name": "Central Office",
+    "email": "centraloffice@vkp.co.in",
+    "password": "12345678",
+    "role": "user",
+    "createdAt": "2026-05-05T16:14:37.021Z"
   }
 ]
