@@ -1895,8 +1895,19 @@
     "title": "Imported Meeting",
     "campus": "All Campus",
     "category": "Admin",
-    "actionPoints": [],
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
     "createdAt": 1777972549051,
-    "modifiedAt": 1777974564770
+    "modifiedAt": 1777976451378
   }
 ]
