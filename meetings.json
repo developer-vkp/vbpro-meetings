@@ -1865,27 +1865,5 @@
     ],
     "createdAt": 1777878664742,
     "modifiedAt": 1777997450658
-  },
-  {
-    "id": "imp_1777881146689_0",
-    "date": "2026-05-04",
-    "day": "Monday",
-    "title": "Fee Collection - Review",
-    "campus": "Coimbatore",
-    "category": "Staff / HR",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "test",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "2026-05-04",
-        "completed": false
-      }
-    ],
-    "createdAt": 1777881146689,
-    "modifiedAt": 1777897786792
   }
 ]
