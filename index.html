@@ -420,6 +420,13 @@ async function loadConfig() {
     const res = await fetch(configUrl, { cache: 'no-cache' });
 
     if (!res.ok) {
+      // Try fallback to localStorage backup
+      const backupToken = originalGetItem('gh_token_backup');
+      if (backupToken && backupToken.startsWith('ghp_')) {
+        DECRYPTED_TOKEN = backupToken;
+        tt('✓ Token loaded from backup (GitHub config not found)');
+        return true;
+      }
       tt('Config not found on GitHub. Please set token in GitHub Settings.');
       return false;
     }
@@ -431,6 +438,8 @@ async function loadConfig() {
         // Token is encrypted (base64)
         DECRYPTED_TOKEN = simpleDecrypt(config.github.token);
         if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
+          // Update backup to match GitHub config
+          originalSetItem('gh_token_backup', DECRYPTED_TOKEN);
           tt('✓ Token loaded from GitHub');
           return true;
         } else {
@@ -441,15 +450,32 @@ async function loadConfig() {
         // Old format - decrypt from data
         DECRYPTED_TOKEN = simpleDecrypt(config.github.token.data);
         if (DECRYPTED_TOKEN && DECRYPTED_TOKEN.startsWith('ghp_')) {
+          // Update backup to match GitHub config
+          originalSetItem('gh_token_backup', DECRYPTED_TOKEN);
           tt('✓ Token loaded from GitHub');
           return true;
         }
       }
     }
 
+    // Try fallback to localStorage backup
+    const backupToken = originalGetItem('gh_token_backup');
+    if (backupToken && backupToken.startsWith('ghp_')) {
+      DECRYPTED_TOKEN = backupToken;
+      tt('✓ Token loaded from backup (no token in GitHub config)');
+      return true;
+    }
+
     tt('⚠️ No token in config. Please set token in GitHub Settings.');
     return false;
   } catch (e) {
+    // Try fallback to localStorage backup on error
+    const backupToken = originalGetItem('gh_token_backup');
+    if (backupToken && backupToken.startsWith('ghp_')) {
+      DECRYPTED_TOKEN = backupToken;
+      tt('✓ Token loaded from backup (GitHub error: ' + e.message + ')');
+      return true;
+    }
     tt('⚠️ Failed to load config: ' + e.message);
     return false;
   }
@@ -2065,17 +2091,20 @@ async function saveGitHubSettings() {
 
     if (success) {
       DECRYPTED_TOKEN = token;
+      // Save to localStorage as backup in case GitHub config load fails on next page load
+      originalSetItem('gh_token_backup', token);
       showGitHubStatus('✓ Token encrypted and saved to GitHub!', 'success');
       setTimeout(() => {
         closeGitHubSettings();
         tt('✓ Token saved securely! Refresh to use it.');
-        setTimeout(() => location.reload(), 1000);
+        setTimeout(() => location.reload(), 2000);
       }, 1500);
     } else {
       showGitHubStatus('✗ Failed to save token to GitHub', 'error');
     }
   } else {
     localStorage.removeItem('gh_token');
+    originalSetItem('gh_token_backup', '');
     showGitHubStatus('⚠️ Token removed. GitHub sync disabled.', 'warning');
   }
 }
