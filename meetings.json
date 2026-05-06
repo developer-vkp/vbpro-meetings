@@ -2083,7 +2083,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778051335679
+    "modifiedAt": 1778051767705
   },
   {
     "id": "m1778046393434_qtk",
@@ -2442,14 +2442,7 @@
         "status": "Open",
         "assignedTo": "sangeetha mam",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-05-06",
-            "text": "CORE TEAM 2026-2027",
-            "addedAt": 1778051767275
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap64",
@@ -2533,6 +2526,6 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778051767276
+    "modifiedAt": 1778049664747
   }
 ]
