@@ -6,5 +6,37 @@
     "password": "Devi@123",
     "role": "admin",
     "createdAt": "2026-05-05T10:49:07.532Z"
+  },
+  {
+    "id": "u1777997394950",
+    "name": "Saran M",
+    "email": "yahitzsaran@gmail.com",
+    "password": "12345678",
+    "role": "admin",
+    "createdAt": "2026-05-05T16:09:54.950Z"
+  },
+  {
+    "id": "u1777997454260",
+    "name": "Ramya",
+    "email": "ramya_a@vkp.co.in",
+    "password": "12345678",
+    "role": "user",
+    "createdAt": "2026-05-05T16:10:54.260Z"
+  },
+  {
+    "id": "u1777997677021",
+    "name": "Central Office",
+    "email": "centraloffice@vkp.co.in",
+    "password": "12345678",
+    "role": "user",
+    "createdAt": "2026-05-05T16:14:37.021Z"
+  },
+  {
+    "id": "u1778050596783",
+    "name": "devi",
+    "email": "user@gmail.com",
+    "password": "Devi@123",
+    "role": "user",
+    "createdAt": "2026-05-06T06:56:36.783Z"
   }
 ]
