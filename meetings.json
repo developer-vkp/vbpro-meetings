@@ -1932,7 +1932,14 @@
         "status": "Open",
         "assignedTo": "SARAVANAN SIR",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-06",
+            "text": "Zoom - May 19 - Mains 99% students - Advance performance with IIT Sr staff all campus",
+            "addedAt": 1778051295099
+          }
+        ]
       },
       {
         "id": "ap2",
@@ -2076,7 +2083,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778051290179
+    "modifiedAt": 1778051295099
   },
   {
     "id": "m1778045949058_5ek",
