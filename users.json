@@ -30,5 +30,13 @@
     "password": "12345678",
     "role": "user",
     "createdAt": "2026-05-05T16:14:37.021Z"
+  },
+  {
+    "id": "u1778050596783",
+    "name": "devi",
+    "email": "user@gmail.com",
+    "password": "Devi@123",
+    "role": "user",
+    "createdAt": "2026-05-06T06:56:36.783Z"
   }
 ]
