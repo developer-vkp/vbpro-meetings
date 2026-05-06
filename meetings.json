@@ -2592,7 +2592,7 @@
       {
         "id": "ap66",
         "type": "Immediate",
-        "text": "Ology tech activity Sarvnan - MS.ARUNA / MR.SARAVAN SIR",
+        "text": "Ology tech activity Sarvnan ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "MS.ARUNA / MR.SARAVAN SIR",
@@ -2601,6 +2601,6 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778049374777
+    "modifiedAt": 1778049378787
   }
 ]
