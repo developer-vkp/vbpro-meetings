@@ -2595,8 +2595,18 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "",
+        "text": "daily accountants capex call",
         "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -2604,6 +2614,28 @@
       }
     ],
     "createdAt": 1778053761492,
-    "modifiedAt": 1778053856425
+    "modifiedAt": 1778053874373
+  },
+  {
+    "id": "m1778053865204_shc",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778053865204,
+    "modifiedAt": 1778053865204
   }
 ]
