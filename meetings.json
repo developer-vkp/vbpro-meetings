@@ -1918,8 +1918,8 @@
   },
   {
     "id": "m1778045142491_67z",
-    "date": "2026-04-30",
-    "day": "Thursday",
+    "date": "2026-05-06",
+    "day": "Wednesday",
     "title": "Director sir meeting (ZOOM) - Admin",
     "campus": "SENIOR PRINICIPAL SIR",
     "category": "Academics",
@@ -2083,7 +2083,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778052802162
+    "modifiedAt": 1778071265682
   },
   {
     "id": "m1778046393434_qtk",
@@ -2896,6 +2896,6 @@
       }
     ],
     "createdAt": 1778071064068,
-    "modifiedAt": 1778071253457
+    "modifiedAt": 1778071064068
   }
 ]
