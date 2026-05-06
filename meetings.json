@@ -1743,7 +1743,7 @@
     "date": "2026-05-01",
     "day": "Friday",
     "title": "Zonal Heads - Meeting",
-    "campus": "Coimbatore",
+    "campus": "All School",
     "category": "Zonal Heads",
     "actionPoints": [
       {
@@ -1914,6 +1914,6 @@
       }
     ],
     "createdAt": 1777878664742,
-    "modifiedAt": 1778040593165
+    "modifiedAt": 1778040597190
   }
 ]
