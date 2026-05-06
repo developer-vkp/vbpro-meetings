@@ -323,3 +323,16 @@ body{font-family:var(--uf);font-size:var(--us);background:white;color:var(--gray
 .login-footer-text{font-size:11px;color:var(--gray-600);font-family:var(--fb)}
 .login-error{background:rgba(220,38,38,.05);border:1px solid rgba(220,38,38,.2);border-radius:8px;padding:12px 14px;color:var(--red);font-size:12px;font-family:var(--fb);display:none}
 .login-error.show{display:block}
+
+/* Toggle Switch */
+.toggle-switch input:checked + span {
+  background-color: #0a9396;
+}
+
+.toggle-switch input:checked + span + span {
+  transform: translateX(20px);
+}
+
+.toggle-switch span {
+  transition: 0.3s;
+}

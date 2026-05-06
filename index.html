@@ -13,6 +13,8 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.31/jspdf.plugin.autotable.min.js"></script>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -25,6 +27,7 @@
   </div>
   <nav class="hn">
     <button class="nt active" onclick="sv('entry',this)">📝 Entry</button>
+    <button class="nt" onclick="sv('newmeeting',this)">➕ New Meeting</button>
     <button class="nt" onclick="sv('sum',this)">📋 Summary</button>
     <button class="nt" onclick="sv('search',this)">🔍 Search</button>
     <button class="nt" onclick="sv('analytics',this)">📊 Analytics</button>
@@ -52,7 +55,7 @@
           </div>
         </div>
         <div class="profile-divider"></div>
-        <a href="#" class="profile-item" onclick="openUserManagement(event)">
+        <a href="#" class="profile-item" id="userManagementMenuItem" onclick="openUserManagement(event)">
           <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
             <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
             <circle cx="9" cy="7" r="4"></circle>
@@ -68,7 +71,7 @@
             <polyline points="7 10 12 15 17 10"/>
             <line x1="12" y1="15" x2="12" y2="3"/>
           </svg>
-          Export Current
+          Export
         </a>
         <a href="#" class="profile-item" onclick="dlTemplate(); toggleProfileDropdown(event)">
           <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
@@ -87,15 +90,8 @@
           </svg>
           Import File
         </a>
-        <a href="#" class="profile-item" onclick="pasteJSON(event)">
-          <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-            <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path>
-            <rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect>
-          </svg>
-          Paste JSON Data
-        </a>
         <div class="profile-divider"></div>
-        <a href="#" class="profile-item" onclick="openGitHubSettings(event)">
+        <a href="#" class="profile-item" id="githubSettingsMenuItem" onclick="openGitHubSettings(event)">
           <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
             <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
           </svg>
@@ -174,32 +170,98 @@
     <main class="rp">
       <div class="pvt">
         <span class="pvl">Live A4 Preview</span>
-        <div style="display:flex;gap:8px;align-items:center">
-          <select class="hs" id="cols" onchange="sp()" style="font-size:11px;padding:4px 8px">
-            <option value="1">1 Column</option><option value="2">2 Columns</option><option value="3">3 Columns</option>
-          </select>
-          <button class="bpr" onclick="window.print()">
-            <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>Print / PDF
-          </button>
-        </div>
       </div>
       <div class="pva"><div class="a4" id="pvdoc"><div class="db"><div class="de"><div class="dei">📋</div><div class="det">Fill the form to see live preview</div></div></div></div></div>
     </main>
   </div>
 </div>
 
+<!-- NEW MEETING VIEW -->
+<div id="vnew" class="vw">
+  <div class="sl">
+    <aside class="lp">
+      <div class="ph"><div class="pt">➕ New Meeting</div><div class="ps">Create a new meeting record with action points</div></div>
+      <div class="fb">
+        <div class="fs">
+          <div class="fsh">📅 Meeting Details</div>
+          <div class="fsb">
+            <div class="fr">
+              <div class="fw"><label class="fl">Date</label><input type="date" class="fi" id="newfd"></div>
+              <div class="fw"><label class="fl">Day</label><input type="text" class="fi" id="newfday" readonly style="background:#f0f8fa;color:var(--pb2);font-weight:600"></div>
+            </div>
+            <div class="fw"><label class="fl">Meeting Title</label><input type="text" class="fi" id="newftit" placeholder="e.g. Director Sir Follow-Up Review" oninput="spNew()"></div>
+            <div class="fr">
+              <div class="fw">
+                <label class="fl">Campus / School</label>
+                <select class="fse" id="newfcamp" onchange="spNew()">
+                  <option value="All Campus">All Campus</option><option value="All School">All School</option>
+                  <option value="Namakkal">Namakkal</option><option value="Coimbatore">Coimbatore</option>
+                  <option value="Vellore">Vellore</option><option value="Trichy">Trichy</option>
+                  <option value="Erode">Erode</option><option value="Tondiarpet">Tondiarpet</option>
+                  <option value="Kallakurichi">Kallakurichi</option><option value="Pondicherry">Pondicherry</option>
+                  <option value="Central Office">Central Office</option>
+                </select>
+              </div>
+              <div class="fw">
+                <label class="fl">Category</label>
+                <select class="fse" id="newfcat" onchange="spNew()">
+                  <option>Academics</option><option>Admin</option><option>Marketing / Admission</option>
+                  <option>Competition</option><option>ECA</option><option>Finance / Fee</option>
+                  <option>IIT / NEET</option><option>Staff / HR</option><option>Infrastructure</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="background:#e6f7f7;border:1px solid #d0e4ea;border-radius:12px;padding:16px;margin-bottom:16px">
+          <div style="font-size:16px;font-weight:700;color:#0a9396;margin-bottom:16px;letter-spacing:0.3px">⚡ ACTION POINTS</div>
+          <div id="newapl"></div>
+          <button onclick="addNewAP()" style="width:100%;padding:12px;background:white;border:2px dashed #0a9396;border-radius:10px;color:#0a9396;font-family:var(--fb);font-size:13px;font-weight:600;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;margin-top:16px;transition:all 0.2s" onmouseover="this.style.background='#f0f9f9'" onmouseout="this.style.background='white'">
+            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+            Add Action Point
+          </button>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px">
+          <button class="bs" onclick="cancelNewMeeting()">Cancel</button>
+          <button class="bsm" onclick="saveNewMeeting()">💾 Create & Save</button>
+        </div>
+      </div>
+      <div class="asb"><div class="asd"></div><span>Ready to create new meeting</span></div>
+    </aside>
+    <main class="rp">
+      <div class="pvt">
+        <span class="pvl">Live Preview</span>
+      </div>
+      <div class="pva"><div class="a4" id="newpvdoc"><div class="db"><div class="de"><div class="dei">📋</div><div class="det">Fill the form to see preview</div></div></div></div></div>
+    </main>
+  </div>
+</div>
+
 <!-- SUMMARY VIEW -->
 <div id="vsum" class="vw">
-  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;padding-top:4px">
-    <div>
-      <h1 style="font-family:var(--fd);font-size:28px;color:var(--gray-900);margin:0 0 8px 0;font-weight:700;line-height:1.2">All Meetings</h1>
-      <div style="font-size:14px;color:var(--gray-600);font-weight:500" id="scnt">0 meetings</div>
+  <div style="margin-bottom:20px;padding-top:4px">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
+      <div>
+        <h1 style="font-family:var(--fd);font-size:28px;color:var(--gray-900);margin:0 0 8px 0;font-weight:700;line-height:1.2">All Meetings</h1>
+        <div style="font-size:14px;color:var(--gray-600);font-weight:500" id="scnt">0 meetings</div>
+      </div>
     </div>
-    <button class="bs" onclick="expAll()">
-      <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-      Export All
-    </button>
+
+    <!-- Date Filter -->
+    <div style="display:inline-flex;gap:8px;align-items:end;background:#f8fdfb;border:1px solid #d0e4ea;border-radius:8px;padding:10px 12px">
+      <div>
+        <label style="display:block;font-size:9px;font-weight:600;color:#64748b;text-transform:uppercase;margin-bottom:4px;letter-spacing:0.3px">📅 From</label>
+        <input type="date" id="sumFromDate" style="width:160px;padding:6px 10px;border:1px solid #d0e4ea;border-radius:6px;font-family:var(--fb);font-size:12px;background:white;outline:none">
+      </div>
+      <div>
+        <label style="display:block;font-size:9px;font-weight:600;color:#64748b;text-transform:uppercase;margin-bottom:4px;letter-spacing:0.3px">📅 To</label>
+        <input type="date" id="sumToDate" style="width:160px;padding:6px 10px;border:1px solid #d0e4ea;border-radius:6px;font-family:var(--fb);font-size:12px;background:white;outline:none">
+      </div>
+      <button onclick="filterSummaryByDate()" style="padding:6px 14px;background:#0a9396;color:white;border:none;border-radius:6px;font-family:var(--fb);font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;transition:all 0.2s" onmouseover="this.style.background='#005f73'" onmouseout="this.style.background='#0a9396'">Filter</button>
+      <button onclick="clearSummaryFilter()" style="padding:6px 12px;background:white;color:#64748b;border:1px solid #d0e4ea;border-radius:6px;font-family:var(--fb);font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;transition:all 0.2s" onmouseover="this.style.background='#f9fafb'" onmouseout="this.style.background='white'">Clear</button>
+    </div>
   </div>
+
   <div class="sg" id="sgrid"></div>
 </div>
 
@@ -374,6 +436,42 @@
         <button class="bs" onclick="testGitHubConnection()" style="flex:1">Test Connection</button>
       </div>
       <div id="githubStatus" style="margin-top:12px;padding:10px;border-radius:6px;font-size:11px;display:none"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Export by Date Modal -->
+<div class="dro" id="exportDateModal" onclick="if(event.target===this) closeExportDateModal()">
+  <div class="drm" style="max-width:400px">
+    <button class="drc" onclick="closeExportDateModal()">×</button>
+    <div class="drt">📅 Export Meetings by Date</div>
+    <div class="drs">Select a date and format to export all meetings from that day</div>
+    <div style="padding:16px 0">
+      <div class="fw" style="margin-bottom:16px">
+        <label class="fl">Select Date</label>
+        <input type="date" class="fi" id="exportDatePicker" style="font-family:var(--fb);font-size:13px">
+      </div>
+      <div class="fw">
+        <label class="fl">Export Format</label>
+        <div style="display:flex;gap:12px;margin-top:8px;flex-wrap:wrap">
+          <label style="display:flex;align-items:center;gap:6px;cursor:pointer;font-family:var(--fb);font-size:13px">
+            <input type="radio" name="exportFormat" value="pdf" checked style="cursor:pointer">
+            <span>PDF (.pdf)</span>
+          </label>
+          <label style="display:flex;align-items:center;gap:6px;cursor:pointer;font-family:var(--fb);font-size:13px">
+            <input type="radio" name="exportFormat" value="excel" style="cursor:pointer">
+            <span>Excel (.xlsx)</span>
+          </label>
+          <label style="display:flex;align-items:center;gap:6px;cursor:pointer;font-family:var(--fb);font-size:13px">
+            <input type="radio" name="exportFormat" value="json" style="cursor:pointer">
+            <span>JSON (.json)</span>
+          </label>
+        </div>
+      </div>
+      <div style="display:flex;gap:8px;margin-top:20px">
+        <button class="bs" onclick="closeExportDateModal()" style="flex:1">Cancel</button>
+        <button class="bsm" onclick="exportBySelectedDate()" style="flex:1">Export</button>
+      </div>
     </div>
   </div>
 </div>
@@ -1088,9 +1186,22 @@ window.addEventListener('DOMContentLoaded', async ()=>{
   await ld(); // Load meetings from GitHub
   await loadUsers(); // Load users from GitHub
   const t=new Date();
-  document.getElementById('fd').value=t.toISOString().slice(0,10);
+  const today=t.toISOString().slice(0,10);
+  document.getElementById('fd').value=today;
   ud();ral([]);
-  if(M.length>0)lm(M[M.length-1].id);else nm();
+
+  // Load meetings from today's date
+  const todayMeetings=M.filter(m=>m.date===today);
+  if(todayMeetings.length>0){
+    // Load the most recent meeting from today
+    lm(todayMeetings[todayMeetings.length-1].id);
+  }else if(M.length>0){
+    // No meetings today, but other meetings exist - load the last one
+    lm(M[M.length-1].id);
+  }else{
+    // No meetings at all - create new one
+    nm();
+  }
   sp();
 
   // Mark initialization as complete
@@ -1292,7 +1403,7 @@ function sas(s){
 
 function sp(){
   const m=cid?M.find(x=>x.id===cid):null;
-  const nc=parseInt(document.getElementById('cols').value||'1');
+  const nc=1; // Fixed to 1 column
   const doc=document.getElementById('pvdoc');
   if(!m||!m.title){
     doc.innerHTML='<div class="db"><div class="de"><div class="dei">📋</div><div class="det">Fill the form to see live preview</div></div></div>';return;
@@ -1469,6 +1580,48 @@ function rsum(){
   g.innerHTML=out;
 }
 
+function filterSummaryByDate(){
+  const fromDate = document.getElementById('sumFromDate').value;
+  const toDate = document.getElementById('sumToDate').value;
+
+  if(!fromDate && !toDate){
+    tt('Please select at least one date');
+    return;
+  }
+
+  // Filter meetings by date range
+  const originalM = [...M];
+  M = originalM.filter(m => {
+    if(!m.date) return false;
+
+    const meetingDate = m.date;
+
+    if(fromDate && toDate){
+      return meetingDate >= fromDate && meetingDate <= toDate;
+    } else if(fromDate){
+      return meetingDate >= fromDate;
+    } else if(toDate){
+      return meetingDate <= toDate;
+    }
+    return true;
+  });
+
+  rsum();
+
+  // Restore original array after rendering
+  setTimeout(() => { M = originalM; }, 100);
+
+  const count = M.length;
+  tt(`Showing ${count} meeting${count !== 1 ? 's' : ''} for selected date range`);
+}
+
+function clearSummaryFilter(){
+  document.getElementById('sumFromDate').value = '';
+  document.getElementById('sumToDate').value = '';
+  rsum();
+  tt('Filter cleared - showing all meetings');
+}
+
 function ofs(id){sv('entry',document.querySelector('.nt'));lm(id)}
 
 function dm(id){
@@ -1626,14 +1779,475 @@ function cd(e){if(!e||e.target===document.getElementById('dro'))document.getElem
 
 function sv(n,btn){
   document.querySelectorAll('.vw').forEach(v=>v.classList.remove('active'));
-  const vid=n==='entry'?'ve':n==='sum'?'vsum':n==='search'?'vs':n==='group'?'vgroup':'va';
+  const vid=n==='entry'?'ve':n==='newmeeting'?'vnew':n==='sum'?'vsum':n==='search'?'vs':n==='group'?'vgroup':'va';
   document.getElementById(vid).classList.add('active');
   document.querySelectorAll('.nt').forEach(t=>t.classList.remove('active'));
   if(btn&&btn.classList)btn.classList.add('active');
   if(n==='sum')rsum();if(n==='analytics')ba();if(n==='search')ds();if(n==='group')rgrp();
+  if(n==='newmeeting')initNewMeeting();
 }
 
-function expCur(){if(!cid){tt('No active meeting');return}const m=M.find(x=>x.id===cid);if(!m)return;dl((m.title||'meeting').replace(/[^a-z0-9]/gi,'_')+'_'+m.date+'.json',JSON.stringify(m,null,2),'application/json');tt('✓ Exported')}
+let newMeetingAPs = [];
+
+function initNewMeeting(){
+  const today = new Date();
+  const dateStr = today.toISOString().slice(0,10);
+  const days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const dayStr = days[today.getDay()];
+
+  document.getElementById('newfd').value = dateStr;
+  document.getElementById('newfday').value = dayStr;
+  document.getElementById('newftit').value = '';
+  document.getElementById('newfcamp').value = 'All Campus';
+  document.getElementById('newfcat').value = 'Academics';
+
+  // Initialize with one empty action point
+  newMeetingAPs = [eap()];
+  renderNewAPs();
+  spNew();
+
+  // Add date change listener
+  document.getElementById('newfd').onchange = function(){
+    const d = new Date(this.value + 'T00:00:00');
+    document.getElementById('newfday').value = days[d.getDay()];
+    spNew();
+  };
+}
+
+function renderNewAPs(){
+  const container = document.getElementById('newapl');
+  if(!newMeetingAPs || newMeetingAPs.length === 0){
+    container.innerHTML = '<div style="padding:14px;text-align:center;color:var(--slate);font-size:12px">No action points yet. Click "Add Action Point" below.</div>';
+    return;
+  }
+
+  let html = '';
+  newMeetingAPs.forEach((ap, idx) => {
+    html += `<div style="margin-bottom:16px;background:#f8fdfb;border:1.5px solid #b8e6e6;border-radius:12px;padding:16px">
+
+      <div style="display:flex;align-items:flex-start;gap:12px;margin-bottom:16px">
+        <div style="width:36px;height:36px;border-radius:50%;background:#0a9396;color:white;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:15px;flex-shrink:0;box-shadow:0 2px 4px rgba(10,147,150,0.3)">${idx+1}</div>
+        <div style="flex:1;min-width:0">
+          <label style="display:block;font-size:10px;font-weight:700;color:#374151;text-transform:uppercase;margin-bottom:5px;letter-spacing:0.5px">TIMEFRAME</label>
+          <select style="width:100%;padding:8px 12px;border:1.5px solid #d0e4ea;border-radius:8px;font-family:var(--fb);font-size:13px;background:white;font-weight:500;outline:none;cursor:pointer" onchange="updateNewAP(${idx},'type',this.value)">
+            <option ${ap.type==='Immediate'?'selected':''}>Immediate</option>
+            <option ${ap.type==='Follow-up'?'selected':''}>Follow-up</option>
+            <option ${ap.type==='Long-term'?'selected':''}>Long-term</option>
+            <option ${ap.type==='Observation'?'selected':''}>Observation</option>
+          </select>
+        </div>
+        <div style="flex:1;min-width:0">
+          <label style="display:block;font-size:10px;font-weight:700;color:#374151;text-transform:uppercase;margin-bottom:5px;letter-spacing:0.5px">PRIORITY</label>
+          <select style="width:100%;padding:8px 12px;border:1.5px solid #d0e4ea;border-radius:8px;font-family:var(--fb);font-size:13px;background:white;font-weight:500;outline:none;cursor:pointer" onchange="updateNewAP(${idx},'priority',this.value)">
+            <option ${ap.priority==='Critical'?'selected':''}>Critical</option>
+            <option ${ap.priority==='High'?'selected':''}>High</option>
+            <option ${ap.priority==='Medium'?'selected':''}>Medium</option>
+            <option ${ap.priority==='Low'?'selected':''}>Low</option>
+          </select>
+        </div>
+        <button onclick="removeNewAP(${idx})" style="width:36px;height:36px;border-radius:50%;border:none;background:#ef4444;color:white;font-size:20px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:all 0.2s;box-shadow:0 2px 4px rgba(239,68,68,0.3)" onmouseover="this.style.background='#dc2626'" onmouseout="this.style.background='#ef4444'" title="Remove">×</button>
+      </div>
+
+      <div style="margin-bottom:14px">
+        <label style="display:block;font-size:10px;font-weight:700;color:#374151;text-transform:uppercase;margin-bottom:6px;letter-spacing:0.5px">ACTION POINT / NOTES</label>
+        <textarea style="width:100%;padding:12px;border:1.5px solid #d0e4ea;border-radius:8px;font-family:var(--fb);font-size:13px;line-height:1.6;resize:vertical;min-height:100px;background:white;outline:none" placeholder="Describe the action point in detail..." oninput="updateNewAP(${idx},'text',this.value)">${ap.text||''}</textarea>
+      </div>
+
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px">
+        <div>
+          <label style="display:block;font-size:10px;font-weight:700;color:#374151;text-transform:uppercase;margin-bottom:6px;letter-spacing:0.5px">STATUS</label>
+          <select style="width:100%;padding:9px 12px;border:1.5px solid #d0e4ea;border-radius:8px;font-family:var(--fb);font-size:13px;font-weight:500;background:white;outline:none;cursor:pointer" onchange="updateNewAP(${idx},'status',this.value)">
+            <option ${ap.status==='Open'||!ap.status?'selected':''}>• Open</option>
+            <option ${ap.status==='In Progress'?'selected':''}>⟳ In Progress</option>
+            <option ${ap.status==='Done'?'selected':''}>✓ Done</option>
+          </select>
+        </div>
+        <div>
+          <label style="display:block;font-size:10px;font-weight:700;color:#374151;text-transform:uppercase;margin-bottom:6px;letter-spacing:0.5px">DATE</label>
+          <input type="date" style="width:100%;padding:9px 12px;border:1.5px solid #d0e4ea;border-radius:8px;font-family:var(--fb);font-size:13px;background:white;outline:none" value="${ap.timeline||''}" onchange="updateNewAP(${idx},'timeline',this.value)">
+        </div>
+      </div>
+
+      <div style="display:flex;gap:12px;align-items:flex-end;margin-bottom:14px">
+        <div style="flex:1">
+          <label style="display:block;font-size:10px;font-weight:700;color:#374151;text-transform:uppercase;margin-bottom:6px;letter-spacing:0.5px">👤 ASSIGN TO...</label>
+          <input type="text" style="width:100%;padding:9px 12px;border:1.5px solid #d0e4ea;border-radius:8px;font-family:var(--fb);font-size:13px;background:white;outline:none" placeholder="Enter name" value="${ap.assignedTo||''}" oninput="updateNewAP(${idx},'assignedTo',this.value)">
+        </div>
+        <div style="display:flex;align-items:center;gap:10px;padding-bottom:9px">
+          <label style="font-size:13px;font-weight:600;color:#374151">Done?</label>
+          <label class="toggle-switch" style="position:relative;display:inline-block;width:50px;height:28px">
+            <input type="checkbox" ${ap.completed?'checked':''} onchange="updateNewAP(${idx},'completed',this.checked)" style="opacity:0;width:0;height:0">
+            <span style="position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background:#cbd5e1;border-radius:28px;transition:0.3s"></span>
+            <span style="position:absolute;height:22px;width:22px;left:3px;bottom:3px;background:white;border-radius:50%;transition:0.3s;box-shadow:0 2px 4px rgba(0,0,0,0.2)"></span>
+          </label>
+        </div>
+      </div>
+
+      <div style="background:white;border:1.5px solid #d0e4ea;border-radius:10px;padding:12px">
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;cursor:pointer" onclick="toggleNewAPFollowUps(${idx})">
+          <span style="font-size:11px;font-weight:700;color:#374151;text-transform:uppercase;letter-spacing:0.5px">📋 FOLLOW-UP UPDATES</span>
+          <span id="newfu-toggle-${idx}" style="font-size:14px;color:#64748b">▼</span>
+        </div>
+        <div id="newfu-content-${idx}" style="display:none">
+          <div style="display:grid;grid-template-columns:auto 1fr auto;gap:8px;align-items:end;margin-top:10px">
+            <div style="min-width:140px">
+              <label style="display:block;font-size:9px;font-weight:600;color:#64748b;text-transform:uppercase;margin-bottom:4px">📅 Date</label>
+              <input type="date" style="width:100%;padding:7px 10px;border:1px solid #d0e4ea;border-radius:6px;font-size:12px">
+            </div>
+            <div>
+              <label style="display:block;font-size:9px;font-weight:600;color:#64748b;text-transform:uppercase;margin-bottom:4px">Update note...</label>
+              <input type="text" style="width:100%;padding:7px 10px;border:1px solid #d0e4ea;border-radius:6px;font-size:12px" placeholder="Add update details...">
+            </div>
+            <button style="padding:7px 16px;background:#0a9396;color:white;border:none;border-radius:6px;font-weight:600;font-size:12px;cursor:pointer;white-space:nowrap">+ Add</button>
+          </div>
+        </div>
+      </div>
+
+    </div>`;
+  });
+  container.innerHTML = html;
+}
+
+function addNewAP(){
+  newMeetingAPs.push(eap());
+  renderNewAPs();
+  spNew();
+}
+
+function updateNewAP(idx, field, value){
+  if(newMeetingAPs[idx]){
+    newMeetingAPs[idx][field] = value;
+    spNew();
+  }
+}
+
+function removeNewAP(idx){
+  if(newMeetingAPs.length > 1){
+    newMeetingAPs.splice(idx, 1);
+    renderNewAPs();
+    spNew();
+  } else {
+    tt('At least one action point is required');
+  }
+}
+
+function toggleNewAPFollowUps(idx){
+  const content = document.getElementById('newfu-content-' + idx);
+  const toggle = document.getElementById('newfu-toggle-' + idx);
+  if(content.style.display === 'none'){
+    content.style.display = 'block';
+    toggle.textContent = '▲';
+  } else {
+    content.style.display = 'none';
+    toggle.textContent = '▼';
+  }
+}
+
+function spNew(){
+  const date = document.getElementById('newfd').value;
+  const day = document.getElementById('newfday').value;
+  const title = document.getElementById('newftit').value;
+  const campus = document.getElementById('newfcamp').value;
+  const category = document.getElementById('newfcat').value;
+
+  const doc = document.getElementById('newpvdoc');
+  if(!title){
+    doc.innerHTML = '<div class="db"><div class="de"><div class="dei">📋</div><div class="det">Fill the form to see preview</div></div></div>';
+    return;
+  }
+
+  const ds = date ? fdf(date) : '—';
+  const ah = newMeetingAPs.map(a => {
+    if(!a.text) return '';
+    const priC = {Critical:'#b91c1c',High:'#b94a10',Medium:'#8b6914',Low:'#127548'};
+    return `<div style="padding:8px 0;border-bottom:1px solid #e5e7eb"><div style="display:flex;gap:6px;margin-bottom:3px">
+      <span style="background:${priC[a.priority]||'#64748b'};color:#fff;padding:1px 7px;border-radius:9px;font-size:9px;font-weight:600">${a.priority||'—'}</span>
+      <span style="background:#e0f2fe;color:#0369a1;padding:1px 7px;border-radius:9px;font-size:9px;font-weight:600">${a.type||'—'}</span>
+      ${a.status?`<span style="background:#f0fdf4;color:#15803d;padding:1px 7px;border-radius:9px;font-size:9px;font-weight:600">${a.status}</span>`:''}
+    </div><div style="font-size:11px;line-height:1.5;margin-bottom:2px">${eh(a.text)}</div>
+    ${a.assignedTo?`<div style="font-size:9px;color:#64748b">👤 ${eh(a.assignedTo)}</div>`:''}
+    ${a.timeline?`<div style="font-size:9px;color:#64748b">📅 ${eh(a.timeline)}</div>`:''}</div>`;
+  }).join('');
+
+  doc.innerHTML = `<div style="padding:32px 28px;font-family:var(--fb);font-size:11px;line-height:1.6;color:#1a2a33">
+    <div style="border-bottom:2px solid #005f73;padding-bottom:12px;margin-bottom:16px">
+      <div style="font-family:var(--fd);font-size:18px;color:#005f73;margin-bottom:4px">${eh(title)}</div>
+      <div style="display:flex;gap:12px;font-size:10px;color:#64748b">
+        <span>📅 ${ds} (${day||'—'})</span><span>🏫 ${eh(campus)}</span><span>📁 ${eh(category)}</span>
+      </div>
+    </div>
+    <div style="margin-top:12px"><div style="font-weight:600;margin-bottom:8px;color:#005f73">Action Points:</div>${ah||'<div style="color:#94a3b8">No action points</div>'}</div>
+  </div>`;
+}
+
+async function saveNewMeeting(){
+  const date = document.getElementById('newfd').value;
+  const day = document.getElementById('newfday').value;
+  const title = document.getElementById('newftit').value.trim();
+  const campus = document.getElementById('newfcamp').value;
+  const category = document.getElementById('newfcat').value;
+
+  if(!date){
+    tt('Please select a date');
+    return;
+  }
+  if(!title){
+    tt('Please enter a meeting title');
+    return;
+  }
+
+  // Validate at least one action point with text
+  const validAPs = newMeetingAPs.filter(ap => ap.text && ap.text.trim());
+  if(validAPs.length === 0){
+    tt('Please add at least one action point');
+    return;
+  }
+
+  tt('⏳ Creating meeting and saving to GitHub...');
+
+  const id = gid();
+  const newMeeting = {
+    id: id,
+    date: date,
+    day: day,
+    title: title,
+    campus: campus,
+    category: category,
+    actionPoints: newMeetingAPs,
+    createdAt: Date.now(),
+    modifiedAt: Date.now()
+  };
+
+  M.push(newMeeting);
+
+  const success = await sv2();
+  if(success){
+    tt('✓ Meeting created successfully');
+    // Switch to entry view and load the new meeting
+    sv('entry', document.querySelectorAll('.nt')[0]);
+    lm(id);
+  } else {
+    // Remove from array if save failed
+    M = M.filter(m => m.id !== id);
+    tt('✗ Failed to create meeting');
+  }
+}
+
+function cancelNewMeeting(){
+  if(confirm('Cancel creating this meeting? All unsaved data will be lost.')){
+    sv('entry', document.querySelectorAll('.nt')[0]);
+  }
+}
+
+function expCur(){
+  // Open the export date modal
+  const today = new Date().toISOString().slice(0,10);
+  document.getElementById('exportDatePicker').value = today;
+  document.getElementById('exportDateModal').classList.add('show');
+}
+
+function closeExportDateModal(){
+  document.getElementById('exportDateModal').classList.remove('show');
+}
+
+function exportBySelectedDate(){
+  const selectedDate = document.getElementById('exportDatePicker').value;
+  if(!selectedDate){
+    tt('Please select a date');
+    return;
+  }
+
+  const dateMeetings = M.filter(x => x.date === selectedDate);
+  if(dateMeetings.length === 0){
+    tt('No meetings found for ' + selectedDate);
+    return;
+  }
+
+  // Get selected format
+  const format = document.querySelector('input[name="exportFormat"]:checked').value;
+
+  if(format === 'json'){
+    // Export as JSON
+    const filename = 'meetings_' + selectedDate + '.json';
+    dl(filename, JSON.stringify(dateMeetings, null, 2), 'application/json');
+  } else if(format === 'excel'){
+    // Export as Excel
+    exportToExcel(dateMeetings, selectedDate);
+  } else if(format === 'pdf'){
+    // Export as PDF
+    exportToPDF(dateMeetings, selectedDate);
+  }
+
+  closeExportDateModal();
+  tt('✓ Exported ' + dateMeetings.length + ' meeting(s) from ' + selectedDate);
+}
+
+function exportToExcel(meetings, date){
+  const wb = XLSX.utils.book_new();
+
+  // Create comprehensive data with all action points expanded
+  const allData = [];
+  allData.push(['Date', 'Day', 'Meeting Title', 'Campus', 'Category', 'Type', 'Action Point', 'Priority', 'Status', 'Assigned To', 'Timeline', 'Completed']);
+
+  meetings.forEach(m => {
+    const aps = m.actionPoints || [];
+    if(aps.length === 0){
+      // Meeting with no action points
+      allData.push([
+        m.date || '',
+        m.day || '',
+        m.title || '',
+        m.campus || '',
+        m.category || '',
+        '',
+        '(No action points)',
+        '',
+        '',
+        '',
+        '',
+        ''
+      ]);
+    } else {
+      // Meeting with action points - expand each action point as a row
+      aps.forEach(ap => {
+        allData.push([
+          m.date || '',
+          m.day || '',
+          m.title || '',
+          m.campus || '',
+          m.category || '',
+          ap.type || '',
+          ap.text || '',
+          ap.priority || '',
+          ap.status || '',
+          ap.assignedTo || '',
+          ap.timeline || '',
+          ap.completed ? 'Yes' : 'No'
+        ]);
+      });
+    }
+  });
+
+  // Create sheet
+  const ws = XLSX.utils.aoa_to_sheet(allData);
+
+  // Set column widths for better readability
+  ws['!cols'] = [
+    {wch: 12},  // Date
+    {wch: 12},  // Day
+    {wch: 30},  // Meeting Title
+    {wch: 20},  // Campus
+    {wch: 20},  // Category
+    {wch: 12},  // Type
+    {wch: 50},  // Action Point
+    {wch: 10},  // Priority
+    {wch: 12},  // Status
+    {wch: 20},  // Assigned To
+    {wch: 15},  // Timeline
+    {wch: 10}   // Completed
+  ];
+
+  XLSX.utils.book_append_sheet(wb, ws, 'Meetings & Action Points');
+
+  // Download file
+  const filename = 'meetings_' + date + '.xlsx';
+  XLSX.writeFile(wb, filename);
+}
+
+function exportToPDF(meetings, date){
+  const { jsPDF } = window.jspdf;
+  const doc = new jsPDF('p', 'mm', 'a4');
+
+  // Title
+  doc.setFontSize(18);
+  doc.setTextColor(0, 95, 115);
+  doc.text('VKP Director MOM System', 14, 20);
+
+  doc.setFontSize(12);
+  doc.setTextColor(100, 116, 139);
+  doc.text('Meetings Report - ' + date, 14, 28);
+
+  doc.setFontSize(10);
+  doc.setTextColor(100, 116, 139);
+  doc.text('Generated: ' + new Date().toLocaleString('en-IN'), 14, 34);
+
+  let yPos = 45;
+
+  meetings.forEach((m, idx) => {
+    // Check if we need a new page
+    if(yPos > 250){
+      doc.addPage();
+      yPos = 20;
+    }
+
+    // Meeting header
+    doc.setFontSize(14);
+    doc.setTextColor(0, 95, 115);
+    doc.text((idx + 1) + '. ' + (m.title || 'Untitled Meeting'), 14, yPos);
+    yPos += 7;
+
+    // Meeting details
+    doc.setFontSize(9);
+    doc.setTextColor(100, 116, 139);
+    doc.text('Date: ' + (m.date || 'N/A') + ' (' + (m.day || '') + ')', 14, yPos);
+    doc.text('Campus: ' + (m.campus || 'N/A'), 80, yPos);
+    doc.text('Category: ' + (m.category || 'N/A'), 140, yPos);
+    yPos += 8;
+
+    // Action points table
+    const aps = m.actionPoints || [];
+    if(aps.length > 0){
+      const tableData = aps.map(ap => [
+        ap.type || '',
+        ap.text || '',
+        ap.priority || '',
+        ap.status || '',
+        ap.assignedTo || '',
+        ap.timeline || ''
+      ]);
+
+      doc.autoTable({
+        startY: yPos,
+        head: [['Type', 'Action Point', 'Priority', 'Status', 'Assigned To', 'Timeline']],
+        body: tableData,
+        theme: 'grid',
+        headStyles: { fillColor: [0, 95, 115], fontSize: 8 },
+        bodyStyles: { fontSize: 7 },
+        columnStyles: {
+          0: { cellWidth: 20 },
+          1: { cellWidth: 70 },
+          2: { cellWidth: 20 },
+          3: { cellWidth: 20 },
+          4: { cellWidth: 30 },
+          5: { cellWidth: 25 }
+        },
+        margin: { left: 14, right: 14 }
+      });
+
+      yPos = doc.lastAutoTable.finalY + 10;
+    } else {
+      doc.setFontSize(8);
+      doc.setTextColor(148, 163, 184);
+      doc.text('(No action points)', 14, yPos);
+      yPos += 10;
+    }
+  });
+
+  // Footer on last page
+  const pageCount = doc.internal.getNumberOfPages();
+  for(let i = 1; i <= pageCount; i++){
+    doc.setPage(i);
+    doc.setFontSize(8);
+    doc.setTextColor(148, 163, 184);
+    doc.text('Page ' + i + ' of ' + pageCount, 14, 287);
+    doc.text('Velammal Knowledge Park · Central Office', 105, 287, { align: 'center' });
+  }
+
+  // Download
+  const filename = 'meetings_' + date + '.pdf';
+  doc.save(filename);
+}
+
 function exp1(id){const m=M.find(x=>x.id===id);if(!m)return;dl((m.title||'meeting').replace(/[^a-z0-9]/gi,'_')+'.json',JSON.stringify(m,null,2),'application/json');tt('✓ Exported')}
 function expAll(){dl('vkp_all_'+new Date().toISOString().slice(0,10)+'.json',JSON.stringify(M,null,2),'application/json');tt('✓ All exported')}
 function dl(n,c,t){const b=new Blob([c],{type:t}),a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=n;a.click();URL.revokeObjectURL(a.href)}
@@ -3633,6 +4247,7 @@ async function deleteUser(userId) {
       localStorage.removeItem('isLoggedIn');
       localStorage.removeItem('userName');
       localStorage.removeItem('userEmail');
+      localStorage.removeItem('userRole');
       document.getElementById('userModal').classList.remove('show');
       document.querySelectorAll('.vw').forEach(v => v.classList.remove('active'));
       document.getElementById('vlogin').classList.add('active');
@@ -3677,6 +4292,7 @@ function handleLogout(event) {
   localStorage.removeItem('isLoggedIn');
   localStorage.removeItem('userName');
   localStorage.removeItem('userEmail');
+  localStorage.removeItem('userRole');
 
   // Hide all views
   document.querySelectorAll('.vw').forEach(v => v.classList.remove('active'));
@@ -3700,6 +4316,46 @@ function togglePassword() {
   }
 }
 
+// Role-based access control
+function applyRoleBasedAccess() {
+  const userRole = localStorage.getItem('userRole') || 'user';
+
+  const userManagementItem = document.getElementById('userManagementMenuItem');
+  const githubSettingsItem = document.getElementById('githubSettingsMenuItem');
+  const userManagementDivider = userManagementItem.nextElementSibling;
+  const githubSettingsDivider = githubSettingsItem.previousElementSibling;
+
+  if (userRole === 'admin') {
+    // Show User Management and GitHub Settings for admin users
+    if (userManagementItem) {
+      userManagementItem.style.display = 'flex';
+      if (userManagementDivider && userManagementDivider.classList.contains('profile-divider')) {
+        userManagementDivider.style.display = 'block';
+      }
+    }
+    if (githubSettingsItem) {
+      githubSettingsItem.style.display = 'flex';
+      if (githubSettingsDivider && githubSettingsDivider.classList.contains('profile-divider')) {
+        githubSettingsDivider.style.display = 'block';
+      }
+    }
+  } else {
+    // Hide User Management and GitHub Settings for regular users
+    if (userManagementItem) {
+      userManagementItem.style.display = 'none';
+      if (userManagementDivider && userManagementDivider.classList.contains('profile-divider')) {
+        userManagementDivider.style.display = 'none';
+      }
+    }
+    if (githubSettingsItem) {
+      githubSettingsItem.style.display = 'none';
+      if (githubSettingsDivider && githubSettingsDivider.classList.contains('profile-divider')) {
+        githubSettingsDivider.style.display = 'none';
+      }
+    }
+  }
+}
+
 // Login functionality
 function handleLogin(event) {
   event.preventDefault();
@@ -3710,7 +4366,7 @@ function handleLogin(event) {
 
   // Check hardcoded admin first
   if (email === 'admin@vkp.org' && password === 'admin123') {
-    doLogin('Admin User', email);
+    doLogin('Admin User', email, 'admin');
     return;
   }
 
@@ -3719,7 +4375,7 @@ function handleLogin(event) {
   const found = users.find(u => u.email === email && u.password === password);
 
   if (found) {
-    doLogin(found.name, found.email);
+    doLogin(found.name, found.email, found.role || 'user');
     return;
   }
 
@@ -3727,7 +4383,7 @@ function handleLogin(event) {
   errorDiv.classList.add('show');
 }
 
-function doLogin(name, email) {
+function doLogin(name, email, role) {
   const errorDiv = document.getElementById('loginError');
   errorDiv.classList.remove('show');
 
@@ -3735,10 +4391,14 @@ function doLogin(name, email) {
   localStorage.setItem('isLoggedIn', 'true');
   localStorage.setItem('userName', name);
   localStorage.setItem('userEmail', email);
+  localStorage.setItem('userRole', role || 'user');
 
   // Update user info
   document.getElementById('userName').textContent = name;
   document.getElementById('userEmail').textContent = email;
+
+  // Apply role-based access control
+  applyRoleBasedAccess();
 
   // Hide login page and show main app
   document.getElementById('vlogin').classList.remove('active');
@@ -3761,6 +4421,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     if (userName) document.getElementById('userName').textContent = userName;
     if (userEmail) document.getElementById('userEmail').textContent = userEmail;
+
+    // Apply role-based access control
+    applyRoleBasedAccess();
 
     // Show main app
     document.getElementById('vlogin').classList.remove('active');
