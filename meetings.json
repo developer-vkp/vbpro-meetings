@@ -2010,7 +2010,7 @@
         "text": "TANJORE ZOOM AND VISIT",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "SARAVANA",
         "timeline": "",
         "completed": false
       },
@@ -2026,6 +2026,6 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778045736124
+    "modifiedAt": 1778045741646
   }
 ]
