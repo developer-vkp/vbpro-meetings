@@ -2826,7 +2826,7 @@
         "id": "ap26",
         "type": "Immediate",
         "text": "isai Andrew follow up ",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -2836,7 +2836,7 @@
         "id": "ap27",
         "type": "Immediate",
         "text": "cc students performance ",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -2874,7 +2874,7 @@
       }
     ],
     "createdAt": 1778053761492,
-    "modifiedAt": 1778054061492
+    "modifiedAt": 1778054067181
   },
   {
     "id": "m1778053865204_shc",
