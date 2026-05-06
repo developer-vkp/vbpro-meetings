@@ -2365,7 +2365,7 @@
         "text": "Lt performance zoom \n",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "MR.SARAVANAN.MS.VASUMATHY",
+        "assignedTo": "MR.SARAVANANMS.VASUMATHY",
         "timeline": "",
         "completed": false
       },
@@ -2381,6 +2381,6 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778047129526
+    "modifiedAt": 1778047134736
   }
 ]
