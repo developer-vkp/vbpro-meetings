@@ -1937,7 +1937,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "",
+        "text": "VISTO PLAN",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -1946,6 +1946,6 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778045473198
+    "modifiedAt": 1778045485809
   }
 ]
