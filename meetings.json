@@ -2076,139 +2076,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778051258071
-  },
-  {
-    "id": "m1778045949058_5ek",
-    "date": "2026-04-26",
-    "day": "Sunday",
-    "title": "DIRECTOR SIR MEETING FOLLOW UP",
-    "campus": "ZONAL HEADS",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap15",
-        "type": "Immediate",
-        "text": "Mains performance",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap17",
-        "type": "Immediate",
-        "text": "Neet performance ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap18",
-        "type": "Immediate",
-        "text": "Admissions ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap19",
-        "type": "Immediate",
-        "text": "10 to 11\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap20",
-        "type": "Immediate",
-        "text": "TCS ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap21",
-        "type": "Immediate",
-        "text": "Staffing ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap22",
-        "type": "Immediate",
-        "text": "April salary \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap23",
-        "type": "Immediate",
-        "text": "10/12 schedule",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap24",
-        "type": "Immediate",
-        "text": "Bodhi sr staff class\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap25",
-        "type": "Immediate",
-        "text": "Specific school follow up \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap26",
-        "type": "Immediate",
-        "text": "2 questions regarding future iit ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap27",
-        "type": "Immediate",
-        "text": "2 questions regarding future iit ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "ABHINAYA MAM",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778045949058,
-    "modifiedAt": 1778046260367
+    "modifiedAt": 1778051230690
   },
   {
     "id": "m1778046393434_qtk",
@@ -2651,6 +2519,6 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778049664747
+    "modifiedAt": 1778051241412
   }
 ]
