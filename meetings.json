@@ -1915,27 +1915,5 @@
     ],
     "createdAt": 1777878664742,
     "modifiedAt": 1778050594370
-  },
-  {
-    "id": "m1778050915875_kuf",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "SRI",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778050915875,
-    "modifiedAt": 1778050941723
   }
 ]
