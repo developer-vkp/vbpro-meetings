@@ -1917,28 +1917,6 @@
     "modifiedAt": 1778040597190
   },
   {
-    "id": "m1778047245933_5ls",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778047245933,
-    "modifiedAt": 1778047245933
-  },
-  {
     "id": "m1778047269260_sjb",
     "date": "2026-05-06",
     "day": "Wednesday",
@@ -2026,9 +2004,9 @@
     "id": "m1778051131661_vks",
     "date": "2026-05-06",
     "day": "Wednesday",
-    "title": "ADMISSION",
+    "title": "",
     "campus": "All Campus",
-    "category": "Marketing / Admission",
+    "category": "Academics",
     "actionPoints": [
       {
         "id": "ap1",
@@ -2042,6 +2020,6 @@
       }
     ],
     "createdAt": 1778051131661,
-    "modifiedAt": 1778051163773
+    "modifiedAt": 1778051131661
   }
 ]
