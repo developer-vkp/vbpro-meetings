@@ -2846,7 +2846,7 @@
         "id": "ap28",
         "type": "Immediate",
         "text": "Theni team dgl call ",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -2856,7 +2856,7 @@
         "id": "ap29",
         "type": "Immediate",
         "text": "ology tech activity",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -2874,7 +2874,7 @@
       }
     ],
     "createdAt": 1778053761492,
-    "modifiedAt": 1778054053670
+    "modifiedAt": 1778054057645
   },
   {
     "id": "m1778053865204_shc",
