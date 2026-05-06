@@ -1707,7 +1707,7 @@
       {
         "id": "ap3",
         "type": "Immediate",
-        "text": "SCHOOL ADMISSION NOS AND MARKETING TEAM ADMISSION NOS TO CHECK",
+        "text": "",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -1716,7 +1716,7 @@
       }
     ],
     "createdAt": 1777616339128,
-    "modifiedAt": 1778039257381
+    "modifiedAt": 1778039278549
   },
   {
     "id": "m1777878664742_qud",
