@@ -1740,8 +1740,8 @@
   },
   {
     "id": "m1777878664742_qud",
-    "date": "2026-05-04",
-    "day": "Monday",
+    "date": "2026-05-01",
+    "day": "Friday",
     "title": "Zonal Heads - Meeting",
     "campus": "Namakkal",
     "category": "Zonal Heads",
@@ -1914,6 +1914,6 @@
       }
     ],
     "createdAt": 1777878664742,
-    "modifiedAt": 1778040524709
+    "modifiedAt": 1778040540320
   }
 ]
