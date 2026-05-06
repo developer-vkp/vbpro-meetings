@@ -2580,13 +2580,13 @@
     "day": "Wednesday",
     "title": "IMMEDIATE POINTS - D'SIR",
     "campus": "All Campus",
-    "category": "ACADEMICS/AD",
+    "category": "ACADEMICS/ADMIN",
     "actionPoints": [
       {
         "id": "ap1",
         "type": "Immediate",
         "text": "",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -2594,6 +2594,6 @@
       }
     ],
     "createdAt": 1778053761492,
-    "modifiedAt": 1778053808326
+    "modifiedAt": 1778053813453
   }
 ]
