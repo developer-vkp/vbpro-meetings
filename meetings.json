@@ -1930,12 +1930,12 @@
         "text": "CENTRAL",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "SRI",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1778050795139,
-    "modifiedAt": 1778050828764
+    "modifiedAt": 1778050830255
   }
 ]
