@@ -2070,8 +2070,8 @@
   },
   {
     "id": "m1778045949058_5ek",
-    "date": "2026-05-06",
-    "day": "Wednesday",
+    "date": "2026-04-06",
+    "day": "Monday",
     "title": "",
     "campus": "All Campus",
     "category": "Academics",
@@ -2088,6 +2088,6 @@
       }
     ],
     "createdAt": 1778045949058,
-    "modifiedAt": 1778046025236
+    "modifiedAt": 1778046026660
   }
 ]
