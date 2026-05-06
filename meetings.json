@@ -1922,7 +1922,7 @@
     "day": "Wednesday",
     "title": "Director sir meeting (ZOOM) - Admin",
     "campus": "SENIOR PRINICIPAL SIR",
-    "category": "Admin",
+    "category": "Academics",
     "actionPoints": [
       {
         "id": "ap1",
@@ -2083,7 +2083,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778051295099
+    "modifiedAt": 1778051335679
   },
   {
     "id": "m1778045949058_5ek",
@@ -2658,6 +2658,6 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778051332726
+    "modifiedAt": 1778049664747
   }
 ]
