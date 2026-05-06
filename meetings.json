@@ -1917,7 +1917,7 @@
     "modifiedAt": 1778050594370
   },
   {
-    "id": "m1778050795139_gs7",
+    "id": "m1778050915875_kuf",
     "date": "2026-05-06",
     "day": "Wednesday",
     "title": "",
@@ -1927,15 +1927,15 @@
       {
         "id": "ap1",
         "type": "Immediate",
-        "text": "CENTRAL",
+        "text": "",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "SRI",
+        "assignedTo": "",
         "timeline": "",
         "completed": false
       }
     ],
-    "createdAt": 1778050795139,
-    "modifiedAt": 1778050899679
+    "createdAt": 1778050915875,
+    "modifiedAt": 1778050915875
   }
 ]
