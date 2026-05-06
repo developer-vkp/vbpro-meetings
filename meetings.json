@@ -2625,6 +2625,16 @@
       {
         "id": "ap6",
         "type": "Immediate",
+        "text": "Bangalore admission ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
         "text": "",
         "priority": "Medium",
         "status": "Open",
@@ -2634,7 +2644,7 @@
       }
     ],
     "createdAt": 1778053761492,
-    "modifiedAt": 1778053886639
+    "modifiedAt": 1778053891854
   },
   {
     "id": "m1778053865204_shc",
