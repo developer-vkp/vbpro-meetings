@@ -1922,7 +1922,7 @@
     "day": "Wednesday",
     "title": "Director sir meeting (ZOOM) - Admin",
     "campus": "SENIOR PRINICIPAL SIR",
-    "category": "Academics",
+    "category": "Admin",
     "actionPoints": [
       {
         "id": "ap1",
@@ -1932,14 +1932,7 @@
         "status": "Open",
         "assignedTo": "SARAVANAN SIR",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-05-06",
-            "text": "Zoom - May 19 - Mains 99% students - Advance performance with IIT Sr staff all campus",
-            "addedAt": 1778051295099
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap2",
@@ -2083,7 +2076,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778051471497
+    "modifiedAt": 1778051230690
   },
   {
     "id": "m1778045949058_5ek",
@@ -2658,6 +2651,6 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778049664747
+    "modifiedAt": 1778051566183
   }
 ]
