@@ -2635,12 +2635,12 @@
         "text": "Principal leave info - keerhika status ( query 26-4-26) - MALATHY MAM. VASUMATHY MAM\n",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MALATHY MAM. VASUMATHY MAM",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778049483703
+    "modifiedAt": 1778049491223
   }
 ]
