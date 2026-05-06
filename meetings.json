@@ -2392,7 +2392,7 @@
       {
         "id": "ap46",
         "type": "Immediate",
-        "text": "Staff orientation ZONAL HEAD FOLLOW UP  ARUNA",
+        "text": "Staff orientation ZONAL HEAD FOLLOW UP  ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -2401,6 +2401,6 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778048059512
+    "modifiedAt": 1778048062834
   }
 ]
