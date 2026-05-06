@@ -2067,7 +2067,7 @@
       {
         "id": "ap28",
         "type": "Immediate",
-        "text": "SENIOR STAFF",
+        "text": "SENIOR STAFF CLASS",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -2076,7 +2076,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778046291578
+    "modifiedAt": 1778046298060
   },
   {
     "id": "m1778045949058_5ek",
