@@ -2011,7 +2011,7 @@
       {
         "id": "ap5",
         "type": "Immediate",
-        "text": "•\tALL SCHOOLS FEE CONCESSION LIST TO SUBMIT",
+        "text": "ALL SCHOOLS FEE CONCESSION LIST TO SUBMIT",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -2020,6 +2020,6 @@
       }
     ],
     "createdAt": 1778047663517,
-    "modifiedAt": 1778047821381
+    "modifiedAt": 1778047822917
   }
 ]
