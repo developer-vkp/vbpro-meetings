@@ -1687,7 +1687,7 @@
       {
         "id": "ap1",
         "type": "Immediate",
-        "text": "•\tERP – ADMISSION CARD TO BE IMPLEMENTED – RAJESH SIR",
+        "text": "RP – ADMISSION CARD TO BE IMPLEMENTED – RAJESH SIR",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -1696,7 +1696,7 @@
       }
     ],
     "createdAt": 1777616339128,
-    "modifiedAt": 1778039182246
+    "modifiedAt": 1778039186293
   },
   {
     "id": "m1777878664742_qud",
