@@ -1966,7 +1966,7 @@
     "day": "Wednesday",
     "title": "PROCESS OWNERS",
     "campus": "All Campus",
-    "category": "Academics",
+    "category": "Daily - Accounts Review",
     "actionPoints": [
       {
         "id": "ap1",
@@ -1980,6 +1980,6 @@
       }
     ],
     "createdAt": 1778047663517,
-    "modifiedAt": 1778047668293
+    "modifiedAt": 1778047670477
   }
 ]
