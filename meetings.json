@@ -1922,7 +1922,7 @@
     "day": "Wednesday",
     "title": "",
     "campus": "All Campus",
-    "category": "Academics",
+    "category": "Admin",
     "actionPoints": [
       {
         "id": "ap1",
@@ -1936,6 +1936,6 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778045142492
+    "modifiedAt": 1778045184087
   }
 ]
