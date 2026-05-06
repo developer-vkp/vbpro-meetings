@@ -1921,7 +1921,7 @@
     "date": "2026-05-06",
     "day": "Wednesday",
     "title": "Director sir meeting (ZOOM) - Admin",
-    "campus": "All Campus",
+    "campus": "Unknown",
     "category": "Admin",
     "actionPoints": [
       {
@@ -1936,6 +1936,6 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778045381148
+    "modifiedAt": 1778045427237
   }
 ]
