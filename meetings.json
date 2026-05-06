@@ -2605,12 +2605,12 @@
         "text": "Isai FOLLOW UP",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.M",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778049401570
+    "modifiedAt": 1778049407127
   }
 ]
