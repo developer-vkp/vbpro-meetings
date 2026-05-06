@@ -1915,27 +1915,5 @@
     ],
     "createdAt": 1777878664742,
     "modifiedAt": 1778041577043
-  },
-  {
-    "id": "m1778041606779_8t2",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "CENTRAL OFFICE MOM",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "TVIS ACO",
-        "timeline": "2026-05-07",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778041606779,
-    "modifiedAt": 1778041687218
   }
 ]
