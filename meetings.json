@@ -2026,7 +2026,7 @@
     "id": "m1778051131661_vks",
     "date": "2026-05-06",
     "day": "Wednesday",
-    "title": "",
+    "title": "ADMISSION",
     "campus": "All Campus",
     "category": "Academics",
     "actionPoints": [
@@ -2042,6 +2042,6 @@
       }
     ],
     "createdAt": 1778051131661,
-    "modifiedAt": 1778051131661
+    "modifiedAt": 1778051157528
   }
 ]
