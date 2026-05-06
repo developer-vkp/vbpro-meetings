@@ -2001,7 +2001,7 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "•AFFILIATION BUDGET TO SUBMIT",
+        "text": "AFFILIATION BUDGET TO SUBMIT",
         "priority": "High",
         "status": "Open",
         "assignedTo": "ARUN SIR",
@@ -2010,6 +2010,6 @@
       }
     ],
     "createdAt": 1778047663517,
-    "modifiedAt": 1778047730677
+    "modifiedAt": 1778047731469
   }
 ]
