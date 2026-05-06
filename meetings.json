@@ -1969,7 +1969,7 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "COMMITMENT 9 CR, UPTO MAY 10TH TARGET 2.5 CR, OLD DUE 1.4",
+        "text": "COMMITMENT 9 CR, MAY 10TH TARGET 2.5 CR, OLD DUE 1.4",
         "priority": "High",
         "status": "Open",
         "assignedTo": "RAJALAKSHMI MAM",
@@ -1988,6 +1988,6 @@
       }
     ],
     "createdAt": 1778047269260,
-    "modifiedAt": 1778047436725
+    "modifiedAt": 1778047492277
   }
 ]
