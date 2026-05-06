@@ -1927,7 +1927,7 @@
       {
         "id": "ap1",
         "type": "Immediate",
-        "text": "Srpl sir - MAY & JUNE acaSCHEDULE\n ",
+        "text": "Srpl sir - MAY & JUNE academicSCHEDULE\n ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "SARAVANAN SIR",
@@ -2076,7 +2076,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778051213105
+    "modifiedAt": 1778051214522
   },
   {
     "id": "m1778045949058_5ek",
