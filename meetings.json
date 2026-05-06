@@ -211,7 +211,7 @@
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1778042903734
+    "modifiedAt": 1777615062465
   },
   {
     "id": "imp_1777615062465_5",
@@ -1317,7 +1317,7 @@
     "id": "imp_1777616339128_0",
     "date": "2026-05-05",
     "day": "Tuesday",
-    "title": "Daily - Accounts Review",
+    "title": "PROCESS OWNERS",
     "campus": "All Campus",
     "category": "Daily - Accounts Review",
     "actionPoints": [
@@ -1736,14 +1736,14 @@
       }
     ],
     "createdAt": 1777616339128,
-    "modifiedAt": 1778039353781
+    "modifiedAt": 1778047551930
   },
   {
     "id": "m1777878664742_qud",
     "date": "2026-05-01",
     "day": "Friday",
     "title": "Zonal Heads - Meeting",
-    "campus": "Tondiarpet",
+    "campus": "All School",
     "category": "Zonal Heads",
     "actionPoints": [
       {
@@ -1914,611 +1914,134 @@
       }
     ],
     "createdAt": 1777878664742,
-    "modifiedAt": 1778042373672
+    "modifiedAt": 1778040597190
   },
   {
-    "id": "m1778045142491_67z",
+    "id": "m1778047245933_5ls",
     "date": "2026-05-06",
     "day": "Wednesday",
-    "title": "Director sir meeting (ZOOM) - Admin",
-    "campus": "SENIOR PRINICIPAL SIR",
-    "category": "Admin",
+    "title": "",
+    "campus": "All Campus",
+    "category": "Academics",
     "actionPoints": [
       {
         "id": "ap1",
         "type": "Immediate",
-        "text": "Srpl sir - MAY & JUNE Academic related SCHEDULE\n ",
+        "text": "",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778047245933,
+    "modifiedAt": 1778047245933
+  },
+  {
+    "id": "m1778047269260_sjb",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "",
+    "campus": "Unknown",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778047269260,
+    "modifiedAt": 1778047275925
+  },
+  {
+    "id": "m1778047663517_efh",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Daily - Accounts Review",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "•\tBODHI PONNERI – THIS MONTH TARGET 22.5 CR, UPTO MAY 15TH TARGET 8 CR, \n•\t10000 STUDENTS LIST TO SUBMIT, 50000 STUDENTS LIST – TOTAL 293 STUDENTS\n•\tOLD DUE 71 L, VBA 17 L, TRUST 54 L\n•\tTRUST PAYOUT THIS MONTH 55, DAILY COLLECTION TARGET 2CR\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "KAMATCHI MAM",
         "timeline": "",
         "completed": false
       },
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "VISTO PLAN",
-        "priority": "Medium",
+        "text": "•\tOLOGY GIRLS CAPEX LIST TO SUBMIT\n•\tCAPEX - TOTAL 15 VENDORS, TOTAL 8.5 CR (OLD 3.5, NEW 5)\n•\tTOTAL CAPEX VALUE TO GET SIR APPROVAL\n•\tOLD QUOTATION 6.81 REDUCED TO 6.5 (REDUCED CATEGORIES FURNITURE, AC, COMPUTERS)\n•\t3 QUOTE QUOTATION TO BE SUBMITTED FOR ALL CAPEX\n",
+        "priority": "High",
         "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
+        "assignedTo": "VALARMATHY MAM",
         "timeline": "",
         "completed": false
       },
       {
         "id": "ap3",
         "type": "Immediate",
-        "text": "NEET PERFORMANCE",
-        "priority": "Medium",
+        "text": "VBA COMMITMENT 9 CR, UPTO MAY 10TH TARGET 2.5 CR, OLD DUE 1.4",
+        "priority": "High",
         "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
+        "assignedTo": "RAJALAKSHMI MAM",
         "timeline": "",
         "completed": false
       },
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "MAINS",
-        "priority": "Medium",
+        "text": "AFFILIATION BUDGET TO SUBMIT",
+        "priority": "High",
         "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
+        "assignedTo": "ARUN SIR",
         "timeline": "",
         "completed": false
       },
       {
         "id": "ap5",
         "type": "Immediate",
-        "text": "FUTURE IIT ,NEET",
-        "priority": "Medium",
+        "text": "ALL SCHOOLS FEE CONCESSION LIST TO SUBMIT",
+        "priority": "High",
         "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap6",
-        "type": "Immediate",
-        "text": "FOUNDATION MATERIALS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap7",
-        "type": "Immediate",
-        "text": "TOP 20",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap8",
-        "type": "Immediate",
-        "text": "IIT NEET CBSE",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap9",
-        "type": "Immediate",
-        "text": "TANJORE ZOOM AND VISIT",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap10",
-        "type": "Immediate",
-        "text": "All iit neet foundation staff micro teaching zonal heads \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap11",
-        "type": "Immediate",
-        "text": "Lt first batch \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap12",
-        "type": "Immediate",
-        "text": " staff meeting director ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "ZEENATH MAM & SARAVANAN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap13",
-        "type": "Immediate",
-        "text": "Focus school zoom\n\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "ZEENATH MAM & SANGEETHA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap14",
-        "type": "Immediate",
-        "text": "Next year materials",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "RAMYA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap28",
-        "type": "Immediate",
-        "text": "SENIOR STAFF CLASS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "SARAVANAN SIR",
+        "assignedTo": "ALL PROCESS OWNERS",
         "timeline": "",
         "completed": false
       }
     ],
-    "createdAt": 1778045142492,
-    "modifiedAt": 1778051230690
+    "createdAt": 1778047663517,
+    "modifiedAt": 1778051285653
   },
   {
-    "id": "m1778046393434_qtk",
-    "date": "2026-04-26",
-    "day": "Sunday",
-    "title": "DIRECTOR SIR MEETING FOLLOW UP",
-    "campus": "ZONAL HEADS",
-    "category": "Academics",
+    "id": "m1778051131661_vks",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "ADMISSION",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
     "actionPoints": [
       {
-        "id": "ap29",
+        "id": "ap1",
         "type": "Immediate",
-        "text": "Mains performance",
-        "priority": "Medium",
+        "text": "•\tADMISSION 590 ACHIEVED, ENQUIRY 1543, PERCENTAAGE 25, SCHOOL 33%, CC 79%, LT 12% , LT LEADS 21\n•\tLAST YEAR ENQUIRY AROUND 1000, \n•\tTHIS MONTH END TARGET 700, ENQUIRY WEEKLY AVERAGE 50 + 150, THIS MONTH ENQUIRY TAREGT 200\n•\tLAST YEAR LT ENQUIRY 600, NEET 327\n•\tISAI MAM AND SRIMATHY MAM TO MEET SIR TODAY (06.05.26) AT 3 PM\n",
+        "priority": "High",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap30",
-        "type": "Immediate",
-        "text": "Neet performance",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap31",
-        "type": "Immediate",
-        "text": "Admissions",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap32",
-        "type": "Immediate",
-        "text": "10 to 11\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap33",
-        "type": "Immediate",
-        "text": "TCS ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap34",
-        "type": "Immediate",
-        "text": "Staffing ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap35",
-        "type": "Immediate",
-        "text": "April salary",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap36",
-        "type": "Immediate",
-        "text": "10/12 schedule \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap37",
-        "type": "Immediate",
-        "text": "Bodhi sr staff class",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap38",
-        "type": "Immediate",
-        "text": "Specific school follow up",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap39",
-        "type": "Immediate",
-        "text": "2 questions regarding future iit \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap40",
-        "type": "Immediate",
-        "text": "Visit - zonal heads and process owners ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.ABHINAYA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap41",
-        "type": "Immediate",
-        "text": "School coordinators 421\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "CENTRAL OFFICE ACO'S",
-        "timeline": "",
-        "completed": false,
-        "followUps": []
-      },
-      {
-        "id": "ap42",
-        "type": "Immediate",
-        "text": "Vkp team \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.SANGEETHA MAM / MR.BALAJI",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap43",
-        "type": "Immediate",
-        "text": "Lt performance zoom \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR.SARAVANAN, MS.VASUMATHY",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap44",
-        "type": "Immediate",
-        "text": "25 members 5 works",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap45",
-        "type": "Immediate",
-        "text": "Sports\nEca\nResource department ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR.VIGNESH, MS.ARUNA",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap46",
-        "type": "Immediate",
-        "text": "Staff orientation ZONAL HEAD FOLLOW UP  ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.ARUNA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap47",
-        "type": "Immediate",
-        "text": "Focused results review",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR.SARAVANAN SIR, MS.VASUMATHY MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap48",
-        "type": "Immediate",
-        "text": "Theni poster",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.SANGEETHA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap49",
-        "type": "Immediate",
-        "text": "Pollachi zoom",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.ABHINAYA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap50",
-        "type": "Immediate",
-        "text": "Emergency TEAM",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR.BALAJI SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap51",
-        "type": "Immediate",
-        "text": "Fc sir vkp points ; POINTS TO BE GIVEN - THILAGA RAJ SIR\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR.BALAJI SIR, MR.THILAGA RAJ SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap52",
-        "type": "Immediate",
-        "text": "Robin and Revathi mam - 15 TH & 25 TH CONCALL",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.MALATHY MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap53",
-        "type": "Immediate",
-        "text": "Accounts 9:30 zoom",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "RAMYA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap54",
-        "type": "Immediate",
-        "text": "is staff audit and Tanjore",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.SELVANAYAGI MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap55",
-        "type": "Immediate",
-        "text": "Sports scholarships ; CENTRAL OFFICE - VIGNESH , FOLLOW UP - MR.SURESH RSA, MR.SATHISH CRICKET , MR SURESH VIDHALAYA",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap56",
-        "type": "Immediate",
-        "text": "Cc attendance to performance",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.SHAIRA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap57",
-        "type": "Immediate",
-        "text": "Tondairpet staffing Suresh Bodhi and  SR HEAD MAM performance (29/4/26)",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.ABHINAYA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap58",
-        "type": "Immediate",
-        "text": "Foundation heads (28-4-26) ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR.SARAVANAN SIR , MS.ZEENATH MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap59",
-        "type": "Immediate",
-        "text": "Sasi ao 420 ASSIGNED POSTER TO BE MADE—",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap60",
-        "type": "Immediate",
-        "text": "alagarr sir visit - VISIT TO ERODE, 3 DAYS EVERY FORTNITE- SHAIRA GET SCHEDULE FOR MAY AND JUNE",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.SHAIRA",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap61",
-        "type": "Immediate",
-        "text": "Thilga mam meet me ( pending )",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.SANGEETHA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap62",
-        "type": "Immediate",
-        "text": "Kovai 200 students",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.MALATHY MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap63",
-        "type": "Immediate",
-        "text": "central office April points",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "sangeetha mam",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap64",
-        "type": "Immediate",
-        "text": "Matric civil",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR.YUVARAJ",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap65",
-        "type": "Immediate",
-        "text": "Career prep -27-4-26",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.HEMA AND MS. ARUNA",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap66",
-        "type": "Immediate",
-        "text": "Ology tech activity Sarvnan ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.ARUNA / MR.SARAVAN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap67",
-        "type": "Immediate",
-        "text": "Isai FOLLOW UP",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.MANIMALA MAM, MS,VASUMATHY MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap68",
-        "type": "Immediate",
-        "text": "Bangalore team visit - MANIMALA\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.MANIMALA",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap69",
-        "type": "Immediate",
-        "text": "Class 10 staff students appreciation-27-4-26- SRIVATSINI\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.SRIVATSINI",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap70",
-        "type": "Immediate",
-        "text": "Principal leave info - keerhika status ( query 26-4-26) - MALATHY MAM. VASUMATHY MAM\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MS.MALATHY MAM. MS, VASUMATHY MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap71",
-        "type": "Immediate",
-        "text": "Theni team visit to dgl; DINDIGUL SHOULD FOLLOW UP\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "SANGEETHA MAM",
+        "assignedTo": "MANIMALA MAM / VASUMATHY MAM",
         "timeline": "",
         "completed": false
       }
     ],
-    "createdAt": 1778046393435,
-    "modifiedAt": 1778051241412
+    "createdAt": 1778051131661,
+    "modifiedAt": 1778051220341
   }
 ]
