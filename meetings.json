@@ -2012,14 +2012,14 @@
         "id": "ap5",
         "type": "Immediate",
         "text": "ALL SCHOOLS FEE CONCESSION LIST TO SUBMIT",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "ALL PROCESS OWNERS",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1778047663517,
-    "modifiedAt": 1778047822917
+    "modifiedAt": 1778047829805
   }
 ]
