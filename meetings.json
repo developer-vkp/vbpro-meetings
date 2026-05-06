@@ -1700,13 +1700,13 @@
         "text": "SCHOOL ADMISSION NOS AND MARKETING TEAM ADMISSION NOS TO CHECK",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "AL",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1777616339128,
-    "modifiedAt": 1778039230774
+    "modifiedAt": 1778039232759
   },
   {
     "id": "m1777878664742_qud",
