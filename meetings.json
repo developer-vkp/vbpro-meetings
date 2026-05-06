@@ -2666,7 +2666,7 @@
         "id": "ap10",
         "type": "Immediate",
         "text": "staff orientation ",
-        "priority": "Medium",
+        "priority": "Critical",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -2676,7 +2676,7 @@
         "id": "ap11",
         "type": "Immediate",
         "text": "Velammal tech points ",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -2686,7 +2686,7 @@
         "id": "ap12",
         "type": "Immediate",
         "text": "neet performance review ",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -2874,7 +2874,7 @@
       }
     ],
     "createdAt": 1778053761492,
-    "modifiedAt": 1778054090573
+    "modifiedAt": 1778054096389
   },
   {
     "id": "m1778053865204_shc",
