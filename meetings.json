@@ -1981,7 +1981,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "",
+        "text": "•\tOLOGY GIRLS CAPEX LIST TO SUBMIT\n•\tCAPEX - TOTAL 15 VENDORS, TOTAL 8.5 CR (OLD 3.5, NEW 5)\n•\tTOTAL CAPEX VALUE TO GET SIR APPROVAL\n•\tOLD QUOTATION 6.81 REDUCED TO 6.5 (REDUCED CATEGORIES FURNITURE, AC, COMPUTERS)\n•\t3 QUOTE QUOTATION TO BE SUBMITTED FOR ALL CAPEX\n",
         "priority": "High",
         "status": "Open",
         "assignedTo": "",
@@ -1990,6 +1990,6 @@
       }
     ],
     "createdAt": 1778047663517,
-    "modifiedAt": 1778047688269
+    "modifiedAt": 1778047692517
   }
 ]
