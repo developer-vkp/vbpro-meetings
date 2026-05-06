@@ -2159,7 +2159,7 @@
       {
         "id": "ap24",
         "type": "Immediate",
-        "text": "",
+        "text": "Bodhi sr staff class\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -2168,6 +2168,6 @@
       }
     ],
     "createdAt": 1778045949058,
-    "modifiedAt": 1778046196638
+    "modifiedAt": 1778046199351
   }
 ]
