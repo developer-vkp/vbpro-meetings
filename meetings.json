@@ -2347,16 +2347,10 @@
         "assignedTo": "CENTRAL OFFICE ACO'S",
         "timeline": "",
         "completed": false,
-        "followUps": [
-          {
-            "date": "2026-05-06",
-            "text": "KJ",
-            "addedAt": 1778046910324
-          }
-        ]
+        "followUps": []
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778046910324
+    "modifiedAt": 1778046930923
   }
 ]
