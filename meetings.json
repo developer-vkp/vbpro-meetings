@@ -1969,15 +1969,15 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "•\tCOMMITMENT 9 CR, UPTO MAY 10TH TARGET 2.5 CR, OLD DUE 1.4",
+        "text": "COMMITMENT 9 CR, UPTO MAY 10TH TARGET 2.5 CR, OLD DUE 1.4",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "RAJ",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1778047269260,
-    "modifiedAt": 1778047374126
+    "modifiedAt": 1778047378093
   }
 ]
