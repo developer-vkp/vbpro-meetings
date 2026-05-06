@@ -1917,50 +1917,6 @@
     "modifiedAt": 1778040597190
   },
   {
-    "id": "m1778047245933_5ls",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778047245933,
-    "modifiedAt": 1778047245933
-  },
-  {
-    "id": "m1778047269260_sjb",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "",
-    "campus": "Unknown",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap2",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778047269260,
-    "modifiedAt": 1778047275925
-  },
-  {
     "id": "m1778047663517_efh",
     "date": "2026-05-06",
     "day": "Wednesday",
@@ -2020,28 +1976,6 @@
       }
     ],
     "createdAt": 1778047663517,
-    "modifiedAt": 1778047831805
-  },
-  {
-    "id": "m1778051131661_vks",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "ADMISSION",
-    "campus": "All Campus",
-    "category": "Marketing / Admission",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "•\tADMISSION 590 ACHIEVED, ENQUIRY 1543, PERCENTAAGE 25, SCHOOL 33%, CC 79%, LT 12% , LT LEADS 21\n•\tLAST YEAR ENQUIRY AROUND 1000, \n•\tTHIS MONTH END TARGET 700, ENQUIRY WEEKLY AVERAGE 50 + 150, THIS MONTH ENQUIRY TAREGT 200\n•\tLAST YEAR LT ENQUIRY 600, NEET 327\n•\tISAI MAM AND SRIMATHY MAM TO MEET SIR TODAY AT 3 PM\n",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MANIMALA MAM / VASUMATHY MAM",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778051131661,
-    "modifiedAt": 1778051206877
+    "modifiedAt": 1778051199139
   }
 ]
