@@ -1972,7 +1972,7 @@
         "id": "ap1",
         "type": "Immediate",
         "text": "•\tBODHI PONNERI – THIS MONTH TARGET 22.5 CR, UPTO MAY 15TH TARGET 8 CR, \n•\t10000 STUDENTS LIST TO SUBMIT, 50000 STUDENTS LIST – TOTAL 293 STUDENTS\n•\tOLD DUE 71 L, VBA 17 L, TRUST 54 L\n•\tTRUST PAYOUT THIS MONTH 55, DAILY COLLECTION TARGET 2CR\n",
-        "priority": "Medium",
+        "priority": "Critical",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -1980,6 +1980,6 @@
       }
     ],
     "createdAt": 1778047663517,
-    "modifiedAt": 1778047677632
+    "modifiedAt": 1778047678509
   }
 ]
