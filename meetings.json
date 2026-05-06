@@ -1317,7 +1317,7 @@
     "id": "imp_1777616339128_0",
     "date": "2026-05-05",
     "day": "Tuesday",
-    "title": "Daily - Accounts Review",
+    "title": "PROCESS OWNERS",
     "campus": "All Campus",
     "category": "Daily - Accounts Review",
     "actionPoints": [
@@ -1736,7 +1736,7 @@
       }
     ],
     "createdAt": 1777616339128,
-    "modifiedAt": 1778039353781
+    "modifiedAt": 1778047551930
   },
   {
     "id": "m1777878664742_qud",
@@ -1914,6 +1914,134 @@
       }
     ],
     "createdAt": 1777878664742,
-    "modifiedAt": 1778051072476
+    "modifiedAt": 1778040597190
+  },
+  {
+    "id": "m1778047245933_5ls",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778047245933,
+    "modifiedAt": 1778047245933
+  },
+  {
+    "id": "m1778047269260_sjb",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "",
+    "campus": "Unknown",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778047269260,
+    "modifiedAt": 1778047275925
+  },
+  {
+    "id": "m1778047663517_efh",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Daily - Accounts Review",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "•\tBODHI PONNERI – THIS MONTH TARGET 22.5 CR, UPTO MAY 15TH TARGET 8 CR, \n•\t10000 STUDENTS LIST TO SUBMIT, 50000 STUDENTS LIST – TOTAL 293 STUDENTS\n•\tOLD DUE 71 L, VBA 17 L, TRUST 54 L\n•\tTRUST PAYOUT THIS MONTH 55, DAILY COLLECTION TARGET 2CR\n",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "KAMATCHI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "•\tOLOGY GIRLS CAPEX LIST TO SUBMIT\n•\tCAPEX - TOTAL 15 VENDORS, TOTAL 8.5 CR (OLD 3.5, NEW 5)\n•\tTOTAL CAPEX VALUE TO GET SIR APPROVAL\n•\tOLD QUOTATION 6.81 REDUCED TO 6.5 (REDUCED CATEGORIES FURNITURE, AC, COMPUTERS)\n•\t3 QUOTE QUOTATION TO BE SUBMITTED FOR ALL CAPEX\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "VBA COMMITMENT 9 CR, UPTO MAY 10TH TARGET 2.5 CR, OLD DUE 1.4",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "RAJALAKSHMI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "AFFILIATION BUDGET TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ARUN SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "ALL SCHOOLS FEE CONCESSION LIST TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778047663517,
+    "modifiedAt": 1778047831805
+  },
+  {
+    "id": "m1778051131661_vks",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778051131661,
+    "modifiedAt": 1778051131661
   }
 ]
