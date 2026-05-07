@@ -2929,7 +2929,7 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "MERITORIOUS TAR",
+        "text": "MERITORIOUS TARGET",
         "priority": "Critical",
         "status": "Open",
         "assignedTo": "",
@@ -2938,7 +2938,7 @@
       }
     ],
     "createdAt": 1778127610473,
-    "modifiedAt": 1778127771808
+    "modifiedAt": 1778127773152
   },
   {
     "id": "m1778127690593_1gi",
