@@ -2919,7 +2919,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "52 STAFFWISE TARGET 2 ",
+        "text": "52 STAFFWISE TARGET ",
         "priority": "High",
         "status": "Open",
         "assignedTo": "",
@@ -2928,6 +2928,6 @@
       }
     ],
     "createdAt": 1778127610473,
-    "modifiedAt": 1778127660096
+    "modifiedAt": 1778127665552
   }
 ]
