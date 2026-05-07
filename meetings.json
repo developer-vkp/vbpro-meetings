@@ -3003,5 +3003,27 @@
     ],
     "createdAt": 1778128548963,
     "modifiedAt": 1778128658884
+  },
+  {
+    "id": "m1778128732099_n0f",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "ADMISSION",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "•\tOVERALL ENQUIRY 1543\n•\tADMISSION 590 ACHIEVED\n•\tENQUIRY  - SCHOOL 1465, CC 38, LT 40 (5 ACHIEVED, PIPELINE 21 TO FOLLOW)\n•\tLAST YEAR SCHOOL ENQUIRY – CC 30, LT 523\n•\tSCHOOL ADMISSION TARGET 700\n•\tADMISSION 555 ACHIEVED TO SUBMIT DATA \n•\tOVERALL ACHIEVED ADMISSION LAST YEAR 652 \n•\tTARGET MAY 555 ACHIEVED +150\n•\tALL SCHOOL ADMISSION TEAM, SARAVANAN SIR TO TAKE CONCALLL FOR PROMOTION\n•\tOVERALL CURRENT TARGET 1100 (SCHOOL, CC, LT)\n•\tVBA ANNA NAGAR INCHAREG TO GIVE COMMITMENT\n•\tISAI MAM, SUMATHI MAM – TO MEET SIR WEEKLY TWICE\n•\tTARGET ACHIEVED 555 DATA TO SUBMIT\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MANIMALA MAM / VASUMATHY MAM",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778128732099,
+    "modifiedAt": 1778128732099
   }
 ]
