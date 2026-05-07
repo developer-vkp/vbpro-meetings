@@ -3175,7 +3175,7 @@
     "date": "2026-05-07",
     "day": "Thursday",
     "title": "PROCESS OWNERS",
-    "campus": "Central Office",
+    "campus": "All Campus",
     "category": "Finance / Fee",
     "actionPoints": [
       {
@@ -3250,6 +3250,6 @@
       }
     ],
     "createdAt": 1778135142338,
-    "modifiedAt": 1778140398406
+    "modifiedAt": 1778140422846
   }
 ]
