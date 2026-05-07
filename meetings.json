@@ -1736,7 +1736,7 @@
       }
     ],
     "createdAt": 1777616339128,
-    "modifiedAt": 1778039353781
+    "modifiedAt": 1778124440147
   },
   {
     "id": "m1777878664742_qud",
@@ -1918,8 +1918,8 @@
   },
   {
     "id": "m1778045142491_67z",
-    "date": "2026-04-30",
-    "day": "Thursday",
+    "date": "2026-05-06",
+    "day": "Wednesday",
     "title": "Director sir meeting (ZOOM) - Admin",
     "campus": "SENIOR PRINICIPAL SIR",
     "category": "Academics",
@@ -2083,7 +2083,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778052802162
+    "modifiedAt": 1778131119187
   },
   {
     "id": "m1778046393434_qtk",
@@ -2572,7 +2572,7 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778053746348
+    "modifiedAt": 1778133020047
   },
   {
     "id": "m1778053761492_m0w",
@@ -2585,15 +2585,671 @@
       {
         "id": "ap1",
         "type": "Immediate",
-        "text": "",
+        "text": "Ology girls capex and infra ",
         "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "daily accountants capex call",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "⁠daily Fc sir review points ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "thiruvallur capex ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Bangalore admission ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "⁠reattari schedule ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "sports eca resource heads ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "non marketing admission ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "staff orientation ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "Velammal tech points ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "neet performance review ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "focus results ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "future iit neet ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "⁠visit plan zoom",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "Theni review",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "25 members 5 works ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "schools coordinators ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "zonal heads points ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "pollachi zoom",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": " ⁠emergency team ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "sports scholarships ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap23",
+        "type": "Immediate",
+        "text": "Sasi ao 420",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap24",
+        "type": "Immediate",
+        "text": "poster 422 426 423",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap25",
+        "type": "Immediate",
+        "text": "class -10 appreciation ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap26",
+        "type": "Immediate",
+        "text": "isai Andrew follow up ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap27",
+        "type": "Immediate",
+        "text": "cc students performance ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap28",
+        "type": "Immediate",
+        "text": "Theni team dgl call ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap29",
+        "type": "Immediate",
+        "text": "ology tech activity",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap30",
+        "type": "Immediate",
+        "text": "Selvam 3 works",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778053761492,
+    "modifiedAt": 1778054128524
+  },
+  {
+    "id": "m1778072325662_7aw",
+    "date": "2026-05-07",
+    "day": "Thursday",
+    "title": "CIVIL AND CAPEX",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "CENTRAL",
+        "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
         "completed": false
       }
     ],
-    "createdAt": 1778053761492,
-    "modifiedAt": 1778053813453
+    "createdAt": 1778072325662,
+    "modifiedAt": 1778126825059
+  },
+  {
+    "id": "m1778127610473_p0l",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "ADMISSION",
+    "campus": "Pondicherry",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "SIBBLING DATA -135 ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MS.ABINAYA",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "52 STAFFWISE TARGET PER 2",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MS.ABINAYA",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "MERITORIOUS TARGET",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "SEND NEWSPAPER ARTICLE",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778127610473,
+    "modifiedAt": 1778131348069
+  },
+  {
+    "id": "m1778127690593_1gi",
+    "date": "2026-05-07",
+    "day": "Thursday",
+    "title": "",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778127690593,
+    "modifiedAt": 1778128413006
+  },
+  {
+    "id": "m1778128548963_b4u",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "ADMISSION",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "•\tADMISSION 590 ACHIEVED, ENQUIRY 1543, PERCENTAAGE 25, SCHOOL 33%, CC 79%, LT 12% , LT LEADS 21\n•\tLAST YEAR ENQUIRY AROUND 1000, \n•\tTHIS MONTH END TARGET 700, ENQUIRY WEEKLY AVERAGE 50 + 150, THIS MONTH ENQUIRY TAREGT 200\n•\tLAST YEAR LT ENQUIRY 600, NEET 327\n•\tISAI MAM AND SRIMATHY MAM TO MEET SIR TODAY (06.05.26) AT 3 PM\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MANIMALA MAM / VASUMATHY MAM",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778128548963,
+    "modifiedAt": 1778131456132
+  },
+  {
+    "id": "m1778128732099_n0f",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "ADMISSION",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "•\tOVERALL ENQUIRY 1543\n•\tADMISSION 590 ACHIEVED\n•\tENQUIRY  - SCHOOL 1465, CC 38, LT 40 (5 ACHIEVED, PIPELINE 21 TO FOLLOW)\n•\tLAST YEAR SCHOOL ENQUIRY – CC 30, LT 523\n•\tSCHOOL ADMISSION TARGET 700\n•\tADMISSION 555 ACHIEVED TO SUBMIT DATA \n•\tOVERALL ACHIEVED ADMISSION LAST YEAR 652 \n•\tTARGET MAY 555 ACHIEVED +150\n•\tALL SCHOOL ADMISSION TEAM, SARAVANAN SIR TO TAKE CONCALLL FOR PROMOTION\n•\tOVERALL CURRENT TARGET 1100 (SCHOOL, CC, LT)\n•\tVBA ANNA NAGAR INCHAREG TO GIVE COMMITMENT\n•\tISAI MAM, SUMATHI MAM – TO MEET SIR WEEKLY TWICE\n•\tTARGET ACHIEVED 555 DATA TO SUBMIT\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MANIMALA MAM / VASUMATHY MAM",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778128732099,
+    "modifiedAt": 1778131465811
+  },
+  {
+    "id": "m1778128889907_ykl",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "ADMISSION",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "•\tADMISSIOM TARGET 12968, ACHIEVED 9427, DROUPOUT 524\n•\tFINANCIAL TARGET 11793 BREAKUP SELVAM SIR TO SUBMIT TO AD MAM\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "•\tCONCESSION – ADDITIONAL CONCESSSION DETAILS TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "•\tFURTHUR REFUND AFTER SCHOOL REOPENING OF ALL SCHOOLS WITH LAST YEAR COMPARISON TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "•\t3000 GAP (1500 – VASUMATHY MAM, MANIMALA MAM & 1500 – AD MAM/ SIRECTOR SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "THE FOLLOWING MEMBERS TO SEND MESSAGE TO DIRECTOR SIR AND AD MAM  REGARDING ADMISSION DETAILS \n•\tMATRIC, VISION, VV PONNERI – SHANTHI MAM, SHIPRA MAM \n•\tTVIS - - KODANTHARAMAN SIR, SHANMUGAM SIR, SURESH BODHI \n•\tOLOGY GIRLS – VANITHA MAM \n•\tRSA – RSA SURESH SIR\n•\tVBA – RAJALAKSHMI MAM\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "•\tUNANNOUNCED TC \n•\tDROUPOUT\n•\tREFUND\n•\tNOT INFORMED TC (OLD STUDENTS – BOOKS, UNIFORM) ACO TO TALK \n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778128889907,
+    "modifiedAt": 1778131911931
+  },
+  {
+    "id": "m1778129029195_5m7",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "•\tBODHI PONNERI – THIS MONTH TARGET 22.5 CR, UPTO MAY 15TH TARGET 8 CR, \n•\t10000 STUDENTS LIST TO SUBMIT, 50000 STUDENTS LIST – TOTAL 293 STUDENTS\n•\tOLD DUE 71 L, VBA 17 L, TRUST 54 L\n•\tTRUST PAYOUT THIS MONTH 55, DAILY COLLECTION TARGET 2CR\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "KAMATCHI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "•\tOLOGY GIRLS CAPEX LIST TO SUBMIT\n•\tCAPEX - TOTAL 15 VENDORS, TOTAL 8.5 CR (OLD 3.5, NEW 5)\n•\tTOTAL CAPEX VALUE TO GET SIR APPROVAL\n•\tOLD QUOTATION 6.81 REDUCED TO 6.5 (REDUCED CATEGORIES FURNITURE, AC, COMPUTERS)\n•\t3 QUOTE QUOTATION TO BE SUBMITTED FOR ALL CAPEX\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "•\tCOMMITMENT 9 CR, UPTO MAY 10TH TARGET 2.5 CR, OLD DUE 1.4",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "RAJALAKSHMI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "•\tAFFILIATION BUDGET TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ARUN SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "•\tALL SCHOOLS FEE CONCESSION LIST TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "•\tALL NEEW ADMISSION PARENT LETTER TO SEND\n•\tMARKETING TEAM TO SEND EMAIL TO SELVAM SIR REGARDING CONCESSION \n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778129029195,
+    "modifiedAt": 1778129029195
+  },
+  {
+    "id": "m1778135142338_90z",
+    "date": "2026-05-07",
+    "day": "Thursday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "•\tVKP 1 TARGET FEE COLLECTION – 22 CR, COLLECTED 2.65 ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "KAMATCHI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "•\tSKV, MVM  - TOTAL 23CR TARGET FEE COLLECTION\n•\tFEE COLLECTED DETAILS DAY WISE - 1ST 2.59, 2ND – 25.69, 3RD – 2.76, 4TH 53, 5TH – 68.48, 6TH  - 55.64 \n•\tTOTAL 2.59 CR COLLECTED\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "RAJESH SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "•\tFEE COLLECTED - KANCHIPURAM 13 L, \n•\tATTUR, KALLAKURICHI, PONDICHERRY 2.13\n•\tTONDIARPET – 1.53\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "YESHODHA MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "•\tOLOGY CAPEX LIST AND VENDOR DETAILS TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "•\tTO SUBMIT – DAY WISE – OLD DUE, NEW DUE INCLUDING BOOKS, VBA AND THEIR SCHOOL NAMES",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "YESHODHA MAM / KAMATCHI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT DAYWISE TARGET FOR OLD DUE, NEW DUE INCLULDING BOOKS, VBA AND MAY MONTH COLLECTION TARGET",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT CONCESSION DETAILS",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778135142338,
+    "modifiedAt": 1778135142338
   }
 ]
