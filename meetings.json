@@ -3025,5 +3025,77 @@
     ],
     "createdAt": 1778128732099,
     "modifiedAt": 1778128732099
+  },
+  {
+    "id": "m1778128889907_ykl",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "ADMISSION",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "•\tADMISSIOM TARGET 12968, ACHIEVED 9427, DROUPOUT 524\n•\tFINANCIAL TARGET 11793 BREAKUP SELVAM SIR TO SUBMIT TO AD MAM\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "•\tCONCESSION – ADDITIONAL CONCESSSION DETAILS TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "•\tFURTHUR REFUND AFTER SCHOOL REOPENING OF ALL SCHOOLS WITH LAST YEAR COMPARISON TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "•\t3000 GAP (1500 – VASUMATHY MAM, MANIMALA MAM & 1500 – AD MAM/ SIRECTOR SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "THE FOLLOWING MEMBERS TO SEND MESSAGE TO DIRECTOR SIR AND AD MAM  REGARDING ADMISSION DETAILS \n•\tMATRIC, VISION, VV PONNERI – SHANTHI MAM, SHIPRA MAM \n•\tTVIS - - KODANTHARAMAN SIR, SHANMUGAM SIR, SURESH BODHI \n•\tOLOGY GIRLS – VANITHA MAM \n•\tRSA – RSA SURESH SIR\n•\tVBA – RAJALAKSHMI MAM\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "•\tUNANNOUNCED TC \n•\tDROUPOUT\n•\tREFUND\n•\tNOT INFORMED TC (OLD STUDENTS – BOOKS, UNIFORM) ACO TO TALK \n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778128889907,
+    "modifiedAt": 1778128889907
   }
 ]
