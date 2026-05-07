@@ -336,3 +336,21 @@ body{font-family:var(--uf);font-size:var(--us);background:white;color:var(--gray
 .toggle-switch span {
   transition: 0.3s;
 }
+
+/* Auto-save Status Enhancements */
+.asd.saving {
+  animation: pulse-dot 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(1.2); }
+}
+
+.asd.saved {
+  background: #059669 !important;
+}
+
+.asd.error {
+  background: #dc2626 !important;
+}
