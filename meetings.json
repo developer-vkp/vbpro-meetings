@@ -2922,12 +2922,12 @@
         "text": "52 STAFFWISE TARGET PER 2",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.ABINAYA",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1778127610473,
-    "modifiedAt": 1778127668480
+    "modifiedAt": 1778127683616
   }
 ]
