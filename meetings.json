@@ -2877,28 +2877,6 @@
     "modifiedAt": 1778054128524
   },
   {
-    "id": "m1778071064068_r3h",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "test",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap2",
-        "type": "Immediate",
-        "text": "test",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778071064068,
-    "modifiedAt": 1778071064068
-  },
-  {
     "id": "m1778072325662_7aw",
     "date": "2026-05-07",
     "day": "Thursday",
