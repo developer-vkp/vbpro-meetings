@@ -2881,7 +2881,7 @@
     "date": "2026-05-07",
     "day": "Thursday",
     "title": "CIVIL AND CAPEX",
-    "campus": "All Campus",
+    "campus": "Coimbatore",
     "category": "IIT / NEET",
     "actionPoints": [
       {
@@ -2896,6 +2896,6 @@
       }
     ],
     "createdAt": 1778072325662,
-    "modifiedAt": 1778156893290
+    "modifiedAt": 1778156896407
   }
 ]
