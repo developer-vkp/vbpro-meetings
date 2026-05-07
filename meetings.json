@@ -2980,7 +2980,7 @@
       }
     ],
     "createdAt": 1778127690593,
-    "modifiedAt": 1778134409427
+    "modifiedAt": 1778128413006
   },
   {
     "id": "m1778128548963_b4u",
@@ -3169,5 +3169,87 @@
     ],
     "createdAt": 1778129029195,
     "modifiedAt": 1778129029195
+  },
+  {
+    "id": "m1778135142338_90z",
+    "date": "2026-05-07",
+    "day": "Thursday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "•\tVKP 1 TARGET FEE COLLECTION – 22 CR, COLLECTED 2.65 ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "KAMATCHI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "•\tSKV, MVM  - TOTAL 23CR TARGET FEE COLLECTION\n•\tFEE COLLECTED DETAILS DAY WISE - 1ST 2.59, 2ND – 25.69, 3RD – 2.76, 4TH 53, 5TH – 68.48, 6TH  - 55.64 \n•\tTOTAL 2.59 CR COLLECTED\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "RAJESH SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "•\tFEE COLLECTED - KANCHIPURAM 13 L, \n•\tATTUR, KALLAKURICHI, PONDICHERRY 2.13\n•\tTONDIARPET – 1.53\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "YESHODHA MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "•\tOLOGY CAPEX LIST AND VENDOR DETAILS TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "•\tTO SUBMIT – DAY WISE – OLD DUE, NEW DUE INCLUDING BOOKS, VBA AND THEIR SCHOOL NAMES",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "YESHODHA MAM / KAMATCHI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT DAYWISE TARGET FOR OLD DUE, NEW DUE INCLULDING BOOKS, VBA AND MAY MONTH COLLECTION TARGET",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT CONCESSION DETAILS",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778135142338,
+    "modifiedAt": 1778135142338
   }
 ]
