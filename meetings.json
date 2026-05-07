@@ -2881,7 +2881,7 @@
     "date": "2026-05-07",
     "day": "Thursday",
     "title": "CIVIL AND CAPEX",
-    "campus": "Central Office",
+    "campus": "All Campus",
     "category": "IIT / NEET",
     "actionPoints": [
       {
@@ -2896,6 +2896,6 @@
       }
     ],
     "createdAt": 1778072325662,
-    "modifiedAt": 1778156886360
+    "modifiedAt": 1778156893290
   }
 ]
