@@ -3097,5 +3097,77 @@
     ],
     "createdAt": 1778128889907,
     "modifiedAt": 1778128889907
+  },
+  {
+    "id": "m1778129029195_5m7",
+    "date": "2026-05-06",
+    "day": "Wednesday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "•\tBODHI PONNERI – THIS MONTH TARGET 22.5 CR, UPTO MAY 15TH TARGET 8 CR, \n•\t10000 STUDENTS LIST TO SUBMIT, 50000 STUDENTS LIST – TOTAL 293 STUDENTS\n•\tOLD DUE 71 L, VBA 17 L, TRUST 54 L\n•\tTRUST PAYOUT THIS MONTH 55, DAILY COLLECTION TARGET 2CR\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "KAMATCHI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "•\tOLOGY GIRLS CAPEX LIST TO SUBMIT\n•\tCAPEX - TOTAL 15 VENDORS, TOTAL 8.5 CR (OLD 3.5, NEW 5)\n•\tTOTAL CAPEX VALUE TO GET SIR APPROVAL\n•\tOLD QUOTATION 6.81 REDUCED TO 6.5 (REDUCED CATEGORIES FURNITURE, AC, COMPUTERS)\n•\t3 QUOTE QUOTATION TO BE SUBMITTED FOR ALL CAPEX\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "•\tCOMMITMENT 9 CR, UPTO MAY 10TH TARGET 2.5 CR, OLD DUE 1.4",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "RAJALAKSHMI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "•\tAFFILIATION BUDGET TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ARUN SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "•\tALL SCHOOLS FEE CONCESSION LIST TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "•\tALL NEEW ADMISSION PARENT LETTER TO SEND\n•\tMARKETING TEAM TO SEND EMAIL TO SELVAM SIR REGARDING CONCESSION \n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778129029195,
+    "modifiedAt": 1778129029195
   }
 ]
