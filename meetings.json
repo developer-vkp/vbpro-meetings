@@ -2897,5 +2897,47 @@
     ],
     "createdAt": 1778072325662,
     "modifiedAt": 1778156896407
+  },
+  {
+    "id": "m1778216377071_2mw",
+    "date": "2026-05-07",
+    "day": "Thursday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT CONCESSION DETAILS",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT DAYWISE TARGET FOR OLD DUE, NEW DUE INCLULDING BOOKS, VBA AND MAY MONTH COLLECTION TARGET",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "•\tYESHODHA MAM & KAMATCHI MAM TO SUBMIT – DAY WISE – OLD DUE, NEW DUE INCLUDING BOOKS, VBA AND THEIR SCHOOL NAMES",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "YESHODHA MAM / KAMATCHI MAM",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778216377071,
+    "modifiedAt": 1778216377071
   }
 ]
