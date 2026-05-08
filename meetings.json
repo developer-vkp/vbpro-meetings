@@ -2949,5 +2949,97 @@
     ],
     "createdAt": 1778216377071,
     "modifiedAt": 1778216420335
+  },
+  {
+    "id": "m1778216610447_gqo",
+    "date": "2026-05-07",
+    "day": "Thursday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT DAYWISE TARGET FOR OLD DUE, NEW DUE INCLULDING BOOKS, VBA AND MAY MONTH COLLECTION TARGET",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT CONCESSION DETAILS",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "•\tMARKETING TEAM PHYSICAL MEETING - MAY21ST & JUNE 14TH ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "•\tMARKETING TEAM ZOOM MEETING JUNE 15TH ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "•\tFOUNDATION MATERIAL VALIDTION DETAILS TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "•\tBOOKS FEE LESS PERCENTAGE MARKETTING TEAM TO CHECK AND FOLLOW FROM 07.05.2026 TO MAY 15TH ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "•\tPARENT LETTER ABOUT SPECIAL CONCESSION TO DO CROSSCHECK",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "•\tFEE CONCESSION LIST TO BE VERIFIED ALONG WITH CASHIER",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778216610447,
+    "modifiedAt": 1778216610447
   }
 ]
