@@ -2956,7 +2956,7 @@
     "day": "Thursday",
     "title": "PROCESS OWNERS",
     "campus": "All Campus",
-    "category": "Finance / Fee",
+    "category": "Marketing / Admission",
     "actionPoints": [
       {
         "id": "ap8",
@@ -3050,6 +3050,6 @@
       }
     ],
     "createdAt": 1778216610447,
-    "modifiedAt": 1778216629319
+    "modifiedAt": 1778216663392
   }
 ]
