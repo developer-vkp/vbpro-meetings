@@ -3041,7 +3041,7 @@
       {
         "id": "ap16",
         "type": "Immediate",
-        "text": "",
+        "text": "•\tUNANNOUNCED TC \n•\tDROUPOUT\n•\tREFUND\n•\tNOT INFORMED TC (OLD STUDENTS – BOOKS, UNIFORM) ACO TO TALK \n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -3050,6 +3050,6 @@
       }
     ],
     "createdAt": 1778216610447,
-    "modifiedAt": 1778216616427
+    "modifiedAt": 1778216621143
   }
 ]
