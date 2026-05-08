@@ -3051,5 +3051,207 @@
     ],
     "createdAt": 1778216610447,
     "modifiedAt": 1778216667687
+  },
+  {
+    "id": "m1778216951927_z97",
+    "date": "2026-04-22",
+    "day": "Wednesday",
+    "title": "THILAKARAJ SIR",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "VACATION - MAINTENANCE, HOSTEL, ADMIN – APRIL TO MAY - TOTAL STAFF MEMBERS LIST FROM CASHIER, CIRCULAR TO BE PREPARED BY CENTRAL OFFICE",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "SURESH SIR BODHI, THILAKARAJ SIR TO SUBMIT APPOINTMENT DETAILS, ACTUAL COUNT – ADMIN, CANTEEN, HOUSEKEEPING, LOUNDRY, SECURITY, WARDENS, PTS ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "HOSTEL READINESS, MAINTENANCE INSPECTION – DATE MAY 3RD OR 4TH WEEK – THILAKARAJ SIR TO SUBMIT REPORT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "MAY 3RD OR 4TH WEEK – ALL STAFF – ID CARD, UNIFORM GROUP PHOTO TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "ALL ADMIN, HOSTEL PRINTING ITEMS TO DISPLAY IN VCR ROOM AND VASUMATHY MAM TO CHECK ON 1ST WEEK OF VISIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "STUDENTS ARRIVAL – ZOOM MEETING ON MAY 3RD WEEK AND JUNE 1ST WEEK ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap23",
+        "type": "Immediate",
+        "text": "VKP BUILDING WORK, WEATHER COATING, WELCOMING DECORATIONS, BANNER CHANGE – MAY 4TH WEEK",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap24",
+        "type": "Immediate",
+        "text": "KITCHEN MAINTENANCE, CANTEEN REQUIREMENTS – SELVAM SIR, KALAI SIR, SULAIMAM SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap25",
+        "type": "Immediate",
+        "text": "MATRIC GATE, STAFF QUARTERS, OLOGY GIRLS GATE, BODHI GATE, VIT GATE, VV GATE, TVIS GATE – KALIDAS SIR, SARAVAN KUMAR SIR, SHANKAR SIR, THILAKARAJ SIR SHOULD CHECK PHYSICALLY AND REPORTS TO BE SUBMITTED TO IMPROVE",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap26",
+        "type": "Immediate",
+        "text": "STAFF QUARTERS ALLOTMEMENT APPROVED BY SIR – SENTHIL PO RESPONSIBLE",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap27",
+        "type": "Immediate",
+        "text": "AC MAINTENANCE SCHEDULE ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap28",
+        "type": "Immediate",
+        "text": "TVIS, BODHI, VV, MATRIC, VIT – ALL CLASSROOM INSPECTION REPORT TO BE SUBMITTED WITH PRINCIPALS SIGN, AO SIGN, ACO SIGN",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap29",
+        "type": "Immediate",
+        "text": "49 POINTS TO FOLLOW",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap30",
+        "type": "Immediate",
+        "text": "33 POINTS TO FOLLOW",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap31",
+        "type": "Immediate",
+        "text": "ALL VKP SCHOOL NOTICE BOARD READINESS, OBSERVING TEAM SHOULD CHECK AND TO GIVE SCORE",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap32",
+        "type": "Immediate",
+        "text": "LAB REQUIREMENT – MURALI SIR TO MEET SIR IN MAY 4TH WEEK WITH ACTUAL STOCK AND READINESS PHOTO",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap33",
+        "type": "Immediate",
+        "text": "EB CONSULTANT – NO OF WORKS, SCHEDULE, COMPLETION – GM SIR, EB TEAM, THILAKARAJ SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap34",
+        "type": "Immediate",
+        "text": "DAY SCHOOL AO’S – APRIL AND MAY  MAINTENANCE, SAFETY REPORT TO SUBMIT IN PERSON TO SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap35",
+        "type": "Immediate",
+        "text": "APRIL, MAY, JUNE – VKP GAME , CLUSTER, GRASS ROOT WISE INCHARGE MEETING TO BE CONDUCTED WITH RSA SURESH SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778216951927,
+    "modifiedAt": 1778216951927
   }
 ]
