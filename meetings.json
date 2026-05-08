@@ -3275,5 +3275,27 @@
     ],
     "createdAt": 1778216990799,
     "modifiedAt": 1778216990799
+  },
+  {
+    "id": "m1778217025047_b33",
+    "date": "2026-05-07",
+    "day": "Thursday",
+    "title": "VIT COLLEGE",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap37",
+        "type": "Immediate",
+        "text": "•\tINERNSHIP 31% INCREASED, ACTIVITY DETAILS , INDUSTRY VISIT DETAILS TO SUBMIT\n•\tNANDHA GOPAL TO COME IN THE NEXT MEETING EITH INDUSTRY VISIT FEEDBACK\n•\tPROJECTOR \n•\tARVR 56 L\n•\tCIT VISIT\n•\tASTROX – INDUSTRY ON CAMPUS DETAILS TO SUBMIT\n•\tMBA BUDGET\n•\tPATENT 78 PUBLISHED, 1 GRANTING\n•\tAFTER MAY 25TH VEC PRINCIPAL & VIT PRINCIPAL TO MEET SIR\n•\t18 PHD’S TO BE SECURITINSED\n•\tSALARY BUDGET INCLUDING PHDS TO WORKOUT FOR 3 YEARS \n•\tINDUSTRY EXPERT TO IDENTIFY\n•\tTOP 50 STUDENTS, JUNE ASSESMENT\n•\tTAIWAN VISIT – JUNE MADHUBALA SUBRAMANIYAM \n•\tMATLA, SOFTWARE – NEXT MEETING TO DISCUSS\n•\tIROC – ISRO, ROBOTIC MACHINE CHALLENGE – RS. 40,000 (WITH REIMBURSEMENT)\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778217025047,
+    "modifiedAt": 1778217025047
   }
 ]
