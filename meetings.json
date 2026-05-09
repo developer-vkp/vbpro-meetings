@@ -3327,37 +3327,5 @@
     ],
     "createdAt": 1778217025047,
     "modifiedAt": 1778323552894
-  },
-  {
-    "id": "m1778326584037_sbk",
-    "date": "2026-05-09",
-    "day": "Saturday",
-    "title": "ADMIN HEAD MAM MORNING REVIEW MEETING",
-    "campus": "All School",
-    "category": "Admin",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "19 points file: daily review report and need to add name list as the front page",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR. MANOKARAN",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap2",
-        "type": "Immediate",
-        "text": "stock verification report yearly once report will be filed - 29 schools should be maintained in the report.",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR. MANOKARAN , PREM",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778326584037,
-    "modifiedAt": 1778326584037
   }
 ]
