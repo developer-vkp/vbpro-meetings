@@ -3275,7 +3275,7 @@
       {
         "id": "ap1",
         "type": "Immediate",
-        "text": "•\t50% CAN BE ACHIEVED IN A MONTH",
+        "text": "50% CAN BE ACHIEVED IN A MONTH",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -3284,7 +3284,7 @@
       }
     ],
     "createdAt": 1778216990799,
-    "modifiedAt": 1778314541016
+    "modifiedAt": 1778314544364
   },
   {
     "id": "m1778217025047_b33",
