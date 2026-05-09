@@ -3285,7 +3285,17 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "PROJECTOR ORDERED\n",
+        "text": "PROJECTOR ORDERED",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -3294,7 +3304,7 @@
       }
     ],
     "createdAt": 1778216990799,
-    "modifiedAt": 1778314589515
+    "modifiedAt": 1778314596279
   },
   {
     "id": "m1778217025047_b33",
