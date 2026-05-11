@@ -2083,7 +2083,7 @@
       }
     ],
     "createdAt": 1778045142492,
-    "modifiedAt": 1778131119187
+    "modifiedAt": 1778071269164
   },
   {
     "id": "m1778046393434_qtk",
@@ -2572,7 +2572,7 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1778133020047
+    "modifiedAt": 1778053746348
   },
   {
     "id": "m1778053761492_m0w",
@@ -2881,8 +2881,8 @@
     "date": "2026-05-07",
     "day": "Thursday",
     "title": "CIVIL AND CAPEX",
-    "campus": "All Campus",
-    "category": "Admin",
+    "campus": "Coimbatore",
+    "category": "IIT / NEET",
     "actionPoints": [
       {
         "id": "ap1",
@@ -2896,260 +2896,20 @@
       }
     ],
     "createdAt": 1778072325662,
-    "modifiedAt": 1778126825059
+    "modifiedAt": 1778156896407
   },
   {
-    "id": "m1778127610473_p0l",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "ADMISSION",
-    "campus": "Pondicherry",
-    "category": "Marketing / Admission",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "SIBBLING DATA -135 ",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MS.ABINAYA",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap2",
-        "type": "Immediate",
-        "text": "52 STAFFWISE TARGET PER 2",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MS.ABINAYA",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap4",
-        "type": "Immediate",
-        "text": "MERITORIOUS TARGET",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "SEND NEWSPAPER ARTICLE",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap6",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778127610473,
-    "modifiedAt": 1778131348069
-  },
-  {
-    "id": "m1778127690593_1gi",
+    "id": "m1778216377071_2mw",
     "date": "2026-05-07",
     "day": "Thursday",
-    "title": "",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap3",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778127690593,
-    "modifiedAt": 1778128413006
-  },
-  {
-    "id": "m1778128548963_b4u",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "ADMISSION",
-    "campus": "All Campus",
-    "category": "Marketing / Admission",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "•\tADMISSION 590 ACHIEVED, ENQUIRY 1543, PERCENTAAGE 25, SCHOOL 33%, CC 79%, LT 12% , LT LEADS 21\n•\tLAST YEAR ENQUIRY AROUND 1000, \n•\tTHIS MONTH END TARGET 700, ENQUIRY WEEKLY AVERAGE 50 + 150, THIS MONTH ENQUIRY TAREGT 200\n•\tLAST YEAR LT ENQUIRY 600, NEET 327\n•\tISAI MAM AND SRIMATHY MAM TO MEET SIR TODAY (06.05.26) AT 3 PM\n",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MANIMALA MAM / VASUMATHY MAM",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778128548963,
-    "modifiedAt": 1778131456132
-  },
-  {
-    "id": "m1778128732099_n0f",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "ADMISSION",
-    "campus": "All Campus",
-    "category": "Marketing / Admission",
-    "actionPoints": [
-      {
-        "id": "ap2",
-        "type": "Immediate",
-        "text": "•\tOVERALL ENQUIRY 1543\n•\tADMISSION 590 ACHIEVED\n•\tENQUIRY  - SCHOOL 1465, CC 38, LT 40 (5 ACHIEVED, PIPELINE 21 TO FOLLOW)\n•\tLAST YEAR SCHOOL ENQUIRY – CC 30, LT 523\n•\tSCHOOL ADMISSION TARGET 700\n•\tADMISSION 555 ACHIEVED TO SUBMIT DATA \n•\tOVERALL ACHIEVED ADMISSION LAST YEAR 652 \n•\tTARGET MAY 555 ACHIEVED +150\n•\tALL SCHOOL ADMISSION TEAM, SARAVANAN SIR TO TAKE CONCALLL FOR PROMOTION\n•\tOVERALL CURRENT TARGET 1100 (SCHOOL, CC, LT)\n•\tVBA ANNA NAGAR INCHAREG TO GIVE COMMITMENT\n•\tISAI MAM, SUMATHI MAM – TO MEET SIR WEEKLY TWICE\n•\tTARGET ACHIEVED 555 DATA TO SUBMIT\n",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MANIMALA MAM / VASUMATHY MAM",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778128732099,
-    "modifiedAt": 1778131465811
-  },
-  {
-    "id": "m1778128889907_ykl",
-    "date": "2026-05-06",
-    "day": "Wednesday",
-    "title": "ADMISSION",
-    "campus": "All Campus",
-    "category": "Marketing / Admission",
-    "actionPoints": [
-      {
-        "id": "ap3",
-        "type": "Immediate",
-        "text": "•\tADMISSIOM TARGET 12968, ACHIEVED 9427, DROUPOUT 524\n•\tFINANCIAL TARGET 11793 BREAKUP SELVAM SIR TO SUBMIT TO AD MAM\n",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap4",
-        "type": "Immediate",
-        "text": "•\tCONCESSION – ADDITIONAL CONCESSSION DETAILS TO SUBMIT",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "SELVAM SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "•\tFURTHUR REFUND AFTER SCHOOL REOPENING OF ALL SCHOOLS WITH LAST YEAR COMPARISON TO SUBMIT",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "SELVAM SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap6",
-        "type": "Immediate",
-        "text": "•\t3000 GAP (1500 – VASUMATHY MAM, MANIMALA MAM & 1500 – AD MAM/ SIRECTOR SIR",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap7",
-        "type": "Immediate",
-        "text": "THE FOLLOWING MEMBERS TO SEND MESSAGE TO DIRECTOR SIR AND AD MAM  REGARDING ADMISSION DETAILS \n•\tMATRIC, VISION, VV PONNERI – SHANTHI MAM, SHIPRA MAM \n•\tTVIS - - KODANTHARAMAN SIR, SHANMUGAM SIR, SURESH BODHI \n•\tOLOGY GIRLS – VANITHA MAM \n•\tRSA – RSA SURESH SIR\n•\tVBA – RAJALAKSHMI MAM\n",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap8",
-        "type": "Immediate",
-        "text": "•\tUNANNOUNCED TC \n•\tDROUPOUT\n•\tREFUND\n•\tNOT INFORMED TC (OLD STUDENTS – BOOKS, UNIFORM) ACO TO TALK \n",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "SELVAM SIR",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778128889907,
-    "modifiedAt": 1778131911931
-  },
-  {
-    "id": "m1778129029195_5m7",
-    "date": "2026-05-06",
-    "day": "Wednesday",
     "title": "PROCESS OWNERS",
     "campus": "All Campus",
     "category": "Finance / Fee",
     "actionPoints": [
       {
-        "id": "ap9",
+        "id": "ap2",
         "type": "Immediate",
-        "text": "•\tBODHI PONNERI – THIS MONTH TARGET 22.5 CR, UPTO MAY 15TH TARGET 8 CR, \n•\t10000 STUDENTS LIST TO SUBMIT, 50000 STUDENTS LIST – TOTAL 293 STUDENTS\n•\tOLD DUE 71 L, VBA 17 L, TRUST 54 L\n•\tTRUST PAYOUT THIS MONTH 55, DAILY COLLECTION TARGET 2CR\n",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "KAMATCHI MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap10",
-        "type": "Immediate",
-        "text": "•\tOLOGY GIRLS CAPEX LIST TO SUBMIT\n•\tCAPEX - TOTAL 15 VENDORS, TOTAL 8.5 CR (OLD 3.5, NEW 5)\n•\tTOTAL CAPEX VALUE TO GET SIR APPROVAL\n•\tOLD QUOTATION 6.81 REDUCED TO 6.5 (REDUCED CATEGORIES FURNITURE, AC, COMPUTERS)\n•\t3 QUOTE QUOTATION TO BE SUBMITTED FOR ALL CAPEX\n",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "VALARMATHY MAM ",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap11",
-        "type": "Immediate",
-        "text": "•\tCOMMITMENT 9 CR, UPTO MAY 10TH TARGET 2.5 CR, OLD DUE 1.4",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "RAJALAKSHMI MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap12",
-        "type": "Immediate",
-        "text": "•\tAFFILIATION BUDGET TO SUBMIT",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "ARUN SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap13",
-        "type": "Immediate",
-        "text": "•\tALL SCHOOLS FEE CONCESSION LIST TO SUBMIT",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT CONCESSION DETAILS",
         "priority": "High",
         "status": "Open",
         "assignedTo": "ALL PROCESS OWNERS",
@@ -3157,79 +2917,7 @@
         "completed": false
       },
       {
-        "id": "ap14",
-        "type": "Immediate",
-        "text": "•\tALL NEEW ADMISSION PARENT LETTER TO SEND\n•\tMARKETING TEAM TO SEND EMAIL TO SELVAM SIR REGARDING CONCESSION \n",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "SELVAM SIR",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778129029195,
-    "modifiedAt": 1778129029195
-  },
-  {
-    "id": "m1778135142338_90z",
-    "date": "2026-05-07",
-    "day": "Thursday",
-    "title": "PROCESS OWNERS",
-    "campus": "All Campus",
-    "category": "Finance / Fee",
-    "actionPoints": [
-      {
-        "id": "ap16",
-        "type": "Immediate",
-        "text": "•\tVKP 1 TARGET FEE COLLECTION – 22 CR, COLLECTED 2.65 ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "KAMATCHI MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap17",
-        "type": "Immediate",
-        "text": "•\tSKV, MVM  - TOTAL 23CR TARGET FEE COLLECTION\n•\tFEE COLLECTED DETAILS DAY WISE - 1ST 2.59, 2ND – 25.69, 3RD – 2.76, 4TH 53, 5TH – 68.48, 6TH  - 55.64 \n•\tTOTAL 2.59 CR COLLECTED\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "RAJESH SIR",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap18",
-        "type": "Immediate",
-        "text": "•\tFEE COLLECTED - KANCHIPURAM 13 L, \n•\tATTUR, KALLAKURICHI, PONDICHERRY 2.13\n•\tTONDIARPET – 1.53\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "YESHODHA MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap19",
-        "type": "Immediate",
-        "text": "•\tOLOGY CAPEX LIST AND VENDOR DETAILS TO SUBMIT",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "VALARMATHY MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap20",
-        "type": "Immediate",
-        "text": "•\tTO SUBMIT – DAY WISE – OLD DUE, NEW DUE INCLUDING BOOKS, VBA AND THEIR SCHOOL NAMES",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "YESHODHA MAM / KAMATCHI MAM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap21",
+        "id": "ap3",
         "type": "Immediate",
         "text": "•\tALL PROCESS OWNERS TO SUBMIT DAYWISE TARGET FOR OLD DUE, NEW DUE INCLULDING BOOKS, VBA AND MAY MONTH COLLECTION TARGET",
         "priority": "High",
@@ -3239,7 +2927,49 @@
         "completed": false
       },
       {
-        "id": "ap22",
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "•\tYESHODHA MAM & KAMATCHI MAM TO SUBMIT – DAY WISE – OLD DUE, NEW DUE INCLUDING BOOKS, VBA AND THEIR SCHOOL NAMES",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "YESHODHA MAM / KAMATCHI MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "•\tOLOGY CAPEX LIST AND VENDOR DETAILS TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778216377071,
+    "modifiedAt": 1778216420335
+  },
+  {
+    "id": "m1778216610447_gqo",
+    "date": "2026-05-07",
+    "day": "Thursday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "•\tALL PROCESS OWNERS TO SUBMIT DAYWISE TARGET FOR OLD DUE, NEW DUE INCLULDING BOOKS, VBA AND MAY MONTH COLLECTION TARGET",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
         "type": "Immediate",
         "text": "•\tALL PROCESS OWNERS TO SUBMIT CONCESSION DETAILS",
         "priority": "High",
@@ -3247,9 +2977,577 @@
         "assignedTo": "ALL PROCESS OWNERS",
         "timeline": "",
         "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "•\tMARKETING TEAM PHYSICAL MEETING - MAY21ST & JUNE 14TH ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "•\tMARKETING TEAM ZOOM MEETING JUNE 15TH ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "•\tFOUNDATION MATERIAL VALIDTION DETAILS TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "•\tBOOKS FEE LESS PERCENTAGE MARKETTING TEAM TO CHECK AND FOLLOW FROM 07.05.2026 TO MAY 15TH ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "•\tPARENT LETTER ABOUT SPECIAL CONCESSION TO DO CROSSCHECK",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "•\tFEE CONCESSION LIST TO BE VERIFIED ALONG WITH CASHIER",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL PROCESS OWNERS",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "•\tUNANNOUNCED TC \n•\tDROUPOUT\n•\tREFUND\n•\tNOT INFORMED TC (OLD STUDENTS – BOOKS, UNIFORM) ACO TO TALK \n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "SELVAM SIR",
+        "timeline": "",
+        "completed": false
       }
     ],
-    "createdAt": 1778135142338,
-    "modifiedAt": 1778135142338
+    "createdAt": 1778216610447,
+    "modifiedAt": 1778216667687
+  },
+  {
+    "id": "m1778216951927_z97",
+    "date": "2026-04-22",
+    "day": "Wednesday",
+    "title": "THILAKARAJ SIR",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "VACATION - MAINTENANCE, HOSTEL, ADMIN – APRIL TO MAY - TOTAL STAFF MEMBERS LIST FROM CASHIER, CIRCULAR TO BE PREPARED BY CENTRAL OFFICE",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "SURESH SIR BODHI, THILAKARAJ SIR TO SUBMIT APPOINTMENT DETAILS, ACTUAL COUNT – ADMIN, CANTEEN, HOUSEKEEPING, LOUNDRY, SECURITY, WARDENS, PTS ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "HOSTEL READINESS, MAINTENANCE INSPECTION – DATE MAY 3RD OR 4TH WEEK – THILAKARAJ SIR TO SUBMIT REPORT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "MAY 3RD OR 4TH WEEK – ALL STAFF – ID CARD, UNIFORM GROUP PHOTO TO SUBMIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "ALL ADMIN, HOSTEL PRINTING ITEMS TO DISPLAY IN VCR ROOM AND VASUMATHY MAM TO CHECK ON 1ST WEEK OF VISIT",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "STUDENTS ARRIVAL – ZOOM MEETING ON MAY 3RD WEEK AND JUNE 1ST WEEK ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap23",
+        "type": "Immediate",
+        "text": "VKP BUILDING WORK, WEATHER COATING, WELCOMING DECORATIONS, BANNER CHANGE – MAY 4TH WEEK",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap24",
+        "type": "Immediate",
+        "text": "KITCHEN MAINTENANCE, CANTEEN REQUIREMENTS – SELVAM SIR, KALAI SIR, SULAIMAM SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap25",
+        "type": "Immediate",
+        "text": "MATRIC GATE, STAFF QUARTERS, OLOGY GIRLS GATE, BODHI GATE, VIT GATE, VV GATE, TVIS GATE – KALIDAS SIR, SARAVAN KUMAR SIR, SHANKAR SIR, THILAKARAJ SIR SHOULD CHECK PHYSICALLY AND REPORTS TO BE SUBMITTED TO IMPROVE",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap26",
+        "type": "Immediate",
+        "text": "STAFF QUARTERS ALLOTMEMENT APPROVED BY SIR – SENTHIL PO RESPONSIBLE",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap27",
+        "type": "Immediate",
+        "text": "AC MAINTENANCE SCHEDULE ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap28",
+        "type": "Immediate",
+        "text": "TVIS, BODHI, VV, MATRIC, VIT – ALL CLASSROOM INSPECTION REPORT TO BE SUBMITTED WITH PRINCIPALS SIGN, AO SIGN, ACO SIGN",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap29",
+        "type": "Immediate",
+        "text": "49 POINTS TO FOLLOW",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap30",
+        "type": "Immediate",
+        "text": "33 POINTS TO FOLLOW",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap31",
+        "type": "Immediate",
+        "text": "ALL VKP SCHOOL NOTICE BOARD READINESS, OBSERVING TEAM SHOULD CHECK AND TO GIVE SCORE",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap32",
+        "type": "Immediate",
+        "text": "LAB REQUIREMENT – MURALI SIR TO MEET SIR IN MAY 4TH WEEK WITH ACTUAL STOCK AND READINESS PHOTO",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap33",
+        "type": "Immediate",
+        "text": "EB CONSULTANT – NO OF WORKS, SCHEDULE, COMPLETION – GM SIR, EB TEAM, THILAKARAJ SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap34",
+        "type": "Immediate",
+        "text": "DAY SCHOOL AO’S – APRIL AND MAY  MAINTENANCE, SAFETY REPORT TO SUBMIT IN PERSON TO SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap35",
+        "type": "Immediate",
+        "text": "APRIL, MAY, JUNE – VKP GAME , CLUSTER, GRASS ROOT WISE INCHARGE MEETING TO BE CONDUCTED WITH RSA SURESH SIR",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "THILAKARAJ SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778216951927,
+    "modifiedAt": 1778216951927
+  },
+  {
+    "id": "m1778216990799_yt9",
+    "date": "2026-05-08",
+    "day": "Friday",
+    "title": "VIT COLLEGE",
+    "campus": "VIT",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap36",
+        "type": "Immediate",
+        "text": "31% INCREASE IN  INTERNSHIP",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "BALAJI SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "50% CAN BE ACHIEVED IN A MONTH",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "PROJECTOR ORDERED",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "•\tCOE BUDGET TO BE FINALISED \n•\tLAST MEETING HELD ON 20.04.2026\n•\tTOTAL BUDGET FOR ALL ACTIVITY AND ADDITIONAL SEATS TO SUBMIT\n•\tTOP 15 CODING AFTER JUNE 15TH\n•\tNIRF RANKING, CRITERIA WISE TARGET – AASAN TEAM TO SUBMIT ON 19TH MAY\n•\tAUTONOMOUS – PADMA PRIYA MAM WILL APPLY NEXT WEEK\n•\tFUNDED PROJECT – 4.5 CRS REACHED\n•\tPUBLICATION TO IMPROVE, 1 YEAR TIMELINE, 40 PHD HOLDER, JULY MONTH WILL REVIEW\n•\tPATTERN 78 PUBLISHED\n•\tGRANTING EXPENSE INCREASED, SPENT RS. 80000\n•\tFREE OF COST CONSULTING UPTO 3 CONSULTANCY\n•\tSTARTUP STUDENTS ON CAMPUS\n•\tALUMI MEET CONDUCTED - THIS YEAR UPTO 40 NOS CAME\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778216990799,
+    "modifiedAt": 1778314607875
+  },
+  {
+    "id": "m1778217025047_b33",
+    "date": "2026-05-07",
+    "day": "Thursday",
+    "title": "VIT COLLEGE",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap37",
+        "type": "Immediate",
+        "text": "•\tINERNSHIP 31% INCREASED, ACTIVITY DETAILS , INDUSTRY VISIT DETAILS TO SUBMIT\n•\tNANDHA GOPAL TO COME IN THE NEXT MEETING EITH INDUSTRY VISIT FEEDBACK\n•\tPROJECTOR \n•\tARVR 56 L\n•\tCIT VISIT\n•\tASTROX – INDUSTRY ON CAMPUS DETAILS TO SUBMIT\n•\tMBA BUDGET\n•\tPATENT 78 PUBLISHED, 1 GRANTING\n•\tAFTER MAY 25TH VEC PRINCIPAL & VIT PRINCIPAL TO MEET SIR\n•\t18 PHD’S TO BE SECURITINSED\n•\tSALARY BUDGET INCLUDING PHDS TO WORKOUT FOR 3 YEARS \n•\tINDUSTRY EXPERT TO IDENTIFY\n•\tTOP 50 STUDENTS, JUNE ASSESMENT\n•\tTAIWAN VISIT – JUNE MADHUBALA SUBRAMANIYAM \n•\tMATLA, SOFTWARE – NEXT MEETING TO DISCUSS\n•\tIROC – ISRO, ROBOTIC MACHINE CHALLENGE – RS. 40,000 (WITH REIMBURSEMENT)\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "BALAJI SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778217025047,
+    "modifiedAt": 1778324786161
+  },
+  {
+    "id": "m1778326732062_b93",
+    "date": "2026-05-09",
+    "day": "Saturday",
+    "title": "ADMIN REVIEW MEETING",
+    "campus": "Central Office",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "admin circular file should be maintained separately",
+        "priority": "Medium",
+        "status": "✓ Done",
+        "assignedTo": "MR. VIGNESH",
+        "timeline": "2026-05-09",
+        "completed": true
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "fan checking report – school wise 5 sample  video",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MR. PREM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "admin overall format file save in mail",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MR. VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "director sir meet the (so/safety officer/pet’s team ) on 27th may",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "MR. VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "pets ,hostel wardens, students count- CONSOLIDATION",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MR. VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "admin team remove the fees related follow up in calendar",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MR. VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "eca staff  & principal transport checking photos to create in separately in lms portal",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "MR. VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "campus readiness – zoom meeting arranged after NTS ordination ",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "MR. VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "transport rout wise list ,student count, with feed paid status before May 20 / send circular all schools",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "MR.BALAJI",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Follow-up",
+        "text": "zone wise safety in charges - updated list.",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "MR. BALAJI",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "safety report update in lms by all ao’s – update status.",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "MR.PREM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "school core team - report update.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MR.VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "printing materials – check with Ramya mam & connect with zonal heads for final status.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms. Ramya",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "last year nts orientation ppt- admin coordinator   balaji ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MR. BALAJI",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "send circular & prepare a date wise calendar for ao’s visit june month.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MR. BALAJI",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "admin coordinator visit reports sent email in same day and maintain separate folder.",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "MR. BALAJI",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "list of civil, capex, (received/pending).",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "MR.BALAJI, PREM, VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Long-term",
+        "text": "safety alertness call - twice in a day (morning/evening)",
+        "priority": "Critical",
+        "status": "Open",
+        "assignedTo": "MR.BALAJI, PREM, VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "get cluster file and grassroot file from aruna  mam . maintain with individual list and consolidation list .",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MR. VIGNESH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "19 points file: daily review report and need to add name list as the front page",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MR. MANOKARAN",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap23",
+        "type": "Immediate",
+        "text": "stock verification report yearly once report will be filed - 29 schools should be maintained in the report.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MR. MANOKARAN, PREM",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1778326732062,
+    "modifiedAt": 1778493950973
   }
 ]
