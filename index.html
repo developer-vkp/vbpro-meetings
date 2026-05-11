@@ -262,6 +262,14 @@
     <!-- Date Filter -->
     <div style="display:inline-flex;gap:8px;align-items:end;background:#f8fdfb;border:1px solid #d0e4ea;border-radius:8px;padding:10px 12px;flex-wrap:wrap">
       <div>
+        <label style="display:block;font-size:9px;font-weight:600;color:#64748b;text-transform:uppercase;margin-bottom:4px;letter-spacing:0.3px">⏰ Timeframe</label>
+        <select id="sumTimeframe" style="width:160px;padding:6px 10px;border:1px solid #d0e4ea;border-radius:6px;font-family:var(--fb);font-size:12px;background:white;outline:none;cursor:pointer">
+          <option value="">All Timeframes</option>
+          <option value="Immediate">⚡ Immediate</option>
+          <option value="Long-term">📋 Long-term</option>
+        </select>
+      </div>
+      <div>
         <label style="display:block;font-size:9px;font-weight:600;color:#64748b;text-transform:uppercase;margin-bottom:4px;letter-spacing:0.3px">📅 From</label>
         <input type="date" id="sumFromDate" style="width:160px;padding:6px 10px;border:1px solid #d0e4ea;border-radius:6px;font-family:var(--fb);font-size:12px;background:white;outline:none">
       </div>
@@ -1691,13 +1699,14 @@ function filterSummary(){
   const toDate = document.getElementById('sumToDate').value;
   const category = document.getElementById('sumCategory').value;
   const priority = document.getElementById('sumPriority').value;
+  const timeframe = document.getElementById('sumTimeframe').value;
 
-  if(!fromDate && !toDate && !category && !priority){
+  if(!fromDate && !toDate && !category && !priority && !timeframe){
     tt('Please select at least one filter');
     return;
   }
 
-  // Filter meetings by date range, category, and priority
+  // Filter meetings by date range, category, priority, and timeframe
   const originalM = [...M];
   M = originalM.filter(m => {
     // Date filter
@@ -1725,6 +1734,12 @@ function filterSummary(){
       if(!hasMatchingPriority) return false;
     }
 
+    // Timeframe filter - check if meeting has any action points with the selected timeframe
+    if(timeframe){
+      const hasMatchingTimeframe = (m.actionPoints || []).some(ap => ap.type === timeframe);
+      if(!hasMatchingTimeframe) return false;
+    }
+
     return true;
   });
 
@@ -1738,10 +1753,12 @@ function filterSummary(){
   if(fromDate || toDate) filters.push('date');
   if(category) filters.push('category');
   if(priority) filters.push('priority');
+  if(timeframe) filters.push('timeframe');
   tt(`Showing ${count} meeting${count !== 1 ? 's' : ''} (filtered by ${filters.join(', ')})`);
 }
 
 function clearSummaryFilter(){
+  document.getElementById('sumTimeframe').value = '';
   document.getElementById('sumFromDate').value = '';
   document.getElementById('sumToDate').value = '';
   document.getElementById('sumCategory').value = '';
