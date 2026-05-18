@@ -38,5 +38,13 @@
     "password": "Devi@123",
     "role": "user",
     "createdAt": "2026-05-06T06:56:36.783Z"
+  },
+  {
+    "id": "u1779088881973",
+    "name": "Jeya Priya",
+    "email": "jeyapriya@vkp.co.in",
+    "password": "12345678",
+    "role": "user",
+    "createdAt": "2026-05-18T07:21:21.973Z"
   }
 ]
