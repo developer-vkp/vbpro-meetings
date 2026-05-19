@@ -3574,7 +3574,7 @@
         "text": "Thiruvallur stp",
         "priority": "Critical",
         "status": "Open",
-        "assignedTo": "Ram Mohan Sir / Valarmathi mam / GM",
+        "assignedTo": "Ram Mohan Sir",
         "timeline": "",
         "completed": false
       },
@@ -3700,7 +3700,7 @@
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779204787466
+    "modifiedAt": 1779204791767
   },
   {
     "id": "m1779172848139_6sb",
