@@ -4307,10 +4307,17 @@
         "status": "Done",
         "assignedTo": "ms.Zeenath",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-19",
+            "text": "Target-540, Achieved-135, Dropout-0, Gap- 405",
+            "addedAt": 1779185372855
+          }
+        ]
       }
     ],
     "createdAt": 1779184906231,
-    "modifiedAt": 1779185369702
+    "modifiedAt": 1779185372855
   }
 ]
