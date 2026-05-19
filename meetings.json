@@ -3924,7 +3924,7 @@
       {
         "id": "ap33",
         "type": "Immediate",
-        "text": " 4Bank statements - all statements collection - loan statements - new loans\n",
+        "text": "Bank statements - all statements collection - loan statements - new loans\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -3974,7 +3974,7 @@
       {
         "id": "ap38",
         "type": "Immediate",
-        "text": " 9.⁠ ⁠Owners commitment - vellore completed/ kolapkkam wrode nammakal attur pondicherry- pending - schedule from fc sir \n",
+        "text": "Owners commitment - vellore completed/ kolapkkam wrode nammakal attur pondicherry- pending - schedule from fc sir \n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -3983,7 +3983,7 @@
       }
     ],
     "createdAt": 1779173878146,
-    "modifiedAt": 1779174438644
+    "modifiedAt": 1779174450386
   },
   {
     "id": "m1779174076070_y5o",
