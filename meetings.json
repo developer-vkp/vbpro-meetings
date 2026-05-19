@@ -4125,7 +4125,7 @@
     "day": "Tuesday",
     "title": "Project Meeting",
     "campus": "Central Office",
-    "category": "Project",
+    "category": "Projects",
     "actionPoints": [
       {
         "id": "ap51",
@@ -4159,7 +4159,7 @@
       }
     ],
     "createdAt": 1779174884725,
-    "modifiedAt": 1779181901147
+    "modifiedAt": 1779181904389
   },
   {
     "id": "m1779175843787_4gg",
