@@ -3882,5 +3882,107 @@
     ],
     "createdAt": 1779173622579,
     "modifiedAt": 1779173648791
+  },
+  {
+    "id": "m1779173878146_q5y",
+    "date": "2026-05-18",
+    "day": "Monday",
+    "title": "Accounts - 9 am Review",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap30",
+        "type": "Immediate",
+        "text": "Janarthanan sir visit Valarmathi mam to confirm\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap31",
+        "type": "Immediate",
+        "text": "Fee collection - Kamatchi mam and Yesodha mam - target / Achieved / shortfall - old students how much completed",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap32",
+        "type": "Immediate",
+        "text": " ⁠62 vehicles - May end all vehicles delivery - From June no private vehicle will be used in any campus - Transport profit and loss statement\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap33",
+        "type": "Immediate",
+        "text": " 4.⁠ ⁠Bank statements - all statements collection - loan statements - new loans\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap34",
+        "type": "Immediate",
+        "text": "Gst - Vblive / Vba - old issues and orders - Note to director sir for approval\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap35",
+        "type": "Immediate",
+        "text": " ⁠Vendor - statement consolidation - High 8 / other 70\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap36",
+        "type": "Immediate",
+        "text": "Civil - budget and statements - Yuvraj updated work orders \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap37",
+        "type": "Immediate",
+        "text": " ⁠Food - costs in all canteens / loss in vellore is high - insight to improve / day wise counts from June to April / \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap38",
+        "type": "Immediate",
+        "text": " 9.⁠ ⁠Owners commitment - vellore completed/ kolapkkam wrode nammakal attur pondicherry- pending - schedule from fc sir \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779173878146,
+    "modifiedAt": 1779173878146
   }
 ]
