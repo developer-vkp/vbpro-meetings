@@ -4268,7 +4268,7 @@
       {
         "id": "ap6",
         "type": "Immediate",
-        "text": "Total 16 campus; Senior program ; Target-1875, Achieved-1586, Dropout-0, Gap- 77",
+        "text": "Total 16 campus; Senior program ",
         "priority": "High",
         "status": "✓ Done",
         "assignedTo": "ms.Zeenath",
@@ -4287,6 +4287,6 @@
       }
     ],
     "createdAt": 1779184906231,
-    "modifiedAt": 1779184989224
+    "modifiedAt": 1779184996055
   }
 ]
