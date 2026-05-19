@@ -3584,7 +3584,7 @@
         "text": "Solar stone - Hike",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "Ram Mohan Sir",
         "timeline": "",
         "completed": false
       },
@@ -3700,7 +3700,7 @@
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779204692114
+    "modifiedAt": 1779204697452
   },
   {
     "id": "m1779172848139_6sb",
