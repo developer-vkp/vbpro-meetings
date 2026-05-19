@@ -3571,7 +3571,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "Dindigul Plan",
+        "text": "Non vkp lease school infra -\nRam Mohan sir query to chk \nWith gm and valarmathy mam",
         "priority": "Critical",
         "status": "Open",
         "assignedTo": "",
@@ -3677,10 +3677,20 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779201132666
+    "modifiedAt": 1779201144353
   },
   {
     "id": "m1779172848139_6sb",
