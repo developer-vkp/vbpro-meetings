@@ -3770,7 +3770,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-19",
+            "text": "has to submit",
+            "addedAt": 1779173648790
+          }
+        ]
       },
       {
         "id": "ap20",
@@ -3874,6 +3881,6 @@
       }
     ],
     "createdAt": 1779173622579,
-    "modifiedAt": 1779173646060
+    "modifiedAt": 1779173648791
   }
 ]
