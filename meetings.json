@@ -3881,7 +3881,7 @@
       }
     ],
     "createdAt": 1779173622579,
-    "modifiedAt": 1779175009059
+    "modifiedAt": 1779175011074
   },
   {
     "id": "m1779173878146_q5y",
@@ -4160,5 +4160,67 @@
     ],
     "createdAt": 1779174884725,
     "modifiedAt": 1779174884725
+  },
+  {
+    "id": "m1779175843787_4gg",
+    "date": "2026-05-19",
+    "day": "Tuesday",
+    "title": "Food",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap54",
+        "type": "Immediate",
+        "text": " Rs.160 Non VKP",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap55",
+        "type": "Immediate",
+        "text": "Rs. 180 RSA",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap56",
+        "type": "Immediate",
+        "text": "Rs. 200 TVIS",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap57",
+        "type": "Immediate",
+        "text": "kalai salary to be paid only monthly after me signing this statement along with valarmathy mam Yuvraj sign - Selvam to note",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap58",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779175843787,
+    "modifiedAt": 1779175843787
   }
 ]
