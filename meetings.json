@@ -3714,13 +3714,13 @@
         "text": "Solar Stone Hike",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "Ram Mohan s",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779205486340
+    "modifiedAt": 1779205491801
   },
   {
     "id": "m1779172848139_6sb",
