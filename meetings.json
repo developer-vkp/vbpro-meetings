@@ -4063,7 +4063,7 @@
     "day": "Tuesday",
     "title": "Civil - GM sir",
     "campus": "All Campus",
-    "category": "Projects",
+    "category": "Civil",
     "actionPoints": [
       {
         "id": "ap45",
@@ -4117,7 +4117,7 @@
       }
     ],
     "createdAt": 1779174691322,
-    "modifiedAt": 1779181919296
+    "modifiedAt": 1779181922514
   },
   {
     "id": "m1779174884725_le4",
