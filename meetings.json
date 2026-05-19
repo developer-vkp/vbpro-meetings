@@ -4222,5 +4222,57 @@
     ],
     "createdAt": 1779175843787,
     "modifiedAt": 1779184028224
+  },
+  {
+    "id": "m1779184906231_vau",
+    "date": "2026-05-18",
+    "day": "Monday",
+    "title": "MARKETING TEAM - ADMISSION MEETING",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "Total 16 campus; admission gap; Target-6681, Achieved-5076, Dropout-316, Gap- -1605",
+        "priority": "High",
+        "status": "✓ Done",
+        "assignedTo": "MS.Zeenath ",
+        "timeline": "",
+        "completed": true
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "Total 16 campus; Foundation; Target-1188, Achieved-857, Dropout-0, Gap- 16",
+        "priority": "High",
+        "status": "✓ Done",
+        "assignedTo": "ms.Zeenath",
+        "timeline": "",
+        "completed": true
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Total 16 campus; Senior program ; Target-1875, Achieved-1586, Dropout-0, Gap- 77",
+        "priority": "High",
+        "status": "✓ Done",
+        "assignedTo": "ms.Zeenath",
+        "timeline": "",
+        "completed": true
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779184906231,
+    "modifiedAt": 1779184906231
   }
 ]
