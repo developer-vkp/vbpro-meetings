@@ -4046,7 +4046,7 @@
       {
         "id": "ap44",
         "type": "Immediate",
-        "text": "",
+        "text": "Total 12 Campus:\nLT:\nNEET Target - 645\nAchived - 433 | Dropout - 0 | Gap - 212",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4055,6 +4055,6 @@
       }
     ],
     "createdAt": 1779174076070,
-    "modifiedAt": 1779174284914
+    "modifiedAt": 1779174290477
   }
 ]
