@@ -4251,7 +4251,7 @@
       {
         "id": "ap5",
         "type": "Immediate",
-        "text": "Total 16 campus; Foundation; Target-1188, Achieved-857, Dropout-0, Gap- 16",
+        "text": "Total 16 campus; Foundation;",
         "priority": "High",
         "status": "✓ Done",
         "assignedTo": "ms.Zeenath",
@@ -4280,6 +4280,6 @@
       }
     ],
     "createdAt": 1779184906231,
-    "modifiedAt": 1779184937495
+    "modifiedAt": 1779184972911
   }
 ]
