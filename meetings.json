@@ -3579,26 +3579,6 @@
         "completed": false
       },
       {
-        "id": "ap3",
-        "type": "Immediate",
-        "text": "Solar stone - Hike",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "Ram Mohan Sir",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap4",
-        "type": "Long-term",
-        "text": "Mr Vishal",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
         "id": "ap5",
         "type": "Immediate",
         "text": "April May Fuel",
@@ -3677,30 +3657,10 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false
-      },
-      {
-        "id": "ap3",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap4",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779204791767
+    "modifiedAt": 1779204797354
   },
   {
     "id": "m1779172848139_6sb",
