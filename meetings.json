@@ -4056,5 +4056,67 @@
     ],
     "createdAt": 1779174076070,
     "modifiedAt": 1779174362965
+  },
+  {
+    "id": "m1779174691322_o08",
+    "date": "2026-05-19",
+    "day": "Tuesday",
+    "title": "Civil - GM sir",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap45",
+        "type": "Immediate",
+        "text": "Gm - arcit - electric work order to give",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap46",
+        "type": "Immediate",
+        "text": "total project cost ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap47",
+        "type": "Immediate",
+        "text": "bill value still not certified",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap48",
+        "type": "Immediate",
+        "text": "3.6 c and still 1.5 cr this month we need bills",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap49",
+        "type": "Immediate",
+        "text": "manpower to check ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779174691322,
+    "modifiedAt": 1779174691322
   }
 ]
