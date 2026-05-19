@@ -3825,7 +3825,7 @@
         "text": "Recruitment – Complete all pending faculty recruitment immediately.",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "All ACO",
         "timeline": "",
         "completed": false
       },
@@ -3835,7 +3835,7 @@
         "text": "Staffing Stability – Ensure stable staffing before orientation programs.",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "All ACO",
         "timeline": "",
         "completed": false
       },
@@ -3881,7 +3881,7 @@
       }
     ],
     "createdAt": 1779173622579,
-    "modifiedAt": 1779174994917
+    "modifiedAt": 1779174999594
   },
   {
     "id": "m1779173878146_q5y",
