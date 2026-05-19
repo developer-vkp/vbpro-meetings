@@ -4302,7 +4302,7 @@
       {
         "id": "ap8",
         "type": "Immediate",
-        "text": "Total 16 campus; Hoste",
+        "text": "Total 16 campus; Hostel",
         "priority": "High",
         "status": "Done",
         "assignedTo": "ms.Zeenath",
@@ -4311,6 +4311,6 @@
       }
     ],
     "createdAt": 1779184906231,
-    "modifiedAt": 1779185301553
+    "modifiedAt": 1779185314473
   }
 ]
