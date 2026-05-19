@@ -4251,12 +4251,19 @@
       {
         "id": "ap5",
         "type": "Immediate",
-        "text": "Total 16 campus; Foundation;",
+        "text": "Total 16 campus; Foundation",
         "priority": "High",
         "status": "✓ Done",
         "assignedTo": "ms.Zeenath",
         "timeline": "",
-        "completed": true
+        "completed": true,
+        "followUps": [
+          {
+            "date": "2026-05-19",
+            "text": "Target-1188, Achieved-857, Dropout-0, Gap- 16",
+            "addedAt": 1779184978831
+          }
+        ]
       },
       {
         "id": "ap6",
@@ -4280,6 +4287,6 @@
       }
     ],
     "createdAt": 1779184906231,
-    "modifiedAt": 1779184976839
+    "modifiedAt": 1779184981151
   }
 ]
