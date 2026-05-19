@@ -4036,7 +4036,7 @@
       {
         "id": "ap43",
         "type": "Immediate",
-        "text": "Total 12 Campus:\nSr Program:\nNEET Target - 645\nAchived - 433 | Dropout - 0 | Gap - 212",
+        "text": "Total 12 Campus:\nHostel:\nNEET Target - 645\nAchived - 433 | Dropout - 0 | Gap - 212",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4045,6 +4045,6 @@
       }
     ],
     "createdAt": 1779174076070,
-    "modifiedAt": 1779174254179
+    "modifiedAt": 1779174265672
   }
 ]
