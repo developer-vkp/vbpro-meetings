@@ -3644,7 +3644,7 @@
         "text": "Pondicherry owner and Erode owner",
         "priority": "Critical",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "VP Mam / Y",
         "timeline": "",
         "completed": false
       },
@@ -3700,7 +3700,7 @@
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779204719717
+    "modifiedAt": 1779204727321
   },
   {
     "id": "m1779172848139_6sb",
