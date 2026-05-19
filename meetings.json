@@ -3661,5 +3661,97 @@
     ],
     "createdAt": 1779172565607,
     "modifiedAt": 1779172565607
+  },
+  {
+    "id": "m1779172848139_6sb",
+    "date": "2026-05-19",
+    "day": "Tuesday",
+    "title": "Director Sir Follow Up - 2 (Rettari Hospital)",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "Ponneri agreement clinc vkp to \nOlogy Heath hr cost 10 lac ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "Projections by Monday",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "August - gf whether available for Dr",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "Projections - nova model -\nMediscan- foetal medicine-revenue model -vishal and dr present",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "Rettari marketing plan",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "Privilege card launch date /  first month no of ops and camp",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "Project cost within 200+20",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "Global hospital - understand from catering/ security/ all services / - to go and chk / all service vendors terms and conditions/ catering revenue source ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779172848139,
+    "modifiedAt": 1779172848139
   }
 ]
