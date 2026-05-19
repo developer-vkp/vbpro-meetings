@@ -4167,7 +4167,7 @@
     "day": "Tuesday",
     "title": "Food",
     "campus": "All Campus",
-    "category": "Other",
+    "category": "Food",
     "actionPoints": [
       {
         "id": "ap54",
@@ -4221,6 +4221,6 @@
       }
     ],
     "createdAt": 1779175843787,
-    "modifiedAt": 1779181862365
+    "modifiedAt": 1779181878482
   }
 ]
