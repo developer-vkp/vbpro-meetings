@@ -3614,7 +3614,7 @@
         "text": "Vendor Statement",
         "priority": "Critical",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "Valarmathi Mam",
         "timeline": "",
         "completed": false
       },
@@ -3624,7 +3624,7 @@
         "text": "Valarmathi mam - 3 Works",
         "priority": "Critical",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "Valarmathi Mam",
         "timeline": "",
         "completed": false
       },
@@ -3700,7 +3700,7 @@
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779204714454
+    "modifiedAt": 1779204719717
   },
   {
     "id": "m1779172848139_6sb",
