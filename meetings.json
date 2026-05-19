@@ -4234,7 +4234,7 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "Total 16 campus; admission gap; Target-6681, Achieved-5076, Dropout-316, Gap- -1605",
+        "text": "Total 16 campus; admission gap; ",
         "priority": "High",
         "status": "✓ Done",
         "assignedTo": "MS.Zeenath ",
@@ -4273,6 +4273,6 @@
       }
     ],
     "createdAt": 1779184906231,
-    "modifiedAt": 1779184906231
+    "modifiedAt": 1779184931824
   }
 ]
