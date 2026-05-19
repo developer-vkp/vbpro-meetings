@@ -3611,7 +3611,7 @@
       {
         "id": "ap11",
         "type": "Immediate",
-        "text": "",
+        "text": "Vendor sta",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -3620,7 +3620,7 @@
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779205000502
+    "modifiedAt": 1779205004984
   },
   {
     "id": "m1779172848139_6sb",
