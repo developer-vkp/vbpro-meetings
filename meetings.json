@@ -3753,5 +3753,127 @@
     ],
     "createdAt": 1779172848139,
     "modifiedAt": 1779172892392
+  },
+  {
+    "id": "m1779173622579_lcf",
+    "date": "2026-05-15",
+    "day": "Friday",
+    "title": "Board Exam Analysis - XII",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "Observation Reports – Schools to submit detailed subject-wise performance and gap analysis reports.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "CBSE Focus – Strengthen CBSE preparation for NEET/IIT aspirants.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "Subject Attention – Increase focus on Physics, English, and average performers.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "Holiday Engagement – Continue online academic support during holidays.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap23",
+        "type": "Immediate",
+        "text": "Parent Feedback – Collect structured feedback from all parent categories.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap24",
+        "type": "Immediate",
+        "text": "Recruitment – Complete all pending faculty recruitment immediately.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap25",
+        "type": "Immediate",
+        "text": "Staffing Stability – Ensure stable staffing before orientation programs.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap26",
+        "type": "Immediate",
+        "text": "Leadership Roles – Identify senior teachers for leadership and ACO responsibilities.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap27",
+        "type": "Immediate",
+        "text": "Monitoring – Zonal Heads to submit consolidated review and improvement reports.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap28",
+        "type": "Immediate",
+        "text": "Benchmarking – Compare performance with local competitors on key academic metrics.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap29",
+        "type": "Immediate",
+        "text": "Performance Targets – Focus on 490+ results, higher averages, and consistency in achievers.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779173622579,
+    "modifiedAt": 1779173622579
   }
 ]
