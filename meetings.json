@@ -4016,7 +4016,7 @@
       {
         "id": "ap41",
         "type": "Immediate",
-        "text": "Total 12 Campus:\nSr Program:\nTarget - 4312\nAchived - 3754 | Dropout - 179 | Gap - 558",
+        "text": "Total 12 Campus:\nSr Program:\nIIT Target - 4312\nAchived - 3754 | Dropout - 179 | Gap - 558",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4025,6 +4025,6 @@
       }
     ],
     "createdAt": 1779174076070,
-    "modifiedAt": 1779174188914
+    "modifiedAt": 1779174192090
   }
 ]
