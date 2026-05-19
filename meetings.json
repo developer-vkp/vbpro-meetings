@@ -3559,18 +3559,18 @@
     "category": "Director Sir Follow up",
     "actionPoints": [
       {
-        "id": "ap9",
+        "id": "ap6",
         "type": "Immediate",
-        "text": "Pondicherry owner and Erode owner",
-        "priority": "Critical",
+        "text": "",
+        "priority": "Medium",
         "status": "Open",
-        "assignedTo": "VP Mam / Yesodha Mam",
+        "assignedTo": "",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779204915207
+    "modifiedAt": 1779204918866
   },
   {
     "id": "m1779172848139_6sb",
