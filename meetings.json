@@ -3668,7 +3668,7 @@
     "day": "Tuesday",
     "title": "Director Sir Follow Up - 2 (Rettari Hospital)",
     "campus": "All Campus",
-    "category": "Civil",
+    "category": "Hospital",
     "actionPoints": [
       {
         "id": "ap11",
@@ -3752,7 +3752,7 @@
       }
     ],
     "createdAt": 1779172848139,
-    "modifiedAt": 1779181946879
+    "modifiedAt": 1779181950581
   },
   {
     "id": "m1779173622579_lcf",
