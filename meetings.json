@@ -3990,7 +3990,7 @@
     "date": "2026-05-18",
     "day": "Monday",
     "title": "Admission Gap - Non VKP",
-    "campus": "All Campus",
+    "campus": "VIT",
     "category": "Academics",
     "actionPoints": [
       {
@@ -4055,6 +4055,6 @@
       }
     ],
     "createdAt": 1779174076070,
-    "modifiedAt": 1779174315345
+    "modifiedAt": 1779174342093
   }
 ]
