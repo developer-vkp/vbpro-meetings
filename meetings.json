@@ -3845,7 +3845,7 @@
         "text": "Leadership Roles – Identify senior teachers for leadership and ACO responsibilities.",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "All ACO",
         "timeline": "",
         "completed": false
       },
@@ -3855,7 +3855,7 @@
         "text": "Monitoring – Zonal Heads to submit consolidated review and improvement reports.",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "All ACO",
         "timeline": "",
         "completed": false
       },
@@ -3881,7 +3881,7 @@
       }
     ],
     "createdAt": 1779173622579,
-    "modifiedAt": 1779174999594
+    "modifiedAt": 1779175003922
   },
   {
     "id": "m1779173878146_q5y",
