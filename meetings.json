@@ -3984,5 +3984,27 @@
     ],
     "createdAt": 1779173878146,
     "modifiedAt": 1779173878146
+  },
+  {
+    "id": "m1779174076070_y5o",
+    "date": "2026-05-18",
+    "day": "Monday",
+    "title": "Admission Gap - Non VKP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap39",
+        "type": "Immediate",
+        "text": "Total 12 Campus:\nSchool Admission target - 4312\nAchived - 3754\nDropout - 179\nGap - 558",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779174076070,
+    "modifiedAt": 1779174076070
   }
 ]
