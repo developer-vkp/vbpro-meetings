@@ -4118,5 +4118,47 @@
     ],
     "createdAt": 1779174691322,
     "modifiedAt": 1779174691322
+  },
+  {
+    "id": "m1779174884725_le4",
+    "date": "2026-05-19",
+    "day": "Tuesday",
+    "title": "Project Meeting",
+    "campus": "Central Office",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap51",
+        "type": "Immediate",
+        "text": "May -2.19 approx June 8(6) to plan",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Vishal naresh rajalaksmi mam ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap52",
+        "type": "Immediate",
+        "text": "licence time line to prepare cut off July-15",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Vishal naresh rajalaksmi mam ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap53",
+        "type": "Immediate",
+        "text": "biomedical waste -cc date very important to negotiate",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Vishal naresh rajalaksmi mam ",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779174884725,
+    "modifiedAt": 1779174884725
   }
 ]
