@@ -4273,7 +4273,14 @@
         "status": "✓ Done",
         "assignedTo": "ms.Zeenath",
         "timeline": "",
-        "completed": true
+        "completed": true,
+        "followUps": [
+          {
+            "date": "2026-05-19",
+            "text": "Target-1875, Achieved-1586, Dropout-0, Gap- 77",
+            "addedAt": 1779185002390
+          }
+        ]
       },
       {
         "id": "ap7",
@@ -4287,6 +4294,6 @@
       }
     ],
     "createdAt": 1779184906231,
-    "modifiedAt": 1779184996055
+    "modifiedAt": 1779185002391
   }
 ]
