@@ -3991,7 +3991,7 @@
     "day": "Monday",
     "title": "Admission Gap - Non VKP",
     "campus": "NON VKP",
-    "category": "Academics",
+    "category": "Other",
     "actionPoints": [
       {
         "id": "ap39",
@@ -4055,6 +4055,6 @@
       }
     ],
     "createdAt": 1779174076070,
-    "modifiedAt": 1779174346168
+    "modifiedAt": 1779174355442
   }
 ]
