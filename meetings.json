@@ -3701,7 +3701,7 @@
       {
         "id": "ap20",
         "type": "Immediate",
-        "text": "Mou team meeting-\nMinutes Attached \nLease by Dec \n\nNon vkp lease school infra -\nRam Mohan sir query to chk \nWith gm and valarmathy mam",
+        "text": "\nLease by Dec \n\nNon vkp lease school infra -\nRam Mohan sir query to chk \nWith gm and valarmathy mam",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -3710,7 +3710,7 @@
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779205441420
+    "modifiedAt": 1779205455560
   },
   {
     "id": "m1779172848139_6sb",
