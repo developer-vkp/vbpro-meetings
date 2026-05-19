@@ -3664,13 +3664,13 @@
         "text": "Gm - arcit - electric work order\n to give  total project cost -bill value still not certified- 3.6 c and still 1.5 cr this month we need bills .manpower to chk",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "GM",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779205308381
+    "modifiedAt": 1779205316075
   },
   {
     "id": "m1779172848139_6sb",
