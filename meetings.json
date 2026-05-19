@@ -4006,7 +4006,7 @@
       {
         "id": "ap40",
         "type": "Immediate",
-        "text": "Total 12 Campus:\nFoundation:\nTarget - 2586\nAchived - 2149 | Dropout - 0 | Gap - 558",
+        "text": "Total 12 Campus:\nFoundation:\nTarget - 2586\nAchived - 2149 | Dropout - 0 | Gap - 437",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4015,6 +4015,6 @@
       }
     ],
     "createdAt": 1779174076070,
-    "modifiedAt": 1779174171084
+    "modifiedAt": 1779174173616
   }
 ]
