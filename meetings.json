@@ -3559,36 +3559,6 @@
     "category": "Director Sir Follow up",
     "actionPoints": [
       {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "Ram Mohan Sir",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap2",
-        "type": "Immediate",
-        "text": "d",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "Ram Mohan Sir",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Valarmathi Mam",
-        "timeline": "",
-        "completed": false
-      },
-      {
         "id": "ap6",
         "type": "Immediate",
         "text": "Vendor Statement",
@@ -3637,40 +3607,10 @@
         "assignedTo": "Rajalakshmi Mam",
         "timeline": "",
         "completed": false
-      },
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap2",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779204886449
+    "modifiedAt": 1779204908138
   },
   {
     "id": "m1779172848139_6sb",
