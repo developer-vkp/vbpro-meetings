@@ -4290,10 +4290,17 @@
         "status": "Done",
         "assignedTo": "MS.Zeenath",
         "timeline": "",
-        "completed": true
+        "completed": true,
+        "followUps": [
+          {
+            "date": "2026-05-19",
+            "text": "arget-1875, Achieved-248, Dropout-0, Gap- -1628",
+            "addedAt": 1779185093238
+          }
+        ]
       }
     ],
     "createdAt": 1779184906231,
-    "modifiedAt": 1779185089975
+    "modifiedAt": 1779185093239
   }
 ]
