@@ -3571,7 +3571,7 @@
       {
         "id": "ap7",
         "type": "Immediate",
-        "text": "Dindiguk ",
+        "text": "Dindigu",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -3580,7 +3580,7 @@
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779204948991
+    "modifiedAt": 1779204951633
   },
   {
     "id": "m1779172848139_6sb",
