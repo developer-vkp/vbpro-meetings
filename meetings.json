@@ -4163,8 +4163,8 @@
   },
   {
     "id": "m1779175843787_4gg",
-    "date": "2026-05-19",
-    "day": "Tuesday",
+    "date": "2026-05-18",
+    "day": "Monday",
     "title": "Food",
     "campus": "All Campus",
     "category": "Food",
@@ -4221,6 +4221,6 @@
       }
     ],
     "createdAt": 1779175843787,
-    "modifiedAt": 1779183062003
+    "modifiedAt": 1779184019368
   }
 ]
