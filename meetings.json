@@ -3556,7 +3556,7 @@
     "day": "Tuesday",
     "title": "Director Sir - Follow UP 1",
     "campus": "All Campus",
-    "category": "Admin",
+    "category": "Zonal Heads",
     "actionPoints": [
       {
         "id": "ap1",
@@ -3660,7 +3660,7 @@
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1779172565607
+    "modifiedAt": 1779201063062
   },
   {
     "id": "m1779172848139_6sb",
