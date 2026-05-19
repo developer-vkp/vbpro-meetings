@@ -3785,7 +3785,7 @@
         "text": "CBSE Focus – Strengthen CBSE preparation for NEET/IIT aspirants.",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "All ACO",
         "timeline": "",
         "completed": false
       },
@@ -3881,7 +3881,7 @@
       }
     ],
     "createdAt": 1779173622579,
-    "modifiedAt": 1779174982455
+    "modifiedAt": 1779174986821
   },
   {
     "id": "m1779173878146_q5y",
