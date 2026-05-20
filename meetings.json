@@ -4419,5 +4419,67 @@
     ],
     "createdAt": 1779184906231,
     "modifiedAt": 1779251374315
+  },
+  {
+    "id": "m1779271911265_8p3",
+    "date": "2026-05-20",
+    "day": "Wednesday",
+    "title": "CENTRAL OFFICE - DIRECTOR SIR MEETING",
+    "campus": "Central Office",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Track and update 4-year plan student details.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "Follow June 1–10 agenda points in all schools.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "ECA Report - Resource Team",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "Update VBA fee follow-up.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "Complete pending campus visits before 25th June - dates will be send by central office - circular",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779271911265,
+    "modifiedAt": 1779271911265
   }
 ]
