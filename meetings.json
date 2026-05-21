@@ -4481,5 +4481,27 @@
     ],
     "createdAt": 1779271911265,
     "modifiedAt": 1779272480608
+  },
+  {
+    "id": "m1779341856190_oqt",
+    "date": "2026-05-21",
+    "day": "Thursday",
+    "title": "Account Office - M Block",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Mr. Meiyappan Auditor & Mr. Eshwar to present the Transport P&L Statement June month end ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779341856190,
+    "modifiedAt": 1779341856190
   }
 ]
