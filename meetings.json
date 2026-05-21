@@ -4488,7 +4488,7 @@
     "day": "Thursday",
     "title": "Account Office - M Block",
     "campus": "All Campus",
-    "category": "Finance / Fee",
+    "category": "Other",
     "actionPoints": [
       {
         "id": "ap1",
@@ -4502,6 +4502,6 @@
       }
     ],
     "createdAt": 1779341856190,
-    "modifiedAt": 1779341856190
+    "modifiedAt": 1779341867755
   }
 ]
