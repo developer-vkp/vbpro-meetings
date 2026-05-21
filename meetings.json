@@ -4643,5 +4643,27 @@
     ],
     "createdAt": 1779341856190,
     "modifiedAt": 1779342228671
+  },
+  {
+    "id": "m1779351403678_tl6",
+    "date": "2026-05-21",
+    "day": "Thursday",
+    "title": "LT ADMISSION REVIEW",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "ENSURE MAY 25TH -ALL STUDENTS JOINED ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SHAIRA",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779351403678,
+    "modifiedAt": 1779351403678
   }
 ]
