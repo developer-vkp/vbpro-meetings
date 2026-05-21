@@ -4603,7 +4603,17 @@
       {
         "id": "ap12",
         "type": "Immediate",
-        "text": "New Project – Advance paid for Bangalore schools\n",
+        "text": "New Project – Advance paid for Bangalore schools",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4612,6 +4622,6 @@
       }
     ],
     "createdAt": 1779341856190,
-    "modifiedAt": 1779342186184
+    "modifiedAt": 1779342191742
   }
 ]
