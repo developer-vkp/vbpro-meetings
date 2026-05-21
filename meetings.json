@@ -4543,7 +4543,7 @@
       {
         "id": "ap6",
         "type": "Immediate",
-        "text": "",
+        "text": "Hostel Fee -  separate portion for Salary, Housekeeping, Food and other related works",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4552,6 +4552,6 @@
       }
     ],
     "createdAt": 1779341856190,
-    "modifiedAt": 1779342072954
+    "modifiedAt": 1779342080844
   }
 ]
