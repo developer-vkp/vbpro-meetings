@@ -4683,13 +4683,7 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": [
-          {
-            "date": "2026-05-23",
-            "text": "Monday will be recieving",
-            "addedAt": 1779525859252
-          }
-        ]
+        "followUps": []
       },
       {
         "id": "ap2",
@@ -4793,6 +4787,6 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1779526402168
+    "modifiedAt": 1779526445920
   }
 ]
