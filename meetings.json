@@ -4682,7 +4682,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-05-23",
+            "text": "Monday will be recieving",
+            "addedAt": 1779525859252
+          }
+        ]
       },
       {
         "id": "ap2",
@@ -4696,6 +4703,6 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1779525856624
+    "modifiedAt": 1779525859252
   }
 ]
