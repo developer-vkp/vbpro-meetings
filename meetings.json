@@ -4665,5 +4665,27 @@
     ],
     "createdAt": 1779351403678,
     "modifiedAt": 1779351422749
+  },
+  {
+    "id": "m1779525725590_c9x",
+    "date": "2026-05-23",
+    "day": "Saturday",
+    "title": "VBC Chidambaram - Review",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Capex - 12 items pending",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779525725590,
+    "modifiedAt": 1779525725590
   }
 ]
