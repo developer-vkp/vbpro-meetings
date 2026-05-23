@@ -4704,7 +4704,7 @@
       {
         "id": "ap3",
         "type": "Immediate",
-        "text": "12 vehicles recevied",
+        "text": "12 vehicles recevied, another ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4713,6 +4713,6 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1779525880809
+    "modifiedAt": 1779525883414
   }
 ]
