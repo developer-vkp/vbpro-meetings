@@ -4744,7 +4744,7 @@
       {
         "id": "ap7",
         "type": "Immediate",
-        "text": "Gate - Painting (",
+        "text": "Gate - Painting (Entry)",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4753,6 +4753,6 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1779526055828
+    "modifiedAt": 1779526058353
   }
 ]
