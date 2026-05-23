@@ -4784,7 +4784,7 @@
       {
         "id": "ap11",
         "type": "Immediate",
-        "text": "Admission: 139 so far (expected 180) before month end (committed 200), Class XI - 31 so far (expected 50), LT 6 admission so far (Committed 50) - 10 Pipeline (10 transferred to Po",
+        "text": "Admission: 139 so far (expected 180) before month end (committed 200), Class XI - 31 so far (expected 50), LT 6 admission so far (Committed 50) - 10 Pipeline (10 transferred to Pondicherry)",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4793,6 +4793,6 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1779526370068
+    "modifiedAt": 1779526373507
   }
 ]
