@@ -4672,7 +4672,7 @@
     "day": "Saturday",
     "title": "VBC Chidambaram - Review",
     "campus": "Chidambaram",
-    "category": "Academics",
+    "category": "Other",
     "actionPoints": [
       {
         "id": "ap1",
@@ -4686,6 +4686,6 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1779525739641
+    "modifiedAt": 1779525745135
   }
 ]
