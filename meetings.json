@@ -4683,7 +4683,13 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-05-27",
+            "text": "capex",
+            "addedAt": 1779860535995
+          }
+        ]
       },
       {
         "id": "ap2",
@@ -4817,6 +4823,6 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1779860533763
+    "modifiedAt": 1779860535995
   }
 ]
