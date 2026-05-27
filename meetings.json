@@ -4846,7 +4846,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "",
+        "text": "•\tBANK PAYMENT SCHEDULE FOR OD ACCOUNT TO SUBMIT\n•\tDAILY PAY OUTS - FC SIR RAJALAKSHI MAM - JEYAPRIYA DAILY FOLLOW UP\n•\tPAYOUT SATUTORY - LAST MONTH COMPLETED / MAY TO MAKE\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "JAYAPRIYA MAM",
@@ -4915,6 +4915,6 @@
       }
     ],
     "createdAt": 1779862278348,
-    "modifiedAt": 1779862756251
+    "modifiedAt": 1779862760197
   }
 ]
