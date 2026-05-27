@@ -4836,7 +4836,7 @@
       {
         "id": "ap1",
         "type": "Immediate",
-        "text": "",
+        "text": "•\t1ST JUNE – ALL REGISTRATIONS TO BE COMPLETED\n•\tTOTAL 62, CHIDAMBARAM, SALEM, COIMBATORE, POLLACHI, KANCHIPURAM – 29TH REGISTRATION\n•\tPAYMENT SUPPORT NEEDED FOR DIESEL\n•\tLOAN STATEMENT - SCHEDULE TO MAKE\n•\tBANK COMMITMENT - UPDATED SCHEDULE - TRANSPORT NEW BUSES SCHEDULE TO GET\n•\tBANK RELEASE OF PAYMENT - CONFIRMATION\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "EASWAR SIR",
@@ -4846,7 +4846,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "•\tBANK PAYMENT SCHEDULE FOR OD ACCOUNT TO SUBMIT",
+        "text": "",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "JAYAPRIYA MAM",
@@ -4915,6 +4915,6 @@
       }
     ],
     "createdAt": 1779862278348,
-    "modifiedAt": 1779862753315
+    "modifiedAt": 1779862756251
   }
 ]
