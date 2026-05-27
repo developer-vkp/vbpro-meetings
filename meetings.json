@@ -4896,7 +4896,7 @@
       {
         "id": "ap7",
         "type": "Immediate",
-        "text": "•\tBANGALORE LEASE DEED PROVISION, CHEQUE TO BE PREPARED FOR 10L AND 20L, \n•\tKALAKURCHI DRAFT ",
+        "text": "•\tBANGALORE LEASE DEED PROVISION, CHEQUE TO BE PREPARED FOR 10L AND 20L\n•\tKALAKURCHI DRAFT \n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "ARUN SIR",
@@ -4915,6 +4915,6 @@
       }
     ],
     "createdAt": 1779862278348,
-    "modifiedAt": 1779862791332
+    "modifiedAt": 1779862794475
   }
 ]
