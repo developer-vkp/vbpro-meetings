@@ -4856,7 +4856,7 @@
       {
         "id": "ap3",
         "type": "Immediate",
-        "text": "•\tOWNERS COMMITMENT GST\n•\t29.05.26 FRIDAY REVENUE CONFIRMATION TO PRESENT TO DIRECTOR SIR SELVAM SIR & YESHODHA MAM\n",
+        "text": "•\tOWNERS COMMITMENT GST\n•\t29.05.26 FRIDAY REVENUE CONFIRMATION TO PRESENT TO DIRECTOR SIR SELVAM SIR & YESHODHA MAM\n•\tNO DUE LETTER FROM OWNERS - EACH PROCESS OWNER THEIR SCHOOLS\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "YESHODHA MAM",
@@ -4915,6 +4915,6 @@
       }
     ],
     "createdAt": 1779862278348,
-    "modifiedAt": 1779862763012
+    "modifiedAt": 1779862765524
   }
 ]
