@@ -4836,7 +4836,7 @@
       {
         "id": "ap1",
         "type": "Immediate",
-        "text": "•\tBY JUNE MONTH – ALL REGISTRATIONS TO BE COMPLETED\n•\tTOTAL 62, CHIDAMBARAM, SALEM, COIMBATORE, POLLACHI, KANCHIPURAM – 29TH REGISTRATION\n•\tPAYMENT SUPPORT NEEDED FOR DIESEL\n",
+        "text": "",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "EASWAR SIR",
@@ -4915,6 +4915,6 @@
       }
     ],
     "createdAt": 1779862278348,
-    "modifiedAt": 1779862469116
+    "modifiedAt": 1779862753315
   }
 ]
