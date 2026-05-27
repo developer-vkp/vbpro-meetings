@@ -4896,7 +4896,7 @@
       {
         "id": "ap7",
         "type": "Immediate",
-        "text": "",
+        "text": "•\tBANGALORE LEASE DEED PROVISION, CHEQUE TO BE PREPARED FOR 10L AND 20L",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4905,6 +4905,6 @@
       }
     ],
     "createdAt": 1779862278348,
-    "modifiedAt": 1779862308303
+    "modifiedAt": 1779862312877
   }
 ]
