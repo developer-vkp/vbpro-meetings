@@ -4824,5 +4824,57 @@
     ],
     "createdAt": 1779525725590,
     "modifiedAt": 1779862189452
+  },
+  {
+    "id": "m1779862278348_vcw",
+    "date": "2026-05-27",
+    "day": "Wednesday",
+    "title": "PROCESS OWNERS",
+    "campus": "All Campus",
+    "category": "Finance / Fee",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "•\tBY JUNE MONTH – ALL REGISTRATIONS TO BE COMPLETED\n•\tTOTAL 62, CHIDAMBARAM, SALEM, COIMBATORE, POLLACHI, KANCHIPURAM – 29TH REGISTRATION\n•\tPAYMENT SUPPORT NEEDED FOR DIESEL\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "EASWAR SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "•\tBANK PAYMENT SCHEDULE FOR OD ACCOUNT TO SUBMIT",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "JAYAPRIYA MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "•\tOWNERS COMMITMENT GST\n•\t29.05.26 FRIDAY REVENUE CONFIRMATION TO PRESENT TO DIRECTOR SIR SELVAM SIR & YESHODHA MAM\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "YESHODHA MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "•\tCHIDAMBARAM 5 LAKHS PENDING, 2ND FLOOR CONSTRUCTION – AUG OR SEP 15TH WILL BE COMPLETED\n•\tAPRIL MONTH SALARY – RELIEVED STAFF, CONTINUING STAFF TO CHECK\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "RAJESH SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779862278348,
+    "modifiedAt": 1779862278348
   }
 ]
