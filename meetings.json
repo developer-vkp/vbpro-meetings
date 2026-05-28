@@ -4980,7 +4980,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "Uniforms / Shoefor Security guards and SO - from 1st June",
+        "text": "Uniforms / Shoes - for Security guards and SO - from 1st June",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -5059,6 +5059,6 @@
       }
     ],
     "createdAt": 1779981712158,
-    "modifiedAt": 1779982123953
+    "modifiedAt": 1779982125894
   }
 ]
