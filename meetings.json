@@ -4958,5 +4958,27 @@
     ],
     "createdAt": 1779959862588,
     "modifiedAt": 1779981656540
+  },
+  {
+    "id": "m1779981712158_522",
+    "date": "2026-05-28",
+    "day": "Thursday",
+    "title": "SO Meeting @ Vision",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Lady Security - ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779981712158,
+    "modifiedAt": 1779981712158
   }
 ]
