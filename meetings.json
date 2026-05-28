@@ -4980,7 +4980,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "Uniforms for Security guards and SO - fro",
+        "text": "Uniforms for Security guards and SO - from 1st June",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4989,6 +4989,6 @@
       }
     ],
     "createdAt": 1779981712158,
-    "modifiedAt": 1779981886922
+    "modifiedAt": 1779981890150
   }
 ]
