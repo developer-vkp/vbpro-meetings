@@ -4923,7 +4923,7 @@
     "day": "Thursday",
     "title": "CAPEX, BOOKS, UNIFORM",
     "campus": "All Campus",
-    "category": "Capex /",
+    "category": "Capex / Books / unifor",
     "actionPoints": [
       {
         "id": "ap1",
@@ -4957,6 +4957,6 @@
       }
     ],
     "createdAt": 1779959862588,
-    "modifiedAt": 1779981637702
+    "modifiedAt": 1779981641276
   }
 ]
