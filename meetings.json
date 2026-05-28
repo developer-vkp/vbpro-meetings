@@ -5040,7 +5040,7 @@
       {
         "id": "ap8",
         "type": "Immediate",
-        "text": "All Campus - Any special class ",
+        "text": "All Campus - Any special class (sunday) -",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -5049,6 +5049,6 @@
       }
     ],
     "createdAt": 1779981712158,
-    "modifiedAt": 1779982074218
+    "modifiedAt": 1779982078345
   }
 ]
