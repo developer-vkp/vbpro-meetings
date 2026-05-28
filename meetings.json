@@ -4916,5 +4916,37 @@
     ],
     "createdAt": 1779862278348,
     "modifiedAt": 1779862803195
+  },
+  {
+    "id": "m1779959862588_x7r",
+    "date": "2026-05-28",
+    "day": "Thursday",
+    "title": "CAPEX, BOOKS, UNIFORM",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "•\tFOUNDATION BOOKS DELIVERY DATE\n•\tNEET 11TH DISPATCH\n•\tFOUNDATION, IIT – 7TH DIAPATCH\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ROOPA MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "•\tCLUSTER UNIFORM – TODAY SAMPLE TO SUBMIT\n•\tPT UNIFORM – 1000 QUANTITY, 3 SETS PER STAFF\n•\tPT UNIFORM PURCHASE ORDER TO GET DIRECTOR SIR APPROVAL\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "SCRIBBLES",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1779959862588,
+    "modifiedAt": 1779959862588
   }
 ]
