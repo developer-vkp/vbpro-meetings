@@ -5080,7 +5080,7 @@
       {
         "id": "ap12",
         "type": "Immediate",
-        "text": "Barricades requirement - Thanjavur - 4 / Chidambaram - 2 / Namakkal - 2 / Kolapakkam - 2 / ",
+        "text": "Barricades requirement - Thanjavur - 4 / Chidambaram - 2 / Namakkal - 2 / Kolapakkam - 2 / Dindigul ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -5089,6 +5089,6 @@
       }
     ],
     "createdAt": 1779981712158,
-    "modifiedAt": 1779982274596
+    "modifiedAt": 1779982279186
   }
 ]
