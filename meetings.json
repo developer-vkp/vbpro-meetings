@@ -4970,7 +4970,7 @@
       {
         "id": "ap1",
         "type": "Immediate",
-        "text": "Lady Security - Dindigul - 1 needed / Kumbakonam - 1 needed / Kolapakkam - 1 needed / Namakkal - 1 needed / Chidambaram - 1 needed / Thanjavur - 1 needed",
+        "text": "Lady Security - Dindigul - 1 needed / Kumbakonam - 1 needed / Kolapakkam - 1 needed / Namakkal - 1 needed / Chidambaram - 1 needed / Thanjavur - 1 needed / ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4979,6 +4979,6 @@
       }
     ],
     "createdAt": 1779981712158,
-    "modifiedAt": 1779981812208
+    "modifiedAt": 1779981814529
   }
 ]
