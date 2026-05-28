@@ -4948,7 +4948,7 @@
       {
         "id": "ap3",
         "type": "Immediate",
-        "text": "",
+        "text": "1. TVIS – Total Items: 23, Delivered: 13, Pending: 10, Support: 2 Vendors\n2. BODHI PONNERI – Total Items: 35, Delivered: 15, Pending: 20, Support: 2 Vendors\n3. VV – Total Items: 9, Delivered: 12, Pending: 7, Support: Paid\n4. MATRIC PONNERI – Total Items: 33, Delivered: 11, Pending: 22, Support: Weather\n5. KOLAPAKKAM – Total Items: 9, Delivered: 2, Pending: 7, Support: Sathiya, Plastic\n6. KANCHIPURAM – Total Items: 25, Delivered: 6, Pending: 19, Support: Sathiya, Plastic\n7. TANJORE – Total Items: 28, Delivered: 2, Pending: 26, Support: Jai Shree\n8. VELLORE – Total Items: 8, Delivered: 2, Pending: 6, Support: Paid\n9. ERODE – Total Items: 17, Delivered: 2, Pending: 15, Support: Weather\n10. COIMBATORE – Total Items: 11, Delivered: 2, Pending: 9, Support: Royal Furn\n11. KUMBAKONAM – Total Items: 16, Delivered: 2, Pending: 14, Support: Plastic, Kamatchi\n12. TRICHY – Total Items: 16, Delivered: 2, Pending: 14, Support: Paid\n13. TONDIARPET – Total Items: 14, Delivered: 9, Pending: 5, Support: Paid\n14. NAMAKKAL – Total Items: 8, Delivered: 1, Pending: 7, Support: Sathiya\n15. DINDIGUL – Total Items: 23, Delivered: 5, Pending: 18, Support: Paid\n16. KALLAKURICHI – Total Items: 7, Delivered: 1, Pending: 6, Support: Paid\n17. CHIDAMBARAM – Total Items: 20, Delivered: 7, Pending: 13, Support: Kamatchi Timber\n18. ATTUR – Total Items: 16, Delivered: 3, Pending: 13, Support: Paid\n19. SALEM – Total Items: 23, Delivered: 7, Pending: 16, Support: Plastic\n20. THIRUVALLUR – Total Items: 22, Delivered: 8, Pending: 14, Support: Weather\n21. PONDICHERRY – Total Items: 22, Delivered: 3, Pending: 19, Support: Sathiya\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -4957,6 +4957,6 @@
       }
     ],
     "createdAt": 1779959862588,
-    "modifiedAt": 1779959956380
+    "modifiedAt": 1779960239484
   }
 ]
