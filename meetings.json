@@ -5040,7 +5040,7 @@
       {
         "id": "ap8",
         "type": "Immediate",
-        "text": "All Campus - An",
+        "text": "All Campus - Any special class ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -5049,6 +5049,6 @@
       }
     ],
     "createdAt": 1779981712158,
-    "modifiedAt": 1779982070404
+    "modifiedAt": 1779982074218
   }
 ]
