@@ -46,5 +46,13 @@
     "password": "12345678",
     "role": "user",
     "createdAt": "2026-05-18T07:21:21.973Z"
+  },
+  {
+    "id": "u1780291670824",
+    "name": "Director",
+    "email": "director@vkp.co.in",
+    "password": "12345678",
+    "role": "admin",
+    "createdAt": "2026-06-01T05:27:50.824Z"
   }
 ]
