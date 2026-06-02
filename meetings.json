@@ -5156,7 +5156,7 @@
     "date": "2026-06-02",
     "day": "Tuesday",
     "title": "Director's Review Agenda – Thiruvallur & Tondiarpet",
-    "campus": "thiruvallut",
+    "campus": "thiruvallur",
     "category": "Academics",
     "actionPoints": [
       {
@@ -5271,6 +5271,6 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1780377085966
+    "modifiedAt": 1780377089069
   }
 ]
