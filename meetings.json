@@ -5150,5 +5150,127 @@
     ],
     "createdAt": 1779981712158,
     "modifiedAt": 1780292753156
+  },
+  {
+    "id": "m1780377053669_ai8",
+    "date": "2026-06-02",
+    "day": "Tuesday",
+    "title": "Director's Review Agenda – Thiruvallur & Tondiarpet",
+    "campus": "Tondiarpet",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Recruitment & Staff Availability ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "Micro-Teaching & Teacher Quality ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "Parent Communication ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "Immediate Response to Parent Feedback ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "Close Monitoring of Classes IX–XII During Initial Weeks",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "Parent Concern Resolution",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "Parent Communication Strengthening",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": " Feedback Review & Action\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "Faculty Readiness Verification\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "Academic Performance Tracking\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "Academic Process Readiness",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath ",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1780377053669,
+    "modifiedAt": 1780377053669
   }
 ]
