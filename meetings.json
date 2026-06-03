@@ -5272,5 +5272,77 @@
     ],
     "createdAt": 1780377053669,
     "modifiedAt": 1780377127573
+  },
+  {
+    "id": "m1780485461368_dst",
+    "date": "2026-06-03",
+    "day": "Wednesday",
+    "title": "VKP ZOOM",
+    "campus": "All School",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Staff Orientation\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "Staff Strength\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "Refresher Training\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "Baggage Checking\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "Attendance Monitoring\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Night Monitoring",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1780485461368,
+    "modifiedAt": 1780485461368
   }
 ]
