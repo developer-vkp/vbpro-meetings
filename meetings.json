@@ -5344,5 +5344,107 @@
     ],
     "createdAt": 1780485461368,
     "modifiedAt": 1780544708516
+  },
+  {
+    "id": "m1780544872211_gle",
+    "date": "2026-06-03",
+    "day": "Wednesday",
+    "title": "CIVIL",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "•\tVKP CIVIL BUDGET 7 CRS ,  ITEM WISE DETAILS TO SUBMIT, INCLUDES 25 L ADDITIONAL MAINTENANCE WORK",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM/GM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "•\tVKP PAINTING – 40 L\n•\tNON VKP 2 CRS\n•\tSCHOOL WISE – LIST OF WORK, AMOUNT TO SUBMIT\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM/GM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "•\tLAST YEAR BUDGET  6CR, PAID 5.87\n•\tJUNE 27TH CIVIL BUDGET TO SUBMIT\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM/GM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "•\tWORK ORDER DETAILS TO SUBMIT",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM/GM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "•\tVKP SMAILL MAINTENANCE WORK TO SUBMIT",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM / GM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "•\tVIT TOILET 1.9 CR, 1 CR WORK COMPLETED\n•\tPAVER WORK 1.5 CR, 1 CR WORK COMPLETED\n•\tDIDNIGUL 1.9 CR, 1.2 WORK COMPLTED\n•\tOLOGY 9.5CR , BILL CERTIFY 5.7 CR, PAID 2 CR\n•\tOLOGY CIVIL 28 L DINDING HALL, COMPOUND WALL\n•\tKANCHIPURAM 7.79 CR, 7 CR WORK COMPLETED\n•\tFLOOR WISE, FOUNDATION DETAILS TO SUBMIT\n•\tBUILDING WISE COMPLETION DATE TO SUBMIT\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM / GM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "•\tNEXT WEEK – KANCHIPURAM BUILDERS, COIMBATORE BUILDERS, DINDIGUL BUILDERS TO MEET SIR",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM / GM SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "•\tOLOGY FILLING – 200 LOADS, 80 L, PER DAY HOW MANY LOADS DETAILS TO SUBMIT TO YUVARAJ SIR",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "YUVARAJ SIR",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "•\tTRICHY – 85L, MAIN CAMPUS WORK JUNE MONTH TO BE COMPLETED\n•\tKUMBAKONAM – A3 MADURAI MANIVANAN – TO REDUCE 1.4CR TO 80L, + GST\n•\tTANJORE – GLOBAL PAINTING WORK ORDER 70L – 2 BUILDING + GATE+COMPUND WALL\n•\tSCHOOL WISE BUILDING AREA – PAINTED DETAILS TO SUBMIT\n•\tWEATHERING COATS WORK TO COMPLETE AND PAYMENT SUPPORT\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "VALARMATHY MAM/GM SIR",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1780544872211,
+    "modifiedAt": 1780544872211
   }
 ]
