@@ -5279,7 +5279,7 @@
     "day": "Wednesday",
     "title": "VKP ZOOM",
     "campus": "All School",
-    "category": "Academics",
+    "category": "Admin",
     "actionPoints": [
       {
         "id": "ap1",
@@ -5343,6 +5343,6 @@
       }
     ],
     "createdAt": 1780485461368,
-    "modifiedAt": 1780485685440
+    "modifiedAt": 1780544708516
   }
 ]
