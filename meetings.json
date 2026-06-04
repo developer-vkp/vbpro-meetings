@@ -5167,7 +5167,14 @@
         "status": "Open",
         "assignedTo": "Ms.Zeenath ",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-04",
+            "text": "HIGH SCHOOL  1. ACO -1  SENIOR SECONDARY  1. CHEMISTRY - 1 2. CSC - 1  OTHERS  1. TUTOR - 1 2. LAB IN-CHARGE - 1 3. PET - 1 4. Typist -1",
+            "addedAt": 1780568794621
+          }
+        ]
       },
       {
         "id": "ap9",
@@ -5271,7 +5278,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1780568793388
+    "modifiedAt": 1780568811213
   },
   {
     "id": "m1780485461368_dst",
