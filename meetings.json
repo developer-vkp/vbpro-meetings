@@ -5632,7 +5632,7 @@
         "id": "ap12",
         "type": "Immediate",
         "text": "Strengthen Team Coordination\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5642,7 +5642,7 @@
         "id": "ap13",
         "type": "Immediate",
         "text": "Retain Top Performers\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5670,6 +5670,6 @@
       }
     ],
     "createdAt": 1780643124611,
-    "modifiedAt": 1780643178820
+    "modifiedAt": 1780643182772
   }
 ]
