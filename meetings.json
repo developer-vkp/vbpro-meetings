@@ -5184,7 +5184,14 @@
         "status": "Open",
         "assignedTo": "Ms.Zeenath ",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-05",
+            "text": "Yes,  Micro teaching has been conducted to all the staffs and given feedback back based on their performance",
+            "addedAt": 1780640634708
+          }
+        ]
       },
       {
         "id": "ap10",
@@ -5278,7 +5285,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1780640632963
+    "modifiedAt": 1780640675107
   },
   {
     "id": "m1780485461368_dst",
