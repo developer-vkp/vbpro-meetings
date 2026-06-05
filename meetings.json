@@ -5286,7 +5286,14 @@
         "status": "Open",
         "assignedTo": "Ms.Zeenath ",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-05",
+            "text": "Will talk to the teachers and getting feedback from them, reviewing and giving solution.",
+            "addedAt": 1780640790691
+          }
+        ]
       },
       {
         "id": "ap16",
@@ -5320,7 +5327,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1780640784883
+    "modifiedAt": 1780640790691
   },
   {
     "id": "m1780485461368_dst",
