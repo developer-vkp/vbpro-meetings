@@ -5582,7 +5582,7 @@
         "id": "ap7",
         "type": "Immediate",
         "text": "Maintain Academic Discipline\nn",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5592,7 +5592,7 @@
         "id": "ap8",
         "type": "Immediate",
         "text": "Conduct Regular Reviews\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5670,6 +5670,6 @@
       }
     ],
     "createdAt": 1780643124611,
-    "modifiedAt": 1780643168092
+    "modifiedAt": 1780643171748
   }
 ]
