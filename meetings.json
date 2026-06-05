@@ -5542,7 +5542,7 @@
         "id": "ap3",
         "type": "Immediate",
         "text": "\nEnsure Program Continuity\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5552,7 +5552,7 @@
         "id": "ap4",
         "type": "Immediate",
         "text": "Strengthen Academic Follow-up\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5670,6 +5670,6 @@
       }
     ],
     "createdAt": 1780643124611,
-    "modifiedAt": 1780643160308
+    "modifiedAt": 1780643163684
   }
 ]
