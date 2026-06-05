@@ -5652,7 +5652,7 @@
         "id": "ap14",
         "type": "Immediate",
         "text": "Review Campus Performance\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5662,7 +5662,7 @@
         "id": "ap15",
         "type": "Immediate",
         "text": "Intensify Exam Preparation",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5670,6 +5670,6 @@
       }
     ],
     "createdAt": 1780643124611,
-    "modifiedAt": 1780643182772
+    "modifiedAt": 1780643186364
   }
 ]
