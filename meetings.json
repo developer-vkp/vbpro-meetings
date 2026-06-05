@@ -5509,5 +5509,167 @@
     ],
     "createdAt": 1780544872211,
     "modifiedAt": 1780642151000
+  },
+  {
+    "id": "m1780643124611_w7x",
+    "date": "2026-06-05",
+    "day": "Friday",
+    "title": "JEE ADVANCE EXAM PERFORMANCE OF ALL SCHOOLS",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Monitor IIT Targets",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "Improve Student Ranks",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "\nEnsure Program Continuity\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "Strengthen Academic Follow-up\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "Enhance Faculty Accountability\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Support Admission Counseling\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "Maintain Academic Discipline\nn",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "Conduct Regular Reviews\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "Track Student Progress\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "Replicate Best Practices\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "Achieve Committed Targets\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "Strengthen Team Coordination\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "Retain Top Performers\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "Review Campus Performance\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "Intensify Exam Preparation",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.Zeenath",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1780643124611,
+    "modifiedAt": 1780643124611
   }
 ]
