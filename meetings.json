@@ -5235,7 +5235,14 @@
         "status": "Open",
         "assignedTo": "Ms.Zeenath ",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-05",
+            "text": "Absentees follow up and based on academic performance parent will be intimated.",
+            "addedAt": 1780640715355
+          }
+        ]
       },
       {
         "id": "ap13",
@@ -5299,7 +5306,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1780640709219
+    "modifiedAt": 1780640715356
   },
   {
     "id": "m1780485461368_dst",
