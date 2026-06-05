@@ -5562,7 +5562,7 @@
         "id": "ap5",
         "type": "Immediate",
         "text": "Enhance Faculty Accountability\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5572,7 +5572,7 @@
         "id": "ap6",
         "type": "Immediate",
         "text": "Support Admission Counseling\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
@@ -5670,6 +5670,6 @@
       }
     ],
     "createdAt": 1780643124611,
-    "modifiedAt": 1780643163684
+    "modifiedAt": 1780643168092
   }
 ]
