@@ -5570,7 +5570,7 @@
       },
       {
         "id": "ap6",
-        "type": "Immediate",
+        "type": "Long-term",
         "text": "Support Admission Counseling\n",
         "priority": "High",
         "status": "Open",
@@ -5670,6 +5670,6 @@
       }
     ],
     "createdAt": 1780643124611,
-    "modifiedAt": 1780722288943
+    "modifiedAt": 1780722338149
   }
 ]
