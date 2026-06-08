@@ -5883,5 +5883,267 @@
     ],
     "createdAt": 1780915733205,
     "modifiedAt": 1780915733205
+  },
+  {
+    "id": "m1780921829330_ebx",
+    "date": "2026-06-08",
+    "day": "Monday",
+    "title": "445 poster - june 08",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "Staff Reporting\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "Faculty Review\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap23",
+        "type": "Immediate",
+        "text": "Reopening Readiness\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap24",
+        "type": "Immediate",
+        "text": "Parent Communication\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap25",
+        "type": "Immediate",
+        "text": "Admission Follow-up\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap26",
+        "type": "Immediate",
+        "text": "Dropout Retention\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap27",
+        "type": "Immediate",
+        "text": "Fee Collection\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap28",
+        "type": "Immediate",
+        "text": "Book Procurement\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap29",
+        "type": "Immediate",
+        "text": "Transport Verification\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap30",
+        "type": "Immediate",
+        "text": "Route Validation\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap31",
+        "type": "Immediate",
+        "text": "Classroom Readiness\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap32",
+        "type": "Immediate",
+        "text": "Notice Board Setup\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap33",
+        "type": "Immediate",
+        "text": "Infrastructure Readiness\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap34",
+        "type": "Immediate",
+        "text": "Restroom Completion\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap35",
+        "type": "Immediate",
+        "text": "Driver Deployment\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap36",
+        "type": "Immediate",
+        "text": "Orientation Planning\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap37",
+        "type": "Immediate",
+        "text": "Safety Compliance\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap38",
+        "type": "Immediate",
+        "text": "Curriculum Distribution\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap39",
+        "type": "Immediate",
+        "text": "Timetable Implementation\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap40",
+        "type": "Immediate",
+        "text": "Faculty Mentoring\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap41",
+        "type": "Immediate",
+        "text": "Material Availability\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap42",
+        "type": "Immediate",
+        "text": "Student Retention\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap43",
+        "type": "Immediate",
+        "text": "Transport Readiness\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap44",
+        "type": "Immediate",
+        "text": "Academic Preparedness\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap45",
+        "type": "Immediate",
+        "text": "Campus Readiness",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1780921829330,
+    "modifiedAt": 1780921829330
   }
 ]
