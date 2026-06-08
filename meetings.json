@@ -5671,5 +5671,217 @@
     ],
     "createdAt": 1780643124611,
     "modifiedAt": 1780899713079
+  },
+  {
+    "id": "m1780915733205_59e",
+    "date": "2026-06-08",
+    "day": "Monday",
+    "title": "5.00.A.M MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Attendance Monitoring\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "Parent Follow-up\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "Daily Updates\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "Physics Continuity\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "Chemistry Support\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Student Feedback\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "Worksheet Tracking\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "Test Monitoring\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "Corrective Actions\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "Academic Support\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "Attendance Improvement\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "Counselling Sessions\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "Coordinator Compliance\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "Performance Review\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "Subject Review\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "Holiday Monitoring\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "Hostel Attendance\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "Best Practices\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "Progress Tracking\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "Compliance Check",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALICE MAM",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1780915733205,
+    "modifiedAt": 1780915733205
   }
 ]
