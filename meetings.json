@@ -1303,15 +1303,15 @@
         "type": "Long-term",
         "text": "6 to 10, cat / visto review, olympiad seperate review for bodhi ponneri\r\n12. Discipline meeting - 3 times with pet department, with last year experience allocate per responsible staff\r\n13. Eca skill to conduct \r\n14. Grade 10 class average to increase \r\n15. Every year class wise strength to increase( Grade 7- 60, grade 8- 80) like wise",
         "priority": "Medium",
-        "status": "Open",
+        "status": "Done",
         "assignedTo": "",
         "timeline": "",
-        "completed": false,
+        "completed": true,
         "followUps": []
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781001657745
+    "modifiedAt": 1781001743044
   },
   {
     "id": "imp_1777616339128_0",
