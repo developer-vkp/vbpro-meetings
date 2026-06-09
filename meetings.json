@@ -748,7 +748,7 @@
       {
         "id": "ap1777615062520",
         "type": "Immediate",
-        "text": "Srpl sir Academics Saravanan sir to align academics; validate with Director",
+        "text": "Saravanan sir to align academics; validate with Director",
         "priority": "High",
         "status": "Open",
         "assignedTo": "",
@@ -912,7 +912,7 @@
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781001121826
+    "modifiedAt": 1777615062465
   },
   {
     "id": "imp_1777615062465_13",
@@ -1311,7 +1311,7 @@
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781000899699
+    "modifiedAt": 1781001206575
   },
   {
     "id": "imp_1777616339128_0",
