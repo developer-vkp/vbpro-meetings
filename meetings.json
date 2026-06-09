@@ -1270,7 +1270,7 @@
         "type": "Immediate",
         "text": "Open day feedback: student communication, namelist to submit, action plan,3 times parents meeting",
         "priority": "High",
-        "status": "Open",
+        "status": "Done",
         "assignedTo": "",
         "timeline": "",
         "completed": false,
@@ -1311,7 +1311,7 @@
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781000864875
+    "modifiedAt": 1781000873813
   },
   {
     "id": "imp_1777616339128_0",
