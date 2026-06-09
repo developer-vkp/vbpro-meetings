@@ -1262,7 +1262,7 @@
         "status": "Done",
         "assignedTo": "",
         "timeline": "",
-        "completed": false,
+        "completed": true,
         "followUps": []
       },
       {
@@ -1311,7 +1311,7 @@
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781000879988
+    "modifiedAt": 1781000889791
   },
   {
     "id": "imp_1777616339128_0",
