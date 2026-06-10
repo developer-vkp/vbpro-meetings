@@ -3989,7 +3989,7 @@
     "day": "Monday",
     "title": "Accounts - 9 am Review",
     "campus": "All Campus",
-    "category": "Academics",
+    "category": "Other",
     "actionPoints": [
       {
         "id": "ap30",
@@ -4083,7 +4083,7 @@
       }
     ],
     "createdAt": 1779173878146,
-    "modifiedAt": 1779174450386
+    "modifiedAt": 1781074510036
   },
   {
     "id": "m1779174076070_y5o",
