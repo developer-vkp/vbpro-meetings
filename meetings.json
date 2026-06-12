@@ -4684,11 +4684,18 @@
         "status": "Open",
         "assignedTo": "MS.SHAIRA",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "over all strength -389,present- 99 , absent-290",
+            "addedAt": 1781251157994
+          }
+        ]
       }
     ],
     "createdAt": 1779351403678,
-    "modifiedAt": 1781251146360
+    "modifiedAt": 1781251157994
   },
   {
     "id": "m1779525725590_c9x",
