@@ -287,7 +287,13 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "TOP 3 student list collected",
+            "addedAt": 1781250303450
+          }
+        ]
       },
       {
         "id": "ap1777615062483",
@@ -379,7 +385,7 @@
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781250242612
+    "modifiedAt": 1781250303450
   },
   {
     "id": "imp_1777615062465_8",
