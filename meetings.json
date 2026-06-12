@@ -6350,7 +6350,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "Needed materials are sent for approval",
+            "addedAt": 1781249410836
+          }
+        ]
       },
       {
         "id": "ap8",
@@ -6391,6 +6398,6 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781249407212
+    "modifiedAt": 1781249410836
   }
 ]
