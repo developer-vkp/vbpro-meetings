@@ -6767,7 +6767,7 @@
       {
         "id": "ap27",
         "type": "Immediate",
-        "text": "VASUMATHY MAM- VKP 12 MEMBE",
+        "text": "VASUMATHY MAM- VKP 12 MEMBERS ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -6776,6 +6776,6 @@
       }
     ],
     "createdAt": 1781265675654,
-    "modifiedAt": 1781266166913
+    "modifiedAt": 1781266169607
   }
 ]
