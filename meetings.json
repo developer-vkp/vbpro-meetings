@@ -6304,10 +6304,17 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "4 will confirmed",
+            "addedAt": 1781248796692
+          }
+        ]
       }
     ],
     "createdAt": 1781245571223,
-    "modifiedAt": 1781248794301
+    "modifiedAt": 1781248796692
   }
 ]
