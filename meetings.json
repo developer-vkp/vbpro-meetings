@@ -4631,7 +4631,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "foundation - Math and Physics alone pendings",
+            "addedAt": 1781266726786
+          }
+        ]
       },
       {
         "id": "ap5",
@@ -4735,7 +4742,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781266725133
+    "modifiedAt": 1781266726786
   },
   {
     "id": "m1779862278348_vcw",
