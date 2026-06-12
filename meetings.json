@@ -4648,7 +4648,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "takencare by principal",
+            "addedAt": 1781266766656
+          }
+        ]
       },
       {
         "id": "ap6",
@@ -4742,7 +4749,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781266764194
+    "modifiedAt": 1781266766656
   },
   {
     "id": "m1779862278348_vcw",
