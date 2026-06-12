@@ -6720,7 +6720,7 @@
       {
         "id": "ap24",
         "type": "Immediate",
-        "text": "NITHYAKALAYANI SIR TO SUBMIT ALL ADMIN APPOINTMEN",
+        "text": "NITHYAKALAYANI SIR TO SUBMIT ALL ADMIN APPOINTMENT",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -6729,6 +6729,6 @@
       }
     ],
     "createdAt": 1781265675654,
-    "modifiedAt": 1781266055835
+    "modifiedAt": 1781266057345
   }
 ]
