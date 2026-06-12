@@ -1341,11 +1341,17 @@
         "assignedTo": "",
         "timeline": "",
         "completed": true,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "DISCIPLINARY MEETING SCHEDULE ON 17.06.2026",
+            "addedAt": 1781260446119
+          }
+        ]
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781260443879
+    "modifiedAt": 1781260446120
   },
   {
     "id": "imp_1777616339128_0",
