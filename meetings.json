@@ -6145,5 +6145,67 @@
     ],
     "createdAt": 1780921829330,
     "modifiedAt": 1781178371211
+  },
+  {
+    "id": "m1781242597407_a3t",
+    "date": "2026-06-11",
+    "day": "Thursday",
+    "title": "Safety / counselling /Hostel/ All foundation grade 6 -9 Olympiad worksheet",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "VBC Coimbatore:\t\n        1.  Prayer Compliance\n\t2. CCTV Monitoring\n\t3. Safety Rounds\n\t4. Student Interaction\n\t5.  Discipline Review\n\t6.  Report Signing",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira/ms.malathi",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "VBC Dindigul:\n        1. Counseling Schedule\n\t2. Self-Analysis\n\t3. Hostel Support\n\t4. Grievance Handling\n\t5. Counseling Reports",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.dhikshitha/ms.sangeetha",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "Tanjore: \n        1. Campus\tHomesick Support\n\t2. New Student Follow-up\n\t3. Emotional Wellness",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Mr.riyaz/Ms.srivatsini",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "VBC Pondicherry:\t\n        1.  Individual Counseling\n\t2. New Student Support\n\t3. Warden Counseling\n\t4. Report Submission\n\t5. Activity Completion",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.zeenath/Ms.abhinaya",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "All Campuses:\t\n        1. Documentation Compliance\n\t2. Student Welfare",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "All ACO'S",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781242597407,
+    "modifiedAt": 1781242597407
   }
 ]
