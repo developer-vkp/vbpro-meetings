@@ -1257,11 +1257,17 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "THE OLYMPIAD LIST WILLL BE SUBMITTED ON MONDAY",
+            "addedAt": 1781260580410
+          }
+        ]
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1777615062465
+    "modifiedAt": 1781260580411
   },
   {
     "id": "imp_1777615062465_15",
@@ -1302,7 +1308,13 @@
         "assignedTo": "",
         "timeline": "",
         "completed": true,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "80-GIRLS STUDENT- GRADE 9",
+            "addedAt": 1781260399785
+          }
+        ]
       },
       {
         "id": "ap1777615062566",
@@ -1313,7 +1325,18 @@
         "assignedTo": "",
         "timeline": "",
         "completed": true,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "TODAY MEETING WITH SRPL SIR IS CONDUCTED",
+            "addedAt": 1781260329122
+          },
+          {
+            "date": "2026-06-12",
+            "text": "IOQM,SEHSS MUST SELECT TO NEXT LEVEL",
+            "addedAt": 1781260392775
+          }
+        ]
       },
       {
         "id": "ap1777615062567",
@@ -1324,11 +1347,32 @@
         "assignedTo": "",
         "timeline": "",
         "completed": true,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "DISCIPLINARY MEETING SCHEDULE ON 17.06.2026",
+            "addedAt": 1781260446119
+          },
+          {
+            "date": "2026-06-12",
+            "text": "ECA SKILL - NEXT WEEK WILL BE CONDUCTED, STRENGTH {LY}-519, TC-70;THIS YEAR-579; DROP OUT -8",
+            "addedAt": 1781260755405
+          },
+          {
+            "date": "2026-06-12",
+            "text": "3- MALE PET, 2 FEMALE PET , MALE PET -130 EACH, FEMALE PET-70 EACH",
+            "addedAt": 1781260824918
+          },
+          {
+            "date": "2026-06-12",
+            "text": "LAST YEAR - 336, CURRENT YEAR- 380, UPCOMING YEAR -400",
+            "addedAt": 1781260918564
+          }
+        ]
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781001758228
+    "modifiedAt": 1781260918566
   },
   {
     "id": "imp_1777616339128_0",
@@ -3353,228 +3397,6 @@
     "modifiedAt": 1778324786161
   },
   {
-    "id": "m1778326732062_b93",
-    "date": "2026-05-09",
-    "day": "Saturday",
-    "title": "ADMIN REVIEW MEETING",
-    "campus": "Central Office",
-    "category": "Admin",
-    "actionPoints": [
-      {
-        "id": "ap3",
-        "type": "Immediate",
-        "text": "admin circular file should be maintained separately",
-        "priority": "Medium",
-        "status": "✓ Done",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "2026-05-09",
-        "completed": true
-      },
-      {
-        "id": "ap4",
-        "type": "Immediate",
-        "text": "fan checking report – school wise 5 sample  video",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MR. PREM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "admin overall format file save in mail",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap6",
-        "type": "Immediate",
-        "text": "director sir meet the (so/safety officer/pet’s team ) on 27th may",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap7",
-        "type": "Immediate",
-        "text": "pets ,hostel wardens, students count- CONSOLIDATION",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap8",
-        "type": "Immediate",
-        "text": "admin team remove the fees related follow up in calendar",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap9",
-        "type": "Immediate",
-        "text": "eca staff  & principal transport checking photos to create in separately in lms portal",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap10",
-        "type": "Immediate",
-        "text": "campus readiness – zoom meeting arranged after NTS ordination ",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap11",
-        "type": "Immediate",
-        "text": "transport rout wise list ,student count, with feed paid status before May 20 / send circular all schools",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR.BALAJI",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap12",
-        "type": "Follow-up",
-        "text": "zone wise safety in charges - updated list.",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR. BALAJI",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap13",
-        "type": "Immediate",
-        "text": "safety report update in lms by all ao’s – update status.",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR.PREM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap14",
-        "type": "Immediate",
-        "text": "school core team - report update.",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR.VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap15",
-        "type": "Immediate",
-        "text": "printing materials – check with Ramya mam & connect with zonal heads for final status.",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "Ms. Ramya",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap16",
-        "type": "Immediate",
-        "text": "last year nts orientation ppt- admin coordinator   balaji ",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MR. BALAJI",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap17",
-        "type": "Immediate",
-        "text": "send circular & prepare a date wise calendar for ao’s visit june month.",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MR. BALAJI",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap18",
-        "type": "Immediate",
-        "text": "admin coordinator visit reports sent email in same day and maintain separate folder.",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR. BALAJI",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap19",
-        "type": "Immediate",
-        "text": "list of civil, capex, (received/pending).",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR.BALAJI, PREM, VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap20",
-        "type": "Long-term",
-        "text": "safety alertness call - twice in a day (morning/evening)",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR.BALAJI, PREM, VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap21",
-        "type": "Immediate",
-        "text": "get cluster file and grassroot file from aruna  mam . maintain with individual list and consolidation list .",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap22",
-        "type": "Immediate",
-        "text": "19 points file: daily review report and need to add name list as the front page",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR. MANOKARAN",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap23",
-        "type": "Immediate",
-        "text": "stock verification report yearly once report will be filed - 29 schools should be maintained in the report.",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR. MANOKARAN, PREM",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1778326732062,
-    "modifiedAt": 1779088964093
-  },
-  {
     "id": "m1779172565607_dee",
     "date": "2026-05-19",
     "day": "Tuesday",
@@ -3880,8 +3702,8 @@
   },
   {
     "id": "m1779173622579_lcf",
-    "date": "2026-05-15",
-    "day": "Friday",
+    "date": "2026-04-25",
+    "day": "Saturday",
     "title": "Board Exam Analysis - XII",
     "campus": "All Campus",
     "category": "Academics",
@@ -3897,9 +3719,9 @@
         "completed": false,
         "followUps": [
           {
-            "date": "2026-05-19",
-            "text": "has to submit",
-            "addedAt": 1779173648790
+            "date": "2026-06-12",
+            "text": "ZONAL HEAD COLLECTED OBSERBVATION  POINTS AND SUBMITTED",
+            "addedAt": 1781258207677
           }
         ]
       },
@@ -3911,7 +3733,14 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "CBSE PLANNER - SCHOOL WISE AND ZONE WISE CHECKING",
+            "addedAt": 1781258349602
+          }
+        ]
       },
       {
         "id": "ap21",
@@ -3921,7 +3750,14 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "COMMON PLAN - SRPL",
+            "addedAt": 1781258397261
+          }
+        ]
       },
       {
         "id": "ap22",
@@ -3931,7 +3767,14 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "HOLIDAY ASSIGNMENT OVERALL 5 MORE THAN SCHOOL FACULTY",
+            "addedAt": 1781258479632
+          }
+        ]
       },
       {
         "id": "ap23",
@@ -3941,7 +3784,14 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "PARENT FEEDBACK CALL WAS COLLECTED BY CENTRAL OFFICE TEAM",
+            "addedAt": 1781258533096
+          }
+        ]
       },
       {
         "id": "ap24",
@@ -3951,7 +3801,14 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "DINDIGUL - NIL,KUMBAKONAM- ECO{1}, KANCHIPURAM-MATHS{1}",
+            "addedAt": 1781261605550
+          }
+        ]
       },
       {
         "id": "ap25",
@@ -4005,7 +3862,7 @@
       }
     ],
     "createdAt": 1779173622579,
-    "modifiedAt": 1779175011074
+    "modifiedAt": 1781261957489
   },
   {
     "id": "m1779173878146_q5y",
@@ -5209,6 +5066,11 @@
             "date": "2026-06-04",
             "text": "HIGH SCHOOL  1. ACO -1  SENIOR SECONDARY  1. CHEMISTRY - 1 2. CSC - 1  OTHERS  1. TUTOR - 1 2. LAB IN-CHARGE - 1 3. PET - 1 4. Typist -1",
             "addedAt": 1780568794621
+          },
+          {
+            "date": "2026-06-12",
+            "text": "SENIOR SECONDARY - CS - 1, TUTOR -1,LAB INCHARGE- 1,PET -1MALE, TYPIST - 1",
+            "addedAt": 1781258887200
           }
         ]
       },
@@ -5370,7 +5232,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1780640890115
+    "modifiedAt": 1781262592735
   },
   {
     "id": "m1780485461368_dst",
@@ -6310,7 +6172,7 @@
       }
     ],
     "createdAt": 1781242597407,
-    "modifiedAt": 1781262585250
+    "modifiedAt": 1781253449141
   },
   {
     "id": "m1781244190088_bwm",
@@ -6516,6 +6378,6 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781253121384
+    "modifiedAt": 1781258624035
   }
 ]
