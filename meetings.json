@@ -2565,7 +2565,14 @@
         "status": "Open",
         "assignedTo": "MS.SRIVATSINI",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "class 10 appreciation letter given to students scored 490 and 480 above",
+            "addedAt": 1781250442115
+          }
+        ]
       },
       {
         "id": "ap70",
@@ -2589,7 +2596,7 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1781250438575
+    "modifiedAt": 1781250442116
   },
   {
     "id": "m1778053761492_m0w",
