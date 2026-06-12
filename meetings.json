@@ -5254,20 +5254,10 @@
             "addedAt": 1780640890115
           }
         ]
-      },
-      {
-        "id": "ap18",
-        "type": "Immediate",
-        "text": "Academic Process Readiness",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Ms.Zeenath ",
-        "timeline": "",
-        "completed": false
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1781265414879
+    "modifiedAt": 1781265419487
   },
   {
     "id": "m1780485461368_dst",
