@@ -6450,6 +6450,38 @@
       }
     ],
     "createdAt": 1781264060840,
-    "modifiedAt": 1781264305687
+    "modifiedAt": 1781264109024
+  },
+  {
+    "id": "m1781264303433_uf5",
+    "date": "2026-04-29",
+    "day": "Wednesday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "ECA",
+    "actionPoints": [
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "SPORTS SCHOLARSHIP STUDENTS - HOW MANY ARE THERE ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "For vkp what is the policy and how many numbers fixed for sports scholarship?",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781264303433,
+    "modifiedAt": 1781264303433
   }
 ]
