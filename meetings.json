@@ -4581,6 +4581,11 @@
             "date": "2026-05-27",
             "text": "capex",
             "addedAt": 1779860535995
+          },
+          {
+            "date": "2026-06-12",
+            "text": "Green board and notice board alone pending",
+            "addedAt": 1781266605137
           }
         ]
       },
@@ -4716,7 +4721,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781266602780
+    "modifiedAt": 1781266605138
   },
   {
     "id": "m1779862278348_vcw",
