@@ -6348,7 +6348,7 @@
         "text": "Plan sports activities based on available facilities",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "Needed materials are sent for approval",
         "timeline": "",
         "completed": false
       },
@@ -6391,6 +6391,6 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781249377828
+    "modifiedAt": 1781249403260
   }
 ]
