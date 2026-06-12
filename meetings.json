@@ -6004,12 +6004,19 @@
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "target-500, achieved 281 as on 11.06.2026",
+            "addedAt": 1781252338675
+          }
+        ]
       },
       {
         "id": "ap26",
         "type": "Immediate",
-        "text": "Dropout Retention\n",
+        "text": "Dropout Retention- sal\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "ms.zeenath",
@@ -6215,7 +6222,7 @@
       }
     ],
     "createdAt": 1780921829330,
-    "modifiedAt": 1781252337261
+    "modifiedAt": 1781252349203
   },
   {
     "id": "m1781242597407_a3t",
