@@ -6316,5 +6316,67 @@
     ],
     "createdAt": 1781245571223,
     "modifiedAt": 1781248799900
+  },
+  {
+    "id": "m1781249116276_efz",
+    "date": "2026-05-02",
+    "day": "Saturday",
+    "title": "ACADEMIC",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Review all special concession students and submit report",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "Plan sports activities based on available facilities",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "Develop school website with images and Google Maps integration",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "Verify all transport routes (arrange bus from Coimbatore if needed)",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "Distribute books & uniforms on same day (send prior circular)",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781249116276,
+    "modifiedAt": 1781249116276
   }
 ]
