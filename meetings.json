@@ -5987,12 +5987,19 @@
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "29 parents -11 th ,4 internal transfer , 25- due to high fees, job transfer, 1st batch of grade 11",
+            "addedAt": 1781252292662
+          }
+        ]
       },
       {
         "id": "ap25",
         "type": "Immediate",
-        "text": "Admission Follow-up\n",
+        "text": "Admission Follow-up- sal",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "ms.zeenath",
@@ -6208,7 +6215,7 @@
       }
     ],
     "createdAt": 1780921829330,
-    "modifiedAt": 1781252291566
+    "modifiedAt": 1781252302582
   },
   {
     "id": "m1781242597407_a3t",
