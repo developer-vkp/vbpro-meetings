@@ -3403,30 +3403,9 @@
     "title": "ADMIN REVIEW MEETING",
     "campus": "Central Office",
     "category": "Admin",
-    "actionPoints": [
-      {
-        "id": "ap22",
-        "type": "Immediate",
-        "text": "19 points file: daily review report and need to add name list as the front page",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR. MANOKARAN",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap23",
-        "type": "Immediate",
-        "text": "stock verification report yearly once report will be filed - 29 schools should be maintained in the report.",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "MR. MANOKARAN, PREM",
-        "timeline": "",
-        "completed": false
-      }
-    ],
+    "actionPoints": [],
     "createdAt": 1778326732062,
-    "modifiedAt": 1781261007303
+    "modifiedAt": 1781261009671
   },
   {
     "id": "m1779172565607_dee",
