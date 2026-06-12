@@ -16,11 +16,17 @@
         "assignedTo": "",
         "timeline": "",
         "completed": true,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "total - 18 discontinue, 4-board 14 foundation,",
+            "addedAt": 1781249905071
+          }
+        ]
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781249892483
+    "modifiedAt": 1781249905072
   },
   {
     "id": "imp_1777615062465_1",
