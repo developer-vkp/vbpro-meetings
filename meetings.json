@@ -6894,7 +6894,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "MAM INFORMED PO",
+            "addedAt": 1781267097091
+          }
+        ]
       },
       {
         "id": "ap40",
@@ -6968,6 +6975,6 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781267095478
+    "modifiedAt": 1781267145496
   }
 ]
