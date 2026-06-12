@@ -6588,5 +6588,27 @@
     ],
     "createdAt": 1781265212749,
     "modifiedAt": 1781265235834
+  },
+  {
+    "id": "m1781265295040_u2l",
+    "date": "2026-05-22",
+    "day": "Friday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "25TH AND 26 TH MAY \nTO FOLLOW ALL RE NEET STUDENT AND GOVT SELECTION TARGET STUDENT",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781265295040,
+    "modifiedAt": 1781265295040
   }
 ]
