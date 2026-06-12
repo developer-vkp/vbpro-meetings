@@ -6333,7 +6333,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "Report send to Director sir through VP for approval",
+            "addedAt": 1781249377828
+          }
+        ]
       },
       {
         "id": "ap7",
@@ -6384,6 +6391,6 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781249361253
+    "modifiedAt": 1781249377828
   }
 ]
