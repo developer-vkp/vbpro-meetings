@@ -6627,10 +6627,17 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "ALL ZONE SAFETY INCHARGES MEETING COMPLETED",
+            "addedAt": 1781265465363
+          }
+        ]
       }
     ],
     "createdAt": 1781265419927,
-    "modifiedAt": 1781265464216
+    "modifiedAt": 1781265466867
   }
 ]
