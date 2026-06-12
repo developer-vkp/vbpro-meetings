@@ -1257,11 +1257,17 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": []
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "THE OLYMPIAD LIST WILLL BE SUBMITTED ON MONDAY",
+            "addedAt": 1781260580410
+          }
+        ]
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781260577033
+    "modifiedAt": 1781260580411
   },
   {
     "id": "imp_1777615062465_15",
