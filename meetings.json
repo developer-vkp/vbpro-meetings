@@ -6322,7 +6322,7 @@
     "date": "2026-05-02",
     "day": "Saturday",
     "title": "ACADEMIC",
-    "campus": "Unknown",
+    "campus": "Pondicherry",
     "category": "Academics",
     "actionPoints": [
       {
@@ -6377,6 +6377,6 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781249311981
+    "modifiedAt": 1781249315932
   }
 ]
