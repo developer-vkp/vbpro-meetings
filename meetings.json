@@ -5232,7 +5232,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1781264782662
+    "modifiedAt": 1781259315700
   },
   {
     "id": "m1780485461368_dst",
@@ -6514,6 +6514,28 @@
       }
     ],
     "createdAt": 1781264450893,
-    "modifiedAt": 1781264603114
+    "modifiedAt": 1781264450893
+  },
+  {
+    "id": "m1781264709963_u6i",
+    "date": "2026-05-18",
+    "day": "Monday",
+    "title": "DROPOUT ADMISSION- RAMYA MAM",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "Meyappan to understand admissions so far drop out concession-RAMYA MAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781264709963,
+    "modifiedAt": 1781264709963
   }
 ]
