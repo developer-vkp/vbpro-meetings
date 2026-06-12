@@ -16,17 +16,11 @@
         "assignedTo": "",
         "timeline": "",
         "completed": true,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "total - 18 discontinue, 4-board 14 foundation,",
-            "addedAt": 1781249905071
-          }
-        ]
+        "followUps": []
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781250040629
+    "modifiedAt": 1777615062465
   },
   {
     "id": "imp_1777615062465_1",
@@ -6411,13 +6405,104 @@
         "followUps": [
           {
             "date": "2026-06-12",
-            "text": "Report send to Director sir through VP for approval",
-            "addedAt": 1781249361252
+            "text": "Book distribution planned on 14 may -  Grade 6- 8 books need to receive",
+            "addedAt": 1781249800157
           }
         ]
+      },
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781249787006
+    "modifiedAt": 1781249820894
+  },
+  {
+    "id": "m1781249827460_pup",
+    "date": "2026-05-02",
+    "day": "Saturday",
+    "title": "",
+    "campus": "Tondiarpet",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "100 DAYS ENG & FOCUS SUBJECT PLAN (10 & 12)-7 MAIN EXAM EXCHANGE CORRECTION",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "ENG ALONE GIVEN FOR GRADE 12, FOCUS SUBJECT PENDING NOT GIVENGRADE 10 ALONE COMPLETED",
+            "addedAt": 1781249906612
+          }
+        ]
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781249827460,
+    "modifiedAt": 1781249931547
+  },
+  {
+    "id": "m1781250036412_mxk",
+    "date": "2026-05-01",
+    "day": "Friday",
+    "title": "ACADEMIC",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "Tondairpet:                                                                                                      \n* Olympiad students list\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "* Foundation target",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Staff requirement \n* Total requirement - process owner to validate",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781250036412,
+    "modifiedAt": 1781250036412
   }
 ]
