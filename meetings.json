@@ -6423,5 +6423,27 @@
     ],
     "createdAt": 1781249116276,
     "modifiedAt": 1781249820894
+  },
+  {
+    "id": "m1781249827460_pup",
+    "date": "2026-06-12",
+    "day": "Friday",
+    "title": "",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781249827460,
+    "modifiedAt": 1781249827460
   }
 ]
