@@ -6287,5 +6287,27 @@
     ],
     "createdAt": 1781244190088,
     "modifiedAt": 1781244337696
+  },
+  {
+    "id": "m1781245571223_y2v",
+    "date": "2026-05-02",
+    "day": "Saturday",
+    "title": "ACADEMIC",
+    "campus": "Pondicherry",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "HOSTEL 10 STUDENTS - WILL ADMIT FOR IIT ON NEXT WEEK",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781245571223,
+    "modifiedAt": 1781245571223
   }
 ]
