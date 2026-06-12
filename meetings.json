@@ -3405,56 +3405,6 @@
     "category": "Admin",
     "actionPoints": [
       {
-        "id": "ap3",
-        "type": "Immediate",
-        "text": "admin circular file should be maintained separately",
-        "priority": "Medium",
-        "status": "✓ Done",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "2026-05-09",
-        "completed": true
-      },
-      {
-        "id": "ap4",
-        "type": "Immediate",
-        "text": "fan checking report – school wise 5 sample  video",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MR. PREM",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "admin overall format file save in mail",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap6",
-        "type": "Immediate",
-        "text": "director sir meet the (so/safety officer/pet’s team ) on 27th may",
-        "priority": "Critical",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap7",
-        "type": "Immediate",
-        "text": "pets ,hostel wardens, students count- CONSOLIDATION",
-        "priority": "High",
-        "status": "Open",
-        "assignedTo": "MR. VIGNESH",
-        "timeline": "",
-        "completed": false
-      },
-      {
         "id": "ap8",
         "type": "Immediate",
         "text": "admin team remove the fees related follow up in calendar",
@@ -3616,7 +3566,7 @@
       }
     ],
     "createdAt": 1778326732062,
-    "modifiedAt": 1779088964093
+    "modifiedAt": 1781261004538
   },
   {
     "id": "m1779172565607_dee",
