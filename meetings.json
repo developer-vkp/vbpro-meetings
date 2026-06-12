@@ -6426,8 +6426,8 @@
   },
   {
     "id": "m1781249827460_pup",
-    "date": "2026-06-12",
-    "day": "Friday",
+    "date": "2026-05-12",
+    "day": "Tuesday",
     "title": "",
     "campus": "Tondiarpet",
     "category": "Academics",
@@ -6444,6 +6444,6 @@
       }
     ],
     "createdAt": 1781249827460,
-    "modifiedAt": 1781249835069
+    "modifiedAt": 1781249848925
   }
 ]
