@@ -6384,7 +6384,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "5th may 2 routes checked, 6th  may 2 were need to check",
+            "addedAt": 1781249775172
+          }
+        ]
       },
       {
         "id": "ap10",
@@ -6405,6 +6412,6 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781249427316
+    "modifiedAt": 1781249775172
   }
 ]
