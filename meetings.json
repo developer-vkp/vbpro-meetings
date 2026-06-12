@@ -5154,6 +5154,11 @@
             "date": "2026-06-05",
             "text": "Absentees follow up and based on academic performance parent will be intimated.",
             "addedAt": 1780640715355
+          },
+          {
+            "date": "2026-06-12",
+            "text": "Top 75 mentor were closely monitor by mentors",
+            "addedAt": 1781265007298
           }
         ]
       },
@@ -5247,7 +5252,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1781265005072
+    "modifiedAt": 1781265018638
   },
   {
     "id": "m1780485461368_dst",
