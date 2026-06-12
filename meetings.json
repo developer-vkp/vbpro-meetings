@@ -3895,13 +3895,7 @@
         "assignedTo": "All ACO",
         "timeline": "",
         "completed": false,
-        "followUps": [
-          {
-            "date": "2026-05-19",
-            "text": "has to submit",
-            "addedAt": 1779173648790
-          }
-        ]
+        "followUps": []
       },
       {
         "id": "ap20",
@@ -4005,7 +3999,7 @@
       }
     ],
     "createdAt": 1779173622579,
-    "modifiedAt": 1779175011074
+    "modifiedAt": 1781256786787
   },
   {
     "id": "m1779173878146_q5y",
