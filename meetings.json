@@ -5232,7 +5232,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1781262592735
+    "modifiedAt": 1781259315700
   },
   {
     "id": "m1780485461368_dst",
@@ -6285,8 +6285,8 @@
   },
   {
     "id": "m1781249116276_efz",
-    "date": "2026-05-02",
-    "day": "Saturday",
+    "date": "2026-04-20",
+    "day": "Monday",
     "title": "ACADEMIC",
     "campus": "Pollachi",
     "category": "Academics",
@@ -6378,6 +6378,6 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781258624035
+    "modifiedAt": 1781262507867
   }
 ]
