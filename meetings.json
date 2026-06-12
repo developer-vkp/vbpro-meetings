@@ -3911,7 +3911,14 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "CBSE PLANNER - SCHOOL WISE AND ZONE WISE CHECKING",
+            "addedAt": 1781258349602
+          }
+        ]
       },
       {
         "id": "ap21",
@@ -4005,7 +4012,7 @@
       }
     ],
     "createdAt": 1779173622579,
-    "modifiedAt": 1781258345257
+    "modifiedAt": 1781258349603
   },
   {
     "id": "m1779173878146_q5y",
