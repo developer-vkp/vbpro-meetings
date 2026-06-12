@@ -5088,11 +5088,6 @@
             "date": "2026-06-05",
             "text": "Yes,  Micro teaching has been conducted to all the staffs and given feedback back based on their performance",
             "addedAt": 1780640634708
-          },
-          {
-            "date": "2026-06-12",
-            "text": "27- BHARAT SIR WAS IN C CATEGORY",
-            "addedAt": 1781262626885
           }
         ]
       },
@@ -5110,11 +5105,6 @@
             "date": "2026-06-05",
             "text": "Will Create a responsive system for addressing parent concerns promptly, ensuring clear communication, timely resolution, and greater parent confidence in the school's academic processes.",
             "addedAt": 1780640679707
-          },
-          {
-            "date": "2026-06-12",
-            "text": "CLASS TEACHER COMUNICATE WITH PARENT",
-            "addedAt": 1781262691413
           }
         ]
       },
@@ -5132,11 +5122,6 @@
             "date": "2026-06-05",
             "text": "YES, I will monitor the parents feedback and will do the follow up accordingly",
             "addedAt": 1780640695827
-          },
-          {
-            "date": "2026-06-12",
-            "text": "ONE ISSUE NOTED, IMEDIATELY IT WAS RECTIFIED",
-            "addedAt": 1781263956434
           }
         ]
       },
@@ -5247,7 +5232,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1781264170418
+    "modifiedAt": 1781259315700
   },
   {
     "id": "m1780485461368_dst",
@@ -6300,8 +6285,8 @@
   },
   {
     "id": "m1781249116276_efz",
-    "date": "2026-05-02",
-    "day": "Saturday",
+    "date": "2026-04-20",
+    "day": "Monday",
     "title": "ACADEMIC",
     "campus": "Pollachi",
     "category": "Academics",
@@ -6393,6 +6378,78 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781258624035
+    "modifiedAt": 1781262507867
+  },
+  {
+    "id": "m1781264060840_n3d",
+    "date": "2026-04-27",
+    "day": "Monday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "EITHER THROUGH INDIMITABLE SPRITS OR DAILY THROUGH REPORT FROM PRINCIPALS- STUDENT ACHIEVEMENT- APPRECIATION FROM CENTRAL OFFICE",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "School write up and Students photos ready for advertisement- 30th june\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "OLOGY TECH WEEKLY ACTIVITY - AFTER ATTUR LAVANAYA MAM \nREPLACEMENT-",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "ALAGAR SIR VISIT TO ERODE FOR 3 DAYS \nSUDHA MAM TO ERODE AND START TO WORK \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "SARAVANAN SIR AND VASUMATHY MAM- ZONE RANKING",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781264060840,
+    "modifiedAt": 1781264109024
   }
 ]
