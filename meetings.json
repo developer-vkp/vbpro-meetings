@@ -5936,7 +5936,14 @@
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "physics staff is reporting on 15.06.2026",
+            "addedAt": 1781251990515
+          }
+        ]
       },
       {
         "id": "ap22",
@@ -6180,7 +6187,7 @@
       }
     ],
     "createdAt": 1780921829330,
-    "modifiedAt": 1781251988645
+    "modifiedAt": 1781251990516
   },
   {
     "id": "m1781242597407_a3t",
