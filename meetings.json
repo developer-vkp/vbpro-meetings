@@ -6402,16 +6402,10 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "Report send to Director sir through VP for approval",
-            "addedAt": 1781249361252
-          }
-        ]
+        "followUps": []
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781249787006
+    "modifiedAt": 1781249792548
   }
 ]
