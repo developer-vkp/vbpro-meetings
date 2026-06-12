@@ -6021,7 +6021,14 @@
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "dropout - 40 as on",
+            "addedAt": 1781252375995
+          }
+        ]
       },
       {
         "id": "ap27",
@@ -6222,7 +6229,7 @@
       }
     ],
     "createdAt": 1780921829330,
-    "modifiedAt": 1781252374244
+    "modifiedAt": 1781252375996
   },
   {
     "id": "m1781242597407_a3t",
