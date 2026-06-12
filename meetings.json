@@ -6777,7 +6777,7 @@
       {
         "id": "ap28",
         "type": "Immediate",
-        "text": "ZONAL AND SCHOOL HEADS TO",
+        "text": "ZONAL AND SCHOOL HEADS TO CONFIRM ANY ONE ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -6786,6 +6786,6 @@
       }
     ],
     "createdAt": 1781265675654,
-    "modifiedAt": 1781266233549
+    "modifiedAt": 1781266237593
   }
 ]
