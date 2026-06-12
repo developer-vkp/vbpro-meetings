@@ -16,22 +16,11 @@
         "assignedTo": "",
         "timeline": "",
         "completed": true,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "total - 18 discontinue, 4-board 14 foundation,",
-            "addedAt": 1781249905071
-          },
-          {
-            "date": "2026-06-12",
-            "text": "46 students-10th, 11th- 30 NEET/IIT and 19 Board students",
-            "addedAt": 1781250058477
-          }
-        ]
+        "followUps": []
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781250084135
+    "modifiedAt": 1777615062465
   },
   {
     "id": "imp_1777615062465_1",
@@ -287,13 +276,7 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "TOP 3 student list collected",
-            "addedAt": 1781250303450
-          }
-        ]
+        "followUps": []
       },
       {
         "id": "ap1777615062483",
@@ -385,7 +368,7 @@
       }
     ],
     "createdAt": 1777615062465,
-    "modifiedAt": 1781250341139
+    "modifiedAt": 1777615062465
   },
   {
     "id": "imp_1777615062465_8",
@@ -2565,14 +2548,7 @@
         "status": "Open",
         "assignedTo": "MS.SRIVATSINI",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "class 10 appreciation letter given to students scored 490 and 480 above",
-            "addedAt": 1781250442115
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap70",
@@ -2596,7 +2572,7 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1781250528829
+    "modifiedAt": 1778053746348
   },
   {
     "id": "m1778053761492_m0w",
@@ -3608,7 +3584,7 @@
         "text": "Staff Recruitment",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "Ms.shaira",
+        "assignedTo": "",
         "timeline": "",
         "completed": false
       },
@@ -3784,7 +3760,7 @@
       }
     ],
     "createdAt": 1779172565607,
-    "modifiedAt": 1781250789185
+    "modifiedAt": 1779205698337
   },
   {
     "id": "m1779172848139_6sb",
@@ -3897,9 +3873,9 @@
         "completed": false,
         "followUps": [
           {
-            "date": "2026-06-12",
-            "text": "ZONAL HEAD COLLECTED OBSERBVATION  POINTS AND SUBMITTED",
-            "addedAt": 1781258207677
+            "date": "2026-05-19",
+            "text": "has to submit",
+            "addedAt": 1779173648790
           }
         ]
       },
@@ -3911,14 +3887,7 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "CBSE PLANNER - SCHOOL WISE AND ZONE WISE CHECKING",
-            "addedAt": 1781258349602
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap21",
@@ -3928,14 +3897,7 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "COMMON PLAN - SRPL",
-            "addedAt": 1781258397261
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap22",
@@ -3945,14 +3907,7 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "HOLIDAY ASSIGNMENT OVERALL 5 MORE THAN SCHOOL FACULTY",
-            "addedAt": 1781258479632
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap23",
@@ -3962,14 +3917,7 @@
         "status": "Open",
         "assignedTo": "All ACO",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "PARENT FEEDBACK CALL WAS COLLECTED BY CENTRAL OFFICE TEAM",
-            "addedAt": 1781258533096
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap24",
@@ -4033,7 +3981,7 @@
       }
     ],
     "createdAt": 1779173622579,
-    "modifiedAt": 1781258556986
+    "modifiedAt": 1779175011074
   },
   {
     "id": "m1779173878146_q5y",
@@ -4712,23 +4660,11 @@
         "status": "Open",
         "assignedTo": "MS.SHAIRA",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "over all strength -389,present- 99 , absent-290",
-            "addedAt": 1781251157994
-          },
-          {
-            "date": "2026-06-12",
-            "text": "strength as on -11.06.2026-756,present-353  , abs-356",
-            "addedAt": 1781251258029
-          }
-        ]
+        "completed": false
       }
     ],
     "createdAt": 1779351403678,
-    "modifiedAt": 1781251270936
+    "modifiedAt": 1779351422749
   },
   {
     "id": "m1779525725590_c9x",
@@ -5959,19 +5895,12 @@
       {
         "id": "ap21",
         "type": "Immediate",
-        "text": "Staff Reporting - salem\n",
+        "text": "Staff Reporting\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "physics staff is reporting on 15.06.2026",
-            "addedAt": 1781251990515
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap22",
@@ -5981,31 +5910,17 @@
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "will done after staff reporting",
-            "addedAt": 1781252199098
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap23",
         "type": "Immediate",
-        "text": "Reopening Readiness-salem\n",
+        "text": "Reopening Readiness\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "communicated through whatsapp broadcast to parents",
-            "addedAt": 1781252203173
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap24",
@@ -6015,65 +5930,37 @@
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "29 parents -11 th ,4 internal transfer , 25- due to high fees, job transfer, 1st batch of grade 11",
-            "addedAt": 1781252292662
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap25",
         "type": "Immediate",
-        "text": "Admission Follow-up- salem",
+        "text": "Admission Follow-up\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "target-500, achieved 281 as on 11.06.2026",
-            "addedAt": 1781252338675
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap26",
         "type": "Immediate",
-        "text": "Dropout Retention- salem \n",
+        "text": "Dropout Retention\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "dropout ason 11.06.2026 - 40",
-            "addedAt": 1781252400279
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap27",
         "type": "Immediate",
-        "text": "Fee Collection- salem\n",
+        "text": "Fee Collection\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "2 - pending as now ; the students are siblings ,no response from parents",
-            "addedAt": 1781252137565
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap28",
@@ -6083,14 +5970,7 @@
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "2 pending , no response from parents",
-            "addedAt": 1781252432948
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap29",
@@ -6264,7 +6144,7 @@
       }
     ],
     "createdAt": 1780921829330,
-    "modifiedAt": 1781252623360
+    "modifiedAt": 1781178371211
   },
   {
     "id": "m1781242597407_a3t",
@@ -6292,19 +6172,7 @@
         "status": "Open",
         "assignedTo": "Ms.dhikshitha/ms.sangeetha",
         "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "JUNE COUNSELLING SCHEDULE - SELF ANALYSIS AND IMPORTANR",
-            "addedAt": 1781253376053
-          },
-          {
-            "date": "2026-06-12",
-            "text": "VISITOR PASS - NEED TO COMPLETED",
-            "addedAt": 1781253434540
-          }
-        ]
+        "completed": false
       },
       {
         "id": "ap4",
@@ -6338,7 +6206,7 @@
       }
     ],
     "createdAt": 1781242597407,
-    "modifiedAt": 1781253449141
+    "modifiedAt": 1781244070188
   },
   {
     "id": "m1781244190088_bwm",
@@ -6537,13 +6405,111 @@
         "followUps": [
           {
             "date": "2026-06-12",
-            "text": "Report send to Director sir through VP for approval",
-            "addedAt": 1781249361252
+            "text": "Book distribution planned on 14 may -  Grade 6- 8 books need to receive",
+            "addedAt": 1781249800157
+          }
+        ]
+      },
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781249116276,
+    "modifiedAt": 1781249820894
+  },
+  {
+    "id": "m1781249827460_pup",
+    "date": "2026-05-02",
+    "day": "Saturday",
+    "title": "",
+    "campus": "Tondiarpet",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "100 DAYS ENG & FOCUS SUBJECT PLAN (10 & 12)-7 MAIN EXAM EXCHANGE CORRECTION",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "ENG ALONE GIVEN FOR GRADE 12, FOCUS SUBJECT PENDING NOT GIVENGRADE 10 ALONE COMPLETED",
+            "addedAt": 1781249906612
+          }
+        ]
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781249827460,
+    "modifiedAt": 1781249931547
+  },
+  {
+    "id": "m1781250036412_mxk",
+    "date": "2026-05-01",
+    "day": "Friday",
+    "title": "ACADEMIC",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "Tondairpet:                                                                                                      \n* Olympiad students list\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "* Foundation target",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Staff requirement \n* Total requirement - process owner to validate",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "Staff requirement Higher secondary  Chemistry, Computer Science, -2  Librarian -1 ,Calligraphy-1",
+            "addedAt": 1781258625113
           }
         ]
       }
     ],
-    "createdAt": 1781249116276,
-    "modifiedAt": 1781258624035
+    "createdAt": 1781250036412,
+    "modifiedAt": 1781258627814
   }
 ]
