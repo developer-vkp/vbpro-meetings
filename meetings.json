@@ -4756,7 +4756,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "completed",
+            "addedAt": 1781266914337
+          }
+        ]
       },
       {
         "id": "ap14",
@@ -4770,7 +4777,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781266911408
+    "modifiedAt": 1781266914338
   },
   {
     "id": "m1779862278348_vcw",
