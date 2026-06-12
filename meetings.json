@@ -6976,5 +6976,47 @@
     ],
     "createdAt": 1781267072697,
     "modifiedAt": 1781267176463
+  },
+  {
+    "id": "m1781267353667_crm",
+    "date": "2026-06-04",
+    "day": "Thursday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap47",
+        "type": "Immediate",
+        "text": "SRPL SIR NEXT 3 WEEKS AGENDAS ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap48",
+        "type": "Immediate",
+        "text": "ZEENATH \nLIST OUT PREVIOUS POSTER POINTS",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap49",
+        "type": "Immediate",
+        "text": "",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781267353667,
+    "modifiedAt": 1781267353667
   }
 ]
