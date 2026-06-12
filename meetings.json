@@ -4581,6 +4581,11 @@
             "date": "2026-05-27",
             "text": "capex",
             "addedAt": 1779860535995
+          },
+          {
+            "date": "2026-06-12",
+            "text": "green board and notice board",
+            "addedAt": 1781265642337
           }
         ]
       },
@@ -4716,7 +4721,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1779862189452
+    "modifiedAt": 1781265642338
   },
   {
     "id": "m1779862278348_vcw",
@@ -5088,6 +5093,11 @@
             "date": "2026-06-05",
             "text": "Yes,  Micro teaching has been conducted to all the staffs and given feedback back based on their performance",
             "addedAt": 1780640634708
+          },
+          {
+            "date": "2026-06-12",
+            "text": "26 ARE GOOD, 1-COMES UNDER C CATEGORY -BHARAT",
+            "addedAt": 1781264787602
           }
         ]
       },
@@ -5105,6 +5115,11 @@
             "date": "2026-06-05",
             "text": "Will Create a responsive system for addressing parent concerns promptly, ensuring clear communication, timely resolution, and greater parent confidence in the school's academic processes.",
             "addedAt": 1780640679707
+          },
+          {
+            "date": "2026-06-12",
+            "text": "TEACHERS COMMUNICATE WITH PARENT REGULARLY",
+            "addedAt": 1781264894153
           }
         ]
       },
@@ -5122,6 +5137,11 @@
             "date": "2026-06-05",
             "text": "YES, I will monitor the parents feedback and will do the follow up accordingly",
             "addedAt": 1780640695827
+          },
+          {
+            "date": "2026-06-12",
+            "text": "feedback from parents will sorted immediately",
+            "addedAt": 1781264944825
           }
         ]
       },
@@ -5139,6 +5159,11 @@
             "date": "2026-06-05",
             "text": "Absentees follow up and based on academic performance parent will be intimated.",
             "addedAt": 1780640715355
+          },
+          {
+            "date": "2026-06-12",
+            "text": "Top 75 mentor were closely monitor by mentors",
+            "addedAt": 1781265007298
           }
         ]
       },
@@ -5156,6 +5181,11 @@
             "date": "2026-06-05",
             "text": "Will Create a responsive system for addressing parent concerns promptly, ensuring clear communication, timely resolution, and greater parent confidence in the school's academic processes.",
             "addedAt": 1780640740795
+          },
+          {
+            "date": "2026-06-12",
+            "text": "one parent concerned come from parent and it sorted immediately",
+            "addedAt": 1781265071176
           }
         ]
       },
@@ -5173,6 +5203,11 @@
             "date": "2026-06-05",
             "text": "Discipline and academics",
             "addedAt": 1780640760883
+          },
+          {
+            "date": "2026-06-12",
+            "text": "all circulars sent by principal and ACO, zonal head communication have separate by parents through whatup",
+            "addedAt": 1781265172072
           }
         ]
       },
@@ -5190,18 +5225,13 @@
             "date": "2026-06-05",
             "text": "Will talk to the teachers and getting feedback from them, reviewing and giving solution.",
             "addedAt": 1780640790691
+          },
+          {
+            "date": "2026-06-12",
+            "text": "no negative feedback receive",
+            "addedAt": 1781265232689
           }
         ]
-      },
-      {
-        "id": "ap16",
-        "type": "Immediate",
-        "text": "Faculty Readiness Verification\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Ms.Zeenath ",
-        "timeline": "",
-        "completed": false
       },
       {
         "id": "ap17",
@@ -5217,22 +5247,17 @@
             "date": "2026-06-05",
             "text": "Based on the child’s performance remedial classes will be arranged for the good score",
             "addedAt": 1780640890115
+          },
+          {
+            "date": "2026-06-12",
+            "text": "unit test mark 400-450, above 450,and less than 300 marks students were tracting",
+            "addedAt": 1781265494002
           }
         ]
-      },
-      {
-        "id": "ap18",
-        "type": "Immediate",
-        "text": "Academic Process Readiness",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Ms.Zeenath ",
-        "timeline": "",
-        "completed": false
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1781259315700
+    "modifiedAt": 1781265576976
   },
   {
     "id": "m1780485461368_dst",
@@ -6514,152 +6539,6 @@
       }
     ],
     "createdAt": 1781264450893,
-    "modifiedAt": 1781264450893
-  },
-  {
-    "id": "m1781264709963_u6i",
-    "date": "2026-05-18",
-    "day": "Monday",
-    "title": "DROPOUT ADMISSION- RAMYA MAM",
-    "campus": "All Campus",
-    "category": "Admin",
-    "actionPoints": [
-      {
-        "id": "ap13",
-        "type": "Immediate",
-        "text": "Meyappan to understand admissions so far drop out concession-RAMYA MAM",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1781264709963,
-    "modifiedAt": 1781264717471
-  },
-  {
-    "id": "m1781265027505_uvu",
-    "date": "2026-05-20",
-    "day": "Wednesday",
-    "title": "DIRECTOR SIR FOLLOW UP",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap14",
-        "type": "Immediate",
-        "text": "Kumbakkonum primary aco Mam \nReminder Overview to director and with all school heads \nhostel yearly 3 times review",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1781265027505,
-    "modifiedAt": 1781265027505
-  },
-  {
-    "id": "m1781265212749_2u3",
-    "date": "2026-05-21",
-    "day": "Thursday",
-    "title": "DIRECTOR SIR FOLLOW UP",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap16",
-        "type": "Immediate",
-        "text": "RAJEEV KUMARAN TO MEET SHANMUGAM SIR - FOR CBSE STUDENT REGISTRARTION\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "RAJEEV SIR MET SHANMIUGAM SIR ON MAY 27 TH MAY",
-            "addedAt": 1781265234181
-          }
-        ]
-      }
-    ],
-    "createdAt": 1781265212749,
-    "modifiedAt": 1781265235834
-  },
-  {
-    "id": "m1781265295040_u2l",
-    "date": "2026-05-22",
-    "day": "Friday",
-    "title": "DIRECTOR SIR FOLLOW UP",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap17",
-        "type": "Immediate",
-        "text": "25TH AND 26 TH MAY \nTO FOLLOW ALL RE NEET STUDENT AND GOVT SELECTION TARGET STUDENT",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1781265295040,
-    "modifiedAt": 1781265295040
-  },
-  {
-    "id": "m1781265419927_ono",
-    "date": "2026-05-26",
-    "day": "Tuesday",
-    "title": "DIRECTOR SIR FOLLOW UP",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap18",
-        "type": "Immediate",
-        "text": "EMERGENCY -ZONE WISE - TO MEET ALL 3 DEPARTMENT",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "ALL ZONE SAFETY INCHARGES MEETING COMPLETED",
-            "addedAt": 1781265465363
-          }
-        ]
-      }
-    ],
-    "createdAt": 1781265419927,
-    "modifiedAt": 1781265466867
-  },
-  {
-    "id": "m1781265564773_kf0",
-    "date": "2026-06-01",
-    "day": "Monday",
-    "title": "DIRECTOR SIR FOLLOW UP",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap19",
-        "type": "Immediate",
-        "text": "AD MAM & ADMIN HEAD MAM - TO REVIEW ADMISSION AND REVIEW THE TEAM\nAND FOR LT - FOLLOW UP CLOSELY",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1781265564773,
-    "modifiedAt": 1781265564773
+    "modifiedAt": 1781264603114
   }
 ]
