@@ -5088,11 +5088,6 @@
             "date": "2026-06-05",
             "text": "Yes,  Micro teaching has been conducted to all the staffs and given feedback back based on their performance",
             "addedAt": 1780640634708
-          },
-          {
-            "date": "2026-06-12",
-            "text": "26 ARE GOOD, 1-COMES UNDER C CATEGORY -BHARAT",
-            "addedAt": 1781264787602
           }
         ]
       },
@@ -5237,7 +5232,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1781264787603
+    "modifiedAt": 1781259315700
   },
   {
     "id": "m1780485461368_dst",
@@ -6519,6 +6514,28 @@
       }
     ],
     "createdAt": 1781264450893,
-    "modifiedAt": 1781264603114
+    "modifiedAt": 1781264450893
+  },
+  {
+    "id": "m1781264709963_u6i",
+    "date": "2026-05-18",
+    "day": "Monday",
+    "title": "DROPOUT ADMISSION- RAMYA MAM",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "Meyappan to understand admissions so far drop out concession-RAMYA MAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781264709963,
+    "modifiedAt": 1781264717471
   }
 ]
