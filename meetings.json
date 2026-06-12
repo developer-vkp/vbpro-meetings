@@ -6241,7 +6241,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "Total 44 Teachers, 18 teachers bring 38 admission,26 staff pushing to get admissions",
+            "addedAt": 1781244284552
+          }
+        ]
       },
       {
         "id": "ap3",
@@ -6265,6 +6272,6 @@
       }
     ],
     "createdAt": 1781244190088,
-    "modifiedAt": 1781244260904
+    "modifiedAt": 1781244284552
   }
 ]
