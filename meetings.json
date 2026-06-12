@@ -5953,7 +5953,14 @@
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "will done after staff reporting",
+            "addedAt": 1781252199098
+          }
+        ]
       },
       {
         "id": "ap23",
@@ -5963,7 +5970,14 @@
         "status": "Open",
         "assignedTo": "ms.zeenath",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "communicated through whatsapp broadcast to parents",
+            "addedAt": 1781252203173
+          }
+        ]
       },
       {
         "id": "ap24",
@@ -6194,7 +6208,7 @@
       }
     ],
     "createdAt": 1780921829330,
-    "modifiedAt": 1781252197623
+    "modifiedAt": 1781252203174
   },
   {
     "id": "m1781242597407_a3t",
