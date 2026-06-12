@@ -6693,7 +6693,7 @@
       {
         "id": "ap22",
         "type": "Immediate",
-        "text": "SRPL SIR VISITING TANJORE SCHOOL - 16TH ",
+        "text": "SRPL SIR VISITING TANJORE SCHOOL - ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -6712,6 +6712,6 @@
       }
     ],
     "createdAt": 1781265675654,
-    "modifiedAt": 1781265908298
+    "modifiedAt": 1781265913318
   }
 ]
