@@ -4581,6 +4581,11 @@
             "date": "2026-05-27",
             "text": "capex",
             "addedAt": 1779860535995
+          },
+          {
+            "date": "2026-06-12",
+            "text": "Green board and notice board alone pending",
+            "addedAt": 1781266605137
           }
         ]
       },
@@ -4592,7 +4597,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "ASW sir will visit with zonal head",
+            "addedAt": 1781266647258
+          }
+        ]
       },
       {
         "id": "ap3",
@@ -4602,7 +4614,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "received no pending",
+            "addedAt": 1781266671160
+          }
+        ]
       },
       {
         "id": "ap4",
@@ -4612,7 +4631,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "foundation - Math and Physics alone pendings",
+            "addedAt": 1781266726786
+          }
+        ]
       },
       {
         "id": "ap5",
@@ -4622,7 +4648,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "takencare by principal",
+            "addedAt": 1781266766656
+          }
+        ]
       },
       {
         "id": "ap6",
@@ -4632,7 +4665,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "in progress",
+            "addedAt": 1781266786393
+          }
+        ]
       },
       {
         "id": "ap7",
@@ -4642,7 +4682,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "completed",
+            "addedAt": 1781266795369
+          }
+        ]
       },
       {
         "id": "ap8",
@@ -4672,7 +4719,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "installation pending",
+            "addedAt": 1781266890626
+          }
+        ]
       },
       {
         "id": "ap11",
@@ -4702,7 +4756,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "completed",
+            "addedAt": 1781266914337
+          }
+        ]
       },
       {
         "id": "ap14",
@@ -4716,7 +4777,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1779862189452
+    "modifiedAt": 1781266956881
   },
   {
     "id": "m1779862278348_vcw",
@@ -6796,199 +6857,20 @@
       }
     ],
     "createdAt": 1781265675654,
-    "modifiedAt": 1781266333331
+    "modifiedAt": 1781266411508
   },
   {
-    "id": "m1781267072697_pcw",
-    "date": "2026-06-03",
-    "day": "Wednesday",
-    "title": "DIRECTOR SIR FOLLOW UP",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap31",
-        "type": "Immediate",
-        "text": "ZEENATH -TO REMIND ADMISSION CALL FOR 5 POINTS WITH AD MAM, VASUMATHY MAM AND SARAVANAN SIR",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap32",
-        "type": "Immediate",
-        "text": "ADMIN HEAD MAM - LOCATION WISE STUDENT FOLLOW UP",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap33",
-        "type": "Immediate",
-        "text": "VASUMATHY MAM - CALL NEW HEADS \n TONDIARPET, POLLACHI, TIRUVALLUR,PONDICHERRY AND ERODE",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap34",
-        "type": "Immediate",
-        "text": "SARAVANAN SIR AND ZEENATH MAM - 82 MEMEBERS 5 WORKS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap35",
-        "type": "Immediate",
-        "text": "SARAVANA SIR - VB LIVE USAGE ZOOM WITH ALL CLAS 9-12 ACOS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap36",
-        "type": "Immediate",
-        "text": "VASUMATHY MAM - NEW STUDENT TCS AND SCHOOLS WHICH GOT NEGATIVE FEEDBACK FROM NEW STUDENTS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap37",
-        "type": "Immediate",
-        "text": "TOPPER , AVERAGE SLN STUDENTS -CLASS 12 - LAST 2 UNIT EXAMS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap38",
-        "type": "Immediate",
-        "text": "AKPNECT CALL",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap39",
-        "type": "Immediate",
-        "text": "SCHOOL HANDBOOKS DELIEVERY",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-12",
-            "text": "MAM INFORMED PO",
-            "addedAt": 1781267097091
-          }
-        ]
-      },
-      {
-        "id": "ap40",
-        "type": "Immediate",
-        "text": "D TO D VERY IMPORTANT\nDISPLAY BOARDS IN THE LOACTOIN MENTIONED, NEW BOARD NEEDED\n ALL STUDENTS TO GET TEAR OFF",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap41",
-        "type": "Immediate",
-        "text": "PRINCIPAL TO MEET- ALL GRASS ROOT STUDENT \nCLUSTER STUDENT IN PLAYGROUND",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap42",
-        "type": "Immediate",
-        "text": "ALL ECA STAFF VIDEO \nTO DIRECTOR ABOUT THEIR 26-27 GOALS BEFORE 12 TH JUNE",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap43",
-        "type": "Immediate",
-        "text": "DIRECTOR STUDENTS WORKING COMMITTEE",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap44",
-        "type": "Immediate",
-        "text": "ZEENATH - BEFORE JUNE 7 - IIT/NEET REMARKS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap45",
-        "type": "Immediate",
-        "text": "ZEENATH- DILY 10 MINS ADMISSION CALL",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap46",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1781267072697,
-    "modifiedAt": 1781267176463
-  },
-  {
-    "id": "m1781267353667_crm",
-    "date": "2026-06-04",
+    "id": "m1781267510082_5jg",
+    "date": "2026-04-30",
     "day": "Thursday",
-    "title": "DIRECTOR SIR FOLLOW UP",
-    "campus": "All Campus",
+    "title": "Tondiarpet direct meeting",
+    "campus": "Tondiarpet",
     "category": "Academics",
     "actionPoints": [
       {
-        "id": "ap47",
+        "id": "ap2",
         "type": "Immediate",
-        "text": "SRPL SIR NEXT 3 WEEKS AGENDAS ",
+        "text": "Foundation strength increase, 135 target, 59 only achieved - 25% alone enrolled",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -6996,9 +6878,9 @@
         "completed": false
       },
       {
-        "id": "ap48",
+        "id": "ap3",
         "type": "Immediate",
-        "text": "ZEENATH \nLIST OUT PREVIOUS POSTER POINTS",
+        "text": "Grade 12, 1 Long absent, 1 transfer, 72 strength now",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7006,9 +6888,69 @@
         "completed": false
       },
       {
-        "id": "ap49",
+        "id": "ap4",
         "type": "Immediate",
-        "text": "",
+        "text": "June 1st week open day separately for toppers, slow learners and average",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "600+ target, 4 govt selection, 1 IIT",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Grade 10, 480+ 1, 470+ 2",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "New grade 11, board exam marks, 2 - 470+, 9 - 450+, 20- 400+",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "For grade 9 and 11th & Lt merit students to work",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "Grade 11, 74 admission, fee payment status",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "9. Requirements: staff room, partition in corridor",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7016,7 +6958,7 @@
         "completed": false
       }
     ],
-    "createdAt": 1781267353667,
-    "modifiedAt": 1781267360000
+    "createdAt": 1781267510082,
+    "modifiedAt": 1781267510082
   }
 ]
