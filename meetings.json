@@ -6698,7 +6698,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "16TH JULY",
+            "addedAt": 1781265917199
+          }
+        ]
       },
       {
         "id": "ap23",
@@ -6712,6 +6719,6 @@
       }
     ],
     "createdAt": 1781265675654,
-    "modifiedAt": 1781265913318
+    "modifiedAt": 1781265917199
   }
 ]
