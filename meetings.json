@@ -7035,10 +7035,17 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-12",
+            "text": "CIRCULAR SUBMITTED - DIRECTOR SIGN IS PENDING",
+            "addedAt": 1781267551041
+          }
+        ]
       }
     ],
     "createdAt": 1781267507750,
-    "modifiedAt": 1781267548285
+    "modifiedAt": 1781267551041
   }
 ]
