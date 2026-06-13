@@ -7086,10 +7086,17 @@
         "status": "Open",
         "assignedTo": "Ms.malathi",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-13",
+            "text": "Ms. Manimegalai (Grade 9 mentor - all old students ) - AnuHasini - Old student ; 5 yrs in VBC Erode;  - Parent - Harshitha Shree - talked about how student feels in class, any struggle; Student is comfortable in all subjects.",
+            "addedAt": 1781325214988
+          }
+        ]
       }
     ],
     "createdAt": 1781325199101,
-    "modifiedAt": 1781325199101
+    "modifiedAt": 1781325214988
   }
 ]
