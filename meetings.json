@@ -7069,5 +7069,27 @@
     ],
     "createdAt": 1781267660873,
     "modifiedAt": 1781267666063
+  },
+  {
+    "id": "m1781325199100_4wd",
+    "date": "2026-06-12",
+    "day": "Friday",
+    "title": "TOP 50 - MENTOR MEETING ( ERODE)",
+    "campus": "Erode",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Ask any 2 staff mentors\nHow  many students following ?\n\nWill you meet the parents before July ?\n\nDaily are you following 2 students?\n\nTell about any 2 students what is the improvement you want to see?\n\nWhether  (now in rough notebook)diary communication is followed?",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.malathi",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781325199101,
+    "modifiedAt": 1781325199101
   }
 ]
