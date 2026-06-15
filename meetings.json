@@ -7098,5 +7098,107 @@
     ],
     "createdAt": 1781325199101,
     "modifiedAt": 1781337458922
+  },
+  {
+    "id": "m1781499893287_4o2",
+    "date": "2026-06-13",
+    "day": "Saturday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "VBC Dindigul: Pending items – expedite delivery.\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.sangeetha/Ms.dhikshitha",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "Mugalivakkam: Hostel requirements – immediate closure.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "Vasthy Campus( peelamedu): Procurement and recruitment follow-up.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "VBC Theni: Prioritize pending infrastructure.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.dhikshitha",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "TVIS: Expedite pending works.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.abhinaya",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "VV Ponneri: Close pending CapEx and recruitment.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.srivatsini",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "VBC Porur: Expedite printers and staff hiring.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "VBC Bengaluru: Fast-track recruitment and connectivity.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "VBC Coimbatore: Complete pending installations.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781499893287,
+    "modifiedAt": 1781499893287
   }
 ]
