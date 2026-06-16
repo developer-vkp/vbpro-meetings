@@ -7282,7 +7282,14 @@
         "status": "Open",
         "assignedTo": "Ms.sangeetha/Ms.dhikshitha",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603433317
+          }
+        ]
       },
       {
         "id": "ap2",
@@ -7366,7 +7373,7 @@
       }
     ],
     "createdAt": 1781499893287,
-    "modifiedAt": 1781603430075
+    "modifiedAt": 1781603433317
   },
   {
     "id": "m1781592442675_ml8",
