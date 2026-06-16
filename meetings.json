@@ -7190,7 +7190,7 @@
       {
         "id": "ap9",
         "type": "Immediate",
-        "text": "VBC Coimbatore: Complete pending installations.",
+        "text": "VBC Coimbatore: Complete pending installations,",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "Ms.shaira",
@@ -7199,7 +7199,7 @@
       }
     ],
     "createdAt": 1781499893287,
-    "modifiedAt": 1781590570218
+    "modifiedAt": 1781593868378
   },
   {
     "id": "m1781592442675_ml8",
