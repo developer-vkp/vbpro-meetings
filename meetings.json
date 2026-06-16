@@ -4648,7 +4648,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "OWN VEHICLES ARE USED AS NOW",
+            "addedAt": 1781603020844
+          }
+        ]
       },
       {
         "id": "ap6",
@@ -4791,7 +4798,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781603019299
+    "modifiedAt": 1781603031879
   },
   {
     "id": "m1779862278348_vcw",
