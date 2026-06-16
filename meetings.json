@@ -7299,7 +7299,14 @@
         "status": "Open",
         "assignedTo": "Ms.sharon",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603489983
+          }
+        ]
       },
       {
         "id": "ap3",
@@ -7309,7 +7316,14 @@
         "status": "Open",
         "assignedTo": "Ms.sharon",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603488699
+          }
+        ]
       },
       {
         "id": "ap4",
@@ -7319,7 +7333,14 @@
         "status": "Open",
         "assignedTo": "Ms.dhikshitha",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603487615
+          }
+        ]
       },
       {
         "id": "ap5",
@@ -7408,7 +7429,7 @@
       }
     ],
     "createdAt": 1781499893287,
-    "modifiedAt": 1781603486290
+    "modifiedAt": 1781603489984
   },
   {
     "id": "m1781592442675_ml8",
