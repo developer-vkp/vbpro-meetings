@@ -7502,5 +7502,67 @@
     ],
     "createdAt": 1781592442675,
     "modifiedAt": 1781603709632
+  },
+  {
+    "id": "m1781604028492_oao",
+    "date": "2026-06-13",
+    "day": "Saturday",
+    "title": "director sir- direct meeting with central office staff ( MORNING MEETING)",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "WEEKLY SCHOOL CO ORDINATOR MEETING - EVERY SATURDAY",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "NEW SCHOOL-POLLACHI PORUR-6.07.2026( DIRECT MEETING)",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "SPORTS HOD MEETING- ZOOM-20.06.2026    , PHYSICAL MEETING JULY-7.07.2026",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "FOCUS SCHOOL MEETING- 4.07.2026",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "ADMISSION MEETING-19.06.2026- DIRECT MEETING",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781604028492,
+    "modifiedAt": 1781604028492
   }
 ]
