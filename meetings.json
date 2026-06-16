@@ -4698,7 +4698,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "78 FANS RECIEVED",
+            "addedAt": 1781602684046
+          }
+        ]
       },
       {
         "id": "ap11",
@@ -4742,7 +4749,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602678011
+    "modifiedAt": 1781602684047
   },
   {
     "id": "m1779862278348_vcw",
