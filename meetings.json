@@ -5250,7 +5250,14 @@
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "director sir's instruction, the orientation is given",
+            "addedAt": 1781599272102
+          }
+        ]
       },
       {
         "id": "ap2",
@@ -5304,7 +5311,7 @@
       }
     ],
     "createdAt": 1780485461368,
-    "modifiedAt": 1781599270061
+    "modifiedAt": 1781599272102
   },
   {
     "id": "m1780544872211_gle",
