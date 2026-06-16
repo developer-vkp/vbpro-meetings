@@ -7494,7 +7494,14 @@
         "status": "Open",
         "assignedTo": "ALL ACO'S",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781604169915
+          }
+        ]
       },
       {
         "id": "ap6",
@@ -7504,11 +7511,18 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781604168654
+          }
+        ]
       }
     ],
     "createdAt": 1781592442675,
-    "modifiedAt": 1781604166850
+    "modifiedAt": 1781604169916
   },
   {
     "id": "m1781604028492_oao",
