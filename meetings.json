@@ -7329,7 +7329,14 @@
         "status": "Open",
         "assignedTo": "Ms.abhinaya",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603486289
+          }
+        ]
       },
       {
         "id": "ap6",
@@ -7339,7 +7346,14 @@
         "status": "Open",
         "assignedTo": "Ms.srivatsini",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603484489
+          }
+        ]
       },
       {
         "id": "ap7",
@@ -7394,7 +7408,7 @@
       }
     ],
     "createdAt": 1781499893287,
-    "modifiedAt": 1781603483190
+    "modifiedAt": 1781603486290
   },
   {
     "id": "m1781592442675_ml8",
