@@ -4715,7 +4715,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "177 ADMISSION AS OF NOW, 162 TO ACHIEVE",
+            "addedAt": 1781602919703
+          }
+        ]
       },
       {
         "id": "ap12",
@@ -4763,7 +4770,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602918171
+    "modifiedAt": 1781602919704
   },
   {
     "id": "m1779862278348_vcw",
