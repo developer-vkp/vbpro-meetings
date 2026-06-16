@@ -7072,20 +7072,10 @@
             "addedAt": 1781598555567
           }
         ]
-      },
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
       }
     ],
     "createdAt": 1781267660873,
-    "modifiedAt": 1781598555567
+    "modifiedAt": 1781598559209
   },
   {
     "id": "m1781325199100_4wd",
