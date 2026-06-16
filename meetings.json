@@ -7600,6 +7600,48 @@
       }
     ],
     "createdAt": 1781604028492,
-    "modifiedAt": 1781613696915
+    "modifiedAt": 1781613722331
+  },
+  {
+    "id": "m1781614724431_psf",
+    "date": "2026-06-16",
+    "day": "Tuesday",
+    "title": "HOSTEL MEETING QUERIES",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "VELLORE-147 - 6 CAMERAS VIEW NOT AVAILABLE; SPARE PARTS BROUGHT TODAY WILL BE COMPLETED TOMORROW",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "KANCHIPURAM-165/163- 2 NOT WORKING DUE TO CABLE BURST ISSUE- NET GREEN",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "OLOGY- SUNDAY ONLY ALLOWED- VISITORS PASS NOT GIVEN TO STUDENTS",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781614724431,
+    "modifiedAt": 1781614724431
   }
 ]
