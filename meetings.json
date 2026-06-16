@@ -6953,7 +6953,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "as of now 10 schools pending",
+            "addedAt": 1781600680872
+          }
+        ]
       },
       {
         "id": "ap42",
@@ -7007,7 +7014,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781600678446
+    "modifiedAt": 1781600680873
   },
   {
     "id": "m1781267353667_crm",
