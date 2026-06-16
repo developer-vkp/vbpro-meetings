@@ -7616,7 +7616,7 @@
         "text": "VELLORE-147 - 6 CAMERAS VIEW NOT AVAILABLE; SPARE PARTS BROUGHT TODAY WILL BE COMPLETED TOMORROW",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MR.RIYAS",
         "timeline": "",
         "completed": false
       },
@@ -7642,6 +7642,6 @@
       }
     ],
     "createdAt": 1781614724431,
-    "modifiedAt": 1781614724431
+    "modifiedAt": 1781614737456
   }
 ]
