@@ -7509,7 +7509,7 @@
     "day": "Saturday",
     "title": "director sir- direct meeting with central office staff ( MORNING MEETING)",
     "campus": "All Campus",
-    "category": "Director Sir Follow up",
+    "category": "Dir",
     "actionPoints": [
       {
         "id": "ap1",
@@ -7563,6 +7563,6 @@
       }
     ],
     "createdAt": 1781604028492,
-    "modifiedAt": 1781604048194
+    "modifiedAt": 1781604053663
   }
 ]
