@@ -6997,7 +6997,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "zonal head remark yet to be submit",
+            "addedAt": 1781601965777
+          }
+        ]
       },
       {
         "id": "ap45",
@@ -7021,7 +7028,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781601963235
+    "modifiedAt": 1781601965777
   },
   {
     "id": "m1781267353667_crm",
