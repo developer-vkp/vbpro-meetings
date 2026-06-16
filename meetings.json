@@ -4632,6 +4632,11 @@
             "date": "2026-06-16",
             "text": "ALL REPORTED",
             "addedAt": 1781602542680
+          },
+          {
+            "date": "2026-06-16",
+            "text": "RESIDENCE ARRANGED BY AO SIR",
+            "addedAt": 1781602587098
           }
         ]
       },
@@ -4737,7 +4742,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602585909
+    "modifiedAt": 1781602670476
   },
   {
     "id": "m1779862278348_vcw",
