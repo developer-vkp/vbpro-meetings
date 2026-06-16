@@ -6650,7 +6650,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "DAILY FOLLOWING IT UP",
+            "addedAt": 1781602131821
+          }
+        ]
       },
       {
         "id": "ap20",
@@ -6671,7 +6678,7 @@
       }
     ],
     "createdAt": 1781265564773,
-    "modifiedAt": 1781602129181
+    "modifiedAt": 1781602131822
   },
   {
     "id": "m1781265675654_pse",
