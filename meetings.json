@@ -7369,11 +7369,18 @@
         "status": "Open",
         "assignedTo": "Ms.shaira",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603479425
+          }
+        ]
       }
     ],
     "createdAt": 1781499893287,
-    "modifiedAt": 1781603474456
+    "modifiedAt": 1781603479426
   },
   {
     "id": "m1781592442675_ml8",
