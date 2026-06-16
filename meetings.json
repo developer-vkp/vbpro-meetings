@@ -5270,16 +5270,6 @@
         "completed": false
       },
       {
-        "id": "ap3",
-        "type": "Immediate",
-        "text": "Refresher Training\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Ms.Zeenath",
-        "timeline": "",
-        "completed": false
-      },
-      {
         "id": "ap4",
         "type": "Immediate",
         "text": "Baggage Checking\n",
@@ -5311,7 +5301,7 @@
       }
     ],
     "createdAt": 1780485461368,
-    "modifiedAt": 1781599272102
+    "modifiedAt": 1781599282170
   },
   {
     "id": "m1780544872211_gle",
