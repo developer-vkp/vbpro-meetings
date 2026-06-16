@@ -4834,7 +4834,7 @@
         "text": "•\tCLUSTER UNIFORM – TODAY SAMPLE TO SUBMIT\n•\tPT UNIFORM – 1000 QUANTITY, 3 SETS PER STAFF\n•\tPT UNIFORM PURCHASE ORDER TO GET DIRECTOR SIR APPROVAL\n",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "SCRIBBLES",
+        "assignedTo": "",
         "timeline": "",
         "completed": false
       },
@@ -4850,7 +4850,7 @@
       }
     ],
     "createdAt": 1779959862588,
-    "modifiedAt": 1779981656540
+    "modifiedAt": 1781602186798
   },
   {
     "id": "m1779981712158_522",
