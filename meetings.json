@@ -4658,7 +4658,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "PROPOSAL IS GIVEN TO GOVERNMENT",
+            "addedAt": 1781602991476
+          }
+        ]
       },
       {
         "id": "ap7",
@@ -4784,7 +4791,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602988361
+    "modifiedAt": 1781602991477
   },
   {
     "id": "m1779862278348_vcw",
