@@ -5267,7 +5267,14 @@
         "status": "Open",
         "assignedTo": "Ms.Zeenath",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "director sir instruction,regarding the opening",
+            "addedAt": 1781599378006
+          }
+        ]
       },
       {
         "id": "ap4",
@@ -5301,7 +5308,7 @@
       }
     ],
     "createdAt": 1780485461368,
-    "modifiedAt": 1781599376230
+    "modifiedAt": 1781599378063
   },
   {
     "id": "m1780544872211_gle",
