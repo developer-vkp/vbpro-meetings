@@ -4752,11 +4752,18 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "ON ZONAL HEAD VISIT-18.06.2026 WILL FINALIZE",
+            "addedAt": 1781602864376
+          }
+        ]
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602862579
+    "modifiedAt": 1781602864376
   },
   {
     "id": "m1779862278348_vcw",
