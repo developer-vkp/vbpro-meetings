@@ -6818,7 +6818,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "tvis bodhi- follow up is going on",
+            "addedAt": 1781599757776
+          }
+        ]
       },
       {
         "id": "ap33",
@@ -6988,7 +6995,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781599737569
+    "modifiedAt": 1781599757776
   },
   {
     "id": "m1781267353667_crm",
