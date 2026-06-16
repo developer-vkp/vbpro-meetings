@@ -6970,7 +6970,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "7 schools given, before 20 th everybody should be given",
+            "addedAt": 1781600876610
+          }
+        ]
       },
       {
         "id": "ap43",
@@ -7014,7 +7021,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781600874299
+    "modifiedAt": 1781600876611
   },
   {
     "id": "m1781267353667_crm",
