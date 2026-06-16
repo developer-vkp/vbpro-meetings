@@ -4576,13 +4576,7 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": [
-          {
-            "date": "2026-05-27",
-            "text": "capex",
-            "addedAt": 1779860535995
-          }
-        ]
+        "followUps": []
       },
       {
         "id": "ap2",
@@ -4592,7 +4586,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "QUOTE RECIEVED FROM PO SIR",
+            "addedAt": 1781602411527
+          }
+        ]
       },
       {
         "id": "ap3",
@@ -4716,7 +4717,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602409960
+    "modifiedAt": 1781602429678
   },
   {
     "id": "m1779862278348_vcw",
