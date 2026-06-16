@@ -6828,7 +6828,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "call done",
+            "addedAt": 1781599581115
+          }
+        ]
       },
       {
         "id": "ap34",
@@ -6976,7 +6983,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781599578450
+    "modifiedAt": 1781599581116
   },
   {
     "id": "m1781267353667_crm",
