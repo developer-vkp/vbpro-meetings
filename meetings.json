@@ -6983,7 +6983,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "THE SCHEDULE IS POSTED BY SARAVANAN SIR",
+            "addedAt": 1781599003457
+          }
+        ]
       },
       {
         "id": "ap48",
@@ -7007,7 +7014,7 @@
       }
     ],
     "createdAt": 1781267353667,
-    "modifiedAt": 1781598999550
+    "modifiedAt": 1781599003457
   },
   {
     "id": "m1781267507750_28y",
