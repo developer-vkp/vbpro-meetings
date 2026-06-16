@@ -4626,7 +4626,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "ALL REPORTED",
+            "addedAt": 1781602542680
+          }
+        ]
       },
       {
         "id": "ap5",
@@ -4730,7 +4737,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602540198
+    "modifiedAt": 1781602542681
   },
   {
     "id": "m1779862278348_vcw",
