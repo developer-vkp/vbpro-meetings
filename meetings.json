@@ -6985,7 +6985,7 @@
         "text": "DIRECTOR STUDENTS WORKING COMMITTEE",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "Ms",
+        "assignedTo": "Ms.",
         "timeline": "",
         "completed": false
       },
@@ -7021,7 +7021,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781600926322
+    "modifiedAt": 1781600928004
   },
   {
     "id": "m1781267353667_crm",
