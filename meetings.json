@@ -6681,11 +6681,18 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "THE DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603190179
+          }
+        ]
       }
     ],
     "createdAt": 1781265295040,
-    "modifiedAt": 1781603188307
+    "modifiedAt": 1781603190911
   },
   {
     "id": "m1781265419927_ono",
