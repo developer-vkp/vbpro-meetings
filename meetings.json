@@ -7349,7 +7349,14 @@
         "status": "Open",
         "assignedTo": "Ms.",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603483189
+          }
+        ]
       },
       {
         "id": "ap8",
@@ -7359,7 +7366,14 @@
         "status": "Open",
         "assignedTo": "Ms.sharon",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603481032
+          }
+        ]
       },
       {
         "id": "ap9",
@@ -7380,7 +7394,7 @@
       }
     ],
     "createdAt": 1781499893287,
-    "modifiedAt": 1781603479426
+    "modifiedAt": 1781603483190
   },
   {
     "id": "m1781592442675_ml8",
