@@ -7200,5 +7200,77 @@
     ],
     "createdAt": 1781499893287,
     "modifiedAt": 1781590570218
+  },
+  {
+    "id": "m1781592442675_ml8",
+    "date": "2026-06-13",
+    "day": "Saturday",
+    "title": "director sir- direct meeting with central office staff",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "staff recruitment - vision and vv ponneri",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.srivatsini",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "open day feedback- dept wise",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL ACO'S",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "TOP 50 CLOSE FOLLOW",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL ACO'S",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "FEE FOLLOW UP - EVERY THURSDAY-ADMIN",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "MR.RIYAZ",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "ECA, SPORTS ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "ALL ACO'S",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781592442675,
+    "modifiedAt": 1781592442675
   }
 ]
