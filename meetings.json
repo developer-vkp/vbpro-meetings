@@ -4660,7 +4660,7 @@
         "text": "Old Building Painting / Front work - Estimation (Gate, Gardening and other) - we can do it by ourself",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.ZEENATH",
         "timeline": "",
         "completed": false
       },
@@ -4670,7 +4670,7 @@
         "text": "Clsss room fan - extra 2 fan in each class - quotation",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.ZEENATH",
         "timeline": "",
         "completed": false
       },
@@ -4680,7 +4680,7 @@
         "text": "Admission: 139 so far (expected 180) before month end (committed 200), Class XI - 31 so far (expected 50), LT 6 admission so far (Committed 50) - 10 Pipeline (10 transferred to Pondicherry)",
         "priority": "Critical",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.ZEENATH",
         "timeline": "",
         "completed": false
       },
@@ -4716,7 +4716,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602352627
+    "modifiedAt": 1781602357631
   },
   {
     "id": "m1779862278348_vcw",
