@@ -7064,7 +7064,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "THE OTHERS FOLLOW POINTS UPDATED IN MOM ERP",
+            "addedAt": 1781598555567
+          }
+        ]
       },
       {
         "id": "ap1",
@@ -7078,7 +7085,7 @@
       }
     ],
     "createdAt": 1781267660873,
-    "modifiedAt": 1781598552984
+    "modifiedAt": 1781598555567
   },
   {
     "id": "m1781325199100_4wd",
