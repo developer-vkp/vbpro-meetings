@@ -4640,7 +4640,7 @@
         "text": "Gate - Painting (Entry)",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.ZEENATH",
         "timeline": "",
         "completed": false
       },
@@ -4650,7 +4650,7 @@
         "text": "Other requirement / Capex - List / estimation - PO to meet Director sir on Monday with Value",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.ZEENATH",
         "timeline": "",
         "completed": false
       },
@@ -4716,7 +4716,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602349472
+    "modifiedAt": 1781602352627
   },
   {
     "id": "m1779862278348_vcw",
