@@ -6894,7 +6894,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "the last 2 unit exam is conducted",
+            "addedAt": 1781599837022
+          }
+        ]
       },
       {
         "id": "ap38",
@@ -6995,7 +7002,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781599834905
+    "modifiedAt": 1781599837022
   },
   {
     "id": "m1781267353667_crm",
