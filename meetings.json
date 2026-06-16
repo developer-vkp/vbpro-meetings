@@ -7447,7 +7447,14 @@
         "status": "Open",
         "assignedTo": "Ms.srivatsini",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "VISION- 6 PENDING, VV PONNERI-3 PENDING- 2 STAFFS ARE REPORTING ON MONDAY(15.06.2026)",
+            "addedAt": 1781604123198
+          }
+        ]
       },
       {
         "id": "ap2",
@@ -7501,7 +7508,7 @@
       }
     ],
     "createdAt": 1781592442675,
-    "modifiedAt": 1781604119569
+    "modifiedAt": 1781604123199
   },
   {
     "id": "m1781604028492_oao",
