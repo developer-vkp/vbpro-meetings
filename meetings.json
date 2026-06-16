@@ -4700,7 +4700,7 @@
         "text": "Staff recruitment - Middle Maths pending",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.ZEENATH",
         "timeline": "",
         "completed": false
       },
@@ -4710,13 +4710,13 @@
         "text": "Total Male staff - No / Female staff - NO / Canteen requirement for staff - Staff safety and Discipline",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.ZEENATH",
         "timeline": "",
         "completed": false
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781602359481
+    "modifiedAt": 1781602363196
   },
   {
     "id": "m1779862278348_vcw",
