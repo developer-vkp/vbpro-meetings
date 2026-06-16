@@ -6630,11 +6630,18 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781603235127
+          }
+        ]
       }
     ],
     "createdAt": 1781265027505,
-    "modifiedAt": 1781603233353
+    "modifiedAt": 1781603235127
   },
   {
     "id": "m1781265212749_2u3",
