@@ -7464,7 +7464,14 @@
         "status": "Open",
         "assignedTo": "ALL ACO'S",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781604178180
+          }
+        ]
       },
       {
         "id": "ap3",
@@ -7529,7 +7536,7 @@
       }
     ],
     "createdAt": 1781592442675,
-    "modifiedAt": 1781604173508
+    "modifiedAt": 1781604178181
   },
   {
     "id": "m1781604028492_oao",
