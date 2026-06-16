@@ -7526,17 +7526,11 @@
         "assignedTo": "",
         "timeline": "",
         "completed": false,
-        "followUps": [
-          {
-            "date": "2026-06-16",
-            "text": "AS DIRECTOR SIR INSTRUCTION",
-            "addedAt": 1781604168654
-          }
-        ]
+        "followUps": []
       }
     ],
     "createdAt": 1781592442675,
-    "modifiedAt": 1781604182949
+    "modifiedAt": 1781604195282
   },
   {
     "id": "m1781604028492_oao",
