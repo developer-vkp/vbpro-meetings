@@ -6660,11 +6660,18 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-16",
+            "text": "AS PER THE SVHEDULE THE CLASSES ARE GOING ON",
+            "addedAt": 1781602108710
+          }
+        ]
       }
     ],
     "createdAt": 1781265564773,
-    "modifiedAt": 1781602106612
+    "modifiedAt": 1781602108711
   },
   {
     "id": "m1781265675654_pse",
