@@ -6834,11 +6834,6 @@
             "date": "2026-06-16",
             "text": "call done",
             "addedAt": 1781599581115
-          },
-          {
-            "date": "2026-06-16",
-            "text": "hostel orientation to be given to hostel erode",
-            "addedAt": 1781599616117
           }
         ]
       },
@@ -6988,7 +6983,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781599616118
+    "modifiedAt": 1781599621071
   },
   {
     "id": "m1781267353667_crm",
