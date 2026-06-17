@@ -7643,5 +7643,117 @@
     ],
     "createdAt": 1781614724431,
     "modifiedAt": 1781673006335
+  },
+  {
+    "id": "m1781673180985_8ef",
+    "date": "2026-06-16",
+    "day": "Tuesday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Hema mam\n\nCan you arrange all schools \nCareer prep \nPoster display with their students \nCareer course choices on \n19 th June .",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": " the schools career prep class time table mam .\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "The school heads can go to class 8-12 std today and tomorrow \nMeet and motivate 5 mins the for students to join career prep program  - ( school heads pls send any 4 class motivation photos )",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "I am \n\n\nNot satisfied \n\n\nWith many schools follow up of \n\nEca - b to a / new students ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "Sports -grass root : spl students: clusters ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "TCS - only general program going ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "Techsavvy -core students ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "Career prep program - class 8-12 std - why classes didn’t start - why less number",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "Ccc - core students and school program - who spoke to Bhivesh sir ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "the school heads are not aware - not met the students- not started the sessions - not spoken with resource persons with any sincere purpose-\nSeems superficial and namesake .",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781673180985,
+    "modifiedAt": 1781673180985
   }
 ]
