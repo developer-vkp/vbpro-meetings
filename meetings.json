@@ -7755,5 +7755,27 @@
     ],
     "createdAt": 1781673180985,
     "modifiedAt": 1781699484457
+  },
+  {
+    "id": "m1781699561104_eue",
+    "date": "2026-06-17",
+    "day": "Wednesday",
+    "title": "HOSTEL MEETING QUERIES",
+    "campus": "All Campus",
+    "category": "Admin",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "ERODE CAMPUS- 131/126- 5 NOT WORKING",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781699561104,
+    "modifiedAt": 1781699561104
   }
 ]
