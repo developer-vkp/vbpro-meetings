@@ -7653,76 +7653,6 @@
     "category": "Academics",
     "actionPoints": [
       {
-        "id": "ap3",
-        "type": "Immediate",
-        "text": "The school heads can go to class 8-12 std today and tomorrow \nMeet and motivate 5 mins the for students to join career prep program  - ( school heads pls send any 4 class motivation photos )",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap4",
-        "type": "Immediate",
-        "text": "I am \n\n\nNot satisfied \n\n\nWith many schools follow up of \n\nEca - b to a / new students ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "Sports -grass root : spl students: clusters ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap6",
-        "type": "Immediate",
-        "text": "TCS - only general program going ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap7",
-        "type": "Immediate",
-        "text": "Techsavvy -core students ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap8",
-        "type": "Immediate",
-        "text": "Career prep program - class 8-12 std - why classes didn’t start - why less number",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap9",
-        "type": "Immediate",
-        "text": "Ccc - core students and school program - who spoke to Bhivesh sir ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
         "id": "ap10",
         "type": "Immediate",
         "text": "the school heads are not aware - not met the students- not started the sessions - not spoken with resource persons with any sincere purpose-\nSeems superficial and namesake .",
@@ -7734,6 +7664,6 @@
       }
     ],
     "createdAt": 1781673180985,
-    "modifiedAt": 1781691265291
+    "modifiedAt": 1781691267705
   }
 ]
