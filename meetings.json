@@ -7658,7 +7658,7 @@
         "text": "Hema mam\n\nCan you arrange all schools \nCareer prep \nPoster display with their students \nCareer course choices on \n19 th June .",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "M",
+        "assignedTo": "",
         "timeline": "",
         "completed": false
       },
@@ -7754,6 +7754,6 @@
       }
     ],
     "createdAt": 1781673180985,
-    "modifiedAt": 1781673190001
+    "modifiedAt": 1781673195513
   }
 ]
