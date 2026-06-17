@@ -7653,26 +7653,6 @@
     "category": "Academics",
     "actionPoints": [
       {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "Hema mam\n\nCan you arrange all schools \nCareer prep \nPoster display with their students \nCareer course choices on \n19 th June .",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap2",
-        "type": "Immediate",
-        "text": " the schools career prep class time table mam .\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
         "id": "ap3",
         "type": "Immediate",
         "text": "The school heads can go to class 8-12 std today and tomorrow \nMeet and motivate 5 mins the for students to join career prep program  - ( school heads pls send any 4 class motivation photos )",
@@ -7754,6 +7734,6 @@
       }
     ],
     "createdAt": 1781673180985,
-    "modifiedAt": 1781689054818
+    "modifiedAt": 1781691265291
   }
 ]
