@@ -7662,19 +7662,8 @@
     "title": "",
     "campus": "All Campus",
     "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
+    "actionPoints": [],
     "createdAt": 1781691602898,
-    "modifiedAt": 1781691602898
+    "modifiedAt": 1781691612307
   }
 ]
