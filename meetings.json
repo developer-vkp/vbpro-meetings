@@ -7651,19 +7651,8 @@
     "title": "DIRECTOR SIR FOLLOW UP",
     "campus": "All Campus",
     "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap10",
-        "type": "Immediate",
-        "text": "the school heads are not aware - not met the students- not started the sessions - not spoken with resource persons with any sincere purpose-\nSeems superficial and namesake .",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
+    "actionPoints": [],
     "createdAt": 1781673180985,
-    "modifiedAt": 1781691267705
+    "modifiedAt": 1781691269864
   }
 ]
