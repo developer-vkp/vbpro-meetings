@@ -7899,7 +7899,7 @@
       {
         "id": "ap12",
         "type": "Immediate",
-        "text": "Marketing - 421 target/ Till class V / VIII IX 120 in 3 section should be for next year",
+        "text": "Marketing - 421 target/ Till class V less adm / VIII IX 120 in 3 section should be for next year",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7908,6 +7908,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781850192443
+    "modifiedAt": 1781850195424
   }
 ]
