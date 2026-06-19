@@ -7859,7 +7859,7 @@
       {
         "id": "ap8",
         "type": "Immediate",
-        "text": "Marketing - VBC Erode - Class XI target 120 - 78 achived / Total XI strength - 92 (Old 112) / 23 Drop outs in XI - Hostel 180 target- 41 achieved - LT 150 target - 31 achived (last year 39) / IIT - 22 after drop out / NEET 19 after drop out / ",
+        "text": "Marketing - VBC Erode - Class XI target 120 - 78 achived / Total XI strength - 92 (Old 112) / 23 Drop outs in XI - Hostel 180 target- 41 achieved - LT 150 target - 31 achived (last year 39) / IIT - 22 after drop out / NEET 19 after drop out / TC reasons",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7868,6 +7868,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781848955145
+    "modifiedAt": 1781849163356
   }
 ]
