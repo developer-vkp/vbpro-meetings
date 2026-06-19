@@ -7839,7 +7839,7 @@
       {
         "id": "ap6",
         "type": "Immediate",
-        "text": "Marketing - VBC Coimbatore - 77 in school Admission gap - IIT and NEET gap / Foundation - / LT - Last year strength 1501 / this year strength 1481 (16 less / 119 TC (without Class XII) X - 38 / VIII - 14 / VII - 18 / KG to V - count is less ",
+        "text": "Marketing - VBC Coimbatore - 77 in school Admission gap - IIT and NEET gap / Foundation - / LT - Last year strength 1501 / this year strength 1481 (16 less) / 119 TC (without Class XII) X - 38 / VIII - 14 / VII - 18 / KG to V - count is less ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7848,6 +7848,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781848719261
+    "modifiedAt": 1781848721628
   }
 ]
