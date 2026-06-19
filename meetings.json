@@ -7799,7 +7799,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "TVIS - 760 targeted - 678 is of now | TVIS to Bodhi - 7 | Bodhi to TVIS - ff Capacity is equal to 760 - Day alone - 58 | ",
+        "text": "TVIS - 760 targeted - 678 is of now | TVIS to Bodhi - 7 | Bodhi to TVIS - 8 (ff Capacity is equal to 760 - Day alone - 58 | ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7808,6 +7808,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781846646326
+    "modifiedAt": 1781846648800
   }
 ]
