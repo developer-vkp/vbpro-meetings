@@ -7869,7 +7869,7 @@
       {
         "id": "ap9",
         "type": "Immediate",
-        "text": "Marketing - VBC Sale",
+        "text": "Marketing - VBC Salem - ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7878,6 +7878,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781849214732
+    "modifiedAt": 1781849216071
   }
 ]
