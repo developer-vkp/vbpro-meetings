@@ -7966,7 +7966,7 @@
     "day": "Friday",
     "title": "NON VKP SCHOOLS- DIRECT MEETING WITH DIRECTOR SIR",
     "campus": "All Campus",
-    "category": "NON V",
+    "category": "NON VKP SCH",
     "actionPoints": [
       {
         "id": "ap1",
@@ -8070,6 +8070,6 @@
       }
     ],
     "createdAt": 1781862324923,
-    "modifiedAt": 1781862391274
+    "modifiedAt": 1781862400852
   }
 ]
