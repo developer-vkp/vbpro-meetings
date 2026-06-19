@@ -7859,7 +7859,7 @@
       {
         "id": "ap8",
         "type": "Immediate",
-        "text": "Marketing - VBC Erode - Class XI target 120 - 78 achived / Total XI strength - 92 (Old 112) ",
+        "text": "Marketing - VBC Erode - Class XI target 120 - 78 achived / Total XI strength - 92 (Old 112) / 23 Drop ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7868,6 +7868,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781848823498
+    "modifiedAt": 1781848827090
   }
 ]
