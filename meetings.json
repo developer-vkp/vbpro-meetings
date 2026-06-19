@@ -7949,7 +7949,7 @@
       {
         "id": "ap17",
         "type": "Immediate",
-        "text": "Marketing - VBC Banglore - 520 enquires ",
+        "text": "Marketing - VBC Banglore - 520 enquires - 20",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7958,6 +7958,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781852179693
+    "modifiedAt": 1781852274492
   }
 ]
