@@ -7929,7 +7929,7 @@
       {
         "id": "ap15",
         "type": "Immediate",
-        "text": "Marketing - 469 target / 39 drop out - Classs XI - 92 drop out 16 / IIT - NEET 47 / Outside - 12 students ",
+        "text": "Marketing - 469 target / 39 drop out - Classs XI - 92 drop out 16 / IIT - NEET 47 / Outside - 12 students / ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7938,6 +7938,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781851713630
+    "modifiedAt": 1781851720451
   }
 ]
