@@ -7909,7 +7909,7 @@
       {
         "id": "ap13",
         "type": "Immediate",
-        "text": "Marketing - LT 50 target ",
+        "text": "Marketing - LT 50 target / 470",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7918,6 +7918,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781850321563
+    "modifiedAt": 1781850361417
   }
 ]
