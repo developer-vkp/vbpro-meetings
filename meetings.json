@@ -7919,7 +7919,7 @@
       {
         "id": "ap14",
         "type": "Immediate",
-        "text": "Marketing - VBC Tiruvallur - ",
+        "text": "Marketing - VBC Tiruvallur - Transport issues",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7928,6 +7928,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781851087555
+    "modifiedAt": 1781851116631
   }
 ]
