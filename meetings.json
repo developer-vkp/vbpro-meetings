@@ -7809,7 +7809,7 @@
       {
         "id": "ap3",
         "type": "Immediate",
-        "text": "Bodhi Ponneri - 14 Locations - Local 11 / Other 3 - Comparision to 3 years | 6 to 10 - target - 600 - Achieved - 570 | IX - Target 200 - Achieved - 212 - 68 Increased | VI no change | VII VIII 78 now 71 / IX  Strength decreased | ",
+        "text": "Bodhi Ponneri - 14 Locations - Local 11 / Other 3 - Comparision to 3 years | 6 to 10 - target - 600 - Achieved - 570 | IX - Target 200 - Achieved - 212 - 68 Increased | VI no change | VII VIII 78 now 71 / IX  Strength decreased | Total T",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7818,6 +7818,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781847049574
+    "modifiedAt": 1781847052302
   }
 ]
