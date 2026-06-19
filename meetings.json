@@ -7919,7 +7919,7 @@
       {
         "id": "ap14",
         "type": "Immediate",
-        "text": "Marketing - VBC Tiruvallur - tTransport issue - routes strength to check - late drop around 6.30 pm for higher class transport / Books pending / Uniform delivey / Drop out 41 (IIT 10 NEET 4 and other transfer) / Merit students / IIT 32 NEET 41 acheived for Class XI / LT 100 / Parents addressing in campus / ",
+        "text": "Marketing - VBC Tiruvallur - total strength - Transport issue - routes strength to check - late drop around 6.30 pm for higher class transport / Books pending / Uniform delivey / Drop out 41 (IIT 10 NEET 4 and other transfer) / Merit students / IIT 32 NEET 41 acheived for Class XI / LT 100 / Parents addressing in campus / ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7928,6 +7928,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781851648709
+    "modifiedAt": 1781851651642
   }
 ]
