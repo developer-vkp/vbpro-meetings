@@ -7899,7 +7899,7 @@
       {
         "id": "ap12",
         "type": "Immediate",
-        "text": "Marketing - 421 target / VIII IX 120 in 3 section Admission",
+        "text": "Marketing - 421 target / VIII IX 120 in 3 section should be for ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7908,6 +7908,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781850134728
+    "modifiedAt": 1781850140045
   }
 ]
