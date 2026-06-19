@@ -7859,7 +7859,7 @@
       {
         "id": "ap8",
         "type": "Immediate",
-        "text": "Marketing - VBC Erode - Class XI tar",
+        "text": "Marketing - VBC Erode - Class XI target 120 =",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7868,6 +7868,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781848776067
+    "modifiedAt": 1781848779432
   }
 ]
