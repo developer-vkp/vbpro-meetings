@@ -7899,7 +7899,7 @@
       {
         "id": "ap12",
         "type": "Immediate",
-        "text": "Marketing - 421 target",
+        "text": "Marketing - 421 target / IX ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7908,6 +7908,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781850075296
+    "modifiedAt": 1781850086260
   }
 ]
