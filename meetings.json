@@ -7919,7 +7919,7 @@
       {
         "id": "ap14",
         "type": "Immediate",
-        "text": "Marketing - VBC Tiruvallur - Transport issue - routes strength to check - late drop around 6.30 pm for higher clas",
+        "text": "Marketing - VBC Tiruvallur - Transport issue - routes strength to check - late drop around 6.30 pm for higher class transpor",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7928,6 +7928,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781851214575
+    "modifiedAt": 1781851219452
   }
 ]
