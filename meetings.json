@@ -7909,7 +7909,7 @@
       {
         "id": "ap13",
         "type": "Immediate",
-        "text": "Marketing - VBC Chidambaram - LT 50 target / 470 lasstrength / 100 tc 30 + / drop outs 20 / - ",
+        "text": "Marketing - VBC Chidambaram - LT 50 target / 470 strength / 100 tc 30 + / drop outs 20 / - ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7918,6 +7918,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781850683839
+    "modifiedAt": 1781850686352
   }
 ]
