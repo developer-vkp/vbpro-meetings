@@ -7966,7 +7966,7 @@
     "day": "Friday",
     "title": "NON VKP SCHOOLS- DIRECT MEETING",
     "campus": "All Campus",
-    "category": "direct mee",
+    "category": "DIRECT",
     "actionPoints": [
       {
         "id": "ap1",
@@ -8070,6 +8070,6 @@
       }
     ],
     "createdAt": 1781862324923,
-    "modifiedAt": 1781862348332
+    "modifiedAt": 1781862352867
   }
 ]
