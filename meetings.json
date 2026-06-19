@@ -7889,7 +7889,7 @@
       {
         "id": "ap11",
         "type": "Immediate",
-        "text": "Marketing - VBC Pollachi - 500 target 598 / drop out 39 / ",
+        "text": "Marketing - VBC Pollachi - 500 target 598 / drop out 39 / Negati",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7898,6 +7898,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781849843743
+    "modifiedAt": 1781849847823
   }
 ]
