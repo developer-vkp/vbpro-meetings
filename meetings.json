@@ -7959,5 +7959,117 @@
     ],
     "createdAt": 1781846378168,
     "modifiedAt": 1781858883762
+  },
+  {
+    "id": "m1781862324923_s1x",
+    "date": "2026-06-19",
+    "day": "Friday",
+    "title": "NON VKP SCHOOLS- DIRECT MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "KOLAPAKKAM:\nSAFETY 7 SECURITY TO CHECK\nTC KG, MIDDLE, 10 TO 11 TO CHECK\nDROPOUT REASON TO CHECK\nFOUNDATION CONVERSION TO CHECK\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.abhinaya",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "PONDICHERRY:\nLEVELLING OF GROUND (ROLL THE GROUND)- CHEAPER COST\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.abhinaya",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "KANCHIPURAM:\nSAFETY & TO TAKE CARE\nGRADE 10 TC, PRIMARY TC TO CHECK\nART & MUSIC ROOM CAN BE USED AS CLASS ROOM\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.sangeetha",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "VELLORE:\n10 TO 11 TC TO CHECK\n LOWER GRADE TC TO CHECK\nPRIMARY ACO TO REVIEW\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.srivatsini",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "ATTUR:\nMORE TC REASON TO CHECK\nTRANSPORT TIME ISSUE TO CHECK\nFOOD REQUESTED BY PARENTS FOR PRIMARY\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "TRICHY:\nSPECIAL CONCESSION FOR KG\n\nDROPOUT TO BE CHECKED\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "PEELEMEDU:\nENQUIRY TO APPLICATION TO HAPPEN\nENQUIRY TO ADMISSION PERCENTAGE\nNEXT YEAR TARGET: 300\nTC CONTROL, SIBILING, WORD OF MOUTH\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "MUGALIVAKKAM:\nMS. DEEPTHY SHOULD TALK TO HOSTEL GIRLS DAILY- 13 STUDENTS\nENQUIRY TO ADMISSION CONVERSION\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms.sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "PALLIKARNAI:\nENQUIRY TO ADMISSION CONVERSION\nWORD OF MOUTH\nFIRST 25 ENQUIRIES , HOW MANY APPLICATION CONVERTED\nMONTHLY ADMISSION DONE STATUS YEARLONG\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "Ms,.sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "DINDIGUL:\nSPOKEN LANGUAGE. CAMPUS LANGUAGE SHOULD BE IN ENGLISH\nTECHSAVY  6 COMPLETITON, LITERARY COMPETION 6, MAXIMUM 10 OUT SIDE SCHOOLS  TO PARTICIPATE\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1781862324923,
+    "modifiedAt": 1781862324923
   }
 ]
