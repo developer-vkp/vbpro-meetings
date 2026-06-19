@@ -7869,7 +7869,7 @@
       {
         "id": "ap9",
         "type": "Immediate",
-        "text": "Marketing - VBC Salem - XI 86 / Last year strength - This year strength - 340 / ",
+        "text": "Marketing - VBC Salem - XI 86 total 154 / Last year strength - This year strength - 340 / ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7878,6 +7878,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781849324662
+    "modifiedAt": 1781849327232
   }
 ]
