@@ -7799,7 +7799,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "TVIS - 760 targeted - 678 is of now | TVIS to Bodhi - 7 | Bodhi to TVIS - 8 (Last year 18) | Staff Capacity is equal to 760 | Day alone - 100 Target - 58 achieved Last year - 48 | Drop out - reason | 12 Locations wise la",
+        "text": "TVIS - 760 targeted - 678 is of now | TVIS to Bodhi - 7 | Bodhi to TVIS - 8 (Last year 18) | Staff Capacity is equal to 760 | Day alone - 100 Target - 58 achieved Last year - 48 | Drop out - reason | 12 Locations wise last year and this year comparision |",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7808,6 +7808,6 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1781846756952
+    "modifiedAt": 1781846762923
   }
 ]
