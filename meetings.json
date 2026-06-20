@@ -8162,7 +8162,14 @@
         "status": "Open",
         "assignedTo": "MS.ARUNA",
         "timeline": "2026-04-10",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "THE ORIENTATION IS GIVEN ON 21 ST APRIL , TOT-446 SALANAGAI POOJAI, 62 FOR ARANGETRAM , LIST IS SUBMITTED BY ARUNA MAM, 75 STUDENTS FROM 24 SCHOOLS ATTENDED",
+            "addedAt": 1781935863513
+          }
+        ]
       },
       {
         "id": "ap8",
@@ -8666,6 +8673,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781935861733
+    "modifiedAt": 1781935863513
   }
 ]
