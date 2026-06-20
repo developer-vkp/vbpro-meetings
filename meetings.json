@@ -8247,7 +8247,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-22",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "THE DIRECTOR SIR REVIEW MEETING CONDUCTED WITH TEAM-2026-27-187",
+            "addedAt": 1781937132656
+          }
+        ]
       },
       {
         "id": "ap13",
@@ -8701,6 +8708,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781937083877
+    "modifiedAt": 1781937132657
   }
 ]
