@@ -8166,7 +8166,7 @@
         "text": "\"Dear zonal heads \n And school heads ,\n Following each school requirements ,\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.ZEE",
         "timeline": "",
         "completed": false
       },
@@ -8652,6 +8652,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781934412632
+    "modifiedAt": 1781934430463
   }
 ]
