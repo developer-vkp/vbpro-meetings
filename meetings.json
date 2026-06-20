@@ -8286,7 +8286,7 @@
         "text": "\"Tomorrow 29-5-26\n Friday in vision building \n ————-\n 457 poster *\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS,",
         "timeline": "2026-05-28",
         "completed": false
       },
@@ -8652,6 +8652,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781934738208
+    "modifiedAt": 1781934744487
   }
 ]
