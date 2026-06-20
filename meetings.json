@@ -8364,7 +8364,14 @@
         "status": "Open",
         "assignedTo": "MR.BALAJI",
         "timeline": "2026-05-27",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781937966607
+          }
+        ]
       },
       {
         "id": "ap20",
@@ -8748,6 +8755,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781938085668
+    "modifiedAt": 1781938093330
   }
 ]
