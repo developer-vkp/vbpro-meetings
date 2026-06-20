@@ -8256,7 +8256,7 @@
         "text": "\"Dear Alagar sir \n On Friday \n I’ll handover 5000 to \n Srpl sir \n Sir will give you Alagar sir\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "MR.SARAVANA",
+        "assignedTo": "MR.SARAVANAN",
         "timeline": "2026-05-27",
         "completed": false
       },
@@ -8267,7 +8267,7 @@
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
-        "timeline": "",
+        "timeline": "2026-05-27",
         "completed": false
       },
       {
@@ -8652,6 +8652,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781934673142
+    "modifiedAt": 1781934686312
   }
 ]
