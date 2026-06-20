@@ -8398,7 +8398,14 @@
         "status": "Open",
         "assignedTo": "MS.SANGEETHA",
         "timeline": "2026-05-28",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DISCUSSED IN PRINCIPAL MEETING",
+            "addedAt": 1781938156648
+          }
+        ]
       },
       {
         "id": "ap22",
@@ -8762,6 +8769,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781938144210
+    "modifiedAt": 1781938156648
   }
 ]
