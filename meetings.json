@@ -8186,7 +8186,7 @@
         "text": "\"Bala sir \n Selvi Mam \n Robin sir \n VRS Siva \n Call and Discuss about VRS staff recruitment \n And send the status tomorrow .\n \"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.",
         "timeline": "2026-05-20",
         "completed": false
       },
@@ -8652,6 +8652,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781934514864
+    "modifiedAt": 1781934526018
   }
 ]
