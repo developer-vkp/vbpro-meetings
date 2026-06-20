@@ -8316,8 +8316,8 @@
         "text": "\"Based on poster \n 445 I’ll take a brief zoom with zonal heads and school heads\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "MS.ZEE",
-        "timeline": "",
+        "assignedTo": "MS.ZEENATH",
+        "timeline": "2026-05-30",
         "completed": false
       },
       {
@@ -8652,6 +8652,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781934798577
+    "modifiedAt": 1781934812001
   }
 ]
