@@ -8415,7 +8415,14 @@
         "status": "Open",
         "assignedTo": "MR.VIGNESH",
         "timeline": "2026-05-30",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "REVIEWED BY DIRECTOR SIR, DURING PRINCIPAL MEETING , UPDATEDB LIST BY ARUNA MAM",
+            "addedAt": 1781938256048
+          }
+        ]
       },
       {
         "id": "ap23",
@@ -8769,6 +8776,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781938251490
+    "modifiedAt": 1781938256049
   }
 ]
