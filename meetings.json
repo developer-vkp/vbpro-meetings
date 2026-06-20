@@ -8269,7 +8269,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH/MS.ARUNA",
         "timeline": "2026-05-22",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "445 POSTER REVIEW IS CONDUCTED BY DIRECTOR SIR",
+            "addedAt": 1781937529018
+          }
+        ]
       },
       {
         "id": "ap14",
@@ -8713,6 +8720,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781937509374
+    "modifiedAt": 1781937529058
   }
 ]
