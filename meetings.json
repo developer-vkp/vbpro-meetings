@@ -8330,7 +8330,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-26",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781937855536
+          }
+        ]
       },
       {
         "id": "ap18",
@@ -8734,6 +8741,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781937851120
+    "modifiedAt": 1781937855536
   }
 ]
