@@ -8386,8 +8386,8 @@
         "text": "\"All school Heads ,\nKindly talk\nTo all Eca staff / sports staff \n\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MS",
+        "timeline": "2026-06-01",
         "completed": false
       },
       {
@@ -8652,6 +8652,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781934930385
+    "modifiedAt": 1781934943298
   }
 ]
