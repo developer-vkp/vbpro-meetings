@@ -8230,7 +8230,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-20",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "2 PENDING- FOUNDATION-CHEMISTRY, SENIOR IIT - MATHS-YET TO RECRUIT",
+            "addedAt": 1781936615248
+          }
+        ]
       },
       {
         "id": "ap12",
@@ -8694,6 +8701,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781936610243
+    "modifiedAt": 1781936615249
   }
 ]
