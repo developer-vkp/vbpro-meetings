@@ -8432,7 +8432,14 @@
         "status": "Open",
         "assignedTo": "MR.VIGNESH",
         "timeline": "2026-05-30",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "PASSED OUT STUDENT FOLLOW UP",
+            "addedAt": 1781938299439
+          }
+        ]
       },
       {
         "id": "ap24",
@@ -8776,6 +8783,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781938288067
+    "modifiedAt": 1781938299440
   }
 ]
