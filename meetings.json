@@ -8088,7 +8088,14 @@
         "status": "Open",
         "assignedTo": "MS.ARUNA",
         "timeline": "2026-04-02",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "THE DIRECTOR SIR ONSTRUCTION AND FOLLOW UP",
+            "addedAt": 1781935544480
+          }
+        ]
       },
       {
         "id": "ap2",
@@ -8098,7 +8105,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-04-02",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "BRIDGE CCOURSE ATTENDANCE FOLLOW UP IS DINE BY SCHOOL HEADS AND ZONAL HEADS",
+            "addedAt": 1781935681136
+          }
+        ]
       },
       {
         "id": "ap3",
@@ -8148,7 +8162,14 @@
         "status": "Open",
         "assignedTo": "MS.ARUNA",
         "timeline": "2026-04-10",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "THE ORIENTATION IS GIVEN ON 21 ST APRIL , TOT-446 SALANAGAI POOJAI, 62 FOR ARANGETRAM , LIST IS SUBMITTED BY ARUNA MAM, 75 STUDENTS FROM 24 SCHOOLS ATTENDED",
+            "addedAt": 1781935863513
+          }
+        ]
       },
       {
         "id": "ap8",
@@ -8158,7 +8179,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-14",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "ZONAL HEAD REVIEWED ABD PRESENTED TO DIRECTOR SIR",
+            "addedAt": 1781935895200
+          }
+        ]
       },
       {
         "id": "ap9",
@@ -8168,7 +8196,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-14",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781935972976
+          }
+        ]
       },
       {
         "id": "ap10",
@@ -8176,9 +8211,16 @@
         "text": "\"Dear vkp heads \n Pls observe vechile usage \n Fuel wastage .\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "MR.BALAJI",
+        "assignedTo": "MR.BALAJI/ASW SIR",
         "timeline": "2026-05-19",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "CIRCULAR SENT TO ALL FROM TRANSPORT TEAM",
+            "addedAt": 1781936102392
+          }
+        ]
       },
       {
         "id": "ap11",
@@ -8188,7 +8230,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-20",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "2 PENDING- FOUNDATION-CHEMISTRY, SENIOR IIT - MATHS-YET TO RECRUIT",
+            "addedAt": 1781936615248
+          }
+        ]
       },
       {
         "id": "ap12",
@@ -8198,7 +8247,19 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-22",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "THE DIRECTOR SIR REVIEW MEETING CONDUCTED WITH TEAM-2026-27-187",
+            "addedAt": 1781937132656
+          },
+          {
+            "date": "2026-06-20",
+            "text": "127 TARGET",
+            "addedAt": 1781937300751
+          }
+        ]
       },
       {
         "id": "ap13",
@@ -8206,9 +8267,16 @@
         "text": "\"To zonal heads / school heads\n Pls discuss ( may 26- June 5)\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "MS.ZEENATH",
+        "assignedTo": "MS.ZEENATH/MS.ARUNA",
         "timeline": "2026-05-22",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "445 POSTER REVIEW IS CONDUCTED BY DIRECTOR SIR",
+            "addedAt": 1781937529018
+          }
+        ]
       },
       {
         "id": "ap14",
@@ -8228,7 +8296,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-25",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781937623183
+          }
+        ]
       },
       {
         "id": "ap16",
@@ -8238,7 +8313,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-25",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781937851119
+          }
+        ]
       },
       {
         "id": "ap17",
@@ -8248,7 +8330,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-26",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781937855536
+          }
+        ]
       },
       {
         "id": "ap18",
@@ -8258,7 +8347,14 @@
         "status": "Open",
         "assignedTo": "MR.SARAVANAN",
         "timeline": "2026-05-27",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "ALAGAR SIR GIVEN 16 IIT IANS  ACHIEVED",
+            "addedAt": 1781937941519
+          }
+        ]
       },
       {
         "id": "ap19",
@@ -8268,7 +8364,14 @@
         "status": "Open",
         "assignedTo": "MR.BALAJI",
         "timeline": "2026-05-27",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DIRECTOR SIR INSTRUCTION",
+            "addedAt": 1781937966607
+          }
+        ]
       },
       {
         "id": "ap20",
@@ -8276,9 +8379,16 @@
         "text": "\"On Friday \n All team one members \n Come on stage \n And tell to all our heads , acos and all staff members \n That as vkp team one heads \n We are all targeting to achieve \n 200 + IITians in 3 years time .\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.SANGEETHA",
         "timeline": "2026-05-27",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DIRCTOR SIR REVIEW COMPLETED",
+            "addedAt": 1781938099583
+          }
+        ]
       },
       {
         "id": "ap21",
@@ -8286,9 +8396,16 @@
         "text": "\"Tomorrow 29-5-26\n Friday in vision building \n ————-\n 457 poster *\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
+        "assignedTo": "MS.SANGEETHA",
+        "timeline": "2026-05-28",
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "DISCUSSED IN PRINCIPAL MEETING",
+            "addedAt": 1781938156648
+          }
+        ]
       },
       {
         "id": "ap22",
@@ -8296,8 +8413,8 @@
         "text": "Poster 276-FBSC- Fortnight Principal's sports contribution",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MR.VIGNESH",
+        "timeline": "2026-05-30",
         "completed": false
       },
       {
@@ -8306,8 +8423,8 @@
         "text": "\"Shunmugam sir did you speak to volley ball coach pls\n Anbhu\n Erode Sudha Mam Alagar sir Jeyraj sir \n Passed out class -12 students feedback\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MR.VIGNESH",
+        "timeline": "2026-05-30",
         "completed": false
       },
       {
@@ -8316,8 +8433,8 @@
         "text": "\"Based on poster \n 445 I’ll take a brief zoom with zonal heads and school heads\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MS.ZEENATH",
+        "timeline": "2026-05-30",
         "completed": false
       },
       {
@@ -8326,8 +8443,8 @@
         "text": "Poster -1444 Lunch break primary speech",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MS.ZEENATH",
+        "timeline": "2026-05-30",
         "completed": false
       },
       {
@@ -8346,8 +8463,8 @@
         "text": "\"Based on poster \n445 I’ll take a brief zoom with zonal heads and school heads \n\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MR.VIGNESH",
+        "timeline": "2026-05-30",
         "completed": false
       },
       {
@@ -8356,8 +8473,8 @@
         "text": "Poster -1444 Lunch break primary speech\nPoster - 1480-Empty goals",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MS.ZEENATH",
+        "timeline": "2026-05-30",
         "completed": false
       },
       {
@@ -8366,8 +8483,8 @@
         "text": "Based on poster 445 i ll take zoom with all school heads and zonal heads",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MS.ZEENATH",
+        "timeline": "2026-05-30",
         "completed": false
       },
       {
@@ -8376,8 +8493,8 @@
         "text": "\"Sahana mam\nDid your school \n(Tanjore )\nTirchy \nKombakknum \nErode \nDiscuss about \nfoundation materials \nAnd \nIIT ne\nFor June month ?\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MS.SRIVATSINI",
+        "timeline": "2026-06-01",
         "completed": false
       },
       {
@@ -8386,8 +8503,8 @@
         "text": "\"All school Heads ,\nKindly talk\nTo all Eca staff / sports staff \n\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
+        "assignedTo": "MS.ARUNA",
+        "timeline": "2026-06-01",
         "completed": false
       },
       {
@@ -8406,7 +8523,7 @@
         "text": "\"Selvanayagi Mam and other zonal heads\nMessage and \nAsk   with your school heads \n9-12 new staff and last year c category or this year elevated micro teaching feedback\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "MS.SHAIRA",
         "timeline": "",
         "completed": false
       },
@@ -8652,6 +8769,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781938221565
+    "modifiedAt": 1781938229235
   }
 ]
