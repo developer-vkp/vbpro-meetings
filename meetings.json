@@ -8459,7 +8459,14 @@
         "status": "Open",
         "assignedTo": "MS.ZEENATH",
         "timeline": "2026-05-30",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-06-20",
+            "text": "1480 - DIRECTOR SIR REMINDER , AS PER DIRECTOR SOR INSTRUCTION THE SCHOOLS INFORM TO FOLLOW",
+            "addedAt": 1781938351103
+          }
+        ]
       },
       {
         "id": "ap26",
@@ -8783,6 +8790,6 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1781938343269
+    "modifiedAt": 1781938351103
   }
 ]
