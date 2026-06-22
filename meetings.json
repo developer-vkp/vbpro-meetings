@@ -8791,5 +8791,117 @@
     ],
     "createdAt": 1781934094593,
     "modifiedAt": 1782099525528
+  },
+  {
+    "id": "m1782110101937_wb6",
+    "date": "2026-06-22",
+    "day": "Monday",
+    "title": "srpl sir vp Mam and all non marketing schools for Lt admissions",
+    "campus": "Coimbatore",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Long-term",
+        "text": "Ensure strict adherence to Central Office PPT format.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Long-term",
+        "text": "Complete all pending planner-based academic and club activities.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Long-term",
+        "text": "Share ECA enrollment and Trinity/Cambridge registration details promptly.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Long-term",
+        "text": "Strengthen monitoring of slow learners and slow writers.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Long-term",
+        "text": "Maintain complete and accurate academic review documentation.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Long-term",
+        "text": "Update all mandatory review slides before presentations.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Long-term",
+        "text": "Improve parent communication and feedback tracking mechanisms.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Long-term",
+        "text": "Ensure timely completion of Heritage Club activities.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Long-term",
+        "text": "Monitor fee collection and follow up with defaulters.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Long-term",
+        "text": "Enhance presentation preparedness and reporting quality.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782110101937,
+    "modifiedAt": 1782110101937
   }
 ]
