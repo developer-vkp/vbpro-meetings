@@ -7799,7 +7799,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": " | Drop out - reason\n | 12 Locations wise last year and this year comparision | \nSibiling how many | \nWord of Mouth - references no | North east, Andaman|, Middle east - admissions - comparision to last year | Total 5 campaigns - Campaign wise report",
+        "text": " | Drop out - reason\n | 12 Locations wise last year and this year comparision | \nSibiling how many | \nWord of Mouth - references no |\n North east, Andaman|, Middle east - admissions - comparision to last year \n| Total 5 campaigns - Campaign wise report",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7958,7 +7958,7 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1782117349739
+    "modifiedAt": 1782117362251
   },
   {
     "id": "m1781862324923_s1x",
