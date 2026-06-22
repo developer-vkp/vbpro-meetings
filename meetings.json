@@ -8944,7 +8944,7 @@
       },
       {
         "id": "ap15",
-        "type": "Immediate",
+        "type": "Long-term",
         "text": "Strengthen notebook monitoring and handwriting improvement practices.\n",
         "priority": "Medium",
         "status": "Open",
@@ -8954,7 +8954,7 @@
       },
       {
         "id": "ap16",
-        "type": "Immediate",
+        "type": "Long-term",
         "text": "Execute Core Student Programme activities as per plan.\n",
         "priority": "Medium",
         "status": "Open",
@@ -8964,7 +8964,7 @@
       },
       {
         "id": "ap17",
-        "type": "Immediate",
+        "type": "Long-term",
         "text": "Track ECA progress through level-based monitoring.\n",
         "priority": "Medium",
         "status": "Open",
@@ -9004,6 +9004,6 @@
       }
     ],
     "createdAt": 1782110415905,
-    "modifiedAt": 1782110476050
+    "modifiedAt": 1782110481570
   }
 ]
