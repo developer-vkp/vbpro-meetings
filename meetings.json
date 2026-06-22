@@ -8798,7 +8798,7 @@
     "day": "Monday",
     "title": "srpl sir vp Mam and all non marketing schools for Lt admissions",
     "campus": "Coimbatore",
-    "category": "Other",
+    "category": "ADMISSION",
     "actionPoints": [
       {
         "id": "ap1",
@@ -8902,6 +8902,6 @@
       }
     ],
     "createdAt": 1782110101937,
-    "modifiedAt": 1782110179337
+    "modifiedAt": 1782110184265
   }
 ]
