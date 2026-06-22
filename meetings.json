@@ -7819,7 +7819,7 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "  NEET students - Counsellor meet -\n LT 1 hostel right now (Hostel complaint) - Student s Feed back on welfare and academics - Laundry schedule confirmation -\n Uniform delivery confirmation\n - Any transfer request - Still uniform how the dresses in laundry handling - Housekeeping 3 staff and schedule total 2 floor -\n HK staff change -\n Food feedback to check / ",
+        "text": "\n Food feedback to check / ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7958,7 +7958,7 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1782117952979
+    "modifiedAt": 1782117957843
   },
   {
     "id": "m1781862324923_s1x",
