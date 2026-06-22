@@ -8903,5 +8903,107 @@
     ],
     "createdAt": 1782110101937,
     "modifiedAt": 1782110260297
+  },
+  {
+    "id": "m1782110415905_tzn",
+    "date": "2026-06-22",
+    "day": "Monday",
+    "title": "srpl sir vp Mam and all non marketing schools for Lt admissions",
+    "campus": "All School",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "Implement targeted interventions to improve Mathematics and English performance.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "Conduct regular remedial classes for identified learners.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "Ensure effective utilization of LMS across all subjects.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "Strengthen notebook monitoring and handwriting improvement practices.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "Execute Core Student Programme activities as per plan.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "Track ECA progress through level-based monitoring.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "Complete Olympiad and competition registrations on schedule.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "Increase student participation in Career Preparation Programmes.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "Document and close all parent feedback with timely action.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782110415905,
+    "modifiedAt": 1782110415905
   }
 ]
