@@ -9005,5 +9005,117 @@
     ],
     "createdAt": 1782110415905,
     "modifiedAt": 1782112564345
+  },
+  {
+    "id": "m1782112706465_ua5",
+    "date": "2026-06-22",
+    "day": "Monday",
+    "title": "srpl sir vp Mam and all non marketing schools for Lt admissions",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap34",
+        "type": "Immediate",
+        "text": "Achieve 60% LT admissions by week-end.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap35",
+        "type": "Immediate",
+        "text": "Accelerate admission conversion efforts.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap36",
+        "type": "Immediate",
+        "text": "Conduct daily admission monitoring.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap37",
+        "type": "Immediate",
+        "text": "Maximize admissions before batch commencement.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap38",
+        "type": "Immediate",
+        "text": "Strengthen parent follow-up and counselling.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap39",
+        "type": "Immediate",
+        "text": "Implement corrective action in low-performing campuses.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap40",
+        "type": "Immediate",
+        "text": "Utilize all available admission resources.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap41",
+        "type": "Immediate",
+        "text": "Enhance social media promotion activities.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap42",
+        "type": "Immediate",
+        "text": "Resolve admission-related operational challenges.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap43",
+        "type": "Immediate",
+        "text": "Review progress in the next admission review meeting.",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782112706465,
+    "modifiedAt": 1782112706465
   }
 ]
