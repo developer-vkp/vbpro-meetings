@@ -7879,7 +7879,7 @@
       {
         "id": "ap10",
         "type": "Immediate",
-        "text": "Marketing - VBC Attur - Target XI 50 - 36 achieved - LT 50 target",
+        "text": "Marketing - VBC Attur - Target XI 50 - 36 achieved -",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7958,7 +7958,7 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1782118148276
+    "modifiedAt": 1782118161524
   },
   {
     "id": "m1781862324923_s1x",
