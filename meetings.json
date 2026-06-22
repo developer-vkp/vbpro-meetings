@@ -9040,7 +9040,7 @@
         "text": "Conduct daily admission monitoring.\n",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "ALL ACO'S",
         "timeline": "",
         "completed": false
       },
@@ -9050,7 +9050,7 @@
         "text": "Maximize admissions before batch commencement.\n",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "ALL ACO'S",
         "timeline": "",
         "completed": false
       },
@@ -9060,7 +9060,7 @@
         "text": "Strengthen parent follow-up and counselling.\n",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "ALL ACO'S",
         "timeline": "",
         "completed": false
       },
@@ -9070,7 +9070,7 @@
         "text": "Implement corrective action in low-performing campuses.\n",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "ALL ACO'S",
         "timeline": "",
         "completed": false
       },
@@ -9116,6 +9116,6 @@
       }
     ],
     "createdAt": 1782112706465,
-    "modifiedAt": 1782112829202
+    "modifiedAt": 1782112836266
   }
 ]
