@@ -9020,7 +9020,7 @@
         "text": "Achieve 60% LT admissions by week-end.\n",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "ALL AC",
         "timeline": "",
         "completed": false
       },
@@ -9116,6 +9116,6 @@
       }
     ],
     "createdAt": 1782112706465,
-    "modifiedAt": 1782112706465
+    "modifiedAt": 1782112819820
   }
 ]
