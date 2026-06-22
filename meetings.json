@@ -9080,7 +9080,7 @@
         "text": "Utilize all available admission resources.\n",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "ALL ACO'S",
         "timeline": "",
         "completed": false
       },
@@ -9090,7 +9090,7 @@
         "text": "Enhance social media promotion activities.\n",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "ALL ACO'S",
         "timeline": "",
         "completed": false
       },
@@ -9100,7 +9100,7 @@
         "text": "Resolve admission-related operational challenges.\n",
         "priority": "High",
         "status": "Open",
-        "assignedTo": "",
+        "assignedTo": "ALL ACO'S",
         "timeline": "",
         "completed": false
       },
@@ -9116,6 +9116,6 @@
       }
     ],
     "createdAt": 1782112706465,
-    "modifiedAt": 1782112836266
+    "modifiedAt": 1782112842830
   }
 ]
