@@ -8924,7 +8924,7 @@
       },
       {
         "id": "ap13",
-        "type": "Immediate",
+        "type": "Long-term",
         "text": "Conduct regular remedial classes for identified learners.\n",
         "priority": "Medium",
         "status": "Open",
@@ -8934,7 +8934,7 @@
       },
       {
         "id": "ap14",
-        "type": "Immediate",
+        "type": "Long-term",
         "text": "Ensure effective utilization of LMS across all subjects.\n",
         "priority": "Medium",
         "status": "Open",
@@ -9004,6 +9004,6 @@
       }
     ],
     "createdAt": 1782110415905,
-    "modifiedAt": 1782110472050
+    "modifiedAt": 1782110476050
   }
 ]
