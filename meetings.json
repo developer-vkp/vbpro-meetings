@@ -8974,7 +8974,7 @@
       },
       {
         "id": "ap18",
-        "type": "Immediate",
+        "type": "Long-term",
         "text": "Complete Olympiad and competition registrations on schedule.\n",
         "priority": "Medium",
         "status": "Open",
@@ -8984,7 +8984,7 @@
       },
       {
         "id": "ap19",
-        "type": "Immediate",
+        "type": "Long-term",
         "text": "Increase student participation in Career Preparation Programmes.\n",
         "priority": "Medium",
         "status": "Open",
@@ -9004,6 +9004,6 @@
       }
     ],
     "createdAt": 1782110415905,
-    "modifiedAt": 1782110481570
+    "modifiedAt": 1782110484897
   }
 ]
