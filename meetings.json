@@ -7909,7 +7909,7 @@
       {
         "id": "ap13",
         "type": "Immediate",
-        "text": "VBC CHIDAMBARAM\n\nParent Feedback Review | Long Absentee Monitoring | Infrastructure Improvement Follow-Up\n\nVBC TIRUVALLUR\n\nTransport Route Review | Books & Uniform Delivery Follow-Up | LT Target Monitoring\n\nVBC TONDAIRPET\n\nLT Target Achievement Review | Class XI Retention Monitoring | Primary Strength Improvement\n\nVBC PORUR\n\nInfrastructure Complaint Resolution | Transport Safety Review | Vijayadashami Target Monitoring\n\nVBC BANGALORE\n\nEnquiry Conversion Monitoring | June End Admission Review ",
+        "text": "VBC CHIDAMBARAM\n\nParent Feedback Review | Long Absentee Monitoring | Infrastructure Improvement Follow-Up\n\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -7958,7 +7958,7 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1782118218371
+    "modifiedAt": 1782118227060
   },
   {
     "id": "m1781862324923_s1x",
