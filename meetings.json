@@ -9117,5 +9117,117 @@
     ],
     "createdAt": 1782112706465,
     "modifiedAt": 1782667108759
+  },
+  {
+    "id": "m1782667647755_fju",
+    "date": "2026-06-28",
+    "day": "Sunday",
+    "title": "Re birth - Director sir follow up",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Dear school heads \n\n\nHave you started \n\nWorking for your \n\nCluster national level target ?",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ALL ACO'S",
+        "timeline": "2026-06-22",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "16 students how are they alagar sir",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "2026-06-23",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "50 students how are they Bala sir",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "2026-06-23",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "66 IITians if you both give \nNothing like that sirs",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "2026-06-23",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "Our \n\nSrpl sir and myself are \n\nVery particular \n\nAbout students \n\nPhysical activity also \n\n\nA school should make \n\nStudents \n\nPhysically and \n\nMentally fit !",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "2026-06-23",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Vasumathi mam\nPls confirm \nWith algar sir Sr head Mam and Suresh sir\nTree planting",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "2026-06-24",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "Zonal heads and school heads \n\n\nWether your staff have the insight and clarity to choose \n\n10 best \n\nCompetitions and work for it .\n\nHow are you ensuring it ?",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "2026-06-25",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "Shunmugam sir \n\nHow is attur Pondy \nSchools ?",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "2026-06-27",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "Principal Selvi Mam\nDindugal VRS\nHow are they doing in class 10/12 std?\nFoundation iit neet program",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.sangeetha",
+        "timeline": "2026-06-27",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "Date -27-6-26.\n\nDear all zonal heads / mentors \n\nKindly send a personal msg about your zone schools to \nSrpl sir and me before 11 am today ?\n\nFoundation- class 11/12-iit neet \n——-\n\n1.Working / not working for the target - \n\n2.need / don’t need any support\n\n3.all staff are good/ not good \n\n4.Need / don’t need any material to support \n\n5.reviewed / not reviewed recent results with team",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "ms.zeenath",
+        "timeline": "2026-06-27",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782667647755,
+    "modifiedAt": 1782667647755
   }
 ]
