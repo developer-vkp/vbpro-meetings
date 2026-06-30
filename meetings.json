@@ -1975,7 +1975,7 @@
       }
     ],
     "createdAt": 1777878664742,
-    "modifiedAt": 1778042373672
+    "modifiedAt": 1782813488731
   },
   {
     "id": "m1778045142491_67z",
@@ -4798,7 +4798,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781603031879
+    "modifiedAt": 1782814310682
   },
   {
     "id": "m1779862278348_vcw",
@@ -5314,7 +5314,7 @@
       }
     ],
     "createdAt": 1780377053669,
-    "modifiedAt": 1782805667368
+    "modifiedAt": 1781259315700
   },
   {
     "id": "m1780485461368_dst",
@@ -6454,7 +6454,7 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781262507867
+    "modifiedAt": 1782801971486
   },
   {
     "id": "m1781264060840_n3d",
@@ -7538,7 +7538,7 @@
       }
     ],
     "createdAt": 1781592442675,
-    "modifiedAt": 1782814299961
+    "modifiedAt": 1782122869944
   },
   {
     "id": "m1781604028492_oao",
@@ -8902,7 +8902,7 @@
       }
     ],
     "createdAt": 1782110101937,
-    "modifiedAt": 1782813956355
+    "modifiedAt": 1782112532369
   },
   {
     "id": "m1782110415905_tzn",
@@ -9228,190 +9228,6 @@
       }
     ],
     "createdAt": 1782667647755,
-    "modifiedAt": 1782800831025
-  },
-  {
-    "id": "m1782813195626_0er",
-    "date": "2026-06-23",
-    "day": "Tuesday",
-    "title": "TVIS- WEEKLY CORE TEAM MEETING",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap2",
-        "type": "Immediate",
-        "text": "OLOGY GIRLS ACTIVITY",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap3",
-        "type": "Immediate",
-        "text": "DIAGNOSTIC TEST ANALAYSIS - PRIMARY AND MIDDLE- MS.RAJALAKSHMI",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap4",
-        "type": "Immediate",
-        "text": "6TO 9- NEW STUDENT FOUNDATION PROGRAM",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "10 AND 12  - ANY STAFF - WHWTHER NEED ANY SR STAFF SUPPORT",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap6",
-        "type": "Immediate",
-        "text": "CLASS 11 NEW GIRLS -RAMYA MAM TO CHECK",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap7",
-        "type": "Immediate",
-        "text": "COUNSELLOR TO MEET ALL GRADE9 TO 12 STUDENTS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap8",
-        "type": "Immediate",
-        "text": "SHANKAR SIR -PT PLAN FOR NEW STUDENTS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap9",
-        "type": "Immediate",
-        "text": "CLASS 11 STUDENTS TEACHING FEEDBACK-SHANMUGAM SIR",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap10",
-        "type": "Immediate",
-        "text": "LAST YEAR READING AND SPOKEN LANGUAGE STUDENTS- HOW ARE THEY KNOW",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap11",
-        "type": "Immediate",
-        "text": "COMMERCE CLUB ACTIVITY AND COMMERCE COMPETITION - RAMYA MAM ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap12",
-        "type": "Immediate",
-        "text": "GIRLS SELF GROOMING CARE NEED GUIDANCE",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1782813195626,
-    "modifiedAt": 1782813195626
-  },
-  {
-    "id": "m1782813941000_6ff",
-    "date": "2026-06-16",
-    "day": "Tuesday",
-    "title": "TVIS WEEKLY CORE TEAM MEETING",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap15",
-        "type": "Immediate",
-        "text": "BIVIESH SIR TO GIVE COMMITMENT TO HEADS FOR NATA PROGRAM",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap16",
-        "type": "Immediate",
-        "text": "HANDWRITTING PROGRAM -LAST YEAR C GRADE STUDENTS STILL THEY ARE SAME ?",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap17",
-        "type": "Immediate",
-        "text": "QUIZ CLUB TCS- DID TYHE STUDENTS MET SHANMUGAM SIR AND SUNNY SIR",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap18",
-        "type": "Immediate",
-        "text": "TCS GOOD RESOURCE PERSON TO IDENTIFY",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap19",
-        "type": "Immediate",
-        "text": "SHANMUGAM SIR AND SUNNY SIR - TO GO TO 9 CLASS AND TALK ABOUT CAREER PREP STUDENTDS",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1782813941000,
-    "modifiedAt": 1782813941000
+    "modifiedAt": 1782801014456
   }
 ]
