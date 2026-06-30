@@ -9229,5 +9229,127 @@
     ],
     "createdAt": 1782667647755,
     "modifiedAt": 1782800831025
+  },
+  {
+    "id": "m1782813195626_0er",
+    "date": "2026-06-23",
+    "day": "Tuesday",
+    "title": "TVIS- WEEKLY CORE TEAM MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "OLOGY GIRLS ACTIVITY",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "DIAGNOSTIC TEST ANALAYSIS - PRIMARY AND MIDDLE- MS.RAJALAKSHMI",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "6TO 9- NEW STUDENT FOUNDATION PROGRAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "10 AND 12  - ANY STAFF - WHWTHER NEED ANY SR STAFF SUPPORT",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "CLASS 11 NEW GIRLS -RAMYA MAM TO CHECK",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "COUNSELLOR TO MEET ALL GRADE9 TO 12 STUDENTS",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "SHANKAR SIR -PT PLAN FOR NEW STUDENTS",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "CLASS 11 STUDENTS TEACHING FEEDBACK-SHANMUGAM SIR",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "LAST YEAR READING AND SPOKEN LANGUAGE STUDENTS- HOW ARE THEY KNOW",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "COMMERCE CLUB ACTIVITY AND COMMERCE COMPETITION - RAMYA MAM ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "GIRLS SELF GROOMING CARE NEED GUIDANCE",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782813195626,
+    "modifiedAt": 1782813195626
   }
 ]
