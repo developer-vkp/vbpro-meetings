@@ -9229,27 +9229,5 @@
     ],
     "createdAt": 1782667647755,
     "modifiedAt": 1782814429027
-  },
-  {
-    "id": "m1782814539879_ce5",
-    "date": "2026-06-30",
-    "day": "Tuesday",
-    "title": "ISFHUISHUI",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap4",
-        "type": "Immediate",
-        "text": "ZSFDSXGDGHSTGSG",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1782814539879,
-    "modifiedAt": 1782814557276
   }
 ]
