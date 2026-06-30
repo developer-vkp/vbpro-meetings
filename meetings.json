@@ -9371,5 +9371,57 @@
     ],
     "createdAt": 1782814960278,
     "modifiedAt": 1782814960278
+  },
+  {
+    "id": "m1782815174709_s5g",
+    "date": "2026-06-16",
+    "day": "Tuesday",
+    "title": "TVIS WEEKLY CORE TEAM MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "HANDWRIITING PROGRAM- LAST YEAR C GRADE STUDENTS PERFORMANCE ARE SAME",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "KIDS CLUB -TCS STUDENTS -SHANMUGAM SIR AND SUNNY SIR TO MEET",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "GOOD RESOURCE PERSON FOR TCS",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "SHANMUGAM SIR , SUNNY SIR, SELVAM - TO MEET CLASS 9 TO 12 - CAREER PREP ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782815174709,
+    "modifiedAt": 1782815174709
   }
 ]
