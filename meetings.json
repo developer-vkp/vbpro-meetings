@@ -9377,7 +9377,7 @@
     "date": "2026-06-16",
     "day": "Tuesday",
     "title": "TVIS WEEKLY CORE TEAM MEETING",
-    "campus": "tvis",
+    "campus": "Unknown",
     "category": "Academics",
     "actionPoints": [
       {
@@ -9422,6 +9422,6 @@
       }
     ],
     "createdAt": 1782815174709,
-    "modifiedAt": 1782819564604
+    "modifiedAt": 1782819568523
   }
 ]
