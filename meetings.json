@@ -9393,7 +9393,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "QUI CLUB -TCS STUDENTS -SHANMUGAM SIR AND SUNNY SIR TO MEET",
+        "text": "QUIZ  CLUB -TCS STUDENTS -SHANMUGAM SIR AND SUNNY SIR TO MEET",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9422,6 +9422,6 @@
       }
     ],
     "createdAt": 1782815174709,
-    "modifiedAt": 1782819625725
+    "modifiedAt": 1782819630090
   }
 ]
