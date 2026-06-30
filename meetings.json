@@ -1975,7 +1975,7 @@
       }
     ],
     "createdAt": 1777878664742,
-    "modifiedAt": 1778042373672
+    "modifiedAt": 1782813488731
   },
   {
     "id": "m1778045142491_67z",
@@ -4798,7 +4798,7 @@
       }
     ],
     "createdAt": 1779525725590,
-    "modifiedAt": 1781603031879
+    "modifiedAt": 1782814310682
   },
   {
     "id": "m1779862278348_vcw",
@@ -6454,7 +6454,7 @@
       }
     ],
     "createdAt": 1781249116276,
-    "modifiedAt": 1781262507867
+    "modifiedAt": 1782801971486
   },
   {
     "id": "m1781264060840_n3d",
@@ -9123,7 +9123,7 @@
     "date": "2026-06-27",
     "day": "Saturday",
     "title": "Re birth - Director sir follow up",
-    "campus": "All Campus",
+    "campus": "All School",
     "category": "Director sir follow up",
     "actionPoints": [
       {
@@ -9228,6 +9228,148 @@
       }
     ],
     "createdAt": 1782667647755,
-    "modifiedAt": 1782814669721
+    "modifiedAt": 1782814429027
+  },
+  {
+    "id": "m1782814960278_eij",
+    "date": "2026-06-23",
+    "day": "Tuesday",
+    "title": "TVIS WEEKLY CORE TEAM MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "NEW TECH SAVY STUDENTS LIST",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "SAT - IELTS FIRST BATCH WHEN IS THE EXAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "OLOGY GIRLS ACTIVITY CHECK",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "DIAGNOSTIC TEST- PRIMARY AND MIDDLE - RAJALAKSHMI MAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "6 TO 9 NEW STUDENTS FOUNDATION PROGRAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "CLASS 10 AND 12- ANU STAFF NEED SR STAFF SUPPORT",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "CLASS 11 NEW GIRLS RAMYA MAM TO CHECK",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "COUNSELLOR TO MEET ALL GIRLS FROM GRADE 9 TO 12",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "CLASS 11 STUDENTS FEEDBACK ABOUT TEACHING - SHANMUGAM SIR",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "SHANKAR SIR- NEW PT PLAN FOR NEW STUDENTS",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "GIRLS STUDENT GROOMING NEED GUIDANCE",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "LAST YEAR READING A ND SPOKEN LANGUAGE-TO CHECK  ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "COMMERCE CLUB ACTIVUTY AND COMMERCE COMPETITION - RAMYA MAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782814960278,
+    "modifiedAt": 1782814960278
   }
 ]
