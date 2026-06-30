@@ -2640,7 +2640,7 @@
       }
     ],
     "createdAt": 1778046393435,
-    "modifiedAt": 1781250528829
+    "modifiedAt": 1782818060220
   },
   {
     "id": "m1778053761492_m0w",
@@ -5124,7 +5124,7 @@
       }
     ],
     "createdAt": 1779981712158,
-    "modifiedAt": 1780292753156
+    "modifiedAt": 1782816612471
   },
   {
     "id": "m1780377053669_ai8",
@@ -6174,7 +6174,7 @@
       }
     ],
     "createdAt": 1780921829330,
-    "modifiedAt": 1781252623360
+    "modifiedAt": 1782818487141
   },
   {
     "id": "m1781242597407_a3t",
@@ -7138,7 +7138,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1781602057023
+    "modifiedAt": 1782817887668
   },
   {
     "id": "m1781267353667_crm",
@@ -7264,7 +7264,7 @@
       }
     ],
     "createdAt": 1781325199101,
-    "modifiedAt": 1781337458922
+    "modifiedAt": 1782817773588
   },
   {
     "id": "m1781499893287_4o2",
@@ -7441,7 +7441,7 @@
       }
     ],
     "createdAt": 1781499893287,
-    "modifiedAt": 1781604379915
+    "modifiedAt": 1782816472392
   },
   {
     "id": "m1781592442675_ml8",
@@ -7776,7 +7776,7 @@
       }
     ],
     "createdAt": 1781699561104,
-    "modifiedAt": 1781699576088
+    "modifiedAt": 1782817717380
   },
   {
     "id": "m1781846378168_kei",
@@ -7958,7 +7958,7 @@
       }
     ],
     "createdAt": 1781846378168,
-    "modifiedAt": 1782119340684
+    "modifiedAt": 1782818282803
   },
   {
     "id": "m1781862324923_s1x",
@@ -8070,7 +8070,7 @@
       }
     ],
     "createdAt": 1781862324923,
-    "modifiedAt": 1782819256760
+    "modifiedAt": 1782815570742
   },
   {
     "id": "m1781934094593_u8q",
@@ -8790,7 +8790,7 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1782099525528
+    "modifiedAt": 1782818173019
   },
   {
     "id": "m1782110101937_wb6",
@@ -9228,6 +9228,200 @@
       }
     ],
     "createdAt": 1782667647755,
-    "modifiedAt": 1782801014456
+    "modifiedAt": 1782816319975
+  },
+  {
+    "id": "m1782814960278_eij",
+    "date": "2026-06-23",
+    "day": "Tuesday",
+    "title": "TVIS WEEKLY CORE TEAM MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "NEW TECH SAVY STUDENTS LIST",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "SAT - IELTS FIRST BATCH WHEN IS THE EXAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "OLOGY GIRLS ACTIVITY CHECK",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "DIAGNOSTIC TEST- PRIMARY AND MIDDLE - RAJALAKSHMI MAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "6 TO 9 NEW STUDENTS FOUNDATION PROGRAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "CLASS 10 AND 12- ANU STAFF NEED SR STAFF SUPPORT",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "CLASS 11 NEW GIRLS RAMYA MAM TO CHECK",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "COUNSELLOR TO MEET ALL GIRLS FROM GRADE 9 TO 12",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "CLASS 11 STUDENTS FEEDBACK ABOUT TEACHING - SHANMUGAM SIR",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "SHANKAR SIR- NEW PT PLAN FOR NEW STUDENTS",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "GIRLS STUDENT GROOMING NEED GUIDANCE",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "LAST YEAR READING A ND SPOKEN LANGUAGE-TO CHECK  ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "COMMERCE CLUB ACTIVUTY AND COMMERCE COMPETITION - RAMYA MAM",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782814960278,
+    "modifiedAt": 1782814960278
+  },
+  {
+    "id": "m1782815174709_s5g",
+    "date": "2026-06-16",
+    "day": "Tuesday",
+    "title": "TVIS WEEKLY CORE TEAM MEETING",
+    "campus": "Unknown",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "HANDWRIITING PROGRAM- LAST YEAR C GRADE STUDENTS PERFORMANCE ARE SAME",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "KIDS CLUB -TCS STUDENTS -SHANMUGAM SIR AND SUNNY SIR TO MEET",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "GOOD RESOURCE PERSON FOR TCS",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "SHANMUGAM SIR , SUNNY SIR, SELVAM - TO MEET CLASS 9 TO 12 - CAREER PREP ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "centraloffice@vkp.co.in",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782815174709,
+    "modifiedAt": 1782819554323
   }
 ]
