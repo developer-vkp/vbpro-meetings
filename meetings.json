@@ -5124,7 +5124,7 @@
       }
     ],
     "createdAt": 1779981712158,
-    "modifiedAt": 1782889667413
+    "modifiedAt": 1782816612471
   },
   {
     "id": "m1780377053669_ai8",
@@ -6248,7 +6248,7 @@
       }
     ],
     "createdAt": 1781242597407,
-    "modifiedAt": 1781253449141
+    "modifiedAt": 1782888984600
   },
   {
     "id": "m1781244190088_bwm",
@@ -7441,7 +7441,7 @@
       }
     ],
     "createdAt": 1781499893287,
-    "modifiedAt": 1782888384630
+    "modifiedAt": 1782816472392
   },
   {
     "id": "m1781592442675_ml8",
@@ -8070,7 +8070,7 @@
       }
     ],
     "createdAt": 1781862324923,
-    "modifiedAt": 1782889110508
+    "modifiedAt": 1782815570742
   },
   {
     "id": "m1781934094593_u8q",
@@ -9422,6 +9422,228 @@
       }
     ],
     "createdAt": 1782815174709,
-    "modifiedAt": 1782889339064
+    "modifiedAt": 1782886016774
+  },
+  {
+    "id": "m1782890083843_dhx",
+    "date": "2026-07-01",
+    "day": "Wednesday",
+    "title": "TVIS & BODHI DIRECT MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "1.\tSTUDENTS UNIFORM MR. SURESH PET SIR TO CHECK INCLUDING HOSTEL, DAY SCHOOL, LT TOO ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "2.\tPET UNIFORM GROUP PHOTO ON FRIDAY(3RD JULY 2026) TO SUBMIT\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "3.\tALL WARDEN WITH UNIFORM GROUP PHOTO ALONG WITH SENIOR HEAD MAM TO SUBMIT TON OR BEFORE FRIDAY(3RD JULY 2026)\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "4.\tINSPECTOR ORIENTATION ATTENDANCE TILAK RAJ SIR TO SUBMIT ON OR BEFORE 2ND JULY  2026-(THURSDAY)\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "5.\tCONTRACT STAFF BIO DATA TO SUBMIT ON OR BEFORE 1ST JULY  2026\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "6.\tMR. SARAVAN KUMAR  - ROUNDS TILAK RAJ SIR TO FOLLOW\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "7.\tBODHI, RSA , CAMPUS OFFICER ROUND WHO IS RESPONSIBLE TILAK RAJ SIR TO SUBMIT ALONG WITH THEIR RESPONSIBILITY\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "8.\tREPTILE TEAM  -IOM – APPROVAL TO GET FROM DIRECTOR SIR\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "9.\tADMIN TEAM TO STRENGTHEN, 2 ADMIN HEAD TO RECRUIT FOR VKP , SALARY SLAB TO CHECK DIRECTOR SIR, ON OR BEFORE 15TH JULY 2026  WEDENSDAY\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "10.\tARUN SHANKAR SIR, RSA RESPONSIBILITY TO SUBMIT\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "11.\tRSA  SURESH SIR WEEKLY VISIT TO CENTRAL OFFICE, CLUSTER PERFORMANCE  WITH SENIOR HEAD MAM\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "12.\tAC ANNUAL MAINTENANCE FOLLOW UP NOT COMPLETED PROPERLY\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "13.\tAC REGULAR NIGHT CHECKING BY WARDEN-  NOT HAPPENING REGULARLY, KALIDAS SIR, TILAK SIR TO  CHECK\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "14.\tSULAIMAN SIR, MORNING  5.30 AM MEETING REGULARITY TILAK RAJ SIR TO CHECK\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "15.\tBHIVEESH SIR -  JULY MONTH DECORATION UPDATED PHOTOS TO COLLECT\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "16.\tTVIS NOTICE BOARD DECORATION PHOTOS TO COLLECT\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "17.\tSTOCK ROOM- MATTRESS COUNT TO UPDATE\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "18.\tMR. RAJU SCRAP MATERIAL DISPOSAL TO GET APPROVAL FROM THE DIRECTOR SIR\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "19.\tTHENI  GARDNER MONTHLY VISIT SCHEDULE TO COLLECT\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "20.\tFOR TRANSPORT NO ALTERNATIVE FOR MR. SIKANDER , MR. SAKER TO FOLLOW\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "21.\tBODHI  NO EMAIL RESPONSE, DAILY PHONE CALL, TO CHECK PROPERLY BY SREEMATHI MAM, SURESH BODHI SIR\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "MS.SANGEETHA/MS.ZEENATH",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782890083843,
+    "modifiedAt": 1782890083843
   }
 ]
