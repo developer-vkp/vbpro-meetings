@@ -9445,7 +9445,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "",
+        "text": "Promotion Calendar - C",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9454,6 +9454,6 @@
       }
     ],
     "createdAt": 1782972047561,
-    "modifiedAt": 1782972094879
+    "modifiedAt": 1782972099073
   }
 ]
