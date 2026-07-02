@@ -9525,7 +9525,7 @@
       {
         "id": "ap10",
         "type": "Immediate",
-        "text": "Last year promotional spend to be redu",
+        "text": "Last year promotional spend to be reduced to 50 %",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9534,6 +9534,6 @@
       }
     ],
     "createdAt": 1782972047561,
-    "modifiedAt": 1782972480031
+    "modifiedAt": 1782972482909
   }
 ]
