@@ -9445,7 +9445,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "Promotion Calendar - C",
+        "text": "Promotion Calendar - Campus wise ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9454,6 +9454,6 @@
       }
     ],
     "createdAt": 1782972047561,
-    "modifiedAt": 1782972099073
+    "modifiedAt": 1782972101999
   }
 ]
