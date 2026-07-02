@@ -9515,7 +9515,7 @@
       {
         "id": "ap9",
         "type": "Immediate",
-        "text": "First 3 months ground level activity",
+        "text": "First 3 months ground level activity - Aug",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9524,6 +9524,6 @@
       }
     ],
     "createdAt": 1782972047561,
-    "modifiedAt": 1782972451863
+    "modifiedAt": 1782972455358
   }
 ]
