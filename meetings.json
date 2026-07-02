@@ -9485,7 +9485,7 @@
       {
         "id": "ap6",
         "type": "Immediate",
-        "text": "Each campus and c",
+        "text": "Each campus and loca",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9494,6 +9494,6 @@
       }
     ],
     "createdAt": 1782972047561,
-    "modifiedAt": 1782972291395
+    "modifiedAt": 1782972294763
   }
 ]
