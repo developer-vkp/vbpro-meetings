@@ -9565,7 +9565,7 @@
       {
         "id": "ap14",
         "type": "Immediate",
-        "text": "Admission Funnel - Strategic Actions\n\n* TC’s (Transfer Certificates)\n* Department Gap\n* ACO Commitment\n* Reach schools within 10–30 km\n* Conduct promotions in local kalyana mandapams\n* Reach 5 districts for hostel admissions\n* Ground-level marketing activities\n* School improvement initiatives\n* Admission team to call feeder schools every fortnight\n\nAdmission Monitoring\n\n* Month-wise enquiry flow\n* Enquiry background/source analysis\n* Scholarship Exam 1 & 2 outcomes\n* Admission validity tracking\n* Admission activity tracker\n* Data collection status\n\nAdministrative Targets\n\n* Admin Team: Review every 50 days / for every 50 hostel students\n* Commitment Dashboard (TAP):\n    * Target\n    * Achieved\n    * Pipeline\n    * Gap\n\nClass-wise Targets\n\n* KG\n* VI\n* IX\n* XI\n* CC\n* LT\n* Foundation\n* Senior Programme",
+        "text": "Admission Funnel - Strategic Actions -\n\n* TC’s (Transfer Certificates)\n* Department Gap\n* ACO Commitment\n* Reach schools within 10–30 km\n* Conduct promotions in local kalyana mandapams\n* Reach 5 districts for hostel admissions\n* Ground-level marketing activities\n* School improvement initiatives\n* Admission team to call feeder schools every fortnight\n\nAdmission Monitoring\n\n* Month-wise enquiry flow\n* Enquiry background/source analysis\n* Scholarship Exam 1 & 2 outcomes\n* Admission validity tracking\n* Admission activity tracker\n* Data collection status\n\nAdministrative Targets\n\n* Admin Team: Review every 50 days / for every 50 hostel students\n* Commitment Dashboard (TAP):\n    * Target\n    * Achieved\n    * Pipeline\n    * Gap\n\nClass-wise Targets\n\n* KG\n* VI\n* IX\n* XI\n* CC\n* LT\n* Foundation\n* Senior Programme",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9574,6 +9574,6 @@
       }
     ],
     "createdAt": 1782972047561,
-    "modifiedAt": 1782973203029
+    "modifiedAt": 1782973226341
   }
 ]
