@@ -9545,7 +9545,7 @@
       {
         "id": "ap12",
         "type": "Immediate",
-        "text": "PR team - to Organize meet and greet",
+        "text": "PR team - to Organize meet and greet (",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9554,6 +9554,6 @@
       }
     ],
     "createdAt": 1782972047561,
-    "modifiedAt": 1782972571329
+    "modifiedAt": 1782972574695
   }
 ]
