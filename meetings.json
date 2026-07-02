@@ -9535,7 +9535,7 @@
       {
         "id": "ap11",
         "type": "Immediate",
-        "text": "Admission Av",
+        "text": "Admission Average of % ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9544,6 +9544,6 @@
       }
     ],
     "createdAt": 1782972047561,
-    "modifiedAt": 1782972497215
+    "modifiedAt": 1782972502067
   }
 ]
