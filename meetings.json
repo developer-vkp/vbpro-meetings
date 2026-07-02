@@ -9535,7 +9535,7 @@
       {
         "id": "ap11",
         "type": "Immediate",
-        "text": "Admission Average of % to be verified by cent",
+        "text": "Admission Average of % to be verified by central office",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -9544,6 +9544,6 @@
       }
     ],
     "createdAt": 1782972047561,
-    "modifiedAt": 1782972508677
+    "modifiedAt": 1782972510484
   }
 ]
