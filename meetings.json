@@ -9423,5 +9423,27 @@
     ],
     "createdAt": 1782815174709,
     "modifiedAt": 1782966013644
+  },
+  {
+    "id": "m1782972047561_xng",
+    "date": "2026-07-01",
+    "day": "Wednesday",
+    "title": "Admission & Branding",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "Promotion Calendar - Central Office",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1782972047561,
+    "modifiedAt": 1782972047561
   }
 ]
