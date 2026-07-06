@@ -9476,7 +9476,7 @@
         "id": "ap5",
         "type": "Immediate",
         "text": "5.\tSENIOR STAFF TO CHECK OLYMPIAD WORKSHEETS AND ALSO INTERACT WITH TOPPER STUDENTS\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -9486,7 +9486,7 @@
         "id": "ap6",
         "type": "Immediate",
         "text": "6.\tMIDDLE SCHOOL – 124 NEW ADMISSION – 8 TOPPERS; 10 STUDENTS JOINED THROUGH SCHOLARSHIP 4 ONLY JOINED IN FOUNDATION\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -9496,7 +9496,7 @@
         "id": "ap7",
         "type": "Immediate",
         "text": "7.\t3 NEW TEACHERS RECRUITED, ALL OLD TEACHERS RETAINED; 2 SECTION INCREASED\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -9534,6 +9534,6 @@
       }
     ],
     "createdAt": 1783311511117,
-    "modifiedAt": 1783311532446
+    "modifiedAt": 1783311538326
   }
 ]
