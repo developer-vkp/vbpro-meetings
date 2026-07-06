@@ -9667,5 +9667,177 @@
     ],
     "createdAt": 1783334340862,
     "modifiedAt": 1783334485421
+  },
+  {
+    "id": "m1783334696957_ias",
+    "date": "2026-07-04",
+    "day": "Saturday",
+    "title": "ERODE- DIRECT DIRECTOR SIR MEETING",
+    "campus": "Erode",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap23",
+        "type": "Immediate",
+        "text": "1. AS PER CAPACITY FOCUS ON INCREASING STRENGTH -ACTION PLAN\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap24",
+        "type": "Immediate",
+        "text": "2. WHAT ARE THE TC REASONS AND FOLLOW UP\nLAST YEAR 44 TC REASONS\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap25",
+        "type": "Immediate",
+        "text": "3. STEPS TO REDUCE TC THIS YEAR \n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap26",
+        "type": "Immediate",
+        "text": "4. G5 TO G8 – TAKE LIST OF STUDENTS AND ANALYSE TC REASONS – ACADEMICS,ACTIVITY,TRANSPORT ISSUES\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap27",
+        "type": "Immediate",
+        "text": "5. PARENTS AND STUDENT CONCERNS TO BE ADDRESSED\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap28",
+        "type": "Immediate",
+        "text": "6. PARENTS FEED BACK FOLLOW UP TO BE FOLLOWED REGULARLY\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap29",
+        "type": "Immediate",
+        "text": "7. TOP 50 FOLLOW UP – MENTOR FOLLOW UP \nCHECK IF ALL STUDENTS ARE FOLLOWING SAME SEQUENCE – R.D. SHARMA\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap30",
+        "type": "Immediate",
+        "text": "8. G11 AND G12 TOP 50 PARENT FEED BACK – 200 STUDENTS DIRECTOR SIR CLOSE FOLLOW \nUP WILL BE DONE\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap31",
+        "type": "Immediate",
+        "text": "9. MIDDLE SCHOOL STRENGTH – 264 – CAPACITY 360; MIDDLE 8 TOPPERS TC 20 TC FROM GRADE 7 – 6 TRANSPORT ISSUE, 7 MOVED TO MATRIC\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap32",
+        "type": "Immediate",
+        "text": "10. CLASS TEACHER 2 PARENT FEEDBACK (TRANSPORT ISSUE, ANDHIYUR , OTHER THAN TRANSFER) WITH FOLLOW UP\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap33",
+        "type": "Immediate",
+        "text": "11. APOORVA – GRADE VI – COMPETITIVE EXAM SUPPORT – TO BE FOLLOWED TILL CLASS IX; CHECK WHAT COMPETITIONS THE STUDENT PARTICIPATED IN AUGUST\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap34",
+        "type": "Immediate",
+        "text": "12. NIKASH – GRADE 9 – FOLLOW\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap35",
+        "type": "Immediate",
+        "text": "13. INIYA -  GRADE 2 – PARENT FEEDBACK TO CHECK\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap36",
+        "type": "Immediate",
+        "text": "14. MADHUKSHA TO MEET PRINCIPAL MAM\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap37",
+        "type": "Immediate",
+        "text": "15. MIDDLE ACO – TO CHECK STUDENT ACADEMIC COMMITMENT\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap38",
+        "type": "Immediate",
+        "text": "16. TOP 200 – DIRECTOR SIR WILL FOLLOW CLOSELY (RANDOM 5 STUDENTS SIR WILL TALK)\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783334696957,
+    "modifiedAt": 1783334696957
   }
 ]
