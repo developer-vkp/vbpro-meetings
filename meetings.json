@@ -9846,7 +9846,7 @@
     "day": "Saturday",
     "title": "PONDICHERRY- DIRECT MEETING WITH DIRECTOR SIR",
     "campus": "Pondicherry",
-    "category": "Academics",
+    "category": "DIRECT MEETING WITH DIRECTOR SIR",
     "actionPoints": [
       {
         "id": "ap39",
@@ -9880,6 +9880,6 @@
       }
     ],
     "createdAt": 1783342999402,
-    "modifiedAt": 1783342999402
+    "modifiedAt": 1783343013931
   }
 ]
