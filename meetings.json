@@ -9985,5 +9985,37 @@
     ],
     "createdAt": 1783343355137,
     "modifiedAt": 1783343416097
+  },
+  {
+    "id": "m1783343490361_sia",
+    "date": "2026-07-06",
+    "day": "Monday",
+    "title": "POLLACHI - DIRECT MEETING WITH DIRECTOR SIR",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap52",
+        "type": "Immediate",
+        "text": "Discussed points\n•\tTransport issue\n•\tFoundation books\n•\tDiagnosis Test Follow up\n•\tClass teacher 2 parent feedback\n•\tMonitoring the homework\n•\tDiagnosis test analysis\n•\tNotes of the lesson should be sign by principal\n•\tTimetable for homework\n•\tMeeting with teacher\n•\tMicro teaching – every saturday\n•\tEca programme plan\n•\tGrassroot need to start\n•\tPower issue\n•\tComputers should be deliver soon\n•\tECA staff to report to class on time, biometric to collect\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap53",
+        "type": "Immediate",
+        "text": "Follow up \n•\tMicro teaching- Coimbatore senior staff give the remark \n•\tDiagnosis follow-up with each student action plan\n•\tPet- kg sports kit and sports ground, need to be ready in 2 days\n•\tSort out the power issue check with owner, email to be sent by Rajesh sir, to the owner cc \n•\tConcentrate in parent feed back\n•\tImmediate reponse to parent feedback and rectify\n•\tEca need to go effectively\n•\tUlganathan  sir to visit pollachi and close pet requirements\n•\tECA staff to report to class on time, biometric to collect\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783343490361,
+    "modifiedAt": 1783343490361
   }
 ]
