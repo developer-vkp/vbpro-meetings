@@ -9913,5 +9913,77 @@
     ],
     "createdAt": 1783343121106,
     "modifiedAt": 1783343147537
+  },
+  {
+    "id": "m1783343355137_r2x",
+    "date": "2026-07-06",
+    "day": "Monday",
+    "title": "POLLACHI- DIRECT MEETING WITH DIRECTOR SIR",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap45",
+        "type": "Immediate",
+        "text": "1. Student Attendance\n•\tReview student attendance.\n•\tTrack attendance class-wise and identify reasons for absentees.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap46",
+        "type": "Immediate",
+        "text": "2. Student Strength & Feedback\n•\tStudent strength reviewed for Classes 6–9(102 students).\n•\tPositive parent feedback (10–15%).\n•\tGARDE 9-2  parents plan to shift to CBSE.\n•\tGRADE 8 -Parents appreciated weekly tests and examinations.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap47",
+        "type": "Immediate",
+        "text": "3. Academic Discussion\n•\tDiscuss topper performance.\n•\tImprove communication with parents regarding academic progress.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap48",
+        "type": "Immediate",
+        "text": "4. Parent Communication\n•\tValidate the academic program.\n•\tMeet Top 50 parents (KG–9th) to understand expectations.\n•\tStrengthen parent-school communication.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap49",
+        "type": "Immediate",
+        "text": "5. Competitions & Activities\n•\tInform parents about activities in advance.\n•\tInteract with around 50 students and collect parent feedback.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap50",
+        "type": "Immediate",
+        "text": "Follow up\n•\t15 topper(grade 6-5, grade 7-4, grade 8-4), which are the activity taking part to follow\n•\tNeeded comparison – in the level of performance.\n•\tNeed to build quality admission – next year.\n•\tAo recruitment pending\n•\tOutside garbage clearance\n•\t12 goals frame requirements\n•\tStaff stability\n•\tSecurity movement\n•\tCctv observation and follow up\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783343355137,
+    "modifiedAt": 1783343355137
   }
 ]
