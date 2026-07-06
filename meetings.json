@@ -9516,7 +9516,7 @@
         "id": "ap9",
         "type": "Immediate",
         "text": "9.\tVELLORE ACOS TO VISIT KOLAPAKKAM – 2 DAYS SHADOWING\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -9526,7 +9526,7 @@
         "id": "ap10",
         "type": "Immediate",
         "text": "10.\tACOS TO GET COMMITMENT FOR STUDENT RETENTION, WORD OF MOUTH, DEPARTMENT TARGET TO ACHIEVE\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -9534,6 +9534,6 @@
       }
     ],
     "createdAt": 1783311511117,
-    "modifiedAt": 1783311541030
+    "modifiedAt": 1783311544638
   }
 ]
