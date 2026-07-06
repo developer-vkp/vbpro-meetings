@@ -9881,5 +9881,37 @@
     ],
     "createdAt": 1783342999402,
     "modifiedAt": 1783343018322
+  },
+  {
+    "id": "m1783343121106_h4g",
+    "date": "2026-07-04",
+    "day": "Saturday",
+    "title": "CHIDAMBARAM- DIRECT MEETING WITH DIRECTOR SIR",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap43",
+        "type": "Immediate",
+        "text": "Discussed points\n•\tFoundation – chemistry and physics to improve teaching\n•\tTc count  should be reduced\n•\tFoundation toppers list\n•\tGrade 8  strength  now - 77 – next year grade 9 strength projection  to be 120\n•\tParents feedback to be  rectify immediately\n•\tGrade 9,  56 student s to continue in grade 11\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap44",
+        "type": "Immediate",
+        "text": "Follow up :\n•\tNew students 9  topper need to follow-up in academic\n•\tFollow-up for open day feedback\n•\tTop 50 mentor feedback\n•\tNo of activity did in the school for admission\n•\tStaff issues\n•\tStudent attendance & staff attendance to monitor\n•\tClass teacher 2 parent feedback\n•\tRegarding  tc – whole year need to discuss – 6 time in a year\n•\tPravasthi  grade 7 foundation  student testimonial to collect\n•\tList of improvements points to work and  implement immediately\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783343121106,
+    "modifiedAt": 1783343121106
   }
 ]
