@@ -9422,6 +9422,250 @@
       }
     ],
     "createdAt": 1782815174709,
-    "modifiedAt": 1783322929589
+    "modifiedAt": 1783311267133
+  },
+  {
+    "id": "m1783311511117_1hn",
+    "date": "2026-07-04",
+    "day": "Saturday",
+    "title": "VELLORE - DIRECTOR SIR DIRECT MEETING",
+    "campus": "Vellore",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "1.\tGRADE 10 – 45 TC LAST YEAR ;  THIS YEAR ALL GRADE 10 STUDENTS TO CONTINUE ",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "2.\tGRADE 10 PTM – 134 OPEN DAY FEEDBACK – SOFT COPY TO SUBMIT ALONG WITH FOLLOW UP ACTION WITH DEPARTMENT AND STAFF MEETING\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "3.\tGRADE 9 – 180 STRENGTH – 38 NEW ADMISSION; 38 NEW PARENT FEEDBACK TO BE COLLECTED\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "4.\tRECRUITMENT – SOCIAL TEACHER DISCONTINUED – NEW RECRUITMENT WITHOUT DIRECTOR SIR APPROVAL SHOULD NOT HAPPEN\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "5.\tSENIOR STAFF TO CHECK OLYMPIAD WORKSHEETS AND ALSO INTERACT WITH TOPPER STUDENTS\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "6.\tMIDDLE SCHOOL – 124 NEW ADMISSION – 8 TOPPERS; 10 STUDENTS JOINED THROUGH SCHOLARSHIP 4 ONLY JOINED IN FOUNDATION\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "7.\t3 NEW TEACHERS RECRUITED, ALL OLD TEACHERS RETAINED; 2 SECTION INCREASED\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "8.\tREADING TO BE FOCUSSED IN VELLORE CAMPUS; ZOOM MEETING TO BE SCHEDULED WITH CENTRAL OFFICE READING INCHARGE WITH FOLLOW UP ACTIONS\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "9.\tVELLORE ACOS TO VISIT KOLAPAKKAM – 2 DAYS SHADOWING\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "10.\tACOS TO GET COMMITMENT FOR STUDENT RETENTION, WORD OF MOUTH, DEPARTMENT TARGET TO ACHIEVE\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783311511117,
+    "modifiedAt": 1783311553598
+  },
+  {
+    "id": "m1783334340862_drr",
+    "date": "2026-07-04",
+    "day": "Saturday",
+    "title": "SALEM-DIRECT DIRECTOR SIR MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "1. LOCATION WISE – OPINION MAKERS ( DETAILS)\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "2. POSITIVE PARENTS FEED BACKS\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "3. TC REASONS\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "4. 1: 1 REFFEREAL TO BE FOLLOWED \n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "5. EXISTING PARENTS EXPECTATIONS\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "6. WORK SHEET VALIDATION  HOW FOR IT IS BETTER THAN PREVIOUS YEAR ?\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "7. ENQUIRY PARENTS-DATABASE -PARENT BACK ROUND ,REASON TO JOIN VBC SALEM\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "8. GRADE 11 THIS YEAR ENQUIRIES- MORE THAN 200\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "9.  45 REFERENCE FROM PARENTS – CURRENT STRENGTH 333 NEXT YEAR PROJECTIONS 666 THROUGH 1:1 PARENT REFERENCE\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "10. FOR KG REQUESTING 3RD LANGUAGE\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "11. NEARBY TOP 3 SCHOOL – NEW ADMISSION STUDENTS COUNT\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "12. HIGH SCHOOL AND HIGHER SECONDARY ACO – RELIEVED – TO RECRUIT IMMEDIATELY\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783334340862,
+    "modifiedAt": 1783334340862
   }
 ]
