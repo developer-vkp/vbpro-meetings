@@ -9919,8 +9919,8 @@
     "date": "2026-07-06",
     "day": "Monday",
     "title": "POLLACHI- DIRECT MEETING WITH DIRECTOR SIR",
-    "campus": "POLLA",
-    "category": "Academics",
+    "campus": "POLLACHI",
+    "category": "DIRECT MEETING WITH DIRECTOR SIR",
     "actionPoints": [
       {
         "id": "ap45",
@@ -9984,6 +9984,6 @@
       }
     ],
     "createdAt": 1783343355137,
-    "modifiedAt": 1783343371633
+    "modifiedAt": 1783343375154
   }
 ]
