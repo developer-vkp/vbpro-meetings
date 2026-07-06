@@ -9674,7 +9674,7 @@
     "day": "Saturday",
     "title": "ERODE- DIRECT DIRECTOR SIR MEETING",
     "campus": "Erode",
-    "category": "Academics",
+    "category": "DIRECT MEETING WITH DIRECTOR SIR",
     "actionPoints": [
       {
         "id": "ap23",
@@ -9838,6 +9838,6 @@
       }
     ],
     "createdAt": 1783334696957,
-    "modifiedAt": 1783334696957
+    "modifiedAt": 1783334783942
   }
 ]
