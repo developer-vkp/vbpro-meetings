@@ -9506,7 +9506,7 @@
         "id": "ap8",
         "type": "Immediate",
         "text": "8.\tREADING TO BE FOCUSSED IN VELLORE CAMPUS; ZOOM MEETING TO BE SCHEDULED WITH CENTRAL OFFICE READING INCHARGE WITH FOLLOW UP ACTIONS\n",
-        "priority": "Medium",
+        "priority": "High",
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
@@ -9534,6 +9534,6 @@
       }
     ],
     "createdAt": 1783311511117,
-    "modifiedAt": 1783311538326
+    "modifiedAt": 1783311541030
   }
 ]
