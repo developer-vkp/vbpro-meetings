@@ -9542,7 +9542,7 @@
     "day": "Saturday",
     "title": "SALEM-DIRECT DIRECTOR SIR MEETING",
     "campus": "SALEM",
-    "category": "Academics",
+    "category": "DIRECT MEETING WITH DIRECTOR SIR",
     "actionPoints": [
       {
         "id": "ap11",
@@ -9666,7 +9666,7 @@
       }
     ],
     "createdAt": 1783334340862,
-    "modifiedAt": 1783334485421
+    "modifiedAt": 1783334763694
   },
   {
     "id": "m1783334696957_ias",
