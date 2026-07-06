@@ -9541,7 +9541,7 @@
     "date": "2026-07-04",
     "day": "Saturday",
     "title": "SALEM-DIRECT DIRECTOR SIR MEETING",
-    "campus": "TVIS",
+    "campus": "SALEM",
     "category": "Academics",
     "actionPoints": [
       {
@@ -9666,6 +9666,6 @@
       }
     ],
     "createdAt": 1783334340862,
-    "modifiedAt": 1783334478079
+    "modifiedAt": 1783334481565
   }
 ]
