@@ -9839,5 +9839,47 @@
     ],
     "createdAt": 1783334696957,
     "modifiedAt": 1783334789605
+  },
+  {
+    "id": "m1783342999402_mg1",
+    "date": "2026-07-04",
+    "day": "Saturday",
+    "title": "PONDICHERRY- DIRECT MEETING WITH DIRECTOR SIR",
+    "campus": "Pondicherry",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap39",
+        "type": "Immediate",
+        "text": "•\tDiscipline meeting\n•\tCommunication skill\n•\tThe strength of students attending the 7.00 pm study sessions needs to be increased.\n•\tAdmission – need to increase strength for next year\n•\tConcentrate on topper students\n•\tNeed to increase foundation , iit,  neet, - strength\n•\tReduce tc for next year\n•\tReading habits among students should be strengthened through systematic implementation-zonal head to follow\n•\tGround facility\n•\tSmp school  conducting  program in grand manner\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap40",
+        "type": "Immediate",
+        "text": "Grade XI Review\n1.\t15 student dropouts- 3 students scoring above 450 marks,4 students scoring above 400 marks.\n2.\tPrevious year's admission: 111 students.\n3.\tCurrent year's admission: 55 students\n4.\tAdditional academic support is required for Grade XI Physics to strengthen conceptual understanding.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap41",
+        "type": "Immediate",
+        "text": "KG to Grade VIII Review\n•\tTarget capacity for next academic year: 750 students, 505 strength current year\n•\t63 tc,current year\n•\tCurrent new admissions: 98 students.\n•\tTotal Class Teachers: 27.\n",
+        "priority": "High",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783342999402,
+    "modifiedAt": 1783342999402
   }
 ]
