@@ -9430,7 +9430,7 @@
     "day": "Saturday",
     "title": "VELLORE - DIRECTOR SIR DIRECT MEETING",
     "campus": "Vellore",
-    "category": "DIRECT MEET",
+    "category": "DIRECT MEETING WITH DIRECTOR",
     "actionPoints": [
       {
         "id": "ap1",
@@ -9534,7 +9534,7 @@
       }
     ],
     "createdAt": 1783311511117,
-    "modifiedAt": 1783334739342
+    "modifiedAt": 1783334743529
   },
   {
     "id": "m1783334340862_drr",
