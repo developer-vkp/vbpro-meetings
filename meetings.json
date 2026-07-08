@@ -10305,7 +10305,7 @@
       {
         "id": "ap26",
         "type": "Immediate",
-        "text": "5.\tClass XI strength: 95, with only 5 students interested in sports. ",
+        "text": "Class XI strength: 95, with only 5 students interested in sports. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10314,6 +10314,6 @@
       }
     ],
     "createdAt": 1783505994894,
-    "modifiedAt": 1783506206918
+    "modifiedAt": 1783506217430
   }
 ]
