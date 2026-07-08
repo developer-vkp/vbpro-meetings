@@ -10101,5 +10101,87 @@
     ],
     "createdAt": 1783492728709,
     "modifiedAt": 1783492728709
+  },
+  {
+    "id": "m1783492880956_htb",
+    "date": "2026-06-30",
+    "day": "Tuesday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "Vasumathi mam\n\n\nMr Arun Shankar of tvis \nIs the incharge of \nRSA .\n\nWhy he has not taken the role sunny sir Shunmugam sir  \n\nYou keep all in tvis with \n No responsibilities.\n\nVasumathi mam why this role was not assigned?",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "Laundry Department - Consolidated Feedback*\n\n1. Nithya Kalyan\n1. Separate count in/out\n2. Manpower increase  \n3. Shortage regularly clear\n\n2. Srimathi Mam\n1. Working time changing\n2. Separate count - Boys/Girls\n3. Time extension\n\n3. Senthil EP\n1. After ironing wait and bundle\n\n4. Gopi Sir\n1. Manpower increase\n2. Washing liquid proper\n3. Missing cloth check\n\n5. Vidyalaya Suresh\n1. School side supervisor\n2. Missing cloth (2 days)\n3. Delivery time timeline\n\n6. Dilli Babu\n1. In out timing check\n2. Regularly take cloth - Hostel\n3. Avoid missing cloth\n\n7. Matric Suresh\n1. Proper communication\n2. Proper in out\n3. Regularly sort out the issues\n\n8. Kalidass Sir\n1. Laundry side one stop educated people\n2. In out counting submit VCR Daily\n\n*9. Dilli babu\n1. 14 Register separately\n2. Proper chemical wash\n3. Proper ironing\n\n10. Director Sir\n1. Every Wednesday meet Valarmathy Mam\n2. Dilli Babu check Biometric\n3. Every day check Zoom\nSo took commitment from each person in zoom",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "How many persons we appoint?\n\nThey all come only with \n\nProblems",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "While motivating \n\nZonal heads achieve their \n\nIIT neet and other targets \n\nAlso closely following \n\nAdmissions accounts Admin safety  sports transport  and laundry issues …so on \n\n\nIn a day \n\nHow much every it is \n\nOverwhelming?\n\nHow to talk less !\n\nAnd also \n\n\nGet the work is what I am trying to \n\nAdapt !\n\nBecause once I talk \n\nMostly people tell\n\nSituations \nProblems \nPeople issues \n\nAnd drain my energy and time ..",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "Vasumathi mam \n\n\nArrange \n\nTvis career prep students vcr meeting class 8-12 std .\n\nSunny sir Shunmugam sir pls chk their weekly classes / and try to Speak to their staff / send a status feedback note to parents",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "Vasumathi mam\n\n\nBy any chance \n\nSr head Mam \nSunny sir\nShunmugam sir\n\nMet  best players in rsa\n\nWho are part of clusters team?\n\nThey can meet and send photo pls .\n\nI’ll be happy to see them committed for clusters  performance!",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "To understand \nNext month plan \nHeads please talk \n\nPenkraft Prabhu \nCcc Bhivesh sir.\nCadence Godwin sir \nCaroline Mam \nDesign thinking incharge \nCareer prep Hema mam \nTechsavvy Hema mam \nSports hod \nMun incharge \nThilaga Mam for arangetram",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783492880956,
+    "modifiedAt": 1783492880956
   }
 ]
