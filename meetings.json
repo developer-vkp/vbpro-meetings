@@ -10325,7 +10325,7 @@
       {
         "id": "ap28",
         "type": "Immediate",
-        "text": "7.\tSports requirements to be followed up. ",
+        "text": "Sports requirements to be followed up. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10334,6 +10334,6 @@
       }
     ],
     "createdAt": 1783505994894,
-    "modifiedAt": 1783506263510
+    "modifiedAt": 1783506271934
   }
 ]
