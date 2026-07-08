@@ -10183,5 +10183,27 @@
     ],
     "createdAt": 1783492880956,
     "modifiedAt": 1783492880956
+  },
+  {
+    "id": "m1783492940967_bpp",
+    "date": "2026-07-01",
+    "day": "Wednesday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "o understand \n July plan \nHeads please talk \n\nPenkraft Prabhu \nCcc Bhivesh sir.\nCadence Godwin sir \nCaroline Mam \nDesign thinking incharge \nCareer prep Hema mam \nTechsavvy Hema mam \nSports hod \nMun incharge \nThilaga Mam for arangetram",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783492940967,
+    "modifiedAt": 1783492940967
   }
 ]
