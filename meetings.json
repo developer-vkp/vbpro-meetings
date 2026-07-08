@@ -10275,7 +10275,7 @@
       {
         "id": "ap23",
         "type": "Immediate",
-        "text": "",
+        "text": "2.\tGrassroot strength needs significant improvement. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10284,6 +10284,6 @@
       }
     ],
     "createdAt": 1783505994894,
-    "modifiedAt": 1783506036086
+    "modifiedAt": 1783506039254
   }
 ]
