@@ -10260,7 +10260,7 @@
     "day": "Tuesday",
     "title": "PET HOD MEETING",
     "campus": "Thiruvallur",
-    "category": "Academics",
+    "category": "Sports",
     "actionPoints": [
       {
         "id": "ap22",
@@ -10274,6 +10274,6 @@
       }
     ],
     "createdAt": 1783505994894,
-    "modifiedAt": 1783506021062
+    "modifiedAt": 1783506025294
   }
 ]
