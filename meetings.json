@@ -10193,7 +10193,7 @@
       {
         "id": "ap16",
         "type": "Immediate",
-        "text": "2.\tPET strength: 4 (2 Male, 2 Female). ",
+        "text": "PET strength: 4 (2 Male, 2 Female). ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10202,6 +10202,6 @@
       }
     ],
     "createdAt": 1783505733919,
-    "modifiedAt": 1783505778614
+    "modifiedAt": 1783505783062
   }
 ]
