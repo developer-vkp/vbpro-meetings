@@ -10016,30 +10016,20 @@
       }
     ],
     "createdAt": 1783343490361,
-    "modifiedAt": 1783505062483
+    "modifiedAt": 1783505217138
   },
   {
-    "id": "m1783505311868_nnu",
+    "id": "m1783505354622_f1s",
     "date": "2026-07-07",
     "day": "Tuesday",
-    "title": "SPORTS",
-    "campus": "KANCHIPURAM",
-    "category": "SPORTS",
+    "title": "PET HOD MEETING",
+    "campus": "POLLACHI",
+    "category": "Academics",
     "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "1.\tScholarship : 18 students\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "2.\t17 pet staff(12 male staff, 5 female staff)\n",
+        "text": "350 in grass root’",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10049,7 +10039,7 @@
       {
         "id": "ap3",
         "type": "Immediate",
-        "text": "3.\tCluster : 16  games( 9 games compulsory achievement)-252 students(80 girls, 172 boys)\n",
+        "text": "Coimbatore last year testimonial videos to play for pollachi parents",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10059,7 +10049,7 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "4.\tOutside practise: swimming, archery, rifle shooting, taekwondo\n",
+        "text": "25th july grass root program to start",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10069,7 +10059,7 @@
       {
         "id": "ap5",
         "type": "Immediate",
-        "text": "5.\tLast year yoga national gold medals, this year compulsory achievement\n",
+        "text": "Daily director sir concall with Rajesh sir, Rammohan sir",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10079,7 +10069,7 @@
       {
         "id": "ap6",
         "type": "Immediate",
-        "text": "6.\tEvening : up to 7.30 pm to change from 3rd floor to ground floor\n",
+        "text": "Safety to check, since no compound wall, during rainy season water in the class room",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10089,7 +10079,7 @@
       {
         "id": "ap7",
         "type": "Immediate",
-        "text": "7.\tSunday up to 3.30  pm practise given\n",
+        "text": "Super visor- 80 pages notes- safety orientation to workers, pet to sign",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10099,7 +10089,7 @@
       {
         "id": "ap8",
         "type": "Immediate",
-        "text": "8.\tGrassroot from grade 2 onwards starting-391 enrolment, last year 450\n\t",
+        "text": "Sports day this year compulsory",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10109,29 +10099,7 @@
       {
         "id": "ap9",
         "type": "Immediate",
-        "text": "9. Outside coach: football, lalika sports academy, 66 boys, Mr. Crisitiano Kilton\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      }
-    ],
-    "createdAt": 1783505311868,
-    "modifiedAt": 1783505351900
-  },
-  {
-    "id": "m1783505751779_mr0",
-    "date": "2026-07-08",
-    "day": "Wednesday",
-    "title": "SPORTS MEETING",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap10",
-        "type": "Immediate",
-        "text": "1.\tGrassroot students: 850 (Boys: 480, Girls: 370). \n",
+        "text": "Annual day will check and confirm later",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10139,9 +10107,31 @@
         "completed": false
       },
       {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "Daily sports practice photographs should be shared with the Director Sir for regular monitoring",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783505354622,
+    "modifiedAt": 1783505537166
+  },
+  {
+    "id": "m1783505663254_xm8",
+    "date": "2026-07-07",
+    "day": "Tuesday",
+    "title": "PET HOD MEETING",
+    "campus": "Pondicherry",
+    "category": "Academics",
+    "actionPoints": [
+      {
         "id": "ap11",
         "type": "Immediate",
-        "text": "2.\tCluster students: 248 (Boys: 148, Girls: 100). \n",
+        "text": "Participating in 10 games, including Shooting, Athletics, Chess, Football, Table Tennis, and Kho-Kho. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10151,7 +10141,7 @@
       {
         "id": "ap12",
         "type": "Immediate",
-        "text": "3.\tParticipating in 13 games: Athletics, Volleyball, Football, Handball, Basketball, Kho-Kho, Kabaddi, Chess, Skating, Boxing, Taekwondo, Judo, and Table Tennis. \n",
+        "text": "Sports scholarship awarded to Dharshan (Shooting). ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10161,7 +10151,7 @@
       {
         "id": "ap13",
         "type": "Immediate",
-        "text": "4.\tCluster target games: Athletics, Boxing, Taekwondo, and Judo. \n",
+        "text": "PET strength: 6. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10171,57 +10161,7 @@
       {
         "id": "ap14",
         "type": "Immediate",
-        "text": "5.\tNational-level target: Athletics and Boxing. \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap15",
-        "type": "Immediate",
-        "text": "6.\tNewly admitted Class XI sports students: 4 girls (3 – Boxing, 1 – Athletics). \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap16",
-        "type": "Immediate",
-        "text": "7.\tSpecial focus games: Ludo and Taekwondo. \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap17",
-        "type": "Immediate",
-        "text": "8.\tHostel PET requirement: 5 (1 Male, 2 Female in position; 2 Male PETs to be recruited). \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap18",
-        "type": "Immediate",
-        "text": "9.\tRequirement: Skating rink. \n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap19",
-        "type": "Immediate",
-        "text": "10.\tPrincipal to personally motivate the Class XI girls and arrange refreshments/snacks during practice sessions. \n",
+        "text": "Strategic goal: Compete strongly against Adit Acharya School and surpass them in Kho-Kho and Volleyball within the next two years. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10229,7 +10169,29 @@
         "completed": false
       }
     ],
-    "createdAt": 1783505751779,
-    "modifiedAt": 1783505751779
+    "createdAt": 1783505663254,
+    "modifiedAt": 1783505663254
+  },
+  {
+    "id": "m1783505733919_419",
+    "date": "2026-07-07",
+    "day": "Tuesday",
+    "title": "PET HOD MEETING",
+    "campus": "Chidambaram",
+    "category": "DIRECT MEETING WITH DIRECTOR SIR",
+    "actionPoints": [
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "1.\tGrassroot students: 79. ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783505733919,
+    "modifiedAt": 1783505759471
   }
 ]
