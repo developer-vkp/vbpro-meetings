@@ -10253,5 +10253,27 @@
     ],
     "createdAt": 1783505733919,
     "modifiedAt": 1783505853198
+  },
+  {
+    "id": "m1783505994894_vpi",
+    "date": "2026-07-07",
+    "day": "Tuesday",
+    "title": "PET HOD MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "Grassroot students: 66 (2026), compared to 35 (2025). ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783505994894,
+    "modifiedAt": 1783505994894
   }
 ]
