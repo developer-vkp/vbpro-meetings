@@ -10319,5 +10319,27 @@
     ],
     "createdAt": 1783493206801,
     "modifiedAt": 1783493206801
+  },
+  {
+    "id": "m1783493234004_m6r",
+    "date": "2026-07-08",
+    "day": "Wednesday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap26",
+        "type": "Immediate",
+        "text": "Today \nzonal heads shall brief about \nSchool wise\n110 students \n—\nPrincipals can tell about  class -11 new students subject teaching feedback cbse iit neet \n\n—\nDirector will discuss with class-2-7 Eng and second lang teachers reading and handwriting plan .\nTeachers can have students count .",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783493234004,
+    "modifiedAt": 1783493234004
   }
 ]
