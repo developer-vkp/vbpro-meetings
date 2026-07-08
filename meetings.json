@@ -10332,7 +10332,7 @@
     "day": "Tuesday",
     "title": "SPORTS MEETING",
     "campus": "All Campus",
-    "category": "Academics",
+    "category": "Sports",
     "actionPoints": [
       {
         "id": "ap10",
@@ -10386,6 +10386,6 @@
       }
     ],
     "createdAt": 1783507010949,
-    "modifiedAt": 1783507023014
+    "modifiedAt": 1783507037062
   }
 ]
