@@ -10126,7 +10126,7 @@
     "day": "Tuesday",
     "title": "PET HOD MEETING",
     "campus": "Pondicherry",
-    "category": "Academics",
+    "category": "Sports",
     "actionPoints": [
       {
         "id": "ap11",
@@ -10170,7 +10170,7 @@
       }
     ],
     "createdAt": 1783505663254,
-    "modifiedAt": 1783505663254
+    "modifiedAt": 1783505898639
   },
   {
     "id": "m1783505733919_419",
@@ -10252,6 +10252,6 @@
       }
     ],
     "createdAt": 1783505733919,
-    "modifiedAt": 1783505880548
+    "modifiedAt": 1783505853198
   }
 ]
