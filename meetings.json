@@ -10178,7 +10178,7 @@
     "day": "Tuesday",
     "title": "PET HOD MEETING",
     "campus": "Chidambaram",
-    "category": "DIRECT MEETING WITH DIRECTOR SIR",
+    "category": "S",
     "actionPoints": [
       {
         "id": "ap15",
@@ -10192,6 +10192,6 @@
       }
     ],
     "createdAt": 1783505733919,
-    "modifiedAt": 1783505759471
+    "modifiedAt": 1783505763062
   }
 ]
