@@ -10205,5 +10205,77 @@
     ],
     "createdAt": 1783492940967,
     "modifiedAt": 1783492940967
+  },
+  {
+    "id": "m1783493100732_b9w",
+    "date": "2026-07-05",
+    "day": "Sunday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "Director direct zoom interaction with school heads and staff members .\n\nCentral office need not ask for any submission or reports .\nSchools shall only have with them .\nOn mentioned dates alone arrange 20 mins zoom meeting .\n\n  ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "July -7 \n\nAll class teachers 2 students daily feedback for June month \nAcos can consolidate as single sheet and have it with them \n\nAny 5 Lt students feedback on teaching and work sheets - principals can ask - I’ll understand \n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "July -8 \nAbout 110 students- zonal heads - school heads understanding- note to parents from director \n\nClass -11 new students academic iit neet teaching feedback- principal discuss - and what action taken \n\nDirector will \nDiscuss with acos \nClass 2-7 std Eng and second lang reading and handwriting list of students \nPls have the class wise count and name list - will ask specific observation daily \n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "July -9 \n\nSaturday  will be CW and HW checking day \nClass 2-8 std \n\nHW follow up \nCw follow up \n\n- acos and principals can chk class wise  any 2  students notebooks sign in the notebook with remarks on teachers notes/teachers checking / completion by students/ neatness/ date mentioned / covered/ index \npresent to me -acos can instruct to all class teachers every Monday to check HW / CW properly and keep it available for checking on Saturday.\n\nCluster students on ground to be met  by principal- \nUnderstand July 7-31  practice plan -  director will understand from captains , and players wether sports hod principal spoke and facilitated \n\nCareer prep students- director will ask any 1 student class -8-12 as mentioned for particular domain training and wether principal spoke to resource staff about overall student performance and targets \n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "July -10 \nTechsavvy core students \nCcc core students \nTrinty students \nCambridge students- director will talk to any one new parent about  June classes and their wards learning \n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "July -11\n\nPrincipals should arrange \nClass 9/10 top 20 foundation students parents meeting with Sr staff iit neet on July 9 and 10\nAfter that director \nWill discuss with iit neet sr team all\nSchools with srpl sir about their class -9 /10 toppers foundations worksheets and Olympiad support and parents expectations \n\nDirector will discuss and understand about \nMaths SL students class 3-8 std with maths teachers . Principals can chk the maths SL notebooks and give a slip test for 10 marks on July -10 std .",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783493100732,
+    "modifiedAt": 1783493100732
   }
 ]
