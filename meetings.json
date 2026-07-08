@@ -10059,5 +10059,47 @@
     ],
     "createdAt": 1783492619361,
     "modifiedAt": 1783492619361
+  },
+  {
+    "id": "m1783492728709_8m0",
+    "date": "2026-06-28",
+    "day": "Sunday",
+    "title": "DIRECTOR SIR FOLLOW UP",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "Sr head Mam\nVasumathi mam \n\nAsk sunny sir Shunmugam sir Shankar ped \n\nPls  chk daily who is  talking \n\nTo the basket ball team in Singapore",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "Zonal head Lavanya mam \n\nGood morning mam \n\nWhen you are free \n\nPls call casually and ask \n\nBala sir \n\nWether he will achieve \n\n50 iit target\n\nOr just \n\n He gave the target Mam",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "Sr head Mam \n\nPls ask \n\nAlagar sir \n\nWhen he is planting \n\nThe tree saplings in Kanchipuram \n\nAnd how is planning in all our campuses to \n\nReach 5000 trees count \n\nOur overall target is \n\n10,000 trees .\n\n In  thiruvarur he can plan \n\n1000 saplings Mam",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783492728709,
+    "modifiedAt": 1783492728709
   }
 ]
