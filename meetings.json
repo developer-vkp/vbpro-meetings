@@ -10059,7 +10059,7 @@
       {
         "id": "ap5",
         "type": "Immediate",
-        "text": "4.\tDaily director sir concall with Rajesh sir, Rammohan sir",
+        "text": "Daily director sir concall with Rajesh sir, Rammohan sir",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10098,6 +10098,6 @@
       }
     ],
     "createdAt": 1783505354622,
-    "modifiedAt": 1783505475942
+    "modifiedAt": 1783505478646
   }
 ]
