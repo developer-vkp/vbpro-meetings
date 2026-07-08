@@ -10024,7 +10024,7 @@
     "day": "Tuesday",
     "title": "PET HOD MEETING",
     "campus": "POLLACHI",
-    "category": "SPORTS",
+    "category": "Academics",
     "actionPoints": [
       {
         "id": "ap2",
@@ -10079,7 +10079,7 @@
       {
         "id": "ap7",
         "type": "Immediate",
-        "text": "6.\tSuper visor- 80 pages notes- safety orientation to workers, pet to sign",
+        "text": "Super visor- 80 pages notes- safety orientation to workers, pet to sign",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10089,7 +10089,27 @@
       {
         "id": "ap8",
         "type": "Immediate",
-        "text": "7.\tSports day this year compulsory",
+        "text": "Sports day this year compulsory",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "Annual day will check and confirm later",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "Daily sports practice photographs should be shared with the Director Sir for regular monitoring",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10098,20 +10118,20 @@
       }
     ],
     "createdAt": 1783505354622,
-    "modifiedAt": 1783505657338
+    "modifiedAt": 1783505537166
   },
   {
-    "id": "m1783505600682_z4e",
+    "id": "m1783505663254_xm8",
     "date": "2026-07-07",
     "day": "Tuesday",
-    "title": "SPORTS MEETING",
-    "campus": "Vellore",
-    "category": "SPORTS",
+    "title": "PET HOD MEETING",
+    "campus": "Pondicherry",
+    "category": "Academics",
     "actionPoints": [
       {
-        "id": "ap1",
+        "id": "ap11",
         "type": "Immediate",
-        "text": "1.\t262  last year  grass root, this year : 183\n",
+        "text": "Participating in 10 games, including Shooting, Athletics, Chess, Football, Table Tennis, and Kho-Kho. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10119,9 +10139,9 @@
         "completed": false
       },
       {
-        "id": "ap2",
+        "id": "ap12",
         "type": "Immediate",
-        "text": "2.\tScholarship: 11( 5 new student, special talent)\n",
+        "text": "Sports scholarship awarded to Dharshan (Shooting). ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10129,9 +10149,9 @@
         "completed": false
       },
       {
-        "id": "ap3",
+        "id": "ap13",
         "type": "Immediate",
-        "text": "3.\tSkating outside coach , principal should meet skating coach in principal office, skating tournament, Mr. Sekar(master  Prajjin grade 8  going outside for training)\n",
+        "text": "PET strength: 6. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10139,29 +10159,9 @@
         "completed": false
       },
       {
-        "id": "ap4",
+        "id": "ap14",
         "type": "Immediate",
-        "text": "4.\tOutside coach: chess- Mr. karthikeyan / yoga- Mr. suresh\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "5.\tCluster: 156\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap6",
-        "type": "Immediate",
-        "text": "6.\tDirector sir to interact with volley ball: mr. Praveen kumar, Aaksah, football:Mr. Arokiya raj, coco: mr. Aksah, athletics : pavithra, inba kumar, suresh\n",
+        "text": "Strategic goal: Compete strongly against Adit Acharya School and surpass them in Kho-Kho and Volleyball within the next two years. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10169,7 +10169,7 @@
         "completed": false
       }
     ],
-    "createdAt": 1783505600682,
-    "modifiedAt": 1783505641026
+    "createdAt": 1783505663254,
+    "modifiedAt": 1783505663254
   }
 ]
