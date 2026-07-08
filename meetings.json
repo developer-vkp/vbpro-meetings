@@ -10049,7 +10049,7 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "3.\t25th july grass root program to start",
+        "text": "25th july grass root program to start",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10098,6 +10098,6 @@
       }
     ],
     "createdAt": 1783505354622,
-    "modifiedAt": 1783505473030
+    "modifiedAt": 1783505475942
   }
 ]
