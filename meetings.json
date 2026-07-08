@@ -10178,7 +10178,7 @@
     "day": "Tuesday",
     "title": "PET HOD MEETING",
     "campus": "Chidambaram",
-    "category": "S",
+    "category": "Sports",
     "actionPoints": [
       {
         "id": "ap15",
@@ -10192,6 +10192,6 @@
       }
     ],
     "createdAt": 1783505733919,
-    "modifiedAt": 1783505763062
+    "modifiedAt": 1783505764678
   }
 ]
