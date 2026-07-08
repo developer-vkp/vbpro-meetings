@@ -10106,7 +10106,7 @@
     "day": "Tuesday",
     "title": "SPORTS MEETING",
     "campus": "Vellore",
-    "category": "Academics",
+    "category": "Other",
     "actionPoints": [
       {
         "id": "ap1",
@@ -10170,6 +10170,6 @@
       }
     ],
     "createdAt": 1783505600682,
-    "modifiedAt": 1783505625215
+    "modifiedAt": 1783505633403
   }
 ]
