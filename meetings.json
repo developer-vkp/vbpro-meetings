@@ -10023,8 +10023,8 @@
     "date": "2026-07-07",
     "day": "Tuesday",
     "title": "SPORTS",
-    "campus": "KANCHIP",
-    "category": "Academics",
+    "campus": "KANCHIPURAM",
+    "category": "DIRECT MEETING WITH DIRECTOR SIR",
     "actionPoints": [
       {
         "id": "ap1",
@@ -10118,6 +10118,6 @@
       }
     ],
     "createdAt": 1783505311868,
-    "modifiedAt": 1783505328198
+    "modifiedAt": 1783505332389
   }
 ]
