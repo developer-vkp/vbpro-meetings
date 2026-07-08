@@ -10016,30 +10016,20 @@
       }
     ],
     "createdAt": 1783343490361,
-    "modifiedAt": 1783505062483
+    "modifiedAt": 1783505217138
   },
   {
-    "id": "m1783505311868_nnu",
+    "id": "m1783505354622_f1s",
     "date": "2026-07-07",
     "day": "Tuesday",
-    "title": "SPORTS",
-    "campus": "KANCHIPURAM",
-    "category": "SPORTS",
+    "title": "PET HOD MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
     "actionPoints": [
-      {
-        "id": "ap1",
-        "type": "Immediate",
-        "text": "1.\tScholarship : 18 students\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "2.\t17 pet staff(12 male staff, 5 female staff)\n",
+        "text": "350 in grass root’",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10049,7 +10039,7 @@
       {
         "id": "ap3",
         "type": "Immediate",
-        "text": "3.\tCluster : 16  games( 9 games compulsory achievement)-252 students(80 girls, 172 boys)\n",
+        "text": "2.\tCoimbatore last year testimonial videos to play for pollachi parents",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10059,57 +10049,7 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "4.\tOutside practise: swimming, archery, rifle shooting, taekwondo\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap5",
-        "type": "Immediate",
-        "text": "5.\tLast year yoga national gold medals, this year compulsory achievement\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap6",
-        "type": "Immediate",
-        "text": "6.\tEvening : up to 7.30 pm to change from 3rd floor to ground floor\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap7",
-        "type": "Immediate",
-        "text": "7.\tSunday up to 3.30  pm practise given\n",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap8",
-        "type": "Immediate",
-        "text": "8.\tGrassroot from grade 2 onwards starting-391 enrolment, last year 450\n\t",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "",
-        "timeline": "",
-        "completed": false
-      },
-      {
-        "id": "ap9",
-        "type": "Immediate",
-        "text": "9. Outside coach: football, lalika sports academy, 66 boys, Mr. Crisitiano Kilton\n",
+        "text": "3.\t25th july grass root program to start",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10117,7 +10057,7 @@
         "completed": false
       }
     ],
-    "createdAt": 1783505311868,
-    "modifiedAt": 1783505351900
+    "createdAt": 1783505354622,
+    "modifiedAt": 1783505354622
   }
 ]
