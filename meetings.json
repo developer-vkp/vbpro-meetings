@@ -10223,7 +10223,7 @@
       {
         "id": "ap19",
         "type": "Immediate",
-        "text": "5.\tCluster target games: Chess, Badminton, and Skating. ",
+        "text": "Cluster target games: Chess, Badminton, and Skating. ",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10232,6 +10232,6 @@
       }
     ],
     "createdAt": 1783505733919,
-    "modifiedAt": 1783505821702
+    "modifiedAt": 1783505824086
   }
 ]
