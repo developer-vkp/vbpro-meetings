@@ -10024,7 +10024,7 @@
     "day": "Tuesday",
     "title": "PET HOD MEETING",
     "campus": "POLLACHI",
-    "category": "Sports",
+    "category": "Academics",
     "actionPoints": [
       {
         "id": "ap2",
@@ -10118,7 +10118,7 @@
       }
     ],
     "createdAt": 1783505354622,
-    "modifiedAt": 1783505934510
+    "modifiedAt": 1783505537166
   },
   {
     "id": "m1783505663254_xm8",
@@ -10126,7 +10126,7 @@
     "day": "Tuesday",
     "title": "PET HOD MEETING",
     "campus": "Pondicherry",
-    "category": "Sports",
+    "category": "Academics",
     "actionPoints": [
       {
         "id": "ap11",
@@ -10170,7 +10170,7 @@
       }
     ],
     "createdAt": 1783505663254,
-    "modifiedAt": 1783505902470
+    "modifiedAt": 1783505663254
   },
   {
     "id": "m1783505733919_419",
@@ -10252,20 +10252,20 @@
       }
     ],
     "createdAt": 1783505733919,
-    "modifiedAt": 1783505853198
+    "modifiedAt": 1783505880548
   },
   {
-    "id": "m1783505994894_vpi",
+    "id": "m1783506041891_6gd",
     "date": "2026-07-07",
     "day": "Tuesday",
-    "title": "PET HOD MEETING",
-    "campus": "Thiruvallur",
-    "category": "Sports",
+    "title": "SPORTS MEETING",
+    "campus": "Vellore",
+    "category": "Academics",
     "actionPoints": [
       {
-        "id": "ap22",
+        "id": "ap3",
         "type": "Immediate",
-        "text": "Grassroot students: 66 (2026), compared to 35 (2025). ",
+        "text": "1.\t262  last year  grass root, this year : 183\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10273,9 +10273,49 @@
         "completed": false
       },
       {
-        "id": "ap23",
+        "id": "ap4",
         "type": "Immediate",
-        "text": "2.\tGrassroot strength needs significant improvement. ",
+        "text": "2.\tScholarship: 11( 5 new student, special talent)\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "3.\tSkating outside coach , principal should meet skating coach in principal office, skating tournament, Mr. Sekar(master  Prajjin grade 8  going outside for training)\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "4.\tOutside coach: chess- Mr. karthikeyan / yoga- Mr. suresh\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "5.\tCluster: 156\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "6.\tDirector sir to interact with volley ball: mr. Praveen kumar, Aaksah, football:Mr. Arokiya raj, coco: mr. Aksah, athletics : pavithra, inba kumar, suresh\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10283,7 +10323,7 @@
         "completed": false
       }
     ],
-    "createdAt": 1783505994894,
-    "modifiedAt": 1783506039254
+    "createdAt": 1783506041891,
+    "modifiedAt": 1783506041891
   }
 ]
