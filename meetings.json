@@ -10079,7 +10079,7 @@
       {
         "id": "ap7",
         "type": "Immediate",
-        "text": "6.\tSuper visor- 80 pages notes- safety orientation to workers, pet to sign",
+        "text": "Super visor- 80 pages notes- safety orientation to workers, pet to sign",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10089,7 +10089,7 @@
       {
         "id": "ap8",
         "type": "Immediate",
-        "text": "7.\tSports day this year compulsory",
+        "text": "7.Sports day this year compulsory",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10098,6 +10098,6 @@
       }
     ],
     "createdAt": 1783505354622,
-    "modifiedAt": 1783505481558
+    "modifiedAt": 1783505486407
   }
 ]
