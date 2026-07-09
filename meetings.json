@@ -10394,7 +10394,7 @@
     "day": "Tuesday",
     "title": "PET HOD MEETING",
     "campus": "Tondiarpet",
-    "category": "Academics",
+    "category": "Sports",
     "actionPoints": [
       {
         "id": "ap2",
@@ -10478,6 +10478,6 @@
       }
     ],
     "createdAt": 1783578145755,
-    "modifiedAt": 1783578145755
+    "modifiedAt": 1783578162252
   }
 ]
