@@ -10486,7 +10486,7 @@
     "day": "Thursday",
     "title": "SPORTS",
     "campus": "KANCHIPURAM",
-    "category": "Other",
+    "category": "SPORTS",
     "actionPoints": [
       {
         "id": "ap1",
@@ -10500,7 +10500,7 @@
       }
     ],
     "createdAt": 1783599015835,
-    "modifiedAt": 1783599280637
+    "modifiedAt": 1783599283156
   },
   {
     "id": "m1783599027979_fqp",
