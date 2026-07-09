@@ -10513,7 +10513,7 @@
       {
         "id": "ap2",
         "type": "Immediate",
-        "text": "17 pet staff(12 male staff, 5 female staff)\n3",
+        "text": "17 pet staff(12 male staff, 5 female staff)\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10522,6 +10522,6 @@
       }
     ],
     "createdAt": 1783599027979,
-    "modifiedAt": 1783599041035
+    "modifiedAt": 1783599045922
   }
 ]
