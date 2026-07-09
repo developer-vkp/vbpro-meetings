@@ -10387,5 +10387,97 @@
     ],
     "createdAt": 1783507010949,
     "modifiedAt": 1783577386808
+  },
+  {
+    "id": "m1783578145755_8aj",
+    "date": "2026-07-07",
+    "day": "Tuesday",
+    "title": "PET HOD MEETING",
+    "campus": "Tondiarpet",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "No. of Grassroots student: ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "No. of grassroots sports : 8 , Kabbadi , Volleyball,Throwball, Football,Carrom, Athletics,Badminton , Cricket ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "No. of Cluster students : 58",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "No.of PET’s – 6 , M-3, F- 3",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "No. of Cluster Sports :  7, Volleyball/ Boxing/Badminton/Athletics/Football/Cricket/Chess \n Target – 2 , Volleyball/ Boxing",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "No.of XI girls – 6 yet to register if the portal opens will register .",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "Boxing –Sarvesh trained by internal coach PET Mr.Dhilip and Abi  trained by external coach Mr. Sathish  ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "ID card for new teachers not yet received .",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783578145755,
+    "modifiedAt": 1783578145755
   }
 ]
