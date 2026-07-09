@@ -10557,7 +10557,7 @@
       {
         "id": "ap4",
         "type": "Immediate",
-        "text": "4.\tOutside practise: swimming, archery, rifle shooting, taekwondo\n5.\tLast year yoga national gold medals, this year compulsory achievement\n6.\tEvening : up to 7.30 pm to change from 3rd floor to ground floor\n7.\tSunday up to 3.30  pm practise given\n8.\tGrassroot from grade 2 onwards starting-391 enrolment, last year 450\n9.\tOutside coach: football, lalika sports academy, 66 boys, Mr. Crisitiano Kilton\n",
+        "text": "4.\tOutside practise: swimming, archery, rifle shooting, taekwondo\n",
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "",
@@ -10566,6 +10566,6 @@
       }
     ],
     "createdAt": 1783599079134,
-    "modifiedAt": 1783599084317
+    "modifiedAt": 1783599089980
   }
 ]
