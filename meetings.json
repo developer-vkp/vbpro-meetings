@@ -8947,7 +8947,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "CONCERN GOT FROM PARENTS AND STARTED  THE EVENING CLASSES FOR OLYMPIAD AND CAMBRIDGE",
+            "addedAt": 1783664362866
+          }
+        ]
       },
       {
         "id": "ap13",
@@ -9031,7 +9038,7 @@
       }
     ],
     "createdAt": 1782110415905,
-    "modifiedAt": 1783664360994
+    "modifiedAt": 1783664431691
   },
   {
     "id": "m1782112706465_ua5",
