@@ -9798,7 +9798,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "YET TO GET THE LIST",
+            "addedAt": 1783673196940
+          }
+        ]
       },
       {
         "id": "ap22",
@@ -9812,7 +9819,7 @@
       }
     ],
     "createdAt": 1783334340862,
-    "modifiedAt": 1783673195269
+    "modifiedAt": 1783673209317
   },
   {
     "id": "m1783334696957_ias",
