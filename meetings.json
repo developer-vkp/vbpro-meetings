@@ -9642,7 +9642,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "MARKETING TEAM IS WORKING ON THE LIST , LOCATION WISE",
+            "addedAt": 1783672858437
+          }
+        ]
       },
       {
         "id": "ap12",
@@ -9756,7 +9763,7 @@
       }
     ],
     "createdAt": 1783334340862,
-    "modifiedAt": 1783672851221
+    "modifiedAt": 1783672858438
   },
   {
     "id": "m1783334696957_ias",
