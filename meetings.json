@@ -9018,7 +9018,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "FIRST LEVEL-COMPLETED",
+            "addedAt": 1783664515642
+          }
+        ]
       },
       {
         "id": "ap18",
@@ -9052,7 +9059,7 @@
       }
     ],
     "createdAt": 1782110415905,
-    "modifiedAt": 1783664506298
+    "modifiedAt": 1783664515643
   },
   {
     "id": "m1782112706465_ua5",
