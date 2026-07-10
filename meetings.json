@@ -6934,6 +6934,11 @@
             "date": "2026-06-16",
             "text": "tvis bodhi- follow up is going on",
             "addedAt": 1781599757776
+          },
+          {
+            "date": "2026-07-10",
+            "text": "QUERIES CONSOLIDATION  AND FOLLOW UP DONEFOR TVIS AND BODHI",
+            "addedAt": 1783663556755
           }
         ]
       },
@@ -7138,7 +7143,7 @@
       }
     ],
     "createdAt": 1781267072697,
-    "modifiedAt": 1783663555843
+    "modifiedAt": 1783663564378
   },
   {
     "id": "m1781267353667_crm",
