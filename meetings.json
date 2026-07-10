@@ -9693,7 +9693,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "STAFF REFERRAL LIST TAKEN AND FOLLOW UP IS DONE",
+            "addedAt": 1783673000589
+          }
+        ]
       },
       {
         "id": "ap15",
@@ -9777,7 +9784,7 @@
       }
     ],
     "createdAt": 1783334340862,
-    "modifiedAt": 1783672998725
+    "modifiedAt": 1783673010301
   },
   {
     "id": "m1783334696957_ias",
