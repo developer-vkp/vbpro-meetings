@@ -10677,5 +10677,87 @@
     ],
     "createdAt": 1783599187291,
     "modifiedAt": 1783658819372
+  },
+  {
+    "id": "m1783661659694_zts",
+    "date": "2026-07-10",
+    "day": "Friday",
+    "title": "PET HOD MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "1.\t96 boys, 43  girls",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Sharon ",
+        "timeline": "2026-07-07",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "2.\t10 games in grass root ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "3.\tDirector sir Each one game, parent to interact, continue in the same game, how they feel improvement",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "4.\tSunday attendance to check: 6.30 am to 9.45 am",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "5.\tIntensive camp schedule dates with external coach – Ms. Aruna to check",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "6.\tBus safety to check",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Sharon",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "7.\tEca staff, attitude to take care",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Sharon",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1783661659694,
+    "modifiedAt": 1783661659694
   }
 ]
