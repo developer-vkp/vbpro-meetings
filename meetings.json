@@ -9754,7 +9754,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "THIS YEAR TARGET IS YET TO SET",
+            "addedAt": 1783673085093
+          }
+        ]
       },
       {
         "id": "ap19",
@@ -9798,7 +9805,7 @@
       }
     ],
     "createdAt": 1783334340862,
-    "modifiedAt": 1783673083604
+    "modifiedAt": 1783673127060
   },
   {
     "id": "m1783334696957_ias",
