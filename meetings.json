@@ -9710,7 +9710,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "FEEDBACK RECIVED, FOLLOW UP DONE",
+            "addedAt": 1783673022237
+          }
+        ]
       },
       {
         "id": "ap16",
@@ -9784,7 +9791,7 @@
       }
     ],
     "createdAt": 1783334340862,
-    "modifiedAt": 1783673018653
+    "modifiedAt": 1783673022237
   },
   {
     "id": "m1783334696957_ias",
