@@ -6229,7 +6229,14 @@
         "status": "Open",
         "assignedTo": "Mr.riyaz/Ms.srivatsini",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "COUNSELLING IS DONE",
+            "addedAt": 1783663840082
+          }
+        ]
       },
       {
         "id": "ap5",
@@ -6253,7 +6260,7 @@
       }
     ],
     "createdAt": 1781242597407,
-    "modifiedAt": 1783663837155
+    "modifiedAt": 1783663840082
   },
   {
     "id": "m1781244190088_bwm",
