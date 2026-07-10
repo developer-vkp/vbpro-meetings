@@ -9001,7 +9001,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "ONLY CORE STUDENTS- CHITHRAVATHI",
+            "addedAt": 1783664491610
+          }
+        ]
       },
       {
         "id": "ap17",
@@ -9045,7 +9052,7 @@
       }
     ],
     "createdAt": 1782110415905,
-    "modifiedAt": 1783664488187
+    "modifiedAt": 1783664491610
   },
   {
     "id": "m1782112706465_ua5",
