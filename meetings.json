@@ -9045,7 +9045,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "WILL CONFIRM LATER",
+            "addedAt": 1783664616874
+          }
+        ]
       },
       {
         "id": "ap20",
@@ -9066,7 +9073,7 @@
       }
     ],
     "createdAt": 1782110415905,
-    "modifiedAt": 1783664614650
+    "modifiedAt": 1783664616874
   },
   {
     "id": "m1782112706465_ua5",
