@@ -9676,7 +9676,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "REMARKS DONE, FOLLOW UP WILL BE ADDED",
+            "addedAt": 1783672919645
+          }
+        ]
       },
       {
         "id": "ap14",
@@ -9770,7 +9777,7 @@
       }
     ],
     "createdAt": 1783334340862,
-    "modifiedAt": 1783672916077
+    "modifiedAt": 1783672919645
   },
   {
     "id": "m1783334696957_ias",
