@@ -8981,7 +8981,14 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "LMS UTILIZATION IS DONE REGULARLY",
+            "addedAt": 1783664682890
+          }
+        ]
       },
       {
         "id": "ap15",
@@ -9080,7 +9087,7 @@
       }
     ],
     "createdAt": 1782110415905,
-    "modifiedAt": 1783664679370
+    "modifiedAt": 1783664682891
   },
   {
     "id": "m1782112706465_ua5",
