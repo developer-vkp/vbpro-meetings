@@ -8362,7 +8362,7 @@
         "text": "\"To plant 300 -500 trees in Kanchipuram school I am following the gardener for nearly 3 months would have take 25 follow up calls . Hoping to see lush \n green campus\"",
         "priority": "Medium",
         "status": "Open",
-        "assignedTo": "MR.BALAJI",
+        "assignedTo": "👤 MS.SANGEETHA",
         "timeline": "2026-05-27",
         "completed": false,
         "followUps": [
@@ -8790,7 +8790,7 @@
       }
     ],
     "createdAt": 1781934094593,
-    "modifiedAt": 1782818173019
+    "modifiedAt": 1783662040755
   },
   {
     "id": "m1782110101937_wb6",
@@ -10733,7 +10733,7 @@
         "priority": "Medium",
         "status": "Open",
         "assignedTo": "Sharon",
-        "timeline": "2026-07-07",
+        "timeline": "",
         "completed": false
       },
       {
@@ -10758,68 +10758,6 @@
       }
     ],
     "createdAt": 1783661659694,
-    "modifiedAt": 1783662037675
-  },
-  {
-    "id": "m1783662014874_wdu",
-    "date": "2026-07-10",
-    "day": "Friday",
-    "title": "PET HOD MEETING",
-    "campus": "All Campus",
-    "category": "Academics",
-    "actionPoints": [
-      {
-        "id": "ap9",
-        "type": "Immediate",
-        "text": "1.\tTotal school strength: 196. ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Sharon",
-        "timeline": "2026-07-07",
-        "completed": false
-      },
-      {
-        "id": "ap10",
-        "type": "Immediate",
-        "text": "2.\tConduct two monthly review calls with AD Ma'am and RSA Suresh Sir regarding sports. ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Sharon",
-        "timeline": "2026-07-07",
-        "completed": false
-      },
-      {
-        "id": "ap11",
-        "type": "Immediate",
-        "text": "3.\tReview sports facilities and monitor the accountability of both internal and external coaches. ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Sharon",
-        "timeline": "2026-07-07",
-        "completed": false
-      },
-      {
-        "id": "ap12",
-        "type": "Immediate",
-        "text": "4.\tRSA Suresh Sir to submit an immediate three-month action plan and present it to the respected Director Sir. ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Sharon",
-        "timeline": "2026-07-07",
-        "completed": false
-      },
-      {
-        "id": "ap13",
-        "type": "Immediate",
-        "text": "5.\tExternal coach discipline and performance to be monitored regularly. ",
-        "priority": "Medium",
-        "status": "Open",
-        "assignedTo": "Sharon",
-        "timeline": "2026-07-07",
-        "completed": false
-      }
-    ],
-    "createdAt": 1783662014874,
-    "modifiedAt": 1783662014874
+    "modifiedAt": 1783661841753
   }
 ]
