@@ -9055,11 +9055,18 @@
         "status": "Open",
         "assignedTo": "",
         "timeline": "",
-        "completed": false
+        "completed": false,
+        "followUps": [
+          {
+            "date": "2026-07-10",
+            "text": "IMMEDIATEACTION / CALL IS TAKEN, FOLLOW UP IS DONE, REPORT IS MAINTAINED",
+            "addedAt": 1783664583098
+          }
+        ]
       }
     ],
     "createdAt": 1782110415905,
-    "modifiedAt": 1783664581034
+    "modifiedAt": 1783664584498
   },
   {
     "id": "m1782112706465_ua5",
