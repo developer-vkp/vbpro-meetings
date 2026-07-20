@@ -11158,5 +11158,117 @@
     ],
     "createdAt": 1784520557333,
     "modifiedAt": 1784520585957
+  },
+  {
+    "id": "m1784520901445_kpx",
+    "date": "2026-07-18",
+    "day": "Saturday",
+    "title": "TANJORE-DIRECT MEETING WITH DIRECTOR SIR",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap23",
+        "type": "Immediate",
+        "text": " 1. ACHIEVE GRADE XI ADMISSION TARGET (210 DAY SCHOLARS + 110 HOSTEL STUDENTS) AND GRADE IX ADMISSION TARGET (75 DAY SCHOLARS + 50 HOSTEL STUDENTS).",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap24",
+        "type": "Immediate",
+        "text": " 2. INCREASE COMMERCE ADMISSIONS FROM APPROXIMATELY 17 TO 50 STUDENTS. INCREASE IIT AND NEET BATCH STRENGTH AS PER THE ANNUAL TARGETS. ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap25",
+        "type": "Immediate",
+        "text": "3. MEET PARENTS OF GRADE IX & X SLOW LEARNERS, COUNSEL THEM ABOUT THE COMMERCE STREAM, AND SUBMIT A LIST OF AT LEAST 50 PROSPECTIVE COMMERCE STUDENTS. ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap26",
+        "type": "Immediate",
+        "text": "4. ORGANIZE CAREER PREPARATION PROGRAMMES FOR GRADE IX & X SLOW LEARNERS WITH CHARTERED ACCOUNTANTS (CA).",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap27",
+        "type": "Immediate",
+        "text": " 5. MONITOR CLASSWORK, HOMEWORK, DIARIES, READING PRACTICES, AND DRT IMPLEMENTATION REGULARLY THROUGH RANDOM CLASSROOM OBSERVATIONS.- EVERY WEEK NAMES WILL BE GIVEN FOR GRADE 3 TO 7         ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap28",
+        "type": "Immediate",
+        "text": "6. INCREASE HOSTEL ADMISSIONS AND STRENGTHEN HOSTEL ACADEMIC MONITORING AND FACILITIES. ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap29",
+        "type": "Immediate",
+        "text": "7. CLASS TEACHER 2 PARENT FEEDBACK: COLLECT, CATEGORIZE, AND REVIEW PARENT FEEDBACK IN SIX KEY CATEGORIES FOR CONTINUOUS IMPROVEMENT, BEFORE OPEN DAY TO BE ADDRESSED",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap30",
+        "type": "Immediate",
+        "text": " 8. IMPLEMENT THE LIBRARY READING PROGRAMME FOR GRADES III–VII, MAINTAIN BOOK REVIEWS, AND CONDUCT PERIODIC REVIEWS.- IOM TO BE RAISED, TO PURCHASE BOOKS ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap31",
+        "type": "Immediate",
+        "text": "9. DEVELOP PERMANENT ACHIEVEMENT DISPLAYS ACROSS THE CAMPUS(CAREER PREP, COMPETITION, TECHSAVY, CHITRAVATI ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap32",
+        "type": "Immediate",
+        "text": "10. CONDUCT FORTNIGHTLY PROGRESS REVIEWS AGAINST ALL STRATEGIC TARGETS AND MAINTAIN PROPER DOCUMENTATION SIGN  ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1784520901445,
+    "modifiedAt": 1784520901445
   }
 ]
