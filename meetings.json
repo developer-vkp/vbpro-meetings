@@ -10926,5 +10926,237 @@
     ],
     "createdAt": 1783661659694,
     "modifiedAt": 1784520176204
+  },
+  {
+    "id": "m1784520557333_beq",
+    "date": "2026-07-18",
+    "day": "Saturday",
+    "title": "ATTUR- DIRECT MEETING WITH DIRECTOR SIR",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "1. 3 YEAR ADMISSION TARGET\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "2. ACO TO GIVE CONFIRMATION OF MINIMUM TC. \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "3. FULL HOSTEL TARGET FOR NEXT YEAR\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "4. R & D SESSIONS FEEDBACK NOTE\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "5. PARENTS TO VISIT TO OBSERVE STUDENTS READING , II LANG AND HW COMPLETION, PARENTING SESSION TO BE PLANNED.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "6. NAMELIST OF STUDENTS WHO ARE INTERESTED IN ROBOTICS TO ATTEND CAMP AT PONNERI.\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "7. DISPLAY BOARDS TO BE MADE READY \n- COMPETITION \n- SPORTS MINIMUM 100 PHOTOS\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "8. READING MODEL SCHOOL - SALEM TO JUDGE STUDENTS, DISPLAY SKILL TO PARENTS ON SEPTEMBER (1.9.26)\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "9. 50 STUDENTS NAMELIST TO BE PREPARED WHO WILL BE FOCUSED FOR READING. DIRECTOR SIR WILL REVIEW IN ZOOM IN DECEMBER. \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "10. 50 STUDENTS NAMELIST TO BE PREPARED WHO WILL BE FOCUSED FOR HANDWRITING. PRABHU SIR TO TRAIN AND DISPLAY TO DIRECTOR SIR DURING REVIEW IN ZOOM IN JANUARY.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "11. IDENTIFY 10 TECHSAAVY PARENTS AND INVITE TO SCHOOL AS GUEST AND GIVE DIRECTOR SIR LETTER THANKING THEM. \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "12. 27- 28 FREE CAREER PREP COURSE WILL BE OFFERED FOR GRADE XI STUDENTS.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "13. DIRECTOR SIR LIBRARY PROGRAM - REQUEST LIST OF 5 BOOKS PER STUDENT FOR GIRLS OF VI TO XI. BOOKS TO INSPIRE STUDENTS. BOOK REVIEW WILL BE PRESENTED TO DIRECTOR SIR IN JANUARY.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "14. BUS BACK NEET POSTER TO BE PASTED ASAP\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "15. IIT / NEET OVERALL RESULTS AS A PERMANENT BOARD TO BE DISPLAYED, ZH RESPONSIBLE FOR THE SAME.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "16. PUDHIYATHALAIMURAI PROGRAM APPROVED BY SIR FOR 3 YEARS TO BE CONDUCTED EFFECTIVELY. \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "17. SHANMUGAM SIR TO BE AWARE OF ATTUR RESULT COMMITMENT AND SUPPORT ACCORDINGLY.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "18. HM TO SUPPORT PRINCIPAL AND ENSURE STAFF STABILITY AT ATTUR\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "19. PET MR ARUL CAN BE REPLACED AS STAFF IS NOT ALIGNING WITH THE SYSTEM NEW STRONG STAFF TO BE APPOINTED.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "20. NEW STRONG AO TO BE APPOINTED FOR ATTUR AND PRINCIPAL TO CLOSE.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "21. ROBOTICS MODELS SHOULD BE DISPLAYED PERMANENTLY AND SAFELY..\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "22. ALL THE REQUIREMENTS SHOULD BE CLOSED BY TODAY.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "Ms.shaira",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1784520557333,
+    "modifiedAt": 1784520557333
   }
 ]
