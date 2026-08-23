@@ -10926,5 +10926,67 @@
     ],
     "createdAt": 1783661659694,
     "modifiedAt": 1787465465208
+  },
+  {
+    "id": "m1787465847294_104",
+    "date": "2026-07-13",
+    "day": "Monday",
+    "title": "ACO WEEKLY - PM CALL",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap1",
+        "type": "Immediate",
+        "text": "TVIS Ponnéri\nEnsure 100% homework completion through daily monitoring.\nProvide special intervention for slow writers Kritkesh and Vishruth.\nReading mentors to submit weekly progress reports.\nContinue handwriting practice before and after school.\nVerify notebook correction and signatures regularly.\nIncrease public speaking opportunities for identified students.\nMonitor closure of all parent concerns.\nTrack DRT performance of low scorers and provide remedial support.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap2",
+        "type": "Immediate",
+        "text": "VBC Tiruvallur\nReduce homework defaulters through class-teacher monitoring.\nComplete all pending English and EVS index pages before the next review.\nStrengthen reading intervention through the 61 Days Programme.\nContinue English handwriting practice using four-line notebooks.\nConduct weekly reviews of reading defaulters.\nProvide additional Maths and EVS support for identified students.\nIncrease participation in public speaking and co-curricular activities.\nEnsure closure of all parent feedback points.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap3",
+        "type": "Immediate",
+        "text": "VBC Salem\nMonitor new admissions separately for academic and foundational needs.\nStrengthen reading intervention through the 61 Days Programme.\nComplete pending notebook corrections and signatures.\nProvide daily handwriting practice for identified students.\nCounsel students requiring behavioural and listening-skills improvement.\nTrack low-performing students' progress weekly.\nReview Foundation/NCERT suitability for identified students.\nMaintain a follow-up register for all parent concerns.\nVBC Namakkal\nEnsure daily homework verification.\nProvide remedial support for students scoring low in DRT.\nStrengthen reading intervention for C-grade readers.\nConduct weekly handwriting reviews.\nTrack academic progress of sports-focused students.\nEnsure completion of all pending classwork.\nReview spelling and presentation errors regularly.\nMaintain a parent communication log.\nVBC Erode\nComplete all pending classwork within the stipulated timeline.\nConduct reteaching for low-performing DRT topics, particularly Grade 4.\nStrengthen reading support through structured intervention.\nImplement a regular handwriting monitoring cycle.\nEnsure DRT notebooks are signed by parents.\nMaintain diary communication for homework defaulters.\nTrack identified weak students' progress weekly.\nSubmit regular reading and handwriting improvement reports.\n\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap4",
+        "type": "Immediate",
+        "text": "VBC Namakkal\nEnsure daily homework verification.\nProvide remedial support for students scoring low in DRT.\nStrengthen reading intervention for C-grade readers.\nConduct weekly handwriting reviews.\nTrack academic progress of sports-focused students.\nEnsure completion of all pending classwork.\nReview spelling and presentation errors regularly.\nMaintain a parent communication log.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap5",
+        "type": "Immediate",
+        "text": "VBC Erode\nComplete all pending classwork within the stipulated timeline.\nConduct reteaching for low-performing DRT topics, particularly Grade 4.\nStrengthen reading support through structured intervention.\nImplement a regular handwriting monitoring cycle.\nEnsure DRT notebooks are signed by parents.\nMaintain diary communication for homework defaulters.\nTrack identified weak students' progress weekly.\nSubmit regular reading and handwriting improvement reports.\n\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787465847294,
+    "modifiedAt": 1787465847294
   }
 ]
