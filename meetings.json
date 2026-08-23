@@ -12337,7 +12337,7 @@
     "day": "Monday",
     "title": "PRINCIPAL MEETING WITH DIRECTOR SIR",
     "campus": "All Campus",
-    "category": "DIRECT MEETING",
+    "category": "PRI",
     "actionPoints": [
       {
         "id": "ap54",
@@ -12421,6 +12421,6 @@
       }
     ],
     "createdAt": 1787473383736,
-    "modifiedAt": 1787473401352
+    "modifiedAt": 1787473405360
   }
 ]
