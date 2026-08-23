@@ -11488,5 +11488,97 @@
     ],
     "createdAt": 1787467277271,
     "modifiedAt": 1787467277271
+  },
+  {
+    "id": "m1787467479919_zk8",
+    "date": "2026-07-20",
+    "day": "Monday",
+    "title": "LT ADMISSION",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap51",
+        "type": "Immediate",
+        "text": "VBC Kumbakonam\nDiscussion: 9 LT admissions achieved; 3 in pipeline; target of 15 this week.\nFollow-up: Convert pipeline immediately, achieve weekly target, submit daily updates.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap52",
+        "type": "Immediate",
+        "text": "VBC Trichy\nDiscussion: NEET-result follow-up in progress; active parent engagement.\nFollow-up: Intensify counselling, improve conversions, monitor daily progress.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap53",
+        "type": "Immediate",
+        "text": "VBC Thanjavur\nDiscussion: Good progress; around 50 more admissions required.\nFollow-up: Strengthen local campaigns, improve conversion, review daily.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap54",
+        "type": "Immediate",
+        "text": "VBC Erode\nDiscussion: 56 LT admissions achieved; progress satisfactory.\nFollow-up: Continue parent follow-up, improve conversion, achieve balance target.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap55",
+        "type": "Immediate",
+        "text": "VBC Coimbatore\nDiscussion: Marketing team actively following enquiries; steady progress.\nFollow-up: Improve conversion, increase parent interactions, monitor daily.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap56",
+        "type": "Immediate",
+        "text": "VBC Kolapakkam\nDiscussion: Only 1 LT admission achieved; performance below expectation.\nFollow-up: Intensify efforts, increase telecalling/walk-ins, conduct daily reviews.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap57",
+        "type": "Immediate",
+        "text": "VBC Kanchipuram\nDiscussion: Strong pipeline; conversions expected within 2 days.\nFollow-up: Close pending admissions, ensure parent follow-up, update daily.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap58",
+        "type": "Immediate",
+        "text": "Trichy Campus\nDiscussion: Day-school admissions are low; hostel admissions performing better.\nFollow-up: Address hostel concerns, strengthen day-school counselling and local marketing.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787467479919,
+    "modifiedAt": 1787467479919
   }
 ]
