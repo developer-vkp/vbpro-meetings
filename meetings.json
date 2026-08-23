@@ -11050,5 +11050,67 @@
     ],
     "createdAt": 1787466027934,
     "modifiedAt": 1787466027934
+  },
+  {
+    "id": "m1787466243676_m1q",
+    "date": "2026-07-15",
+    "day": "Wednesday",
+    "title": "SCHOOL CO ORDINATOR MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap11",
+        "type": "Immediate",
+        "text": "Ensure all coordinators understand the 4-2-1 workflow.\nReinforce implementation guidelines regularly.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap12",
+        "type": "Immediate",
+        "text": "Monitor progress against all six targets.\nKeep academic results as the key priority.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap13",
+        "type": "Immediate",
+        "text": "Complete all pending campus visits.\nSubmit visit reports within the timeline.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap14",
+        "type": "Immediate",
+        "text": "Follow the nine-point checklist during every visit.\nRecord evidence and key observations.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "Ensure schools follow the monitoring system.\nTrack corrective actions until closure.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787466243676,
+    "modifiedAt": 1787466243676
   }
 ]
