@@ -10988,5 +10988,67 @@
     ],
     "createdAt": 1787465847294,
     "modifiedAt": 1787465847294
+  },
+  {
+    "id": "m1787466027934_hd6",
+    "date": "2026-07-14",
+    "day": "Tuesday",
+    "title": "PM CALL",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap6",
+        "type": "Immediate",
+        "text": "VBC Namakkal\nConduct daily spelling correction practice for Bhathiya.\nMonitor homework completion, corrections, and written work regularly.\nMonitor Magadishri’s lunch habits during school hours.\nEncourage healthy eating and ensure lunch is completed before leaving the dining area.\nProvide regular updates to parents on academic and behavioural progress.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap7",
+        "type": "Immediate",
+        "text": "VBC Erode\nSimplify Biology explanations and improve language clarity during teaching.\nConduct additional Biology doubt-clarification sessions.\nProvide extra Chemistry coaching for Subika.\nCounsel Lakshyan Parikh on reducing television and mobile usage.\nMonitor academic progress following the interventions.\nMaintain regular follow-up with all concerned parents.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap8",
+        "type": "Immediate",
+        "text": "VBC Attur\nConduct daily Mathematics and Physics practice for identified students.\nProvide focused subject-wise guidance through the respective teachers.\nMonitor progress through DRT performance.\nProvide additional Social Science practice before the PA examination.\nReview subject-wise improvement before the PA examination.\nMaintain regular communication with parents.\nEnsure subject teachers continuously monitor identified students.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap9",
+        "type": "Immediate",
+        "text": "VBC Theni\nConduct daily Tamil reading practice.\nContinue the 61 Days Handwriting Programme with daily practice.\nProvide the scheduled 30-minute additional reading sessions.\nMonitor progress through weekly assessments.\nMaintain intervention records.\nReview student improvement periodically with parents.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap10",
+        "type": "Immediate",
+        "text": "VBC Vellore\nContinue daily two-page handwriting practice for Jasmine Surya.\nMonitor handwriting improvement on a weekly basis.\nMaintain regular communication with parents.\nVerify meeting schedules and links well in advance.\nEnsure timely participation in all review meetings.\nStrengthen communication between campus leadership and the review team.\n\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787466027934,
+    "modifiedAt": 1787466027934
   }
 ]
