@@ -11495,7 +11495,7 @@
     "day": "Monday",
     "title": "LT ADMISSION",
     "campus": "All Campus",
-    "category": "Other",
+    "category": "LT AA",
     "actionPoints": [
       {
         "id": "ap51",
@@ -11579,6 +11579,6 @@
       }
     ],
     "createdAt": 1787467479919,
-    "modifiedAt": 1787467496349
+    "modifiedAt": 1787467500651
   }
 ]
