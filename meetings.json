@@ -12422,5 +12422,87 @@
     ],
     "createdAt": 1787473383736,
     "modifiedAt": 1787473426020
+  },
+  {
+    "id": "m1787473625902_mir",
+    "date": "2026-08-17",
+    "day": "Monday",
+    "title": "COIMBATORE -PA 1 REVIEW MEETING",
+    "campus": "Coimbatore",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap62",
+        "type": "Immediate",
+        "text": "•\tBELOW 40% – ZERO TARGET \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap63",
+        "type": "Immediate",
+        "text": "•\tDIRECTOR COMMITMENT – 100% ACHIEVEMENT \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap64",
+        "type": "Immediate",
+        "text": "•\tCATCH-UP & REMEDIAL CLASSES – CONTINUE \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap65",
+        "type": "Immediate",
+        "text": "•\tPARENT FEEDBACK – FOLLOW UP \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap66",
+        "type": "Immediate",
+        "text": "•\tTEACHER PERFORMANCE – IMPROVE TO 80% \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap67",
+        "type": "Immediate",
+        "text": "•\tMIDDLE COMPARTMENT TOTAL CAPACITY TO BE FILLED\n•",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap68",
+        "type": "Immediate",
+        "text": "\tSUNNY SIR TO PRESENT FOUNDATION AND CBSE SYLLABUS\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787473625902,
+    "modifiedAt": 1787473625902
   }
 ]
