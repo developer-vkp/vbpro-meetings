@@ -11119,7 +11119,7 @@
     "day": "Wednesday",
     "title": "ADMISSION MEETING",
     "campus": "All Campus",
-    "category": "Admin",
+    "category": "Marketing / Admission",
     "actionPoints": [
       {
         "id": "ap16",
@@ -11273,6 +11273,6 @@
       }
     ],
     "createdAt": 1787466630932,
-    "modifiedAt": 1787466652811
+    "modifiedAt": 1787466660643
   }
 ]
