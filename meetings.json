@@ -12268,5 +12268,67 @@
     ],
     "createdAt": 1787473060171,
     "modifiedAt": 1787473060171
+  },
+  {
+    "id": "m1787473135504_fut",
+    "date": "2026-08-05",
+    "day": "Wednesday",
+    "title": "ADMISSION MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap49",
+        "type": "Immediate",
+        "text": "1.Submit confirmed enquiry pipeline for every school\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap50",
+        "type": "Immediate",
+        "text": "2. Ensure minimum 100 confirmed admissions target\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap51",
+        "type": "Immediate",
+        "text": "3. Generate minimum 10 walk-ins daily\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap52",
+        "type": "Immediate",
+        "text": "4. Complete office setup for new schools\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap53",
+        "type": "Immediate",
+        "text": "5. Printing & promotional materials",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787473135504,
+    "modifiedAt": 1787473135504
   }
 ]
