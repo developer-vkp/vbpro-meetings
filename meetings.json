@@ -11731,7 +11731,7 @@
     "day": "Friday",
     "title": "R&D MEETING",
     "campus": "All Campus",
-    "category": "Academics",
+    "category": "Other",
     "actionPoints": [
       {
         "id": "ap1",
@@ -11765,6 +11765,6 @@
       }
     ],
     "createdAt": 1787467878666,
-    "modifiedAt": 1787467897159
+    "modifiedAt": 1787467901612
   }
 ]
