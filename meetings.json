@@ -12176,5 +12176,97 @@
     ],
     "createdAt": 1787470249060,
     "modifiedAt": 1787472715498
+  },
+  {
+    "id": "m1787473060171_ym5",
+    "date": "2026-08-05",
+    "day": "Wednesday",
+    "title": "JH MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap41",
+        "type": "Immediate",
+        "text": "VBC Vellore\nImprove reading fluency and handwriting through daily monitoring.\nConduct weekly aptitude and mock tests.\nReview individual performance weekly.\nEnsure continuous mentor support.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap42",
+        "type": "Immediate",
+        "text": "VBC Pollachi\nContinue regular parent interaction.\nMonitor student wellbeing and participation.\nProvide additional academic support.\nReview progress weekly.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap43",
+        "type": "Immediate",
+        "text": "VBC Namakkal\nContinue remedial coaching.\nStrengthen reading and subject-wise support.\nMonitor attendance and academic progress.\nMaintain regular parent communication.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap44",
+        "type": "Immediate",
+        "text": "TVIS\nContinue category-wise coaching.\nConduct weekly aptitude tests.\nRegularly practise previous-year question papers.\nMonitor mentor-wise progress.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap45",
+        "type": "Immediate",
+        "text": "VBC Pallikaranai\nConduct weekly coaching without interruption.\nImplement Space Science and Mental Ability training.\nConduct common mock tests.\nSubmit weekly progress reports.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap46",
+        "type": "Immediate",
+        "text": "VBC Trichy\nConduct weekly coaching sessions.\nConduct Monday mock tests.\nContinue PYQ practice.\nMonitor participation through mentors.\nReview progress weekly.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap47",
+        "type": "Immediate",
+        "text": "VBC Theni\nEnsure continuous coordinator follow-up.\nDistribute and review weekly worksheets.\nConduct regular mentoring.\nMonitor attendance and performance.\nShare weekly progress with the academic team.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap48",
+        "type": "Immediate",
+        "text": "VBC Erode\nConduct weekly mock tests.\nImplement regular worksheet practice.\nArrange alternative coaching for Saturday absentees.\nEnsure maximum participation.\nAnalyse test performance and provide corrective guidance.\nCommon Follow-Up\nComplete orientation for all shortlisted students.\nConduct weekly mock tests and worksheet practice.\nStrengthen aptitude, reasoning and analytical-thinking sessions.\nMaintain individual performance trackers.\nEnsure continuous mentor-wise monitoring.\nShare weekly progress with parents.\nReview coaching effectiveness weekly.\nShare best practices and study materials across campuses.\nSubmit weekly progress reports to the Academic Department.\nPresent implementation status in the next review meeting.\n\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787473060171,
+    "modifiedAt": 1787473060171
   }
 ]
