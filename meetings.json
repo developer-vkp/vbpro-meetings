@@ -12740,5 +12740,157 @@
     ],
     "createdAt": 1787474150121,
     "modifiedAt": 1787474150121
+  },
+  {
+    "id": "m1787474379457_c3o",
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "title": "ADMISSION MEETING-2",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap89",
+        "type": "Immediate",
+        "text": "Coimbatore\nStrengthen enquiry-to-application conversion.\nFollow up with scholarship and merit students.\nCommence hostel admission groundwork after confirmation.\nAchieve 100 admissions by October-end.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap90",
+        "type": "Immediate",
+        "text": "VBC Erode\nContinue local school and tuition-centre outreach.\nPrioritize merit-student conversions.\nMaintain regular parent follow-up.\nAchieve the targeted admissions.\nYogagowri\nBuild pipeline for 14 September application sales.\nTarget 300 scholarship registrations.\nConvert merit enquiries into applications and admissions.\nAchieve 100 admissions by October-end.\nIncrease Vijayadasami KG target towards 75.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap91",
+        "type": "Immediate",
+        "text": "Salem\nStrengthen enquiry conversion.\nUtilize sibling, staff and competitive-school databases.\nAchieve 25 Vijayadasami admissions.\nMaintain team focus on the initial target.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap92",
+        "type": "Immediate",
+        "text": "Attur\nFollow up with merit students and parents.\nDrive application purchases.\nAchieve 100 admissions by October-end.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap93",
+        "type": "Immediate",
+        "text": "Chidambaram\nStrengthen application conversion.\nAddress the ongoing road-related concern.\nAchieve 25 Vijayadasami admissions.\nWork towards 100 admissions by October-end.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap94",
+        "type": "Immediate",
+        "text": "Namakkal\nIncrease scholarship registrations towards 400.\nStrengthen surrounding-school database collection.\nBegin hostel groundwork in identified locations.\nComplete and deploy marketing materials.\nAchieve 25 Vijayadasami admissions.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap95",
+        "type": "Immediate",
+        "text": "Peelamedu\nStrengthen admission pipeline.\nDrive scholarship and merit conversions.\nWork towards the 400-admission target.\nPlan Vijayadasami admissions.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap96",
+        "type": "Immediate",
+        "text": "Tondiarpet\nConvert pending enquiries immediately.\nContinue next-year admission conversion.\nWork towards the 100-admission target.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap97",
+        "type": "Immediate",
+        "text": "Porur\nStrengthen telecalling and parent-referral pipeline.\nConvert the KG pipeline.\nAchieve 50 Vijayadasami admissions.\nTarget 100 next-year admissions by October-end.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap98",
+        "type": "Immediate",
+        "text": "Thanjavur\nContinue ERP-based admission activity.\nStrengthen play-school and tuition-centre outreach.\nExpand hostel groundwork across surrounding districts.\nWork towards 100 admissions by October-end.\nDevelop a minimum 250-hostel-admission pipeline.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap99",
+        "type": "Immediate",
+        "text": "Tiruvallur\nIntensify scholarship registrations.\nUtilize the existing database for conversions.\nFollow up on parent-reference enquiries.\nAchieve 100 registrations by month-end.\nTarget 50 Vijayadasami admissions.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap100",
+        "type": "Immediate",
+        "text": "Bangalore – Jakkur\nConvert immediate and monthly enquiries.\nStrengthen telecalling and database calling.\nExpand tuition-centre outreach.\nUtilize sibling and enquiry databases.\nTarget 100 Vijayadasami admissions.\nComplete pending infrastructure works before application sales.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap101",
+        "type": "Immediate",
+        "text": "Ponneri\nIntensify telecalling using the provided database.\nTarget 500 scholarship registrations.\nConvert scholarship registrations into applications and admissions.\nAchieve 151 admissions through Vijayadasami/application sales.\nTarget 200+ admissions by October-end.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap102",
+        "type": "Immediate",
+        "text": "Common Follow-Up\nStrengthen the complete enquiry → application → scholarship → admission conversion process.\nTrack every enquiry until final conversion.\nUtilize parent, sibling, staff and competitive-school references.\nPromote the 14 September 2026 application-sale activity.\nStrengthen hostel admission groundwork in surrounding areas.\nResolve infrastructure concerns affecting admissions.\nFocus strongly on achieving the 100-admission milestone by October-end wherever applicable.\n\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787474379457,
+    "modifiedAt": 1787474379457
   }
 ]
