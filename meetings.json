@@ -12504,5 +12504,47 @@
     ],
     "createdAt": 1787473625902,
     "modifiedAt": 1787473625902
+  },
+  {
+    "id": "m1787473708360_sly",
+    "date": "2026-08-17",
+    "day": "Monday",
+    "title": "KOLAPAKKAM - PA 1 REVIEW MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap69",
+        "type": "Immediate",
+        "text": "1.\tTHE FOUNDATION SYLLABUS ALIGNED WITH CBSE WAS REPORTED TO BE CHALLENGING BECAUSE THE SYLLABUS DOES NOT PROGRESS IN THE SAME SEQUENCE AS THE REGULAR SCHOOL CURRICULUM.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap70",
+        "type": "Immediate",
+        "text": "2.\tDIRECTOR COMMITMENT STUDENTS PARENTS FEEDBACK TO FOLLOW\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap71",
+        "type": "Immediate",
+        "text": "3.\tNEW STUDENTS OPENDAY FEEDBACK TO FOLLOW\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787473708360,
+    "modifiedAt": 1787473708360
   }
 ]
