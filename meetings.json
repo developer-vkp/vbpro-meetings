@@ -11928,7 +11928,7 @@
     "date": "2026-08-01",
     "day": "Saturday",
     "title": "TIRUVALLUR MEETING",
-    "campus": "Unknown",
+    "campus": "TIRUVALLU",
     "category": "Academics",
     "actionPoints": [
       {
@@ -12043,6 +12043,6 @@
       }
     ],
     "createdAt": 1787469650149,
-    "modifiedAt": 1787469665397
+    "modifiedAt": 1787469670049
   }
 ]
