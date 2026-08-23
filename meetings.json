@@ -11773,7 +11773,7 @@
     "day": "Monday",
     "title": "5 SONGS",
     "campus": "All Campus",
-    "category": "Academics",
+    "category": "Other",
     "actionPoints": [
       {
         "id": "ap6",
@@ -11827,6 +11827,6 @@
       }
     ],
     "createdAt": 1787468310075,
-    "modifiedAt": 1787468310075
+    "modifiedAt": 1787468334106
   }
 ]
