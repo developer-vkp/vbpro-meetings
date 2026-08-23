@@ -11672,5 +11672,57 @@
     ],
     "createdAt": 1787467618987,
     "modifiedAt": 1787467618987
+  },
+  {
+    "id": "m1787467792079_kzp",
+    "date": "2026-07-24",
+    "day": "Friday",
+    "title": "R&D MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap67",
+        "type": "Immediate",
+        "text": "Toindarpet Campus\nAssign individual mentors for topper students.\nR&D members to directly mentor identified toppers.\nProvide offline support for slow learners.\nMaintain separate monitoring for toppers and average learners.\nEnsure Grade X target of 485+ wherever applicable.\nShare worksheets and topic-wise materials uniformly.\nSubmit mentor allocation details.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap68",
+        "type": "Immediate",
+        "text": "Namakkal Campus\nContinue regular morning classes.\nStrengthen R&D support for Social Science and Mathematics.\nEnsure timely sharing of worksheets.\nChidambaram, Attur & Pondicherry\nProvide immediate Social Science support at ",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap69",
+        "type": "Immediate",
+        "text": "Chidambaram.\nConduct classroom observation before deploying additional faculty.\nContinue senior faculty support for Grade XII students.\nAssign clear responsibility between R&D and academic mentors.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap70",
+        "type": "Immediate",
+        "text": "Teacher Observation\nResume teacher observation visits across all zones.\nCoordinate observations with the academic team.\nSubmit observation reports after each visit.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787467792079,
+    "modifiedAt": 1787467792079
   }
 ]
