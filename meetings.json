@@ -12330,5 +12330,97 @@
     ],
     "createdAt": 1787473135504,
     "modifiedAt": 1787473150488
+  },
+  {
+    "id": "m1787473383736_l8p",
+    "date": "2026-08-10",
+    "day": "Monday",
+    "title": "PRINCIPAL MEETING WITH DIRECTOR SIR",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap54",
+        "type": "Immediate",
+        "text": "1.\tSr Head mam - Zone\nVBC Vellore - NEET - total of 3 students for 600+ this year\nVBC Kanchipuram - NEET - total of 6 students for 600+\nVBC Tondairpet - NEET - total 2 students for 600+, grade 10 & 12 targeted 15 students performance\nVBC Tiruvallur - Merit 58 students, whether all perform in CAT & VISTO, performance status\nVision Ponneri - \nMatric Ponneri - 540 new XI students\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap55",
+        "type": "Immediate",
+        "text": "2.\tLavanya mam - Zone\nVBC Kolapakkam – merit admitted students count to check\nVBC Coimbatore - Last year - LT 6 students target but nil achieved (top mark is 530) / 480 + in Class 10 - 5 achieved (450+ - 24 students), grade 10 tc, 450+ students count to check\nVBC Namakkal – grade iit : 3 selection target to check\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap56",
+        "type": "Immediate",
+        "text": "3.\tAlagar Sir - Zone\nVBC Tanjore - NEET - 3 target 1 achieved / IIT 5 target 3 achieved / Class XII AVG students - last mark 337 - Dharshini feedback | this year avg students - 150 total / 130 is achievable - what support is happening and week wise plan\nVBC Trichy - Last year - Both 10 & 12 target not achieved / NEET 600+ not achieved\nVBC Kumbakonam – 490+ target not achieved, 600+ not achieved, iit selection not given\nVBC Erode - Last year 9 failures in CBSE - 25 SL in Board (5 critical / 20 will pass) / NEET class 12 - 4 students target / CBSE class 12 - 129 strength / 10 IIT - 3 students (480+) 10 students (450+) 4 IIT students (450+) - All together 25 students 450+ (IIT / NEET / CBSE)\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap57",
+        "type": "Immediate",
+        "text": "4.\tSelvi Mam - Zone\nVBC Dindigul – NEET, LT 600+ 1, achieved\nVBC Theni - Last year IIT / NIT achieved as per target / NEET 25 GOVT target - 20 will be achieved / CBSE class 12 450+ - 55 target - 54 achieved / \nVRS - 10 students expected 600+ / 4-year plan students \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap58",
+        "type": "Immediate",
+        "text": "5.\tSelvanayagi Mam - Zone\n15 Govt selection from the zone - this year\n20 IIT’s from the zone - in ___ years\nVBC Pondicherry - This year Class 10 490+ - 5 students expected / NEET 550+ 2 students\nVBC Attur - 1 student 600+\nVBC Salem -  grade 11 iit/neet students not up to the mark, for next more merit students to admit\nVBC Chidambaram - Class XI 5 students probable\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap59",
+        "type": "Immediate",
+        "text": "6.\tSunny sir - Zone\nTVIS - Not in target list achieved more than targeted list\nVBC Pallikaranai - IIT /NIT - nil / NEET 600+ - nil (1 target) / CBSE 12 - 489 is the highest / class 10 - 488 is the highest (38 strength / 1 targeted and didn’t achieve) - This year Class 10 - 2 students 490+ (47 strength) / Class 12 - 69 strength - 3 students490+ \nOlogy Mugalivakkam - Neet 600+ - nil / 6 govt selection targeted - possible to get 6 with category\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap60",
+        "type": "Immediate",
+        "text": "7.\tVV Ponneri - Class 10 - 480+ - 15 target - 10 achieved / 450+ - \n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap61",
+        "type": "Immediate",
+        "text": "8.\tGeneral\n1.\t50 IIT target from Bala sir - right now 35 - One more year to reach 50\n2.\tNon-Achievers Day - with name of student not achieved (which given)\n3.\t2026 - 27 - Targets - 162 IIT / 100 NIT / 26 IIIT / 10 700+ / 12 680+ / 44 650+ / 99 600+ (165 600+) - But realistic target to confirm based on current performance\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787473383736,
+    "modifiedAt": 1787473383736
   }
 ]
