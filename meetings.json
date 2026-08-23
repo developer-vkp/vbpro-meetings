@@ -11880,5 +11880,47 @@
     ],
     "createdAt": 1787468417623,
     "modifiedAt": 1787468417623
+  },
+  {
+    "id": "m1787468549526_fw0",
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "title": "ADMISSION MEETING",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap15",
+        "type": "Immediate",
+        "text": "VBC Thanjavur\nComplete location-wise hostel targets.\nPrepare grade-wise school capacity report.\nCentralize all admission documents in Google Drive.\nAnalyse enquiry, application and admission trends.\nPrepare source-wise admission and conversion analysis.\nTrack enquiry-to-admission conversion.\nUpdate competitor and scholarship analysis.\nDocument previous concession schemes.\nStrengthen referral-based admissions.\nComplete admission readiness checklist.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap16",
+        "type": "Immediate",
+        "text": "VBC Erode\nComplete transport route optimization within one week.\nSubmit route-wise transport targets.\nPrepare hostel capacity report.\nComplete admission trend and source-wise analysis.\nPrepare merit scholarship analysis.\nUpdate admission readiness checklist.\nUpload all admission documents for management review.\nStrengthen competitor analysis.\nImprove campus branding and admission displays.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap17",
+        "type": "Immediate",
+        "text": "VBC Namakkal\nPrepare complete admission planning documents.\nCompile all data in the common format.\nSubmit reports within the stipulated timeline.\nEnsure readiness for management review.\nCommon Follow-Up\nSubmit complete admission planning folders.\nFinalize class-wise, transport and hostel targets.\nComplete TC and projected strength analysis.\nTrack enquiry-to-admission conversion.\nUpdate scholarship and competitor analysis.\nMaintain admission budget and promotion calendar.\nEnsure infrastructure readiness.\nStrengthen referral and word-of-mouth admissions.\nUpload all reports to the centralized Google Drive.\nPresent the completed folder during the management review.\n\n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787468549526,
+    "modifiedAt": 1787468549526
   }
 ]
