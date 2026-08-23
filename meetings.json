@@ -12608,5 +12608,137 @@
     ],
     "createdAt": 1787473946024,
     "modifiedAt": 1787473946024
+  },
+  {
+    "id": "m1787474150121_tzz",
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "title": "ADMISSION MEETING -1",
+    "campus": "All Campus",
+    "category": "Marketing / Admission",
+    "actionPoints": [
+      {
+        "id": "ap77",
+        "type": "Immediate",
+        "text": "VBC Vellore\nConvert pending enquiries and merit applications.\nFollow up on paid merit enquiries.\nGenerate hostel enquiries.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap78",
+        "type": "Immediate",
+        "text": "VBC Kanchipuram\nActivate ERP immediately.\nStart application activity.\nConvert school and merit enquiries.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap79",
+        "type": "Immediate",
+        "text": "VBC Kumbakonam\nFollow up with prospective parents.\nArrange Director interaction.\nConvert the prospective family into admission.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap80",
+        "type": "Immediate",
+        "text": "VBC Kolapakkam\nStart 2027–28 applications.\nConvert pending enquiries and merit registrations.\nFollow up with the pending parent.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap81",
+        "type": "Immediate",
+        "text": "VBC Trichy\nStart ERP immediately.\nStrengthen enquiry conversion.\nAchieve first 100 admissions by September-end.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap82",
+        "type": "Immediate",
+        "text": "VBC Pondicherry\nFinalise fee structure.\nStart applications immediately.\nConvert the 33 prospective parents.\nTarget first 100 admissions by November–December.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap83",
+        "type": "Immediate",
+        "text": "VBC Dindigul\nStrengthen enquiry generation.\nIncrease parent visits and follow-up.\nAchieve first 100 admissions within the planned timeline.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap84",
+        "type": "Immediate",
+        "text": "VBC Pallikaranai\nIntensify follow-up with prospective parents.\nConvert enquiries into admissions.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap85",
+        "type": "Immediate",
+        "text": "VBC Mugalivakkam\nActivate ERP immediately.\nStart application conversion.\nFollow up with merit parents.\nAchieve first admission before December.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap86",
+        "type": "Immediate",
+        "text": "TVIS\nConfirm pending admissions.\nAchieve 100 admissions before December.\nAchieve 150 admissions before January-end.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap87",
+        "type": "Immediate",
+        "text": "Vidyalaya\nCommence admission activity.\nFollow up on merit registrations.\nConvert the upcoming campus visit into admission.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap88",
+        "type": "Immediate",
+        "text": "RSA\nObtain ERP ID immediately.\nConvert the Monday campus visit into admission.\nAchieve 10 admissions by September-end.\nTarget 100 admissions by January-end.",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787474150121,
+    "modifiedAt": 1787474150121
   }
 ]
