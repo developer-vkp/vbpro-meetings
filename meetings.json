@@ -11922,5 +11922,127 @@
     ],
     "createdAt": 1787468549526,
     "modifiedAt": 1787468549526
+  },
+  {
+    "id": "m1787469650149_49f",
+    "date": "2026-08-01",
+    "day": "Saturday",
+    "title": "TIRUVALLUR MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap18",
+        "type": "Immediate",
+        "text": "1.\tWITHIN 4 YEAR TO PRODUE 12 IIT\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap19",
+        "type": "Immediate",
+        "text": "2.\tFOUNDATION STAFF COMPLAINT PRINCIPAL MAM, RAJIV SIR ALONG WITH SENIOR PRINCIPAL SIR TO MEET SENIOR PRINCIPAL SIR\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap20",
+        "type": "Immediate",
+        "text": "3.\tMIDDLE SCHOOL SLOW LEARNER FOLLOW UP\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap21",
+        "type": "Immediate",
+        "text": "4.\tPET DEPARTMENT TO STREGTHEN\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap22",
+        "type": "Immediate",
+        "text": "5.\tFOR STAFF STAYING FACILITY\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap23",
+        "type": "Immediate",
+        "text": "6.\tLAB FACILITY- REQUIREMENTS FOLLOW UP\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap24",
+        "type": "Immediate",
+        "text": "7.\tRAJIV SIR FORTNIGHT ONCE TO MEET DIRECTOR SIR\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap25",
+        "type": "Immediate",
+        "text": "8.\tSMARTBOARD REQUIREMENTS TO FOLLOW\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap26",
+        "type": "Immediate",
+        "text": "9.\tGRADE 9 TO 12,  EACH CLASS 200 STRENGTH PROJECTION(TOTAL 800)\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap27",
+        "type": "Immediate",
+        "text": "10.\tNEXT YEAR PROJECTION : 1100\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap28",
+        "type": "Immediate",
+        "text": "11.\tLANDSCAPE LEVELLING, REPTILE PROBLEM\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787469650149,
+    "modifiedAt": 1787469650149
   }
 ]
