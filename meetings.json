@@ -11346,5 +11346,147 @@
     ],
     "createdAt": 1787466847041,
     "modifiedAt": 1787466847041
+  },
+  {
+    "id": "m1787467277271_sph",
+    "date": "2026-07-20",
+    "day": "Monday",
+    "title": "8 MEMBERS MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap38",
+        "type": "Immediate",
+        "text": "An 8-member committee will conduct daily afternoon reviews of the top 2 students from selected campuses.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap39",
+        "type": "Immediate",
+        "text": "Weekly reviews will focus on Class XII IAT, Class XII NEET Long-Term, Class XI IAT and Class XI NEET.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap40",
+        "type": "Immediate",
+        "text": "Monitor implementation of the Daily Dream Plan by students and Principals.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap41",
+        "type": "Immediate",
+        "text": "Review weekend and cumulative examination performance.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap42",
+        "type": "Immediate",
+        "text": "Check error notes and responses to 1–3 follow-up questions after each assessment.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap43",
+        "type": "Immediate",
+        "text": "Set and monitor individual academic targets based on previous performance.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap44",
+        "type": "Immediate",
+        "text": "Ensure regular NCERT textbook study for CBSE Board preparation.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap45",
+        "type": "Immediate",
+        "text": "Monitor completion of class notes, school materials and prescribed NEET/IAT/JEE practice.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap46",
+        "type": "Immediate",
+        "text": "Focus on PYQs, reference books, weekly question-solving targets and additional academic support.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap47",
+        "type": "Immediate",
+        "text": "2–3 schools will attend the daily review with the Principal and top 2 students.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap48",
+        "type": "Immediate",
+        "text": "Committee will assess preparation, provide guidance and recommend interventions.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap49",
+        "type": "Immediate",
+        "text": "Central Office will share the next day’s review schedule and student names.\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap50",
+        "type": "Immediate",
+        "text": "Zonal Heads confirmed implementation of the review process across all campuses",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787467277271,
+    "modifiedAt": 1787467277271
   }
 ]
