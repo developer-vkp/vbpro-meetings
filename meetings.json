@@ -11274,5 +11274,77 @@
     ],
     "createdAt": 1787466630932,
     "modifiedAt": 1787466660643
+  },
+  {
+    "id": "m1787466847041_a2w",
+    "date": "2026-07-16",
+    "day": "Thursday",
+    "title": "CLASS TEACHER MEETING",
+    "campus": "All Campus",
+    "category": "Academics",
+    "actionPoints": [
+      {
+        "id": "ap32",
+        "type": "Immediate",
+        "text": "VBC KOLAPAKKAM\n•\tCOMMUNICATION SKILLS \n•\tPUBLIC SPEAKING \n•\tHANDWRITING PRACTICE \n•\tENGLISH COMMUNICATION \n•\tPROGRESS MONITORING \n\n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap33",
+        "type": "Immediate",
+        "text": "VV PONNERI\n•\tENGLISH READING \n•\t61 DAYS PROGRAMME \n•\tREADING PRACTICE \n•\tPROGRESS REVIEW \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap34",
+        "type": "Immediate",
+        "text": "VBC SALEM\n•\tSIMPLIFIED TEACHING \n•\tENGLISH SUPPORT \n•\tACADEMIC MONITORING \n•\tPARENT FOLLOW-UP \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap35",
+        "type": "Immediate",
+        "text": "TVIS\n•\tSPOKEN ENGLISH \n•\tPUBLIC SPEAKING \n•\tTAMIL READING \n•\tSPELLING PRACTICE \n•\tECA MONITORING \n•\tACADEMIC PROGRESS \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap36",
+        "type": "Immediate",
+        "text": "VISION PONNERI\n•\tHANDWRITING IMPROVEMENT \n•\tCONFIDENCE BUILDING \n•\tBEHAVIOUR MONITORING \n•\tPARENT COMMUNICATION \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      },
+      {
+        "id": "ap37",
+        "type": "Immediate",
+        "text": "VBC TONDIARPET\n•\tCLUB PARTICIPATION \n•\tHOMEWORK MONITORING \n•\tACADEMIC IMPROVEMENT \n•\tPARENT COMMUNICATION \n•\tSTUDENT ENGAGEMENT \n",
+        "priority": "Medium",
+        "status": "Open",
+        "assignedTo": "",
+        "timeline": "",
+        "completed": false
+      }
+    ],
+    "createdAt": 1787466847041,
+    "modifiedAt": 1787466847041
   }
 ]
