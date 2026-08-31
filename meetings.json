@@ -9833,7 +9833,7 @@
       }
     ],
     "createdAt": 1783334340862,
-    "modifiedAt": 1783673272853
+    "modifiedAt": 1788163398712
   },
   {
     "id": "m1783334696957_ias",
@@ -12743,10 +12743,10 @@
   },
   {
     "id": "m1787474379457_c3o",
-    "date": "2026-08-01",
-    "day": "Saturday",
+    "date": "2026-08-20",
+    "day": "Thursday",
     "title": "ADMISSION MEETING-2",
-    "campus": "All School",
+    "campus": "All Campus",
     "category": "Marketing / Admission",
     "actionPoints": [
       {
@@ -12891,6 +12891,6 @@
       }
     ],
     "createdAt": 1787474379457,
-    "modifiedAt": 1788163240231
+    "modifiedAt": 1787576195485
   }
 ]
